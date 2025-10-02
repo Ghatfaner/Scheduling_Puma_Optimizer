@@ -1,0 +1,846 @@
+kode_mk,nama_mk,dosen_id,prioritas,ruang,waktu,hari,jam
+CIE62203,Pemrograman Berbasis Objek,76.0,1,F9.2,Jumat_07:00-07:50,Jumat,07:00-07:50
+CIE62209,Pengembangan dan Manajemen Perangkat Lunak,1.0,1,F3.7a,Jumat_07:00-07:50,Jumat,07:00-07:50
+CIE62209,Pengembangan dan Manajemen Perangkat Lunak,62.0,2,F11.3,Jumat_07:00-07:50,Jumat,07:00-07:50
+CIS62110,Perencanaan Strategis Sistem Informasi,47.0,2,F3.1,Jumat_07:00-07:50,Jumat,07:00-07:50
+CIS62126,Evaluasi Pengalaman dan Antarmuka Pengguna,4.0,1,F3.2,Jumat_07:00-07:50,Jumat,07:00-07:50
+CIT60039,Pengembangan Aplikasi Web Lanjut,47.0,1,F3.2,Jumat_07:00-07:50,Jumat,07:00-07:50
+CIT62010,Sistem Operasi,75.0,1,F2.5,Jumat_07:00-07:50,Jumat,07:00-07:50
+COM60051,Metodologi Penelitian dan Penulisan Ilmiah,Belum Ada Dosen,1,F3.7a,Jumat_07:00-07:50,Jumat,07:00-07:50
+COM60052,Etika Profesi,59.0,2,F3.10,Jumat_07:00-07:50,Jumat,07:00-07:50
+COM60061,Capstone Project,4.0,1,F3.7b,Jumat_07:00-07:50,Jumat,07:00-07:50
+CSD60704,Desain Basis Data,102.0,1,F11.4,Jumat_07:00-07:50,Jumat,07:00-07:50
+CSD60705,Pemrograman SQL,73.0,1,F4.7,Jumat_07:00-07:50,Jumat,07:00-07:50
+CIE61206,Jaringan Komputer,39.0,1,F11.4,Jumat_07:50-08:40,Jumat,07:50-08:40
+CIE61206,Jaringan Komputer,79.0,1,F4.13,Jumat_07:50-08:40,Jumat,07:50-08:40
+CIE61208,Basis Data,75.0,1,F3.4,Jumat_07:50-08:40,Jumat,07:50-08:40
+CIE62204,Paradigma Sistem,6.0,1,F3.17,Jumat_07:50-08:40,Jumat,07:50-08:40
+CIS60107,Gudang Data,102.0,1,F3.18,Jumat_07:50-08:40,Jumat,07:50-08:40
+CIT60031,Manajemen Proyek Teknologi Informasi,48.0,1,F4.7,Jumat_07:50-08:40,Jumat,07:50-08:40
+CIT60051,Teknologi Smart City,6.0,2,F3.2,Jumat_07:50-08:40,Jumat,07:50-08:40
+CIT62010,Sistem Operasi,65.0,2,F2.5,Jumat_07:50-08:40,Jumat,07:50-08:40
+CIT62022,Implementasi dan Pengujian Sistem Informasi,40.0,1,F3.7a,Jumat_07:50-08:40,Jumat,07:50-08:40
+CSD60702,Sistem Pendukung Keputusan,15.0,1,F9.2,Jumat_07:50-08:40,Jumat,07:50-08:40
+CSD60703,Tata Kelola Teknologi Informasi,87.0,1,F3.11,Jumat_07:50-08:40,Jumat,07:50-08:40
+CSD60711,Perancangan Pengalaman Pengguna,62.0,1,F2.9,Jumat_07:50-08:40,Jumat,07:50-08:40
+CSD60715,Analisis Data Penelitian Kuantitatif,100.0,1,F3.8,Jumat_07:50-08:40,Jumat,07:50-08:40
+CIE61120,Literasi Digital,103.0,2,F2.2,Jumat_08:40-09:30,Jumat,08:40-09:30
+CIS60105,Strategi Transformasi Digital,94.0,1,F11.3,Jumat_08:40-09:30,Jumat,08:40-09:30
+CIS62105,Pengantar Sains Data,Belum Ada Dosen,1,F3.14,Jumat_08:40-09:30,Jumat,08:40-09:30
+CIS62106,Pemrograman Web,82.0,1,F9.1,Jumat_08:40-09:30,Jumat,08:40-09:30
+CIT60033,Sistem Forensik Digital,94.0,1,F2.2,Jumat_08:40-09:30,Jumat,08:40-09:30
+CIT60053,Pengembangan Gim,16.0,1,F4.10,Jumat_08:40-09:30,Jumat,08:40-09:30
+COM60016,Pengantar Keilmuan Komputer,108.0,1,F3.6,Jumat_08:40-09:30,Jumat,08:40-09:30
+COM60024,Pemrograman Lanjut,16.0,1,F4.5,Jumat_08:40-09:30,Jumat,08:40-09:30
+COM60024,Pemrograman Lanjut,75.0,1,F4.3,Jumat_08:40-09:30,Jumat,08:40-09:30
+COM60052,Etika Profesi,94.0,1,F4.3,Jumat_08:40-09:30,Jumat,08:40-09:30
+CSD60712,Probabilitas dan Statistika,100.0,1,F2.1,Jumat_08:40-09:30,Jumat,08:40-09:30
+CSD60714,Jaminan Kualitas Perangkat Lunak,4.0,1,F3.10,Jumat_08:40-09:30,Jumat,08:40-09:30
+CIE61115,Pengenalan Lapangan Persekolahan 5,59.0,2,F4.10,Jumat_09:30-10:20,Jumat,09:30-10:20
+CIS60105,Strategi Transformasi Digital,Belum Ada Dosen,1,F3.13,Jumat_09:30-10:20,Jumat,09:30-10:20
+CIS61104,Pengantar Sistem informasi,47.0,1,F3.3,Jumat_09:30-10:20,Jumat,09:30-10:20
+CIS61108,Rekayasa Sistem Informasi,108.0,2,F4.5,Jumat_09:30-10:20,Jumat,09:30-10:20
+CIS62103,Jaringan dan Komputasi Awan,75.0,1,F3.13,Jumat_09:30-10:20,Jumat,09:30-10:20
+CIS62108,Enterprise Architecture I,6.0,1,F3.13,Jumat_09:30-10:20,Jumat,09:30-10:20
+CIS62112,Kecerdasan Bisnis dan Analitik,94.0,1,F4.11,Jumat_09:30-10:20,Jumat,09:30-10:20
+CIT60036,Teknologi Berbasis Cloud,16.0,1,F4.2,Jumat_09:30-10:20,Jumat,09:30-10:20
+CIT60051,Teknologi Smart City,20.0,1,F2.6,Jumat_09:30-10:20,Jumat,09:30-10:20
+COM60016,Pengantar Keilmuan Komputer,103.0,2,F3.17,Jumat_09:30-10:20,Jumat,09:30-10:20
+COM60016,Pengantar Keilmuan Komputer,102.0,1,F3.1,Jumat_09:30-10:20,Jumat,09:30-10:20
+COM60061,Capstone Project,47.0,1,F3.7a,Jumat_09:30-10:20,Jumat,09:30-10:20
+CSD60704,Desain Basis Data,102.0,1,F3.8,Jumat_09:30-10:20,Jumat,09:30-10:20
+CSD60707,Big Data dan Analitik,16.0,1,F2.4,Jumat_09:30-10:20,Jumat,09:30-10:20
+CSD60707,Big Data dan Analitik,Belum Ada Dosen,1,F3.8,Jumat_09:30-10:20,Jumat,09:30-10:20
+CSD60708,Penambangan Data,72.0,1,F2.9,Jumat_09:30-10:20,Jumat,09:30-10:20
+CSD60711,Perancangan Pengalaman Pengguna,22.0,1,F3.4,Jumat_09:30-10:20,Jumat,09:30-10:20
+CIE61110,Perancangan Pembelajaran,100.0,1,F3.18,Jumat_10:20-11:10,Jumat,10:20-11:10
+CIE62107,Lingkungan Pembelajaran Digital,47.0,1,F4.12,Jumat_10:20-11:10,Jumat,10:20-11:10
+CIS61102,Infrastruktur Teknologi Informasi,17.0,1,F4.6,Jumat_10:20-11:10,Jumat,10:20-11:10
+CIS62115,Manajemen Investasi Teknologi Informasi,49.0,1,F4.2,Jumat_10:20-11:10,Jumat,10:20-11:10
+CIS62117,Manajemen Rantai Suplai,94.0,1,F3.10,Jumat_10:20-11:10,Jumat,10:20-11:10
+CIT61006,Pengembangan Aplikasi Web,62.0,2,F3.9,Jumat_10:20-11:10,Jumat,10:20-11:10
+CIT62010,Sistem Operasi,58.0,2,F11.4,Jumat_10:20-11:10,Jumat,10:20-11:10
+CIT62012,Pengembangan Aplikasi Mobile,47.0,1,F3.18,Jumat_10:20-11:10,Jumat,10:20-11:10
+COM60014,Pemrograman Dasar,47.0,1,F3.17,Jumat_10:20-11:10,Jumat,10:20-11:10
+COM60024,Pemrograman Lanjut,23.0,2,F4.14,Jumat_10:20-11:10,Jumat,10:20-11:10
+COM60051,Metodologi Penelitian dan Penulisan Ilmiah,100.0,1,F3.9,Jumat_10:20-11:10,Jumat,10:20-11:10
+CSD60701,Manajemen Layanan Teknologi Informasi,108.0,1,F3.2,Jumat_10:20-11:10,Jumat,10:20-11:10
+CSD60704,Desain Basis Data,22.0,1,F2.6,Jumat_10:20-11:10,Jumat,10:20-11:10
+CSD60708,Penambangan Data,65.0,2,F4.2,Jumat_10:20-11:10,Jumat,10:20-11:10
+CIE62106,Teori dan Sains Belajar,100.0,1,F11.4,Jumat_11:10-12:00,Jumat,11:10-12:00
+CIE62118,Sistem Pembelajaran Bergamifikasi dan Terpersonalisasi,103.0,1,F4.3,Jumat_11:10-12:00,Jumat,11:10-12:00
+CIE62306,Pembelajaran Inklusif,59.0,2,F3.10,Jumat_11:10-12:00,Jumat,11:10-12:00
+CIS61110,Pengembangan Aplikasi Mobile,31.0,1,F3.2,Jumat_11:10-12:00,Jumat,11:10-12:00
+CIS62102,Desain Antar Muka Pengguna,70.0,2,F3.10,Jumat_11:10-12:00,Jumat,11:10-12:00
+CIS62106,Pemrograman Web,105.0,1,F3.9,Jumat_11:10-12:00,Jumat,11:10-12:00
+CIT62022,Implementasi dan Pengujian Sistem Informasi,4.0,1,F4.9,Jumat_11:10-12:00,Jumat,11:10-12:00
+COM60025,Kalkulus,103.0,2,F3.17,Jumat_11:10-12:00,Jumat,11:10-12:00
+COM60061,Capstone Project,87.0,1,F2.4,Jumat_11:10-12:00,Jumat,11:10-12:00
+CSD60716,Analisis Data Penelitian Kualitatif,37.0,1,F2.8,Jumat_11:10-12:00,Jumat,11:10-12:00
+CIE61102,Filsafat Pendidikan dan Sains,Belum Ada Dosen,1,F3.6,Jumat_12:00-12:50,Jumat,12:00-12:50
+CIE61208,Basis Data,91.0,1,F3.5a,Jumat_12:00-12:50,Jumat,12:00-12:50
+CIE61402,Paradigma Berpikir Komputasi,47.0,1,F3.12,Jumat_12:00-12:50,Jumat,12:00-12:50
+CIE62308,Sistem Pembelajaran Jarak Jauh,47.0,1,F4.3,Jumat_12:00-12:50,Jumat,12:00-12:50
+CIS61115,Komunikasi Profesional,87.0,1,F3.4,Jumat_12:00-12:50,Jumat,12:00-12:50
+CIS62103,Jaringan dan Komputasi Awan,16.0,1,F3.7a,Jumat_12:00-12:50,Jumat,12:00-12:50
+CIS62112,Kecerdasan Bisnis dan Analitik,102.0,1,F3.15,Jumat_12:00-12:50,Jumat,12:00-12:50
+CIS62115,Manajemen Investasi Teknologi Informasi,94.0,1,F9.1,Jumat_12:00-12:50,Jumat,12:00-12:50
+CIT61024,Teknologi Keamanan Siber,17.0,1,F3.13,Jumat_12:00-12:50,Jumat,12:00-12:50
+CIT62012,Pengembangan Aplikasi Mobile,20.0,1,F4.4,Jumat_12:00-12:50,Jumat,12:00-12:50
+COM60024,Pemrograman Lanjut,1.0,1,F11.1,Jumat_12:00-12:50,Jumat,12:00-12:50
+COM60024,Pemrograman Lanjut,55.0,1,F3.6,Jumat_12:00-12:50,Jumat,12:00-12:50
+CSD60714,Jaminan Kualitas Perangkat Lunak,4.0,1,F3.12,Jumat_12:00-12:50,Jumat,12:00-12:50
+CIE62104,Pengembangan Kurikulum,Belum Ada Dosen,1,F2.2,Jumat_12:50-13:40,Jumat,12:50-13:40
+CIS61111,Sistem Informasi berbasis Kecerdasan Buatan,87.0,1,F3.3,Jumat_12:50-13:40,Jumat,12:50-13:40
+CIS62105,Pengantar Sains Data,102.0,1,F11.3,Jumat_12:50-13:40,Jumat,12:50-13:40
+CIS62106,Pemrograman Web,1.0,1,F2.5,Jumat_12:50-13:40,Jumat,12:50-13:40
+CIS62106,Pemrograman Web,70.0,2,F3.11,Jumat_12:50-13:40,Jumat,12:50-13:40
+CIT60044,Keamanan Data dan Privasi,63.0,1,F3.7b,Jumat_12:50-13:40,Jumat,12:50-13:40
+CIT61006,Pengembangan Aplikasi Web,60.0,1,F4.11,Jumat_12:50-13:40,Jumat,12:50-13:40
+CIT62017,Teknologi Integrasi Sistem,20.0,1,F3.7b,Jumat_12:50-13:40,Jumat,12:50-13:40
+COM60061,Capstone Project,22.0,1,F3.18,Jumat_12:50-13:40,Jumat,12:50-13:40
+CSD60705,Pemrograman SQL,Belum Ada Dosen,1,F3.6,Jumat_12:50-13:40,Jumat,12:50-13:40
+CSD60706,Administrasi Basis Data,72.0,1,F3.2,Jumat_12:50-13:40,Jumat,12:50-13:40
+CSD60711,Perancangan Pengalaman Pengguna,12.0,2,F2.6,Jumat_12:50-13:40,Jumat,12:50-13:40
+CSD60713,Jaringan Terapan,17.0,1,F2.5,Jumat_12:50-13:40,Jumat,12:50-13:40
+CSD60715,Analisis Data Penelitian Kuantitatif,Belum Ada Dosen,1,F4.6,Jumat_12:50-13:40,Jumat,12:50-13:40
+CIE61119,Multimodal Storytelling,47.0,1,F9.2,Jumat_13:40-14:30,Jumat,13:40-14:30
+CIE62307,"Sistem Pembelajaran Berbasis Multimedia, Gim, dan Peranti Bergerak",47.0,1,F4.13,Jumat_13:40-14:30,Jumat,13:40-14:30
+CIS61112,Dasar Manajemen Proyek,76.0,1,F2.1,Jumat_13:40-14:30,Jumat,13:40-14:30
+CIS61128,Keamanan Jaringan dan Siber,17.0,1,F3.14,Jumat_13:40-14:30,Jumat,13:40-14:30
+CIS62106,Pemrograman Web,4.0,1,F4.9,Jumat_13:40-14:30,Jumat,13:40-14:30
+CIS62126,Evaluasi Pengalaman dan Antarmuka Pengguna,55.0,1,F2.5,Jumat_13:40-14:30,Jumat,13:40-14:30
+COM60014,Pemrograman Dasar,67.0,2,F3.18,Jumat_13:40-14:30,Jumat,13:40-14:30
+COM60016,Pengantar Keilmuan Komputer,90.0,1,F2.2,Jumat_13:40-14:30,Jumat,13:40-14:30
+CSD60704,Desain Basis Data,91.0,1,F4.2,Jumat_13:40-14:30,Jumat,13:40-14:30
+CSD60711,Perancangan Pengalaman Pengguna,16.0,1,F9.2,Jumat_13:40-14:30,Jumat,13:40-14:30
+CSD60712,Probabilitas dan Statistika,11.0,1,F2.5,Jumat_13:40-14:30,Jumat,13:40-14:30
+CIE61112,Pengenalan Lapangan Persekolahan 2,103.0,1,F3.14,Jumat_14:30-15:20,Jumat,14:30-15:20
+CIE61208,Basis Data,108.0,1,F3.15,Jumat_14:30-15:20,Jumat,14:30-15:20
+CIE62203,Pemrograman Berbasis Objek,98.0,1,F3.7a,Jumat_14:30-15:20,Jumat,14:30-15:20
+CIE62401,Inovasi Digital Kompetitif,4.0,1,F9.2,Jumat_14:30-15:20,Jumat,14:30-15:20
+CIS62106,Pemrograman Web,75.0,1,F2.1,Jumat_14:30-15:20,Jumat,14:30-15:20
+COM60014,Pemrograman Dasar,82.0,1,F2.5,Jumat_14:30-15:20,Jumat,14:30-15:20
+COM60016,Pengantar Keilmuan Komputer,108.0,1,F2.5,Jumat_14:30-15:20,Jumat,14:30-15:20
+COM60061,Capstone Project,Belum Ada Dosen,1,F4.11,Jumat_14:30-15:20,Jumat,14:30-15:20
+CSD60701,Manajemen Layanan Teknologi Informasi,21.0,1,F3.13,Jumat_14:30-15:20,Jumat,14:30-15:20
+CSD60702,Sistem Pendukung Keputusan,83.0,1,F2.9,Jumat_14:30-15:20,Jumat,14:30-15:20
+CSD60714,Jaminan Kualitas Perangkat Lunak,40.0,2,F3.3,Jumat_14:30-15:20,Jumat,14:30-15:20
+UBU60003,Kewirausahaan,15.0,1,F2.4,Jumat_14:30-15:20,Jumat,14:30-15:20
+CIE61102,Perkembangan Peserta Didik,59.0,2,F4.12,Jumat_15:20-16:10,Jumat,15:20-16:10
+CIE62118,Sistem Pembelajaran Bergamifikasi dan Terpersonalisasi,40.0,1,F3.13,Jumat_15:20-16:10,Jumat,15:20-16:10
+CIS60101,Perkembangan dan Tren Teknologi Digital,21.0,1,F2.8,Jumat_15:20-16:10,Jumat,15:20-16:10
+CIS61119,Manajemen Risiko dan Kontrol Sistem Informasi,47.0,2,F2.6,Jumat_15:20-16:10,Jumat,15:20-16:10
+CIS62106,Pemrograman Web,37.0,1,F3.5a,Jumat_15:20-16:10,Jumat,15:20-16:10
+CIT61021,Data Warehouse,73.0,1,F2.1,Jumat_15:20-16:10,Jumat,15:20-16:10
+COM60016,Pengantar Keilmuan Komputer,47.0,1,F2.9,Jumat_15:20-16:10,Jumat,15:20-16:10
+COM60024,Pemrograman Lanjut,16.0,1,F4.14,Jumat_15:20-16:10,Jumat,15:20-16:10
+COM60061,Capstone Project,14.0,1,F2.5,Jumat_15:20-16:10,Jumat,15:20-16:10
+CSD60705,Pemrograman SQL,60.0,1,F2.9,Jumat_15:20-16:10,Jumat,15:20-16:10
+CSD60706,Administrasi Basis Data,75.0,1,F4.13,Jumat_15:20-16:10,Jumat,15:20-16:10
+CSD60717,Teknologi Blockchain dan Platform Keuangan Digital,105.0,2,F2.2,Jumat_15:20-16:10,Jumat,15:20-16:10
+CIS60107,Gudang Data,16.0,2,F3.18,Jumat_16:10-17:00,Jumat,16:10-17:00
+CIS62102,Desain Antar Muka Pengguna,45.0,1,F3.13,Jumat_16:10-17:00,Jumat,16:10-17:00
+CIS62108,Enterprise Architecture I,13.0,1,F3.6,Jumat_16:10-17:00,Jumat,16:10-17:00
+CIT61015,Jaringan Komputer,75.0,1,F3.5a,Jumat_16:10-17:00,Jumat,16:10-17:00
+CIT62012,Pengembangan Aplikasi Mobile,75.0,1,F4.14,Jumat_16:10-17:00,Jumat,16:10-17:00
+COM60016,Pengantar Keilmuan Komputer,4.0,1,F3.4,Jumat_16:10-17:00,Jumat,16:10-17:00
+COM60024,Pemrograman Lanjut,1.0,1,F3.10,Jumat_16:10-17:00,Jumat,16:10-17:00
+CSD60706,Administrasi Basis Data,102.0,1,F9.1,Jumat_16:10-17:00,Jumat,16:10-17:00
+CSD60708,Penambangan Data,89.0,2,F2.4,Jumat_16:10-17:00,Jumat,16:10-17:00
+CSD60713,Jaringan Terapan,79.0,1,F3.13,Jumat_16:10-17:00,Jumat,16:10-17:00
+CIE61114,Pengenalan Lapangan Persekolahan 4,Belum Ada Dosen,1,F3.5a,Jumat_17:00-17:50,Jumat,17:00-17:50
+CIS60101,Perkembangan dan Tren Teknologi Digital,12.0,2,F3.13,Jumat_17:00-17:50,Jumat,17:00-17:50
+CIS61104,Pengantar Sistem informasi,102.0,1,F3.9,Jumat_17:00-17:50,Jumat,17:00-17:50
+CIS62108,Enterprise Architecture I,87.0,1,F4.9,Jumat_17:00-17:50,Jumat,17:00-17:50
+COM60015,Matematika Diskret,100.0,1,F3.14,Jumat_17:00-17:50,Jumat,17:00-17:50
+COM60016,Pengantar Keilmuan Komputer,103.0,2,F3.8,Jumat_17:00-17:50,Jumat,17:00-17:50
+COM60024,Pemrograman Lanjut,70.0,1,F3.1,Jumat_17:00-17:50,Jumat,17:00-17:50
+COM60024,Pemrograman Lanjut,98.0,1,F11.3,Jumat_17:00-17:50,Jumat,17:00-17:50
+CSD60702,Sistem Pendukung Keputusan,92.0,1,F3.11,Jumat_17:00-17:50,Jumat,17:00-17:50
+CSD60704,Desain Basis Data,1.0,1,F3.6,Jumat_17:00-17:50,Jumat,17:00-17:50
+UBU60003,Kewirausahaan,96.0,2,F2.2,Jumat_17:00-17:50,Jumat,17:00-17:50
+CIE62305,Pembelajaran Emosional Sosial,Belum Ada Dosen,1,F3.10,Jumat_17:50-18:40,Jumat,17:50-18:40
+CIS61110,Pengembangan Aplikasi Mobile,60.0,1,F3.15,Jumat_17:50-18:40,Jumat,17:50-18:40
+CIS62112,Kecerdasan Bisnis dan Analitik,72.0,1,F3.7a,Jumat_17:50-18:40,Jumat,17:50-18:40
+CIS62126,Evaluasi Pengalaman dan Antarmuka Pengguna,87.0,1,F9.2,Jumat_17:50-18:40,Jumat,17:50-18:40
+CIT60036,Teknologi Berbasis Cloud,20.0,1,F3.9,Jumat_17:50-18:40,Jumat,17:50-18:40
+CIT60039,Pengembangan Aplikasi Web Lanjut,75.0,1,F4.9,Jumat_17:50-18:40,Jumat,17:50-18:40
+COM60025,Kalkulus,100.0,1,F4.5,Jumat_17:50-18:40,Jumat,17:50-18:40
+COM60061,Capstone Project,48.0,2,F3.6,Jumat_17:50-18:40,Jumat,17:50-18:40
+CSD60708,Penambangan Data,29.0,1,F3.8,Jumat_17:50-18:40,Jumat,17:50-18:40
+CSD60715,Analisis Data Penelitian Kuantitatif,100.0,1,F3.7b,Jumat_17:50-18:40,Jumat,17:50-18:40
+CSD60715,Analisis Data Penelitian Kuantitatif,12.0,2,F4.3,Jumat_17:50-18:40,Jumat,17:50-18:40
+CSD60716,Analisis Data Penelitian Kualitatif,100.0,1,F3.9,Jumat_17:50-18:40,Jumat,17:50-18:40
+UBU60003,Kewirausahaan,47.0,2,F2.2,Jumat_17:50-18:40,Jumat,17:50-18:40
+CIE62201,Perancangan Antarmuka Pengguna,62.0,1,F3.5b,Kamis_07:00-07:50,Kamis,07:00-07:50
+CIE62203,Pemrograman Berbasis Objek,20.0,1,F9.1,Kamis_07:00-07:50,Kamis,07:00-07:50
+CIS60104,Transformasi Pemerintah,11.0,1,F3.8,Kamis_07:00-07:50,Kamis,07:00-07:50
+CIS62102,Desain Antar Muka Pengguna,12.0,1,F3.9,Kamis_07:00-07:50,Kamis,07:00-07:50
+CIS62108,Enterprise Architecture I,Belum Ada Dosen,2,F3.3,Kamis_07:00-07:50,Kamis,07:00-07:50
+CIS62112,Kecerdasan Bisnis dan Analitik,87.0,1,F2.8,Kamis_07:00-07:50,Kamis,07:00-07:50
+CIS62125,GeoInformasi Lanjut,11.0,1,F4.4,Kamis_07:00-07:50,Kamis,07:00-07:50
+CIT60047,Tata Kelola dan Kebijakan Keamanan Siber,17.0,1,F2.6,Kamis_07:00-07:50,Kamis,07:00-07:50
+CIT60051,Teknologi Smart City,105.0,2,F4.2,Kamis_07:00-07:50,Kamis,07:00-07:50
+COM60004,Kecerdasan Buatan dan Pembelajaran Mesin,3.0,2,F4.12,Kamis_07:00-07:50,Kamis,07:00-07:50
+COM60014,Pemrograman Dasar,67.0,1,F2.9,Kamis_07:00-07:50,Kamis,07:00-07:50
+COM60025,Kalkulus,75.0,2,F2.8,Kamis_07:00-07:50,Kamis,07:00-07:50
+COM60061,Capstone Project,76.0,1,F3.4,Kamis_07:00-07:50,Kamis,07:00-07:50
+CSD60715,Analisis Data Penelitian Kuantitatif,108.0,1,F4.5,Kamis_07:00-07:50,Kamis,07:00-07:50
+CIE62116,Teknologi Komputasi Awan,17.0,1,F3.4,Kamis_07:50-08:40,Kamis,07:50-08:40
+CIS60103,Pemrograman Web Lanjut,31.0,1,F3.17,Kamis_07:50-08:40,Kamis,07:50-08:40
+CIS61124,Pengembangan Gim,103.0,2,F3.12,Kamis_07:50-08:40,Kamis,07:50-08:40
+CIS61125,Pengantar GeoInformasi,87.0,1,F4.14,Kamis_07:50-08:40,Kamis,07:50-08:40
+CIS62103,Jaringan dan Komputasi Awan,17.0,1,F4.4,Kamis_07:50-08:40,Kamis,07:50-08:40
+CIS62117,Manajemen Rantai Suplai,22.0,1,F2.1,Kamis_07:50-08:40,Kamis,07:50-08:40
+CIT62012,Pengembangan Aplikasi Mobile,70.0,1,F4.3,Kamis_07:50-08:40,Kamis,07:50-08:40
+CIT62017,Teknologi Integrasi Sistem,22.0,2,F4.7,Kamis_07:50-08:40,Kamis,07:50-08:40
+COM60024,Pemrograman Lanjut,22.0,1,F4.7,Kamis_07:50-08:40,Kamis,07:50-08:40
+COM60051,Metodologi Penelitian dan Penulisan Ilmiah,100.0,1,F9.2,Kamis_07:50-08:40,Kamis,07:50-08:40
+COM60051,Metodologi Penelitian dan Penulisan Ilmiah,103.0,2,F3.18,Kamis_07:50-08:40,Kamis,07:50-08:40
+COM60061,Capstone Project,4.0,1,F3.13,Kamis_07:50-08:40,Kamis,07:50-08:40
+CSD60711,Perancangan Pengalaman Pengguna,55.0,1,F3.6,Kamis_07:50-08:40,Kamis,07:50-08:40
+CSD60712,Probabilitas dan Statistika,87.0,1,F4.7,Kamis_07:50-08:40,Kamis,07:50-08:40
+CIE61205,Pemrograman Web,103.0,1,F11.3,Kamis_08:40-09:30,Kamis,08:40-09:30
+CIE62203,Pemrograman Berbasis Objek,91.0,1,F3.1,Kamis_08:40-09:30,Kamis,08:40-09:30
+CIE62303,Kecerdasan Artifisial,30.0,1,F3.7b,Kamis_08:40-09:30,Kamis,08:40-09:30
+CIE62303,Kecerdasan Artifisial,52.0,1,F3.7b,Kamis_08:40-09:30,Kamis,08:40-09:30
+CIS62102,Desain Antar Muka Pengguna,62.0,1,F4.3,Kamis_08:40-09:30,Kamis,08:40-09:30
+CIS62113,Pola-Pola Perancangan,4.0,1,F3.12,Kamis_08:40-09:30,Kamis,08:40-09:30
+CIT60048,Information Retrieval,47.0,2,F4.14,Kamis_08:40-09:30,Kamis,08:40-09:30
+COM60014,Pemrograman Dasar,76.0,1,F3.1,Kamis_08:40-09:30,Kamis,08:40-09:30
+COM60024,Pemrograman Lanjut,22.0,2,F3.6,Kamis_08:40-09:30,Kamis,08:40-09:30
+CSD60708,Penambangan Data,102.0,1,F3.7a,Kamis_08:40-09:30,Kamis,08:40-09:30
+CSD60712,Probabilitas dan Statistika,107.0,1,F4.7,Kamis_08:40-09:30,Kamis,08:40-09:30
+CSD60712,Probabilitas dan Statistika,16.0,1,F4.14,Kamis_08:40-09:30,Kamis,08:40-09:30
+CIE61115,Manajemen Sistem Pendidikan,39.0,1,F11.3,Kamis_09:30-10:20,Kamis,09:30-10:20
+CIE62303,Kecerdasan Artifisial,97.0,1,F2.9,Kamis_09:30-10:20,Kamis,09:30-10:20
+CIS62113,Pola-Pola Perancangan,76.0,1,F2.1,Kamis_09:30-10:20,Kamis,09:30-10:20
+CIS62115,Manajemen Investasi Teknologi Informasi,22.0,1,F3.6,Kamis_09:30-10:20,Kamis,09:30-10:20
+CIT60047,Tata Kelola dan Kebijakan Keamanan Siber,14.0,1,F3.2,Kamis_09:30-10:20,Kamis,09:30-10:20
+CIT61006,Pengembangan Aplikasi Web,4.0,1,F4.14,Kamis_09:30-10:20,Kamis,09:30-10:20
+CIT61021,Data Warehouse,16.0,1,F4.7,Kamis_09:30-10:20,Kamis,09:30-10:20
+CIT62011,Aljabar Linear dan Matriks,54.0,1,F4.10,Kamis_09:30-10:20,Kamis,09:30-10:20
+COM60016,Pengantar Keilmuan Komputer,47.0,1,F9.1,Kamis_09:30-10:20,Kamis,09:30-10:20
+COM60024,Pemrograman Lanjut,80.0,1,F4.13,Kamis_09:30-10:20,Kamis,09:30-10:20
+COM60024,Pemrograman Lanjut,76.0,1,F3.14,Kamis_09:30-10:20,Kamis,09:30-10:20
+CSD60706,Administrasi Basis Data,102.0,1,F4.12,Kamis_09:30-10:20,Kamis,09:30-10:20
+CSD60712,Probabilitas dan Statistika,100.0,1,F2.8,Kamis_09:30-10:20,Kamis,09:30-10:20
+CIE62105,Pembelajaran Berdiferensiasi,103.0,1,F4.10,Kamis_10:20-11:10,Kamis,10:20-11:10
+CIE62203,Pemrograman Berbasis Objek,16.0,1,F3.17,Kamis_10:20-11:10,Kamis,10:20-11:10
+CIE62303,Kecerdasan Artifisial,16.0,1,F4.4,Kamis_10:20-11:10,Kamis,10:20-11:10
+CIS62108,Enterprise Architecture I,76.0,1,F2.8,Kamis_10:20-11:10,Kamis,10:20-11:10
+CIS62114,Pengembangan Aplikasi Mobile Lanjut,47.0,2,F3.10,Kamis_10:20-11:10,Kamis,10:20-11:10
+CIS62126,Evaluasi Pengalaman dan Antarmuka Pengguna,83.0,1,F3.7b,Kamis_10:20-11:10,Kamis,10:20-11:10
+CIT60044,Keamanan Data dan Privasi,65.0,1,F3.13,Kamis_10:20-11:10,Kamis,10:20-11:10
+CIT62015,Administrasi Sistem,75.0,1,F3.2,Kamis_10:20-11:10,Kamis,10:20-11:10
+CSD60701,Manajemen Layanan Teknologi Informasi,22.0,2,F4.3,Kamis_10:20-11:10,Kamis,10:20-11:10
+CSD60705,Pemrograman SQL,91.0,1,F2.8,Kamis_10:20-11:10,Kamis,10:20-11:10
+CSD60708,Penambangan Data,92.0,1,F2.2,Kamis_10:20-11:10,Kamis,10:20-11:10
+CSD60717,Teknologi Blockchain dan Platform Keuangan Digital,17.0,1,F2.8,Kamis_10:20-11:10,Kamis,10:20-11:10
+CIE61404,Manajemen Proyek Teknologi Informasi,62.0,2,F2.4,Kamis_11:10-12:00,Kamis,11:10-12:00
+CIE62118,Sistem Pembelajaran Bergamifikasi dan Terpersonalisasi,47.0,1,F3.5a,Kamis_11:10-12:00,Kamis,11:10-12:00
+CIS61110,Pengembangan Aplikasi Mobile,4.0,1,F3.5a,Kamis_11:10-12:00,Kamis,11:10-12:00
+CIS61120,Perbaikan Proses Bisnis,108.0,1,F3.16,Kamis_11:10-12:00,Kamis,11:10-12:00
+CIS62108,Enterprise Architecture I,55.0,1,F3.14,Kamis_11:10-12:00,Kamis,11:10-12:00
+CIT60042,Teknologi Blockchain dan Platform Keuangan Digital,46.0,1,F3.7b,Kamis_11:10-12:00,Kamis,11:10-12:00
+CIT62012,Pengembangan Aplikasi Mobile,31.0,1,F3.6,Kamis_11:10-12:00,Kamis,11:10-12:00
+CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,20.0,1,F3.2,Kamis_11:10-12:00,Kamis,11:10-12:00
+COM60014,Pemrograman Dasar,91.0,1,F3.17,Kamis_11:10-12:00,Kamis,11:10-12:00
+COM60016,Pengantar Keilmuan Komputer,90.0,1,F3.12,Kamis_11:10-12:00,Kamis,11:10-12:00
+COM60024,Pemrograman Lanjut,52.0,1,F3.7a,Kamis_11:10-12:00,Kamis,11:10-12:00
+COM60024,Pemrograman Lanjut,70.0,1,F3.12,Kamis_11:10-12:00,Kamis,11:10-12:00
+CSD60712,Probabilitas dan Statistika,83.0,1,F11.4,Kamis_11:10-12:00,Kamis,11:10-12:00
+CSD60714,Jaminan Kualitas Perangkat Lunak,67.0,1,F2.2,Kamis_11:10-12:00,Kamis,11:10-12:00
+CIE61206,Jaringan Komputer,17.0,1,F3.7a,Kamis_12:00-12:50,Kamis,12:00-12:50
+CIE62203,Pemrograman Berbasis Objek,75.0,1,F11.1,Kamis_12:00-12:50,Kamis,12:00-12:50
+CIE62306,Pembelajaran Inklusif,47.0,1,F4.12,Kamis_12:00-12:50,Kamis,12:00-12:50
+CIS61113,Sistem Enterprise,76.0,1,F3.12,Kamis_12:00-12:50,Kamis,12:00-12:50
+CIT60052,Pengembangan Aplikasi Mobile Terapan,47.0,2,F2.4,Kamis_12:00-12:50,Kamis,12:00-12:50
+CIT61015,Jaringan Komputer,104.0,1,F4.13,Kamis_12:00-12:50,Kamis,12:00-12:50
+CIT61015,Jaringan Komputer,46.0,2,F2.9,Kamis_12:00-12:50,Kamis,12:00-12:50
+COM60014,Pemrograman Dasar,82.0,1,F4.2,Kamis_12:00-12:50,Kamis,12:00-12:50
+CSD60705,Pemrograman SQL,60.0,1,F2.9,Kamis_12:00-12:50,Kamis,12:00-12:50
+CIE62116,Teknologi Komputasi Awan,Belum Ada Dosen,1,F11.4,Kamis_12:50-13:40,Kamis,12:50-13:40
+CIE62209,Pengembangan dan Manajemen Perangkat Lunak,Belum Ada Dosen,2,F3.6,Kamis_12:50-13:40,Kamis,12:50-13:40
+CIS61104,Pengantar Sistem informasi,108.0,1,F3.4,Kamis_12:50-13:40,Kamis,12:50-13:40
+CIS61119,Manajemen Risiko dan Kontrol Sistem Informasi,6.0,1,F2.9,Kamis_12:50-13:40,Kamis,12:50-13:40
+CIT62012,Pengembangan Aplikasi Mobile,96.0,2,F4.14,Kamis_12:50-13:40,Kamis,12:50-13:40
+COM60014,Pemrograman Dasar,75.0,1,F3.6,Kamis_12:50-13:40,Kamis,12:50-13:40
+COM60024,Pemrograman Lanjut,75.0,1,F4.12,Kamis_12:50-13:40,Kamis,12:50-13:40
+CSD60707,Big Data dan Analitik,80.0,1,F4.14,Kamis_12:50-13:40,Kamis,12:50-13:40
+CSD60715,Analisis Data Penelitian Kuantitatif,40.0,1,F3.2,Kamis_12:50-13:40,Kamis,12:50-13:40
+CIE61101,Perkembangan Peserta Didik,39.0,1,F3.9,Kamis_13:40-14:30,Kamis,13:40-14:30
+CIE61120,Literasi Digital,12.0,2,F4.7,Kamis_13:40-14:30,Kamis,13:40-14:30
+CIS60101,Perkembangan dan Tren Teknologi Digital,47.0,1,F4.10,Kamis_13:40-14:30,Kamis,13:40-14:30
+CIS62109,Pengujian dan Evaluasi Sistem Informasi,4.0,1,F3.1,Kamis_13:40-14:30,Kamis,13:40-14:30
+CIS62113,Pola-Pola Perancangan,16.0,1,F3.12,Kamis_13:40-14:30,Kamis,13:40-14:30
+CIT62001,Dasar Desain Antarmuka Pengguna,16.0,1,F9.1,Kamis_13:40-14:30,Kamis,13:40-14:30
+COM60024,Pemrograman Lanjut,31.0,1,F2.8,Kamis_13:40-14:30,Kamis,13:40-14:30
+COM60024,Pemrograman Lanjut,55.0,1,F2.2,Kamis_13:40-14:30,Kamis,13:40-14:30
+CSD60705,Pemrograman SQL,20.0,1,F9.2,Kamis_13:40-14:30,Kamis,13:40-14:30
+CSD60708,Penambangan Data,97.0,2,F2.4,Kamis_13:40-14:30,Kamis,13:40-14:30
+CSD60708,Penambangan Data,1.0,1,F3.18,Kamis_13:40-14:30,Kamis,13:40-14:30
+CSD60715,Analisis Data Penelitian Kuantitatif,16.0,1,F3.1,Kamis_13:40-14:30,Kamis,13:40-14:30
+CIE61114,Pendidikan Orang Dewasa dan Berkelanjutan,59.0,2,F2.6,Kamis_14:30-15:20,Kamis,14:30-15:20
+CIE61404,Manajemen Proyek Teknologi Informasi,6.0,1,F9.1,Kamis_14:30-15:20,Kamis,14:30-15:20
+CIE62106,Teori dan Sains Belajar,Belum Ada Dosen,1,F2.6,Kamis_14:30-15:20,Kamis,14:30-15:20
+CIE62107,Lingkungan Pembelajaran Digital,40.0,1,F3.18,Kamis_14:30-15:20,Kamis,14:30-15:20
+CIE62117,Teknologi Peranti Internet,Belum Ada Dosen,2,F3.13,Kamis_14:30-15:20,Kamis,14:30-15:20
+CIE62201,Perancangan Antarmuka Pengguna,Belum Ada Dosen,1,F2.5,Kamis_14:30-15:20,Kamis,14:30-15:20
+CIE62202,Teknologi Platform,47.0,1,F9.1,Kamis_14:30-15:20,Kamis,14:30-15:20
+CIE62306,Pembelajaran Inklusif,103.0,2,F2.4,Kamis_14:30-15:20,Kamis,14:30-15:20
+CIS61124,Pengembangan Gim,47.0,1,F3.17,Kamis_14:30-15:20,Kamis,14:30-15:20
+CIS62102,Desain Antar Muka Pengguna,37.0,1,F2.4,Kamis_14:30-15:20,Kamis,14:30-15:20
+CIS62105,Pengantar Sains Data,73.0,1,F11.4,Kamis_14:30-15:20,Kamis,14:30-15:20
+CIS62105,Pengantar Sains Data,89.0,2,F4.2,Kamis_14:30-15:20,Kamis,14:30-15:20
+CIT60036,Teknologi Berbasis Cloud,35.0,1,F3.17,Kamis_14:30-15:20,Kamis,14:30-15:20
+CIT62011,Aljabar Linear dan Matriks,63.0,1,F3.17,Kamis_14:30-15:20,Kamis,14:30-15:20
+CIT62017,Teknologi Integrasi Sistem,16.0,1,F3.14,Kamis_14:30-15:20,Kamis,14:30-15:20
+CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,16.0,2,F3.3,Kamis_14:30-15:20,Kamis,14:30-15:20
+COM60052,Etika Profesi,77.0,1,F2.4,Kamis_14:30-15:20,Kamis,14:30-15:20
+CSD60702,Sistem Pendukung Keputusan,94.0,1,F3.3,Kamis_14:30-15:20,Kamis,14:30-15:20
+CIE61110,Perancangan Pembelajaran,39.0,1,F3.8,Kamis_15:20-16:10,Kamis,15:20-16:10
+CIE62201,Perancangan Antarmuka Pengguna,22.0,1,F2.6,Kamis_15:20-16:10,Kamis,15:20-16:10
+CIE62209,Pengembangan dan Manajemen Perangkat Lunak,40.0,1,F4.10,Kamis_15:20-16:10,Kamis,15:20-16:10
+CIS61104,Pengantar Sistem informasi,67.0,1,F2.8,Kamis_15:20-16:10,Kamis,15:20-16:10
+CIT60036,Teknologi Berbasis Cloud,46.0,1,F3.17,Kamis_15:20-16:10,Kamis,15:20-16:10
+CIT60049,Teknologi Basis Data Non Relational,102.0,1,F9.1,Kamis_15:20-16:10,Kamis,15:20-16:10
+CIT61006,Pengembangan Aplikasi Web,47.0,1,F2.4,Kamis_15:20-16:10,Kamis,15:20-16:10
+COM60014,Pemrograman Dasar,75.0,1,F3.5a,Kamis_15:20-16:10,Kamis,15:20-16:10
+COM60014,Pemrograman Dasar,91.0,1,F3.18,Kamis_15:20-16:10,Kamis,15:20-16:10
+CSD60707,Big Data dan Analitik,102.0,1,F11.4,Kamis_15:20-16:10,Kamis,15:20-16:10
+CSD60711,Perancangan Pengalaman Pengguna,60.0,1,F4.10,Kamis_15:20-16:10,Kamis,15:20-16:10
+CSD60711,Perancangan Pengalaman Pengguna,87.0,1,F2.6,Kamis_15:20-16:10,Kamis,15:20-16:10
+CIE62104,Pengembangan Kurikulum,Belum Ada Dosen,1,F3.7b,Kamis_16:10-17:00,Kamis,16:10-17:00
+CIE62201,Perancangan Antarmuka Pengguna,45.0,1,F3.18,Kamis_16:10-17:00,Kamis,16:10-17:00
+CIS60102,Pengembangan Aplikasi Multiplatform,1.0,1,F3.9,Kamis_16:10-17:00,Kamis,16:10-17:00
+CIS60104,Transformasi Pemerintah,47.0,2,F3.7b,Kamis_16:10-17:00,Kamis,16:10-17:00
+CIS62104,Pemodelan Proses Bisnis,16.0,1,F3.1,Kamis_16:10-17:00,Kamis,16:10-17:00
+CIS62105,Pengantar Sains Data,80.0,1,F4.12,Kamis_16:10-17:00,Kamis,16:10-17:00
+CIS62105,Pengantar Sains Data,97.0,1,F3.16,Kamis_16:10-17:00,Kamis,16:10-17:00
+CIS62115,Manajemen Investasi Teknologi Informasi,60.0,1,F4.5,Kamis_16:10-17:00,Kamis,16:10-17:00
+CIS62117,Manajemen Rantai Suplai,53.0,1,F4.11,Kamis_16:10-17:00,Kamis,16:10-17:00
+CIT61021,Data Warehouse,102.0,1,F3.10,Kamis_16:10-17:00,Kamis,16:10-17:00
+CIT61024,Teknologi Keamanan Siber,35.0,1,F2.2,Kamis_16:10-17:00,Kamis,16:10-17:00
+CIT62011,Aljabar Linear dan Matriks,93.0,1,F3.7b,Kamis_16:10-17:00,Kamis,16:10-17:00
+CIT62015,Administrasi Sistem,104.0,1,F4.13,Kamis_16:10-17:00,Kamis,16:10-17:00
+COM60014,Pemrograman Dasar,82.0,1,F3.5a,Kamis_16:10-17:00,Kamis,16:10-17:00
+CSD60705,Pemrograman SQL,22.0,1,F3.5b,Kamis_16:10-17:00,Kamis,16:10-17:00
+CSD60708,Penambangan Data,29.0,1,F3.10,Kamis_16:10-17:00,Kamis,16:10-17:00
+CIE61109,Pembelajaran Mikro,39.0,1,F2.6,Kamis_17:00-17:50,Kamis,17:00-17:50
+CIE62117,Teknologi Peranti Internet,20.0,1,F4.9,Kamis_17:00-17:50,Kamis,17:00-17:50
+CIE62209,Pengembangan dan Manajemen Perangkat Lunak,60.0,1,F3.5b,Kamis_17:00-17:50,Kamis,17:00-17:50
+CIS60106,Sistem Informasi Berkelanjutan,94.0,1,F9.2,Kamis_17:00-17:50,Kamis,17:00-17:50
+CIS60107,Gudang Data,72.0,1,F4.12,Kamis_17:00-17:50,Kamis,17:00-17:50
+CIS62109,Pengujian dan Evaluasi Sistem Informasi,67.0,1,F2.5,Kamis_17:00-17:50,Kamis,17:00-17:50
+CIT61006,Pengembangan Aplikasi Web,82.0,1,F3.7b,Kamis_17:00-17:50,Kamis,17:00-17:50
+CIT61026,Internet of Things,17.0,1,F3.7b,Kamis_17:00-17:50,Kamis,17:00-17:50
+CIT61026,Internet of Things,35.0,1,F3.15,Kamis_17:00-17:50,Kamis,17:00-17:50
+CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,107.0,1,F3.7a,Kamis_17:00-17:50,Kamis,17:00-17:50
+COM60016,Pengantar Keilmuan Komputer,83.0,1,F4.10,Kamis_17:00-17:50,Kamis,17:00-17:50
+COM60052,Etika Profesi,4.0,1,F3.18,Kamis_17:00-17:50,Kamis,17:00-17:50
+CSD60702,Sistem Pendukung Keputusan,30.0,1,F4.4,Kamis_17:00-17:50,Kamis,17:00-17:50
+CSD60711,Perancangan Pengalaman Pengguna,45.0,1,F3.3,Kamis_17:00-17:50,Kamis,17:00-17:50
+CSD60711,Perancangan Pengalaman Pengguna,47.0,1,F3.15,Kamis_17:00-17:50,Kamis,17:00-17:50
+CSD60716,Analisis Data Penelitian Kualitatif,Belum Ada Dosen,1,F2.5,Kamis_17:00-17:50,Kamis,17:00-17:50
+CIE62303,Kecerdasan Artifisial,20.0,1,F4.13,Kamis_17:50-18:40,Kamis,17:50-18:40
+CIS62115,Manajemen Investasi Teknologi Informasi,6.0,1,F4.6,Kamis_17:50-18:40,Kamis,17:50-18:40
+CIT60036,Teknologi Berbasis Cloud,104.0,1,F2.9,Kamis_17:50-18:40,Kamis,17:50-18:40
+CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,92.0,1,F4.2,Kamis_17:50-18:40,Kamis,17:50-18:40
+CSD60701,Manajemen Layanan Teknologi Informasi,94.0,1,F11.3,Kamis_17:50-18:40,Kamis,17:50-18:40
+CSD60702,Sistem Pendukung Keputusan,16.0,1,F2.4,Kamis_17:50-18:40,Kamis,17:50-18:40
+CSD60705,Pemrograman SQL,72.0,1,F4.10,Kamis_17:50-18:40,Kamis,17:50-18:40
+CSD60709,Keamanan Siber,94.0,1,F3.1,Kamis_17:50-18:40,Kamis,17:50-18:40
+CSD60715,Analisis Data Penelitian Kuantitatif,16.0,1,F3.6,Kamis_17:50-18:40,Kamis,17:50-18:40
+CIE61208,Basis Data,60.0,1,F3.8,Rabu_07:00-07:50,Rabu,07:00-07:50
+CIE61301,Kalkulus dan Aljabar Linear,75.0,2,F3.14,Rabu_07:00-07:50,Rabu,07:00-07:50
+CIE62303,Kecerdasan Artifisial,92.0,1,F3.14,Rabu_07:00-07:50,Rabu,07:00-07:50
+CIS60106,Sistem Informasi Berkelanjutan,Belum Ada Dosen,1,F3.7b,Rabu_07:00-07:50,Rabu,07:00-07:50
+CIS61103,Manajemen Bisnis,108.0,1,F4.10,Rabu_07:00-07:50,Rabu,07:00-07:50
+CIS62102,Desain Antar Muka Pengguna,22.0,1,F2.9,Rabu_07:00-07:50,Rabu,07:00-07:50
+CIT60048,Information Retrieval,89.0,2,F4.12,Rabu_07:00-07:50,Rabu,07:00-07:50
+CIT62015,Administrasi Sistem,65.0,2,F3.3,Rabu_07:00-07:50,Rabu,07:00-07:50
+CIT62022,Implementasi dan Pengujian Sistem Informasi,94.0,1,F3.17,Rabu_07:00-07:50,Rabu,07:00-07:50
+COM60024,Pemrograman Lanjut,4.0,1,F3.7b,Rabu_07:00-07:50,Rabu,07:00-07:50
+CSD60704,Desain Basis Data,91.0,1,F3.7b,Rabu_07:00-07:50,Rabu,07:00-07:50
+CSD60706,Administrasi Basis Data,Belum Ada Dosen,1,F4.11,Rabu_07:00-07:50,Rabu,07:00-07:50
+CSD60708,Penambangan Data,80.0,1,F3.16,Rabu_07:00-07:50,Rabu,07:00-07:50
+CSD60708,Penambangan Data,17.0,2,F3.16,Rabu_07:00-07:50,Rabu,07:00-07:50
+CSD60714,Jaminan Kualitas Perangkat Lunak,1.0,1,F3.14,Rabu_07:00-07:50,Rabu,07:00-07:50
+CIE61119,Multimodal Storytelling,Belum Ada Dosen,1,F3.1,Rabu_07:50-08:40,Rabu,07:50-08:40
+CIE62116,Teknologi Komputasi Awan,20.0,1,F3.5b,Rabu_07:50-08:40,Rabu,07:50-08:40
+CIS61112,Dasar Manajemen Proyek,87.0,1,F4.7,Rabu_07:50-08:40,Rabu,07:50-08:40
+CIS62105,Pengantar Sains Data,87.0,1,F3.11,Rabu_07:50-08:40,Rabu,07:50-08:40
+CIS62126,Evaluasi Pengalaman dan Antarmuka Pengguna,45.0,1,F11.1,Rabu_07:50-08:40,Rabu,07:50-08:40
+CIT60031,Manajemen Proyek Teknologi Informasi,13.0,1,F4.4,Rabu_07:50-08:40,Rabu,07:50-08:40
+CIT60048,Information Retrieval,80.0,1,F2.4,Rabu_07:50-08:40,Rabu,07:50-08:40
+COM60015,Matematika Diskret,100.0,1,F3.10,Rabu_07:50-08:40,Rabu,07:50-08:40
+COM60015,Matematika Diskret,103.0,2,F9.1,Rabu_07:50-08:40,Rabu,07:50-08:40
+COM60052,Etika Profesi,4.0,1,F4.6,Rabu_07:50-08:40,Rabu,07:50-08:40
+CSD60709,Keamanan Siber,75.0,1,F3.17,Rabu_07:50-08:40,Rabu,07:50-08:40
+CSD60712,Probabilitas dan Statistika,16.0,1,F3.7a,Rabu_07:50-08:40,Rabu,07:50-08:40
+CSD60716,Analisis Data Penelitian Kualitatif,Belum Ada Dosen,1,F9.2,Rabu_07:50-08:40,Rabu,07:50-08:40
+CIE61103,Komunikasi dan Teknologi Pendidikan,103.0,1,F3.10,Rabu_08:40-09:30,Rabu,08:40-09:30
+CIE61404,Manajemen Proyek Teknologi Informasi,105.0,2,F4.10,Rabu_08:40-09:30,Rabu,08:40-09:30
+CIE62201,Perancangan Antarmuka Pengguna,47.0,1,F3.10,Rabu_08:40-09:30,Rabu,08:40-09:30
+CIE62201,Perancangan Antarmuka Pengguna,12.0,2,F4.13,Rabu_08:40-09:30,Rabu,08:40-09:30
+CIS61107,Manajemen Produk,47.0,1,F11.1,Rabu_08:40-09:30,Rabu,08:40-09:30
+CIS62102,Desain Antar Muka Pengguna,47.0,1,F3.2,Rabu_08:40-09:30,Rabu,08:40-09:30
+CIS62126,Evaluasi Pengalaman dan Antarmuka Pengguna,16.0,1,F2.4,Rabu_08:40-09:30,Rabu,08:40-09:30
+COM60061,Capstone Project,76.0,1,F11.3,Rabu_08:40-09:30,Rabu,08:40-09:30
+CSD60714,Jaminan Kualitas Perangkat Lunak,6.0,1,F3.3,Rabu_08:40-09:30,Rabu,08:40-09:30
+CSD60715,Analisis Data Penelitian Kuantitatif,11.0,1,F3.12,Rabu_08:40-09:30,Rabu,08:40-09:30
+CIE61108,Penilaian Hasil Belajar,100.0,1,F3.14,Rabu_09:30-10:20,Rabu,09:30-10:20
+CIE62203,Pemrograman Berbasis Objek,52.0,1,F4.7,Rabu_09:30-10:20,Rabu,09:30-10:20
+CIS61102,Infrastruktur Teknologi Informasi,103.0,2,F2.6,Rabu_09:30-10:20,Rabu,09:30-10:20
+CIS62105,Pengantar Sains Data,37.0,1,F2.1,Rabu_09:30-10:20,Rabu,09:30-10:20
+COM60014,Pemrograman Dasar,103.0,2,F11.1,Rabu_09:30-10:20,Rabu,09:30-10:20
+COM60024,Pemrograman Lanjut,98.0,1,F4.3,Rabu_09:30-10:20,Rabu,09:30-10:20
+COM60024,Pemrograman Lanjut,91.0,1,F9.2,Rabu_09:30-10:20,Rabu,09:30-10:20
+UBU60003,Kewirausahaan,62.0,2,F4.9,Rabu_09:30-10:20,Rabu,09:30-10:20
+CIE61403,Paradigma Berpikir Sistem dan Desain,47.0,1,F11.1,Rabu_10:20-11:10,Rabu,10:20-11:10
+CIS60104,Transformasi Pemerintah,108.0,1,F11.3,Rabu_10:20-11:10,Rabu,10:20-11:10
+CIS62103,Jaringan dan Komputasi Awan,79.0,2,F4.13,Rabu_10:20-11:10,Rabu,10:20-11:10
+CIS62105,Pengantar Sains Data,11.0,2,F3.14,Rabu_10:20-11:10,Rabu,10:20-11:10
+CIT60031,Manajemen Proyek Teknologi Informasi,22.0,1,F2.5,Rabu_10:20-11:10,Rabu,10:20-11:10
+CIT61015,Jaringan Komputer,90.0,1,F11.1,Rabu_10:20-11:10,Rabu,10:20-11:10
+CIT61016,Data Sains,15.0,1,F4.12,Rabu_10:20-11:10,Rabu,10:20-11:10
+CIT62012,Pengembangan Aplikasi Mobile,16.0,1,F3.2,Rabu_10:20-11:10,Rabu,10:20-11:10
+CSD60708,Penambangan Data,16.0,1,F4.14,Rabu_10:20-11:10,Rabu,10:20-11:10
+CIE61113,Pengenalan Lapangan Persekolahan 3,39.0,1,F3.10,Rabu_11:10-12:00,Rabu,11:10-12:00
+CIE62202,Teknologi Platform,Belum Ada Dosen,1,F2.5,Rabu_11:10-12:00,Rabu,11:10-12:00
+CIS61108,Rekayasa Sistem Informasi,4.0,1,F3.11,Rabu_11:10-12:00,Rabu,11:10-12:00
+CIS62105,Pengantar Sains Data,63.0,1,F3.8,Rabu_11:10-12:00,Rabu,11:10-12:00
+CIT60031,Manajemen Proyek Teknologi Informasi,6.0,1,F4.11,Rabu_11:10-12:00,Rabu,11:10-12:00
+CIT60045,Kriptografi,75.0,1,F3.2,Rabu_11:10-12:00,Rabu,11:10-12:00
+CIT62001,Dasar Desain Antarmuka Pengguna,62.0,1,F3.12,Rabu_11:10-12:00,Rabu,11:10-12:00
+CIE61205,Pemrograman Web,105.0,1,F2.4,Rabu_12:00-12:50,Rabu,12:00-12:50
+CIE62306,Pembelajaran Inklusif,Belum Ada Dosen,1,F4.9,Rabu_12:00-12:50,Rabu,12:00-12:50
+CIS60106,Sistem Informasi Berkelanjutan,16.0,1,F3.11,Rabu_12:00-12:50,Rabu,12:00-12:50
+COM60052,Etika Profesi,4.0,1,F3.14,Rabu_12:00-12:50,Rabu,12:00-12:50
+COM60061,Capstone Project,47.0,1,F4.14,Rabu_12:00-12:50,Rabu,12:00-12:50
+CSD60701,Manajemen Layanan Teknologi Informasi,6.0,1,F9.2,Rabu_12:00-12:50,Rabu,12:00-12:50
+CSD60702,Sistem Pendukung Keputusan,73.0,1,F4.3,Rabu_12:00-12:50,Rabu,12:00-12:50
+CSD60704,Desain Basis Data,108.0,1,F3.5a,Rabu_12:00-12:50,Rabu,12:00-12:50
+CSD60707,Big Data dan Analitik,80.0,1,F2.5,Rabu_12:00-12:50,Rabu,12:00-12:50
+CSD60708,Penambangan Data,41.0,2,F2.4,Rabu_12:00-12:50,Rabu,12:00-12:50
+CSD60713,Jaringan Terapan,90.0,1,F4.3,Rabu_12:00-12:50,Rabu,12:00-12:50
+CIE61111,Pengenalan Lapangan Persekolahan 1,103.0,1,F9.2,Rabu_12:50-13:40,Rabu,12:50-13:40
+CIE61205,Pemrograman Web,47.0,1,F4.11,Rabu_12:50-13:40,Rabu,12:50-13:40
+CIE62201,Perancangan Antarmuka Pengguna,4.0,1,F3.7a,Rabu_12:50-13:40,Rabu,12:50-13:40
+CIE62209,Pengembangan dan Manajemen Perangkat Lunak,22.0,2,F3.2,Rabu_12:50-13:40,Rabu,12:50-13:40
+CIS60107,Gudang Data,73.0,1,F3.7a,Rabu_12:50-13:40,Rabu,12:50-13:40
+CIS61115,Komunikasi Profesional,108.0,1,F9.1,Rabu_12:50-13:40,Rabu,12:50-13:40
+CIS62114,Pengembangan Aplikasi Mobile Lanjut,60.0,1,F3.10,Rabu_12:50-13:40,Rabu,12:50-13:40
+CIT60033,Sistem Forensik Digital,75.0,1,F2.8,Rabu_12:50-13:40,Rabu,12:50-13:40
+CIT60044,Keamanan Data dan Privasi,41.0,1,F3.18,Rabu_12:50-13:40,Rabu,12:50-13:40
+CIT60047,Tata Kelola dan Kebijakan Keamanan Siber,46.0,2,F3.18,Rabu_12:50-13:40,Rabu,12:50-13:40
+CIT61015,Jaringan Komputer,79.0,1,F3.7a,Rabu_12:50-13:40,Rabu,12:50-13:40
+CIT61021,Data Warehouse,Belum Ada Dosen,1,F3.10,Rabu_12:50-13:40,Rabu,12:50-13:40
+COM60014,Pemrograman Dasar,31.0,1,F3.14,Rabu_12:50-13:40,Rabu,12:50-13:40
+COM60051,Metodologi Penelitian dan Penulisan Ilmiah,103.0,2,F2.4,Rabu_12:50-13:40,Rabu,12:50-13:40
+CSD60706,Administrasi Basis Data,75.0,1,F3.2,Rabu_12:50-13:40,Rabu,12:50-13:40
+CSD60709,Keamanan Siber,17.0,1,F4.3,Rabu_12:50-13:40,Rabu,12:50-13:40
+CSD60710,Sistem Informasi Geografis,11.0,1,F4.4,Rabu_12:50-13:40,Rabu,12:50-13:40
+CSD60715,Analisis Data Penelitian Kuantitatif,Belum Ada Dosen,1,F3.2,Rabu_12:50-13:40,Rabu,12:50-13:40
+UBU60003,Kewirausahaan,47.0,2,F4.5,Rabu_12:50-13:40,Rabu,12:50-13:40
+CIS60101,Perkembangan dan Tren Teknologi Digital,108.0,1,F3.12,Rabu_13:40-14:30,Rabu,13:40-14:30
+CIS62106,Pemrograman Web,47.0,1,F9.2,Rabu_13:40-14:30,Rabu,13:40-14:30
+CIS62106,Pemrograman Web,31.0,1,F2.8,Rabu_13:40-14:30,Rabu,13:40-14:30
+CIS62115,Manajemen Investasi Teknologi Informasi,53.0,2,F4.5,Rabu_13:40-14:30,Rabu,13:40-14:30
+CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,94.0,1,F3.9,Rabu_13:40-14:30,Rabu,13:40-14:30
+COM60052,Etika Profesi,96.0,2,F3.14,Rabu_13:40-14:30,Rabu,13:40-14:30
+CSD60702,Sistem Pendukung Keputusan,83.0,1,F4.7,Rabu_13:40-14:30,Rabu,13:40-14:30
+CSD60703,Tata Kelola Teknologi Informasi,6.0,1,F4.7,Rabu_13:40-14:30,Rabu,13:40-14:30
+CIE61110,Perancangan Pembelajaran,Belum Ada Dosen,1,F2.2,Rabu_14:30-15:20,Rabu,14:30-15:20
+CIE61205,Pemrograman Web,75.0,1,F4.10,Rabu_14:30-15:20,Rabu,14:30-15:20
+CIE62106,Teori dan Sains Belajar,Belum Ada Dosen,1,F3.2,Rabu_14:30-15:20,Rabu,14:30-15:20
+CIS60101,Perkembangan dan Tren Teknologi Digital,94.0,1,F2.5,Rabu_14:30-15:20,Rabu,14:30-15:20
+CIS60103,Pemrograman Web Lanjut,1.0,1,F2.9,Rabu_14:30-15:20,Rabu,14:30-15:20
+CIS61111,Sistem Informasi berbasis Kecerdasan Buatan,89.0,2,F3.7b,Rabu_14:30-15:20,Rabu,14:30-15:20
+CIS62102,Desain Antar Muka Pengguna,4.0,1,F3.5b,Rabu_14:30-15:20,Rabu,14:30-15:20
+CIS62105,Pengantar Sains Data,52.0,1,F4.7,Rabu_14:30-15:20,Rabu,14:30-15:20
+CIS62105,Pengantar Sains Data,72.0,1,F2.8,Rabu_14:30-15:20,Rabu,14:30-15:20
+CIS62117,Manajemen Rantai Suplai,108.0,1,F4.11,Rabu_14:30-15:20,Rabu,14:30-15:20
+CIT60036,Teknologi Berbasis Cloud,75.0,1,F2.1,Rabu_14:30-15:20,Rabu,14:30-15:20
+CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,63.0,1,F4.6,Rabu_14:30-15:20,Rabu,14:30-15:20
+COM60015,Matematika Diskret,103.0,2,F3.12,Rabu_14:30-15:20,Rabu,14:30-15:20
+COM60024,Pemrograman Lanjut,52.0,1,F4.11,Rabu_14:30-15:20,Rabu,14:30-15:20
+CSD60709,Keamanan Siber,41.0,1,F3.10,Rabu_14:30-15:20,Rabu,14:30-15:20
+CIE61404,Manajemen Proyek Teknologi Informasi,67.0,1,F3.15,Rabu_15:20-16:10,Rabu,15:20-16:10
+CIE62401,Inovasi Digital Kompetitif,47.0,1,F3.15,Rabu_15:20-16:10,Rabu,15:20-16:10
+CIS60101,Perkembangan dan Tren Teknologi Digital,40.0,1,F2.2,Rabu_15:20-16:10,Rabu,15:20-16:10
+CIS60102,Pengembangan Aplikasi Multiplatform,47.0,1,F2.8,Rabu_15:20-16:10,Rabu,15:20-16:10
+CIS61123,Enterprise Architecture II,76.0,1,F3.4,Rabu_15:20-16:10,Rabu,15:20-16:10
+CIS62104,Pemodelan Proses Bisnis,53.0,1,F2.4,Rabu_15:20-16:10,Rabu,15:20-16:10
+CIS62105,Pengantar Sains Data,20.0,1,F11.3,Rabu_15:20-16:10,Rabu,15:20-16:10
+CIS62115,Manajemen Investasi Teknologi Informasi,62.0,1,F4.10,Rabu_15:20-16:10,Rabu,15:20-16:10
+CIT62011,Aljabar Linear dan Matriks,92.0,1,F11.1,Rabu_15:20-16:10,Rabu,15:20-16:10
+CIT62022,Implementasi dan Pengujian Sistem Informasi,6.0,1,F3.12,Rabu_15:20-16:10,Rabu,15:20-16:10
+COM60016,Pengantar Keilmuan Komputer,90.0,1,F4.7,Rabu_15:20-16:10,Rabu,15:20-16:10
+CSD60701,Manajemen Layanan Teknologi Informasi,87.0,1,F3.7a,Rabu_15:20-16:10,Rabu,15:20-16:10
+CSD60702,Sistem Pendukung Keputusan,107.0,1,F3.16,Rabu_15:20-16:10,Rabu,15:20-16:10
+CSD60707,Big Data dan Analitik,89.0,2,F3.5b,Rabu_15:20-16:10,Rabu,15:20-16:10
+CSD60712,Probabilitas dan Statistika,83.0,1,F11.1,Rabu_15:20-16:10,Rabu,15:20-16:10
+CIS60104,Transformasi Pemerintah,94.0,1,F3.15,Rabu_16:10-17:00,Rabu,16:10-17:00
+CIS60105,Strategi Transformasi Digital,53.0,1,F2.1,Rabu_16:10-17:00,Rabu,16:10-17:00
+CIT60048,Information Retrieval,93.0,1,F3.5a,Rabu_16:10-17:00,Rabu,16:10-17:00
+CIT60051,Teknologi Smart City,58.0,2,F2.4,Rabu_16:10-17:00,Rabu,16:10-17:00
+CIT62001,Dasar Desain Antarmuka Pengguna,4.0,1,F3.7a,Rabu_16:10-17:00,Rabu,16:10-17:00
+CIT62010,Sistem Operasi,79.0,1,F4.6,Rabu_16:10-17:00,Rabu,16:10-17:00
+CIT62022,Implementasi dan Pengujian Sistem Informasi,67.0,1,F4.11,Rabu_16:10-17:00,Rabu,16:10-17:00
+COM60014,Pemrograman Dasar,4.0,1,F2.6,Rabu_16:10-17:00,Rabu,16:10-17:00
+COM60024,Pemrograman Lanjut,65.0,1,F2.9,Rabu_16:10-17:00,Rabu,16:10-17:00
+CSD60703,Tata Kelola Teknologi Informasi,6.0,1,F3.8,Rabu_16:10-17:00,Rabu,16:10-17:00
+CSD60705,Pemrograman SQL,16.0,2,F2.9,Rabu_16:10-17:00,Rabu,16:10-17:00
+CSD60707,Big Data dan Analitik,20.0,1,F3.17,Rabu_16:10-17:00,Rabu,16:10-17:00
+CSD60708,Penambangan Data,107.0,1,F4.3,Rabu_16:10-17:00,Rabu,16:10-17:00
+CSD60710,Sistem Informasi Geografis,87.0,1,F3.7b,Rabu_16:10-17:00,Rabu,16:10-17:00
+CSD60716,Analisis Data Penelitian Kualitatif,100.0,1,F4.11,Rabu_16:10-17:00,Rabu,16:10-17:00
+CIE61114,Pendidikan Orang Dewasa dan Berkelanjutan,39.0,1,F3.15,Rabu_17:00-17:50,Rabu,17:00-17:50
+CIE62203,Pemrograman Berbasis Objek,4.0,1,F3.3,Rabu_17:00-17:50,Rabu,17:00-17:50
+CIS61112,Dasar Manajemen Proyek,6.0,1,F3.12,Rabu_17:00-17:50,Rabu,17:00-17:50
+CIS62106,Pemrograman Web,98.0,1,F9.1,Rabu_17:00-17:50,Rabu,17:00-17:50
+CIT61016,Data Sains,89.0,2,F3.13,Rabu_17:00-17:50,Rabu,17:00-17:50
+CIT62003,Dasar Pengembangan Sistem informasi,31.0,1,F3.12,Rabu_17:00-17:50,Rabu,17:00-17:50
+CSD60708,Penambangan Data,92.0,1,F3.7a,Rabu_17:00-17:50,Rabu,17:00-17:50
+CSD60708,Penambangan Data,52.0,1,F3.1,Rabu_17:00-17:50,Rabu,17:00-17:50
+CSD60715,Analisis Data Penelitian Kuantitatif,63.0,1,F3.5b,Rabu_17:00-17:50,Rabu,17:00-17:50
+CIE61104,Komunikasi dan Teknologi Pendidikan,39.0,1,F2.1,Rabu_17:50-18:40,Rabu,17:50-18:40
+CIE61301,Kalkulus dan Aljabar Linear,103.0,1,F3.6,Rabu_17:50-18:40,Rabu,17:50-18:40
+CIE62307,"Sistem Pembelajaran Berbasis Multimedia, Gim, dan Peranti Bergerak",16.0,1,F11.3,Rabu_17:50-18:40,Rabu,17:50-18:40
+CIS62104,Pemodelan Proses Bisnis,108.0,1,F3.16,Rabu_17:50-18:40,Rabu,17:50-18:40
+CIT60047,Tata Kelola dan Kebijakan Keamanan Siber,Belum Ada Dosen,1,F3.11,Rabu_17:50-18:40,Rabu,17:50-18:40
+CIT60048,Information Retrieval,97.0,2,F4.6,Rabu_17:50-18:40,Rabu,17:50-18:40
+CIT62010,Sistem Operasi,94.0,1,F4.14,Rabu_17:50-18:40,Rabu,17:50-18:40
+CIT62010,Sistem Operasi,16.0,1,F4.12,Rabu_17:50-18:40,Rabu,17:50-18:40
+CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,30.0,1,F3.18,Rabu_17:50-18:40,Rabu,17:50-18:40
+COM60024,Pemrograman Lanjut,87.0,1,F3.17,Rabu_17:50-18:40,Rabu,17:50-18:40
+COM60024,Pemrograman Lanjut,47.0,1,F3.15,Rabu_17:50-18:40,Rabu,17:50-18:40
+CIE61111,Pengenalan Lapangan Persekolahan 1,Belum Ada Dosen,1,F3.4,Selasa_07:00-07:50,Selasa,07:00-07:50
+CIE61301,Kalkulus dan Aljabar Linear,100.0,1,F4.3,Selasa_07:00-07:50,Selasa,07:00-07:50
+CIE62203,Pemrograman Berbasis Objek,70.0,1,F4.10,Selasa_07:00-07:50,Selasa,07:00-07:50
+CIE62303,Kecerdasan Artifisial,29.0,1,F3.13,Selasa_07:00-07:50,Selasa,07:00-07:50
+CIS60105,Strategi Transformasi Digital,108.0,1,F3.11,Selasa_07:00-07:50,Selasa,07:00-07:50
+CIS61106,Keamanan dan Privasi Data,75.0,1,F11.1,Selasa_07:00-07:50,Selasa,07:00-07:50
+CIS61107,Manajemen Produk,60.0,1,F4.3,Selasa_07:00-07:50,Selasa,07:00-07:50
+CIS61112,Dasar Manajemen Proyek,47.0,1,F3.5a,Selasa_07:00-07:50,Selasa,07:00-07:50
+CIS62104,Pemodelan Proses Bisnis,13.0,1,F3.18,Selasa_07:00-07:50,Selasa,07:00-07:50
+CIT62012,Pengembangan Aplikasi Mobile,22.0,2,F2.8,Selasa_07:00-07:50,Selasa,07:00-07:50
+COM60016,Pengantar Keilmuan Komputer,47.0,1,F2.5,Selasa_07:00-07:50,Selasa,07:00-07:50
+COM60024,Pemrograman Lanjut,82.0,1,F11.3,Selasa_07:00-07:50,Selasa,07:00-07:50
+UBU60003,Kewirausahaan,62.0,2,F3.18,Selasa_07:00-07:50,Selasa,07:00-07:50
+CIE62107,Lingkungan Pembelajaran Digital,103.0,1,F4.7,Selasa_07:50-08:40,Selasa,07:50-08:40
+CIE62201,Perancangan Antarmuka Pengguna,16.0,1,F2.1,Selasa_07:50-08:40,Selasa,07:50-08:40
+CIE62209,Pengembangan dan Manajemen Perangkat Lunak,76.0,1,F11.3,Selasa_07:50-08:40,Selasa,07:50-08:40
+CIE62305,Pembelajaran Emosional Sosial,Belum Ada Dosen,1,F3.7a,Selasa_07:50-08:40,Selasa,07:50-08:40
+CIS60104,Transformasi Pemerintah,12.0,2,F4.2,Selasa_07:50-08:40,Selasa,07:50-08:40
+CIS61112,Dasar Manajemen Proyek,102.0,1,F4.11,Selasa_07:50-08:40,Selasa,07:50-08:40
+CIS62106,Pemrograman Web,16.0,1,F4.9,Selasa_07:50-08:40,Selasa,07:50-08:40
+CIT61015,Jaringan Komputer,35.0,1,F2.9,Selasa_07:50-08:40,Selasa,07:50-08:40
+CIT62003,Dasar Pengembangan Sistem informasi,67.0,1,F3.15,Selasa_07:50-08:40,Selasa,07:50-08:40
+CIT62012,Pengembangan Aplikasi Mobile,60.0,1,F3.14,Selasa_07:50-08:40,Selasa,07:50-08:40
+COM60014,Pemrograman Dasar,47.0,1,F4.3,Selasa_07:50-08:40,Selasa,07:50-08:40
+CSD60702,Sistem Pendukung Keputusan,29.0,1,F3.15,Selasa_07:50-08:40,Selasa,07:50-08:40
+CSD60709,Keamanan Siber,63.0,1,F3.7b,Selasa_07:50-08:40,Selasa,07:50-08:40
+CSD60715,Analisis Data Penelitian Kuantitatif,11.0,2,F9.2,Selasa_07:50-08:40,Selasa,07:50-08:40
+CSD60716,Analisis Data Penelitian Kualitatif,Belum Ada Dosen,1,F9.1,Selasa_07:50-08:40,Selasa,07:50-08:40
+CIT60045,Kriptografi,14.0,1,F3.1,Selasa_08:40-09:30,Selasa,08:40-09:30
+CIT60048,Information Retrieval,1.0,1,F4.7,Selasa_08:40-09:30,Selasa,08:40-09:30
+CIT60052,Pengembangan Aplikasi Mobile Terapan,20.0,1,F3.5a,Selasa_08:40-09:30,Selasa,08:40-09:30
+CIT62011,Aljabar Linear dan Matriks,100.0,1,F9.1,Selasa_08:40-09:30,Selasa,08:40-09:30
+CIT62022,Implementasi dan Pengujian Sistem Informasi,1.0,1,F4.4,Selasa_08:40-09:30,Selasa,08:40-09:30
+COM60004,Kecerdasan Buatan dan Pembelajaran Mesin,75.0,1,F3.16,Selasa_08:40-09:30,Selasa,08:40-09:30
+COM60015,Matematika Diskret,103.0,1,F3.10,Selasa_08:40-09:30,Selasa,08:40-09:30
+COM60061,Capstone Project,76.0,1,F3.8,Selasa_08:40-09:30,Selasa,08:40-09:30
+CSD60707,Big Data dan Analitik,52.0,1,F3.13,Selasa_08:40-09:30,Selasa,08:40-09:30
+CSD60709,Keamanan Siber,63.0,1,F4.14,Selasa_08:40-09:30,Selasa,08:40-09:30
+CSD60711,Perancangan Pengalaman Pengguna,62.0,1,F3.11,Selasa_08:40-09:30,Selasa,08:40-09:30
+CSD60715,Analisis Data Penelitian Kuantitatif,87.0,1,F4.10,Selasa_08:40-09:30,Selasa,08:40-09:30
+CIS60106,Sistem Informasi Berkelanjutan,108.0,1,F3.8,Selasa_09:30-10:20,Selasa,09:30-10:20
+CIS62126,Evaluasi Pengalaman dan Antarmuka Pengguna,47.0,1,F4.6,Selasa_09:30-10:20,Selasa,09:30-10:20
+CIT62022,Implementasi dan Pengujian Sistem Informasi,16.0,1,F2.1,Selasa_09:30-10:20,Selasa,09:30-10:20
+CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,52.0,1,F4.13,Selasa_09:30-10:20,Selasa,09:30-10:20
+COM60016,Pengantar Keilmuan Komputer,4.0,1,F3.11,Selasa_09:30-10:20,Selasa,09:30-10:20
+COM60052,Etika Profesi,22.0,1,F3.5b,Selasa_09:30-10:20,Selasa,09:30-10:20
+CSD60703,Tata Kelola Teknologi Informasi,15.0,1,F3.18,Selasa_09:30-10:20,Selasa,09:30-10:20
+CSD60704,Desain Basis Data,75.0,1,F3.12,Selasa_09:30-10:20,Selasa,09:30-10:20
+CSD60705,Pemrograman SQL,91.0,1,F3.17,Selasa_09:30-10:20,Selasa,09:30-10:20
+CSD60708,Penambangan Data,107.0,1,F4.4,Selasa_09:30-10:20,Selasa,09:30-10:20
+CSD60711,Perancangan Pengalaman Pengguna,60.0,1,F3.16,Selasa_09:30-10:20,Selasa,09:30-10:20
+CSD60715,Analisis Data Penelitian Kuantitatif,37.0,1,F2.9,Selasa_09:30-10:20,Selasa,09:30-10:20
+CIE62117,Teknologi Peranti Internet,16.0,1,F2.4,Selasa_10:20-11:10,Selasa,10:20-11:10
+CIS62126,Evaluasi Pengalaman dan Antarmuka Pengguna,12.0,1,F3.17,Selasa_10:20-11:10,Selasa,10:20-11:10
+CIS62126,Evaluasi Pengalaman dan Antarmuka Pengguna,62.0,1,F4.9,Selasa_10:20-11:10,Selasa,10:20-11:10
+CIT60042,Teknologi Blockchain dan Platform Keuangan Digital,47.0,1,F4.10,Selasa_10:20-11:10,Selasa,10:20-11:10
+CIT60044,Keamanan Data dan Privasi,75.0,1,F3.3,Selasa_10:20-11:10,Selasa,10:20-11:10
+CIT61006,Pengembangan Aplikasi Web,31.0,1,F11.4,Selasa_10:20-11:10,Selasa,10:20-11:10
+CIT62001,Dasar Desain Antarmuka Pengguna,47.0,1,F3.4,Selasa_10:20-11:10,Selasa,10:20-11:10
+CIT62003,Dasar Pengembangan Sistem informasi,108.0,1,F3.11,Selasa_10:20-11:10,Selasa,10:20-11:10
+CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,37.0,1,F3.5a,Selasa_10:20-11:10,Selasa,10:20-11:10
+COM60014,Pemrograman Dasar,87.0,1,F3.16,Selasa_10:20-11:10,Selasa,10:20-11:10
+CSD60701,Manajemen Layanan Teknologi Informasi,47.0,2,F11.1,Selasa_10:20-11:10,Selasa,10:20-11:10
+CSD60702,Sistem Pendukung Keputusan,20.0,1,F4.5,Selasa_10:20-11:10,Selasa,10:20-11:10
+CSD60706,Administrasi Basis Data,91.0,1,F2.5,Selasa_10:20-11:10,Selasa,10:20-11:10
+CIE61205,Pemrograman Web,82.0,1,F2.8,Selasa_11:10-12:00,Selasa,11:10-12:00
+CIE62117,Teknologi Peranti Internet,17.0,1,F3.5a,Selasa_11:10-12:00,Selasa,11:10-12:00
+CIS60103,Pemrograman Web Lanjut,22.0,1,F4.11,Selasa_11:10-12:00,Selasa,11:10-12:00
+CIS61123,Enterprise Architecture II,87.0,1,F3.10,Selasa_11:10-12:00,Selasa,11:10-12:00
+CIS62108,Enterprise Architecture I,62.0,1,F4.11,Selasa_11:10-12:00,Selasa,11:10-12:00
+CIT60047,Tata Kelola dan Kebijakan Keamanan Siber,94.0,1,F2.9,Selasa_11:10-12:00,Selasa,11:10-12:00
+CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,93.0,1,F4.2,Selasa_11:10-12:00,Selasa,11:10-12:00
+COM60016,Pengantar Keilmuan Komputer,62.0,2,F2.6,Selasa_11:10-12:00,Selasa,11:10-12:00
+COM60024,Pemrograman Lanjut,4.0,1,F2.8,Selasa_11:10-12:00,Selasa,11:10-12:00
+CSD60705,Pemrograman SQL,102.0,1,F2.8,Selasa_11:10-12:00,Selasa,11:10-12:00
+CSD60708,Penambangan Data,20.0,1,F4.7,Selasa_11:10-12:00,Selasa,11:10-12:00
+CSD60711,Perancangan Pengalaman Pengguna,4.0,1,F4.9,Selasa_11:10-12:00,Selasa,11:10-12:00
+CSD60716,Analisis Data Penelitian Kualitatif,12.0,2,F3.5a,Selasa_11:10-12:00,Selasa,11:10-12:00
+CIE61206,Jaringan Komputer,75.0,1,F3.2,Selasa_12:00-12:50,Selasa,12:00-12:50
+CIE62118,Sistem Pembelajaran Bergamifikasi dan Terpersonalisasi,Belum Ada Dosen,2,F3.14,Selasa_12:00-12:50,Selasa,12:00-12:50
+CIE62303,Kecerdasan Artifisial,94.0,1,F3.4,Selasa_12:00-12:50,Selasa,12:00-12:50
+CIS61106,Keamanan dan Privasi Data,17.0,1,F4.3,Selasa_12:00-12:50,Selasa,12:00-12:50
+CIS62105,Pengantar Sains Data,16.0,1,F4.4,Selasa_12:00-12:50,Selasa,12:00-12:50
+CIS62115,Manajemen Investasi Teknologi Informasi,13.0,1,F4.13,Selasa_12:00-12:50,Selasa,12:00-12:50
+CIT60042,Teknologi Blockchain dan Platform Keuangan Digital,14.0,1,F3.7a,Selasa_12:00-12:50,Selasa,12:00-12:50
+CIT60048,Information Retrieval,107.0,1,F3.17,Selasa_12:00-12:50,Selasa,12:00-12:50
+CIT60049,Teknologi Basis Data Non Relational,16.0,1,F2.1,Selasa_12:00-12:50,Selasa,12:00-12:50
+CIT60052,Pengembangan Aplikasi Mobile Terapan,16.0,1,F4.7,Selasa_12:00-12:50,Selasa,12:00-12:50
+CIT61026,Internet of Things,96.0,2,F4.12,Selasa_12:00-12:50,Selasa,12:00-12:50
+COM60014,Pemrograman Dasar,76.0,1,F2.9,Selasa_12:00-12:50,Selasa,12:00-12:50
+CIE61111,Pengenalan Lapangan Persekolahan 1,59.0,2,F2.9,Selasa_12:50-13:40,Selasa,12:50-13:40
+CIE62105,Pembelajaran Berdiferensiasi,Belum Ada Dosen,1,F2.2,Selasa_12:50-13:40,Selasa,12:50-13:40
+CIS60104,Transformasi Pemerintah,Belum Ada Dosen,1,F9.2,Selasa_12:50-13:40,Selasa,12:50-13:40
+CIS62103,Jaringan dan Komputasi Awan,65.0,2,F4.2,Selasa_12:50-13:40,Selasa,12:50-13:40
+CIS62115,Manajemen Investasi Teknologi Informasi,87.0,1,F4.3,Selasa_12:50-13:40,Selasa,12:50-13:40
+COM60014,Pemrograman Dasar,23.0,2,F4.3,Selasa_12:50-13:40,Selasa,12:50-13:40
+COM60024,Pemrograman Lanjut,31.0,1,F3.13,Selasa_12:50-13:40,Selasa,12:50-13:40
+CSD60702,Sistem Pendukung Keputusan,108.0,1,F3.3,Selasa_12:50-13:40,Selasa,12:50-13:40
+CSD60707,Big Data dan Analitik,72.0,1,F3.2,Selasa_12:50-13:40,Selasa,12:50-13:40
+CSD60707,Big Data dan Analitik,20.0,1,F3.14,Selasa_12:50-13:40,Selasa,12:50-13:40
+CSD60711,Perancangan Pengalaman Pengguna,62.0,1,F4.3,Selasa_12:50-13:40,Selasa,12:50-13:40
+CIE62209,Pengembangan dan Manajemen Perangkat Lunak,16.0,1,F4.12,Selasa_13:40-14:30,Selasa,13:40-14:30
+CIS60101,Perkembangan dan Tren Teknologi Digital,87.0,1,F4.14,Selasa_13:40-14:30,Selasa,13:40-14:30
+CIS61106,Keamanan dan Privasi Data,108.0,1,F3.15,Selasa_13:40-14:30,Selasa,13:40-14:30
+CIT61024,Teknologi Keamanan Siber,75.0,1,F4.3,Selasa_13:40-14:30,Selasa,13:40-14:30
+CIT62022,Implementasi dan Pengujian Sistem Informasi,31.0,1,F9.2,Selasa_13:40-14:30,Selasa,13:40-14:30
+COM60016,Pengantar Keilmuan Komputer,4.0,1,F2.4,Selasa_13:40-14:30,Selasa,13:40-14:30
+CSD60702,Sistem Pendukung Keputusan,52.0,1,F9.1,Selasa_13:40-14:30,Selasa,13:40-14:30
+CSD60704,Desain Basis Data,108.0,1,F2.9,Selasa_13:40-14:30,Selasa,13:40-14:30
+CSD60704,Desain Basis Data,29.0,1,F3.7b,Selasa_13:40-14:30,Selasa,13:40-14:30
+CSD60705,Pemrograman SQL,70.0,1,F11.3,Selasa_13:40-14:30,Selasa,13:40-14:30
+CSD60711,Perancangan Pengalaman Pengguna,45.0,1,F2.9,Selasa_13:40-14:30,Selasa,13:40-14:30
+CSD60714,Jaminan Kualitas Perangkat Lunak,1.0,1,F3.12,Selasa_13:40-14:30,Selasa,13:40-14:30
+CSD60716,Analisis Data Penelitian Kualitatif,Belum Ada Dosen,1,F2.5,Selasa_13:40-14:30,Selasa,13:40-14:30
+CIE62201,Perancangan Antarmuka Pengguna,60.0,1,F11.3,Selasa_14:30-15:20,Selasa,14:30-15:20
+CIE62209,Pengembangan dan Manajemen Perangkat Lunak,67.0,1,F4.11,Selasa_14:30-15:20,Selasa,14:30-15:20
+CIS60102,Pengembangan Aplikasi Multiplatform,70.0,2,F3.7a,Selasa_14:30-15:20,Selasa,14:30-15:20
+CIT60033,Sistem Forensik Digital,83.0,1,F2.1,Selasa_14:30-15:20,Selasa,14:30-15:20
+CIT62001,Dasar Desain Antarmuka Pengguna,22.0,1,F2.6,Selasa_14:30-15:20,Selasa,14:30-15:20
+COM60014,Pemrograman Dasar,31.0,1,F11.1,Selasa_14:30-15:20,Selasa,14:30-15:20
+COM60061,Capstone Project,47.0,2,F3.16,Selasa_14:30-15:20,Selasa,14:30-15:20
+CSD60705,Pemrograman SQL,102.0,1,F3.18,Selasa_14:30-15:20,Selasa,14:30-15:20
+CSD60706,Administrasi Basis Data,91.0,1,F3.17,Selasa_14:30-15:20,Selasa,14:30-15:20
+CSD60707,Big Data dan Analitik,48.0,1,F4.11,Selasa_14:30-15:20,Selasa,14:30-15:20
+CSD60712,Probabilitas dan Statistika,92.0,1,F2.5,Selasa_14:30-15:20,Selasa,14:30-15:20
+CIS60102,Pengembangan Aplikasi Multiplatform,16.0,1,F4.14,Selasa_15:20-16:10,Selasa,15:20-16:10
+CIS61123,Enterprise Architecture II,6.0,2,F11.1,Selasa_15:20-16:10,Selasa,15:20-16:10
+CIS62126,Evaluasi Pengalaman dan Antarmuka Pengguna,60.0,1,F3.3,Selasa_15:20-16:10,Selasa,15:20-16:10
+CIT60031,Manajemen Proyek Teknologi Informasi,40.0,1,F4.10,Selasa_15:20-16:10,Selasa,15:20-16:10
+COM60014,Pemrograman Dasar,67.0,1,F4.14,Selasa_15:20-16:10,Selasa,15:20-16:10
+COM60024,Pemrograman Lanjut,47.0,1,F4.4,Selasa_15:20-16:10,Selasa,15:20-16:10
+COM60024,Pemrograman Lanjut,80.0,1,F9.1,Selasa_15:20-16:10,Selasa,15:20-16:10
+CSD60707,Big Data dan Analitik,89.0,2,F3.7a,Selasa_15:20-16:10,Selasa,15:20-16:10
+CSD60709,Keamanan Siber,75.0,1,F3.2,Selasa_15:20-16:10,Selasa,15:20-16:10
+CSD60711,Perancangan Pengalaman Pengguna,47.0,1,F4.13,Selasa_15:20-16:10,Selasa,15:20-16:10
+CSD60717,Teknologi Blockchain dan Platform Keuangan Digital,47.0,1,F3.7a,Selasa_15:20-16:10,Selasa,15:20-16:10
+UBU60003,Kewirausahaan,62.0,2,F3.5b,Selasa_15:20-16:10,Selasa,15:20-16:10
+CIE62203,Pemrograman Berbasis Objek,67.0,1,F4.7,Selasa_16:10-17:00,Selasa,16:10-17:00
+CIS61110,Pengembangan Aplikasi Mobile,75.0,1,F3.15,Selasa_16:10-17:00,Selasa,16:10-17:00
+CIS61111,Sistem Informasi berbasis Kecerdasan Buatan,108.0,2,F3.10,Selasa_16:10-17:00,Selasa,16:10-17:00
+CIS62104,Pemodelan Proses Bisnis,55.0,1,F3.3,Selasa_16:10-17:00,Selasa,16:10-17:00
+CIS62105,Pengantar Sains Data,21.0,2,F3.7b,Selasa_16:10-17:00,Selasa,16:10-17:00
+CIS62113,Pola-Pola Perancangan,37.0,1,F2.9,Selasa_16:10-17:00,Selasa,16:10-17:00
+COM60016,Pengantar Keilmuan Komputer,108.0,1,F4.10,Selasa_16:10-17:00,Selasa,16:10-17:00
+COM60024,Pemrograman Lanjut,20.0,1,F3.9,Selasa_16:10-17:00,Selasa,16:10-17:00
+COM60024,Pemrograman Lanjut,76.0,1,F4.7,Selasa_16:10-17:00,Selasa,16:10-17:00
+COM60024,Pemrograman Lanjut,67.0,2,F3.1,Selasa_16:10-17:00,Selasa,16:10-17:00
+COM60061,Capstone Project,22.0,1,F9.1,Selasa_16:10-17:00,Selasa,16:10-17:00
+CSD60711,Perancangan Pengalaman Pengguna,16.0,1,F4.10,Selasa_16:10-17:00,Selasa,16:10-17:00
+CIS62125,GeoInformasi Lanjut,87.0,1,F9.1,Selasa_17:00-17:50,Selasa,17:00-17:50
+CIT60033,Sistem Forensik Digital,35.0,1,F11.4,Selasa_17:00-17:50,Selasa,17:00-17:50
+CIT60039,Pengembangan Aplikasi Web Lanjut,16.0,1,F3.7a,Selasa_17:00-17:50,Selasa,17:00-17:50
+CIT60044,Keamanan Data dan Privasi,35.0,1,F2.5,Selasa_17:00-17:50,Selasa,17:00-17:50
+COM60011,Arsitektur dan Organisasi Komputer,103.0,2,F2.1,Selasa_17:00-17:50,Selasa,17:00-17:50
+COM60052,Etika Profesi,87.0,1,F3.12,Selasa_17:00-17:50,Selasa,17:00-17:50
+CSD60705,Pemrograman SQL,1.0,1,F3.10,Selasa_17:00-17:50,Selasa,17:00-17:50
+CSD60708,Penambangan Data,1.0,1,F4.13,Selasa_17:00-17:50,Selasa,17:00-17:50
+CSD60708,Penambangan Data,102.0,1,F4.13,Selasa_17:00-17:50,Selasa,17:00-17:50
+CSD60708,Penambangan Data,97.0,2,F2.8,Selasa_17:00-17:50,Selasa,17:00-17:50
+CSD60711,Perancangan Pengalaman Pengguna,12.0,2,F4.10,Selasa_17:00-17:50,Selasa,17:00-17:50
+CSD60712,Probabilitas dan Statistika,83.0,1,F4.2,Selasa_17:00-17:50,Selasa,17:00-17:50
+CSD60714,Jaminan Kualitas Perangkat Lunak,40.0,1,F11.1,Selasa_17:00-17:50,Selasa,17:00-17:50
+CSD60714,Jaminan Kualitas Perangkat Lunak,60.0,1,F3.6,Selasa_17:00-17:50,Selasa,17:00-17:50
+CIE61103,Filsafat Pendidikan dan Sains,103.0,2,F3.7a,Selasa_17:50-18:40,Selasa,17:50-18:40
+CIE61120,Literasi Digital,Belum Ada Dosen,1,F3.7b,Selasa_17:50-18:40,Selasa,17:50-18:40
+CIS60101,Perkembangan dan Tren Teknologi Digital,Belum Ada Dosen,1,F3.7b,Selasa_17:50-18:40,Selasa,17:50-18:40
+CIT60033,Sistem Forensik Digital,41.0,1,F2.9,Selasa_17:50-18:40,Selasa,17:50-18:40
+CIT61006,Pengembangan Aplikasi Web,103.0,2,F4.2,Selasa_17:50-18:40,Selasa,17:50-18:40
+COM60016,Pengantar Keilmuan Komputer,83.0,1,F3.10,Selasa_17:50-18:40,Selasa,17:50-18:40
+COM60061,Capstone Project,4.0,1,F2.5,Selasa_17:50-18:40,Selasa,17:50-18:40
+CIS61103,Manajemen Bisnis,87.0,1,F9.2,Senin_07:00-07:50,Senin,07:00-07:50
+CIS62103,Jaringan dan Komputasi Awan,20.0,1,F3.16,Senin_07:00-07:50,Senin,07:00-07:50
+CIS62117,Manajemen Rantai Suplai,Belum Ada Dosen,1,F2.9,Senin_07:00-07:50,Senin,07:00-07:50
+CIT60049,Teknologi Basis Data Non Relational,Belum Ada Dosen,1,F11.4,Senin_07:00-07:50,Senin,07:00-07:50
+CIT62003,Dasar Pengembangan Sistem informasi,4.0,1,F2.5,Senin_07:00-07:50,Senin,07:00-07:50
+COM60014,Pemrograman Dasar,76.0,1,F3.7b,Senin_07:00-07:50,Senin,07:00-07:50
+CSD60703,Tata Kelola Teknologi Informasi,108.0,1,F4.5,Senin_07:00-07:50,Senin,07:00-07:50
+CSD60704,Desain Basis Data,73.0,1,F4.3,Senin_07:00-07:50,Senin,07:00-07:50
+CSD60705,Pemrograman SQL,98.0,1,F3.6,Senin_07:00-07:50,Senin,07:00-07:50
+CIE61208,Basis Data,102.0,1,F4.7,Senin_07:50-08:40,Senin,07:50-08:40
+CIE62117,Teknologi Peranti Internet,103.0,2,F4.4,Senin_07:50-08:40,Senin,07:50-08:40
+CIE62303,Kecerdasan Artifisial,107.0,1,F3.2,Senin_07:50-08:40,Senin,07:50-08:40
+CIS62105,Pengantar Sains Data,94.0,1,F11.3,Senin_07:50-08:40,Senin,07:50-08:40
+CIT60048,Information Retrieval,52.0,1,F3.11,Senin_07:50-08:40,Senin,07:50-08:40
+CIT62001,Dasar Desain Antarmuka Pengguna,45.0,1,F4.5,Senin_07:50-08:40,Senin,07:50-08:40
+COM60014,Pemrograman Dasar,4.0,1,F3.13,Senin_07:50-08:40,Senin,07:50-08:40
+COM60014,Pemrograman Dasar,47.0,1,F3.4,Senin_07:50-08:40,Senin,07:50-08:40
+COM60015,Matematika Diskret,100.0,1,F4.2,Senin_07:50-08:40,Senin,07:50-08:40
+COM60016,Pengantar Keilmuan Komputer,83.0,1,F3.13,Senin_07:50-08:40,Senin,07:50-08:40
+COM60024,Pemrograman Lanjut,91.0,1,F2.4,Senin_07:50-08:40,Senin,07:50-08:40
+COM60051,Metodologi Penelitian dan Penulisan Ilmiah,103.0,2,F3.14,Senin_07:50-08:40,Senin,07:50-08:40
+COM60052,Etika Profesi,48.0,1,F4.14,Senin_07:50-08:40,Senin,07:50-08:40
+COM60061,Capstone Project,48.0,1,F4.9,Senin_07:50-08:40,Senin,07:50-08:40
+CSD60707,Big Data dan Analitik,102.0,1,F2.6,Senin_07:50-08:40,Senin,07:50-08:40
+CSD60712,Probabilitas dan Statistika,77.0,1,F4.9,Senin_07:50-08:40,Senin,07:50-08:40
+CIE62118,Sistem Pembelajaran Bergamifikasi dan Terpersonalisasi,16.0,2,F11.1,Senin_08:40-09:30,Senin,08:40-09:30
+CIS60101,Perkembangan dan Tren Teknologi Digital,16.0,1,F3.10,Senin_08:40-09:30,Senin,08:40-09:30
+CIS61127,Pengembangan Berorientasi Penggunaan Ulang,4.0,1,F2.8,Senin_08:40-09:30,Senin,08:40-09:30
+CIS62106,Pemrograman Web,103.0,2,F9.1,Senin_08:40-09:30,Senin,08:40-09:30
+CIT60031,Manajemen Proyek Teknologi Informasi,94.0,1,F3.12,Senin_08:40-09:30,Senin,08:40-09:30
+COM60052,Etika Profesi,Belum Ada Dosen,1,F4.4,Senin_08:40-09:30,Senin,08:40-09:30
+CSD60709,Keamanan Siber,65.0,1,F3.12,Senin_08:40-09:30,Senin,08:40-09:30
+CIE61110,Pembelajaran Mikro,100.0,1,F11.1,Senin_09:30-10:20,Senin,09:30-10:20
+CIE62107,Lingkungan Pembelajaran Digital,Belum Ada Dosen,1,F3.7a,Senin_09:30-10:20,Senin,09:30-10:20
+CIE62306,Pembelajaran Inklusif,Belum Ada Dosen,1,F9.2,Senin_09:30-10:20,Senin,09:30-10:20
+CIS61118,Rekayasa Kebutuhan Sistem Informasi,4.0,1,F4.7,Senin_09:30-10:20,Senin,09:30-10:20
+CIT62010,Sistem Operasi,103.0,2,F4.5,Senin_09:30-10:20,Senin,09:30-10:20
+COM60004,Kecerdasan Buatan dan Pembelajaran Mesin,31.0,1,F4.5,Senin_09:30-10:20,Senin,09:30-10:20
+CSD60704,Desain Basis Data,20.0,1,F4.11,Senin_09:30-10:20,Senin,09:30-10:20
+CSD60704,Desain Basis Data,Belum Ada Dosen,1,F3.17,Senin_09:30-10:20,Senin,09:30-10:20
+CSD60708,Penambangan Data,80.0,1,F3.3,Senin_09:30-10:20,Senin,09:30-10:20
+CIE61208,Basis Data,4.0,1,F3.4,Senin_10:20-11:10,Senin,10:20-11:10
+CIE61215,Pengembangan Aplikasi Peranti Bergerak,47.0,1,F3.17,Senin_10:20-11:10,Senin,10:20-11:10
+CIE62202,Teknologi Platform,17.0,1,F9.1,Senin_10:20-11:10,Senin,10:20-11:10
+CIS61112,Dasar Manajemen Proyek,67.0,1,F4.6,Senin_10:20-11:10,Senin,10:20-11:10
+CIS61120,Perbaikan Proses Bisnis,6.0,1,F4.13,Senin_10:20-11:10,Senin,10:20-11:10
+COM60061,Capstone Project,40.0,1,F3.3,Senin_10:20-11:10,Senin,10:20-11:10
+CSD60704,Desain Basis Data,98.0,1,F11.4,Senin_10:20-11:10,Senin,10:20-11:10
+CSD60712,Probabilitas dan Statistika,107.0,1,F2.2,Senin_10:20-11:10,Senin,10:20-11:10
+CSD60717,Teknologi Blockchain dan Platform Keuangan Digital,14.0,1,F4.4,Senin_10:20-11:10,Senin,10:20-11:10
+CIE62209,Pengembangan dan Manajemen Perangkat Lunak,47.0,1,F2.2,Senin_11:10-12:00,Senin,11:10-12:00
+CIE62307,"Sistem Pembelajaran Berbasis Multimedia, Gim, dan Peranti Bergerak",103.0,1,F11.3,Senin_11:10-12:00,Senin,11:10-12:00
+CIT60044,Keamanan Data dan Privasi,17.0,1,F4.3,Senin_11:10-12:00,Senin,11:10-12:00
+CIT62011,Aljabar Linear dan Matriks,77.0,1,F2.9,Senin_11:10-12:00,Senin,11:10-12:00
+CIT62011,Aljabar Linear dan Matriks,103.0,2,F3.15,Senin_11:10-12:00,Senin,11:10-12:00
+COM60014,Pemrograman Dasar,91.0,1,F3.7b,Senin_11:10-12:00,Senin,11:10-12:00
+CSD60701,Manajemen Layanan Teknologi Informasi,6.0,1,F11.3,Senin_11:10-12:00,Senin,11:10-12:00
+CSD60704,Desain Basis Data,72.0,1,F3.7b,Senin_11:10-12:00,Senin,11:10-12:00
+CSD60707,Big Data dan Analitik,52.0,1,F3.5a,Senin_11:10-12:00,Senin,11:10-12:00
+CSD60708,Penambangan Data,16.0,1,F4.6,Senin_11:10-12:00,Senin,11:10-12:00
+UBU60003,Kewirausahaan,87.0,1,F2.6,Senin_11:10-12:00,Senin,11:10-12:00
+CIE61205,Pemrograman Web,4.0,1,F2.5,Senin_12:00-12:50,Senin,12:00-12:50
+CIE62209,Pengembangan dan Manajemen Perangkat Lunak,6.0,1,F3.15,Senin_12:00-12:50,Senin,12:00-12:50
+CIS61108,Rekayasa Sistem Informasi,67.0,1,F4.12,Senin_12:00-12:50,Senin,12:00-12:50
+CIS62104,Pemodelan Proses Bisnis,49.0,1,F3.13,Senin_12:00-12:50,Senin,12:00-12:50
+CIT61015,Jaringan Komputer,17.0,1,F2.4,Senin_12:00-12:50,Senin,12:00-12:50
+CIT62017,Teknologi Integrasi Sistem,Belum Ada Dosen,1,F3.7b,Senin_12:00-12:50,Senin,12:00-12:50
+CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,3.0,2,F11.4,Senin_12:00-12:50,Senin,12:00-12:50
+COM60061,Capstone Project,40.0,1,F3.11,Senin_12:00-12:50,Senin,12:00-12:50
+CSD60701,Manajemen Layanan Teknologi Informasi,15.0,1,F4.9,Senin_12:00-12:50,Senin,12:00-12:50
+CSD60707,Big Data dan Analitik,93.0,1,F11.1,Senin_12:00-12:50,Senin,12:00-12:50
+CSD60709,Keamanan Siber,14.0,1,F3.9,Senin_12:00-12:50,Senin,12:00-12:50
+CSD60712,Probabilitas dan Statistika,100.0,1,F3.5b,Senin_12:00-12:50,Senin,12:00-12:50
+CSD60715,Analisis Data Penelitian Kuantitatif,Belum Ada Dosen,1,F3.11,Senin_12:00-12:50,Senin,12:00-12:50
+CSD60717,Teknologi Blockchain dan Platform Keuangan Digital,Belum Ada Dosen,2,F11.3,Senin_12:00-12:50,Senin,12:00-12:50
+CIE62105,Pembelajaran Berdiferensiasi,Belum Ada Dosen,1,F3.9,Senin_12:50-13:40,Senin,12:50-13:40
+CIE62401,Inovasi Digital Kompetitif,45.0,2,F11.1,Senin_12:50-13:40,Senin,12:50-13:40
+CIS62102,Desain Antar Muka Pengguna,16.0,1,F4.7,Senin_12:50-13:40,Senin,12:50-13:40
+CIS62103,Jaringan dan Komputasi Awan,41.0,1,F4.2,Senin_12:50-13:40,Senin,12:50-13:40
+CIS62105,Pengantar Sains Data,92.0,1,F3.18,Senin_12:50-13:40,Senin,12:50-13:40
+COM60061,Capstone Project,108.0,1,F3.2,Senin_12:50-13:40,Senin,12:50-13:40
+CSD60701,Manajemen Layanan Teknologi Informasi,108.0,1,F4.9,Senin_12:50-13:40,Senin,12:50-13:40
+CIS62106,Pemrograman Web,22.0,1,F4.13,Senin_13:40-14:30,Senin,13:40-14:30
+CIT60039,Pengembangan Aplikasi Web Lanjut,1.0,1,F3.6,Senin_13:40-14:30,Senin,13:40-14:30
+CIT61024,Teknologi Keamanan Siber,46.0,2,F4.7,Senin_13:40-14:30,Senin,13:40-14:30
+CIT62010,Sistem Operasi,Belum Ada Dosen,1,F4.14,Senin_13:40-14:30,Senin,13:40-14:30
+CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,48.0,1,F11.3,Senin_13:40-14:30,Senin,13:40-14:30
+COM60051,Metodologi Penelitian dan Penulisan Ilmiah,87.0,1,F3.2,Senin_13:40-14:30,Senin,13:40-14:30
+COM60061,Capstone Project,22.0,1,F11.4,Senin_13:40-14:30,Senin,13:40-14:30
+CSD60709,Keamanan Siber,94.0,1,F4.9,Senin_13:40-14:30,Senin,13:40-14:30
+CSD60712,Probabilitas dan Statistika,93.0,1,F4.13,Senin_13:40-14:30,Senin,13:40-14:30
+CSD60714,Jaminan Kualitas Perangkat Lunak,67.0,1,F2.9,Senin_13:40-14:30,Senin,13:40-14:30
+CIE61113,Pengembangan Program Pelatihan Teknologi Informasi,Belum Ada Dosen,1,F9.1,Senin_14:30-15:20,Senin,14:30-15:20
+CIE61120,Literasi Digital,Belum Ada Dosen,1,F3.7a,Senin_14:30-15:20,Senin,14:30-15:20
+CIE61404,Manajemen Proyek Teknologi Informasi,76.0,1,F11.1,Senin_14:30-15:20,Senin,14:30-15:20
+CIE62201,Perancangan Antarmuka Pengguna,98.0,2,F3.15,Senin_14:30-15:20,Senin,14:30-15:20
+CIE62307,"Sistem Pembelajaran Berbasis Multimedia, Gim, dan Peranti Bergerak",62.0,2,F4.7,Senin_14:30-15:20,Senin,14:30-15:20
+CIS61110,Pengembangan Aplikasi Mobile,47.0,1,F3.6,Senin_14:30-15:20,Senin,14:30-15:20
+CIS62103,Jaringan dan Komputasi Awan,21.0,2,F3.11,Senin_14:30-15:20,Senin,14:30-15:20
+CIT62011,Aljabar Linear dan Matriks,16.0,1,F4.2,Senin_14:30-15:20,Senin,14:30-15:20
+CIT62022,Implementasi dan Pengujian Sistem Informasi,Belum Ada Dosen,1,F3.15,Senin_14:30-15:20,Senin,14:30-15:20
+CSD60708,Penambangan Data,20.0,1,F3.7a,Senin_14:30-15:20,Senin,14:30-15:20
+CSD60708,Penambangan Data,30.0,1,F9.1,Senin_14:30-15:20,Senin,14:30-15:20
+CSD60709,Keamanan Siber,46.0,1,F3.2,Senin_14:30-15:20,Senin,14:30-15:20
+CSD60711,Perancangan Pengalaman Pengguna,4.0,1,F2.9,Senin_14:30-15:20,Senin,14:30-15:20
+CIE62401,Inovasi Digital Kompetitif,6.0,2,F3.12,Senin_15:20-16:10,Senin,15:20-16:10
+CIS60103,Pemrograman Web Lanjut,16.0,1,F4.3,Senin_15:20-16:10,Senin,15:20-16:10
+CIS60104,Transformasi Pemerintah,21.0,1,F4.12,Senin_15:20-16:10,Senin,15:20-16:10
+CIS60106,Sistem Informasi Berkelanjutan,53.0,1,F3.7b,Senin_15:20-16:10,Senin,15:20-16:10
+CIT61006,Pengembangan Aplikasi Web,75.0,1,F2.5,Senin_15:20-16:10,Senin,15:20-16:10
+CIT61026,Internet of Things,90.0,1,F2.6,Senin_15:20-16:10,Senin,15:20-16:10
+CIT62011,Aljabar Linear dan Matriks,107.0,1,F3.5a,Senin_15:20-16:10,Senin,15:20-16:10
+CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,89.0,2,F3.8,Senin_15:20-16:10,Senin,15:20-16:10
+CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,96.0,2,F3.2,Senin_15:20-16:10,Senin,15:20-16:10
+COM60024,Pemrograman Lanjut,37.0,1,F4.13,Senin_15:20-16:10,Senin,15:20-16:10
+CSD60708,Penambangan Data,102.0,1,F2.6,Senin_15:20-16:10,Senin,15:20-16:10
+CIE62117,Teknologi Peranti Internet,79.0,1,F2.5,Senin_16:10-17:00,Senin,16:10-17:00
+CIS61108,Rekayasa Sistem Informasi,47.0,1,F3.10,Senin_16:10-17:00,Senin,16:10-17:00
+CIS62102,Desain Antar Muka Pengguna,87.0,1,F4.7,Senin_16:10-17:00,Senin,16:10-17:00
+CIT60039,Pengembangan Aplikasi Web Lanjut,4.0,1,F9.2,Senin_16:10-17:00,Senin,16:10-17:00
+CIT60039,Pengembangan Aplikasi Web Lanjut,31.0,1,F3.3,Senin_16:10-17:00,Senin,16:10-17:00
+CIT60051,Teknologi Smart City,47.0,1,F2.6,Senin_16:10-17:00,Senin,16:10-17:00
+CIT60051,Teknologi Smart City,67.0,1,F3.16,Senin_16:10-17:00,Senin,16:10-17:00
+CSD60708,Penambangan Data,93.0,1,F3.5b,Senin_16:10-17:00,Senin,16:10-17:00
+CSD60711,Perancangan Pengalaman Pengguna,22.0,1,F3.18,Senin_16:10-17:00,Senin,16:10-17:00
+CSD60711,Perancangan Pengalaman Pengguna,4.0,1,F3.12,Senin_16:10-17:00,Senin,16:10-17:00
+CSD60712,Probabilitas dan Statistika,11.0,1,F3.17,Senin_16:10-17:00,Senin,16:10-17:00
+CSD60713,Jaringan Terapan,90.0,1,F3.11,Senin_16:10-17:00,Senin,16:10-17:00
+CIE61111,Pengenalan Lapangan Persekolahan 1,39.0,1,F3.10,Senin_17:00-17:50,Senin,17:00-17:50
+CIE61404,Manajemen Proyek Teknologi Informasi,60.0,1,F2.5,Senin_17:00-17:50,Senin,17:00-17:50
+CIE62202,Teknologi Platform,16.0,1,F2.1,Senin_17:00-17:50,Senin,17:00-17:50
+CIS62104,Pemodelan Proses Bisnis,6.0,1,F2.1,Senin_17:00-17:50,Senin,17:00-17:50
+CIT62010,Sistem Operasi,20.0,1,F3.2,Senin_17:00-17:50,Senin,17:00-17:50
+CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,29.0,1,F2.2,Senin_17:00-17:50,Senin,17:00-17:50
+COM60014,Pemrograman Dasar,4.0,1,F3.15,Senin_17:00-17:50,Senin,17:00-17:50
+CSD60702,Sistem Pendukung Keputusan,108.0,1,F4.11,Senin_17:00-17:50,Senin,17:00-17:50
+CSD60704,Desain Basis Data,16.0,1,F3.1,Senin_17:00-17:50,Senin,17:00-17:50
+CSD60704,Desain Basis Data,75.0,1,F11.1,Senin_17:00-17:50,Senin,17:00-17:50
+CSD60708,Penambangan Data,52.0,1,F2.1,Senin_17:00-17:50,Senin,17:00-17:50
+CSD60711,Perancangan Pengalaman Pengguna,47.0,1,F4.5,Senin_17:00-17:50,Senin,17:00-17:50
+CSD60716,Analisis Data Penelitian Kualitatif,87.0,1,F3.15,Senin_17:00-17:50,Senin,17:00-17:50
+CIE61113,Pengembangan Program Pelatihan Teknologi Informasi,47.0,1,F3.17,Senin_17:50-18:40,Senin,17:50-18:40
+CIE61114,Pendidikan Orang Dewasa dan Berkelanjutan,Belum Ada Dosen,1,F2.8,Senin_17:50-18:40,Senin,17:50-18:40
+CIE61120,Literasi Digital,11.0,1,F11.3,Senin_17:50-18:40,Senin,17:50-18:40
+CIE62308,Sistem Pembelajaran Jarak Jauh,16.0,1,F2.9,Senin_17:50-18:40,Senin,17:50-18:40
+CIS62110,Perencanaan Strategis Sistem Informasi,6.0,1,F3.2,Senin_17:50-18:40,Senin,17:50-18:40
+CIS62114,Pengembangan Aplikasi Mobile Lanjut,16.0,1,F2.5,Senin_17:50-18:40,Senin,17:50-18:40
+CIS62114,Pengembangan Aplikasi Mobile Lanjut,70.0,2,F3.13,Senin_17:50-18:40,Senin,17:50-18:40
+CIT60044,Keamanan Data dan Privasi,46.0,1,F2.8,Senin_17:50-18:40,Senin,17:50-18:40
+CIT61006,Pengembangan Aplikasi Web,105.0,1,F11.4,Senin_17:50-18:40,Senin,17:50-18:40
+CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,97.0,1,F11.4,Senin_17:50-18:40,Senin,17:50-18:40
+COM60016,Pengantar Keilmuan Komputer,103.0,2,F4.13,Senin_17:50-18:40,Senin,17:50-18:40
+COM60024,Pemrograman Lanjut,20.0,1,F4.13,Senin_17:50-18:40,Senin,17:50-18:40
+COM60024,Pemrograman Lanjut,82.0,1,F3.12,Senin_17:50-18:40,Senin,17:50-18:40
+CSD60708,Penambangan Data,30.0,1,F4.10,Senin_17:50-18:40,Senin,17:50-18:40
+CSD60712,Probabilitas dan Statistika,92.0,1,F3.9,Senin_17:50-18:40,Senin,17:50-18:40

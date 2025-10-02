@@ -1,0 +1,27 @@
+Saya butuh kode dalam bahasa Python untuk melakukan Optimasi Penjadwalan Kuliah sesuai dengan file .csv terlampir yaitu mk_dsi.csv dan ruang_kuliah.csv. Terapkan algoritma Meta-Heuristic bernama Puma Optimization Algorithm (POA) yang kemudian menerapkan Hard Constraints dan Soft Constraints di bawah
+
+
+Hard Constraints
+
+1. Dalam satu ruangan kelas tidak boleh ada dua mata kuliah bersamaan
+
+2. Satu mata kuliah dengan nama dosen yang sama tidak boleh dilaksanakan di lebih dari satu tempat dalam Waktu bersamaan
+
+3. Setiap dosen hanya bisa mengajar satu mata kuliah di satu ruangan di Waktu yang bersamaan
+
+4. Harus dalam Waktu rentang (07.00 - 18.00), dengan Waktu istirahat senin-kamis -> (12.10 - 12.30) dan jumat -> (11.15-12.30), sabtu dan minggu libur, dan untuk pelajaran agama selain islam dilaksanakan di Waktu istirahat di hari jumat
+
+5. Beberapa mata kuliah dilaksanan di ruang khusus seperti laboratorium (praktikum)
+
+
+Soft Constraints:
+
+1. Terdapat prioritas sebagai preferensi jika ada mata kulliah dalam slot Waktu yang sama, semakin kecil nilainya semakin diprioritaskan
+
+2. Beberapa ruangan diberikan tingkatan lantai, dan ruangan lab biasanya berada di Gedung berbeda, minimalkan pergerakan dosen terutama jika perbedaan lantai terlalu jauh
+
+3. Dosen bisa memilih preferensi Waktu mengajar
+
+
+
+buat kode python nya, baut dalam bentu cell jupyter, pastikan berikan juga import library dibutuhkan dan conda-forge atau pip installnya, setelah itu tampilkan juga seluruh hal yang diperlukan baik itu hasil, evaluasi, fitness, score, function, dan apapun yang berkaitan untuk menunjukkan bahwa pengguna algoritma berhasil di buat.
