@@ -1,0 +1,57 @@
+
+--- Menjalankan Ant Colony Optimization ---
+ACO Iteration 1/50 | Best Fitness: 20569
+ACO Iteration 2/50 | Best Fitness: 20569
+ACO Iteration 3/50 | Best Fitness: 20305
+ACO Iteration 4/50 | Best Fitness: 20305
+ACO Iteration 5/50 | Best Fitness: 20305
+ACO Iteration 6/50 | Best Fitness: 20305
+ACO Iteration 7/50 | Best Fitness: 20291
+ACO Iteration 8/50 | Best Fitness: 20291
+ACO Iteration 9/50 | Best Fitness: 20291
+ACO Iteration 10/50 | Best Fitness: 20260
+ACO Iteration 11/50 | Best Fitness: 20260
+ACO Iteration 12/50 | Best Fitness: 20260
+ACO Iteration 13/50 | Best Fitness: 20260
+ACO Iteration 14/50 | Best Fitness: 20260
+ACO Iteration 15/50 | Best Fitness: 20260
+ACO Iteration 16/50 | Best Fitness: 19866
+ACO Iteration 17/50 | Best Fitness: 19866
+ACO Iteration 18/50 | Best Fitness: 19866
+ACO Iteration 19/50 | Best Fitness: 19866
+ACO Iteration 20/50 | Best Fitness: 19866
+ACO Iteration 21/50 | Best Fitness: 19866
+ACO Iteration 22/50 | Best Fitness: 19866
+ACO Iteration 23/50 | Best Fitness: 19866
+ACO Iteration 24/50 | Best Fitness: 19866
+ACO Iteration 25/50 | Best Fitness: 19866
+ACO Iteration 26/50 | Best Fitness: 19866
+ACO Iteration 27/50 | Best Fitness: 19866
+ACO Iteration 28/50 | Best Fitness: 19866
+ACO Iteration 29/50 | Best Fitness: 19866
+ACO Iteration 30/50 | Best Fitness: 19866
+ACO Iteration 31/50 | Best Fitness: 19866
+ACO Iteration 32/50 | Best Fitness: 19866
+ACO Iteration 33/50 | Best Fitness: 19866
+ACO Iteration 34/50 | Best Fitness: 19866
+ACO Iteration 35/50 | Best Fitness: 19866
+ACO Iteration 36/50 | Best Fitness: 19808
+ACO Iteration 37/50 | Best Fitness: 19808
+ACO Iteration 38/50 | Best Fitness: 19551
+ACO Iteration 39/50 | Best Fitness: 19551
+ACO Iteration 40/50 | Best Fitness: 19551
+ACO Iteration 41/50 | Best Fitness: 19551
+ACO Iteration 42/50 | Best Fitness: 19551
+ACO Iteration 43/50 | Best Fitness: 19551
+ACO Iteration 44/50 | Best Fitness: 19551
+ACO Iteration 45/50 | Best Fitness: 19551
+ACO Iteration 46/50 | Best Fitness: 19551
+ACO Iteration 47/50 | Best Fitness: 19551
+ACO Iteration 48/50 | Best Fitness: 19551
+ACO Iteration 49/50 | Best Fitness: 19551
+ACO Iteration 50/50 | Best Fitness: 19551
+
+--- Hasil ACO ---
+Skor Fitness Terbaik: 19551
+Jumlah Pelanggaran Hard Constraint: 192
+Jadwal terbaik dari ACO disimpan sebagai 'jadwal_aco.csv'

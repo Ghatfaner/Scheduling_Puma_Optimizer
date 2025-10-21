@@ -1,0 +1,57 @@
+
+--- Menjalankan Particle Swarm Optimization ---
+PSO Iteration 1/50 | Best Fitness: 20677
+PSO Iteration 2/50 | Best Fitness: 20677
+PSO Iteration 3/50 | Best Fitness: 20677
+PSO Iteration 4/50 | Best Fitness: 20677
+PSO Iteration 5/50 | Best Fitness: 20677
+PSO Iteration 6/50 | Best Fitness: 20677
+PSO Iteration 7/50 | Best Fitness: 20677
+PSO Iteration 8/50 | Best Fitness: 20677
+PSO Iteration 9/50 | Best Fitness: 20677
+PSO Iteration 10/50 | Best Fitness: 20677
+PSO Iteration 11/50 | Best Fitness: 20677
+PSO Iteration 12/50 | Best Fitness: 20677
+PSO Iteration 13/50 | Best Fitness: 20677
+PSO Iteration 14/50 | Best Fitness: 20677
+PSO Iteration 15/50 | Best Fitness: 20677
+PSO Iteration 16/50 | Best Fitness: 20677
+PSO Iteration 17/50 | Best Fitness: 20677
+PSO Iteration 18/50 | Best Fitness: 20677
+PSO Iteration 19/50 | Best Fitness: 20677
+PSO Iteration 20/50 | Best Fitness: 20677
+PSO Iteration 21/50 | Best Fitness: 20677
+PSO Iteration 22/50 | Best Fitness: 20677
+PSO Iteration 23/50 | Best Fitness: 20677
+PSO Iteration 24/50 | Best Fitness: 20677
+PSO Iteration 25/50 | Best Fitness: 20677
+PSO Iteration 26/50 | Best Fitness: 20677
+PSO Iteration 27/50 | Best Fitness: 20677
+PSO Iteration 28/50 | Best Fitness: 20677
+PSO Iteration 29/50 | Best Fitness: 20677
+PSO Iteration 30/50 | Best Fitness: 20677
+PSO Iteration 31/50 | Best Fitness: 20677
+PSO Iteration 32/50 | Best Fitness: 20677
+PSO Iteration 33/50 | Best Fitness: 20677
+PSO Iteration 34/50 | Best Fitness: 20677
+PSO Iteration 35/50 | Best Fitness: 20677
+PSO Iteration 36/50 | Best Fitness: 20677
+PSO Iteration 37/50 | Best Fitness: 20677
+PSO Iteration 38/50 | Best Fitness: 20677
+PSO Iteration 39/50 | Best Fitness: 20677
+PSO Iteration 40/50 | Best Fitness: 20677
+PSO Iteration 41/50 | Best Fitness: 20677
+PSO Iteration 42/50 | Best Fitness: 20677
+PSO Iteration 43/50 | Best Fitness: 20677
+PSO Iteration 44/50 | Best Fitness: 20677
+PSO Iteration 45/50 | Best Fitness: 20677
+PSO Iteration 46/50 | Best Fitness: 20677
+PSO Iteration 47/50 | Best Fitness: 20677
+PSO Iteration 48/50 | Best Fitness: 20677
+PSO Iteration 49/50 | Best Fitness: 20677
+PSO Iteration 50/50 | Best Fitness: 20677
+
+--- Hasil PSO ---
+Skor Fitness Terbaik: 20677
+Jumlah Pelanggaran Hard Constraint: 202
+Jadwal terbaik dari PSO disimpan sebagai 'jadwal_pso.csv'

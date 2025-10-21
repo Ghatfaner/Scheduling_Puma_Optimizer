@@ -1,0 +1,57 @@
+
+--- Menjalankan Artificial Bee Colony Optimization ---
+ABC Iteration 1/50 | Best Fitness: 21211 
+ABC Iteration 2/50 | Best Fitness: 21028 
+ABC Iteration 3/50 | Best Fitness: 20928 
+ABC Iteration 4/50 | Best Fitness: 20638 
+ABC Iteration 5/50 | Best Fitness: 20426 
+ABC Iteration 6/50 | Best Fitness: 20426 
+ABC Iteration 7/50 | Best Fitness: 20426 
+ABC Iteration 8/50 | Best Fitness: 20426 
+ABC Iteration 9/50 | Best Fitness: 20083 
+ABC Iteration 10/50 | Best Fitness: 19991 
+ABC Iteration 11/50 | Best Fitness: 19791 
+ABC Iteration 12/50 | Best Fitness: 19783 
+ABC Iteration 13/50 | Best Fitness: 19601 
+ABC Iteration 14/50 | Best Fitness: 19501 
+ABC Iteration 15/50 | Best Fitness: 19401 
+ABC Iteration 16/50 | Best Fitness: 19401 
+ABC Iteration 17/50 | Best Fitness: 19089 
+ABC Iteration 18/50 | Best Fitness: 19089 
+ABC Iteration 19/50 | Best Fitness: 19089 
+ABC Iteration 20/50 | Best Fitness: 18846 
+ABC Iteration 21/50 | Best Fitness: 18846 
+ABC Iteration 22/50 | Best Fitness: 18846 
+ABC Iteration 23/50 | Best Fitness: 18846 
+ABC Iteration 24/50 | Best Fitness: 18764 
+ABC Iteration 25/50 | Best Fitness: 18664 
+ABC Iteration 26/50 | Best Fitness: 18566 
+ABC Iteration 27/50 | Best Fitness: 18566 
+ABC Iteration 28/50 | Best Fitness: 18518 
+ABC Iteration 29/50 | Best Fitness: 18518 
+ABC Iteration 30/50 | Best Fitness: 18518 
+ABC Iteration 31/50 | Best Fitness: 18306 
+ABC Iteration 32/50 | Best Fitness: 18214 
+ABC Iteration 33/50 | Best Fitness: 18214 
+ABC Iteration 34/50 | Best Fitness: 18214 
+ABC Iteration 35/50 | Best Fitness: 18114 
+ABC Iteration 36/50 | Best Fitness: 18114 
+ABC Iteration 37/50 | Best Fitness: 18114 
+ABC Iteration 38/50 | Best Fitness: 18071 
+ABC Iteration 39/50 | Best Fitness: 17781 
+ABC Iteration 40/50 | Best Fitness: 17781 
+ABC Iteration 41/50 | Best Fitness: 17781 
+ABC Iteration 42/50 | Best Fitness: 17781 
+ABC Iteration 43/50 | Best Fitness: 17781 
+ABC Iteration 44/50 | Best Fitness: 17683 
+ABC Iteration 45/50 | Best Fitness: 17581 
+ABC Iteration 46/50 | Best Fitness: 17581 
+ABC Iteration 47/50 | Best Fitness: 17481 
+ABC Iteration 48/50 | Best Fitness: 17381 
+ABC Iteration 49/50 | Best Fitness: 17381 
+ABC Iteration 50/50 | Best Fitness: 17381 
+
+--- Hasil ABC ---
+Skor Fitness Terbaik: 17381
+Jumlah Pelanggaran Hard Constraint: 170
+Jadwal terbaik dari ABC disimpan sebagai 'jadwal_abc.csv'
