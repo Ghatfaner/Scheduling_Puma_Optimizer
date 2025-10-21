@@ -1,0 +1,27 @@
+
+--- Menjalankan Particle Swarm Optimization ---
+PSO Iteration 1/20 | Best Fitness: 20489
+PSO Iteration 2/20 | Best Fitness: 20489
+PSO Iteration 3/20 | Best Fitness: 20489
+PSO Iteration 4/20 | Best Fitness: 20489
+PSO Iteration 5/20 | Best Fitness: 20489
+PSO Iteration 6/20 | Best Fitness: 20489
+PSO Iteration 7/20 | Best Fitness: 20489
+PSO Iteration 8/20 | Best Fitness: 20489
+PSO Iteration 9/20 | Best Fitness: 20489
+PSO Iteration 10/20 | Best Fitness: 20489
+PSO Iteration 11/20 | Best Fitness: 20489
+PSO Iteration 12/20 | Best Fitness: 20489
+PSO Iteration 13/20 | Best Fitness: 20489
+PSO Iteration 14/20 | Best Fitness: 20489
+PSO Iteration 15/20 | Best Fitness: 20489
+PSO Iteration 16/20 | Best Fitness: 20489
+PSO Iteration 17/20 | Best Fitness: 20489
+PSO Iteration 18/20 | Best Fitness: 20489
+PSO Iteration 19/20 | Best Fitness: 20489
+PSO Iteration 20/20 | Best Fitness: 20489
+
+--- Hasil PSO ---
+Skor Fitness Terbaik: 20489
+Jumlah Pelanggaran Hard Constraint: 201
+Jadwal terbaik dari PSO disimpan sebagai 'jadwal_pso.csv'

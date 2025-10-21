@@ -1,0 +1,27 @@
+
+--- Menjalankan Puma Optimization Algorithm ---
+POA Generation 1/20 | Best Fitness: 21019 | Hard Violations: 207
+POA Generation 2/20 | Best Fitness: 20016 | Hard Violations: 197
+POA Generation 3/20 | Best Fitness: 19708 | Hard Violations: 194
+POA Generation 4/20 | Best Fitness: 20210 | Hard Violations: 199
+POA Generation 5/20 | Best Fitness: 19984 | Hard Violations: 197
+POA Generation 6/20 | Best Fitness: 19392 | Hard Violations: 191
+POA Generation 7/20 | Best Fitness: 19294 | Hard Violations: 190
+POA Generation 8/20 | Best Fitness: 19191 | Hard Violations: 189
+POA Generation 9/20 | Best Fitness: 18899 | Hard Violations: 186
+POA Generation 10/20 | Best Fitness: 18709 | Hard Violations: 184
+POA Generation 11/20 | Best Fitness: 18612 | Hard Violations: 183
+POA Generation 12/20 | Best Fitness: 18412 | Hard Violations: 181
+POA Generation 13/20 | Best Fitness: 18515 | Hard Violations: 182
+POA Generation 14/20 | Best Fitness: 18415 | Hard Violations: 181
+POA Generation 15/20 | Best Fitness: 18221 | Hard Violations: 179
+POA Generation 16/20 | Best Fitness: 18319 | Hard Violations: 180
+POA Generation 17/20 | Best Fitness: 18124 | Hard Violations: 178
+POA Generation 18/20 | Best Fitness: 18112 | Hard Violations: 178
+POA Generation 19/20 | Best Fitness: 18310 | Hard Violations: 180
+POA Generation 20/20 | Best Fitness: 18208 | Hard Violations: 179
+
+--- Hasil POA ---
+Skor Fitness Terbaik: 18210
+Jumlah Pelanggaran Hard Constraint: 179
+Jadwal terbaik dari POA disimpan sebagai 'jadwal_poa.csv'

@@ -1,0 +1,37 @@
+
+--- Menjalankan Puma Optimization Algorithm ---
+POA Generation 1/30 | Best Fitness: 21019 | Hard Violations: 207
+POA Generation 2/30 | Best Fitness: 19978 | Hard Violations: 197
+POA Generation 3/30 | Best Fitness: 19344 | Hard Violations: 190
+POA Generation 4/30 | Best Fitness: 19160 | Hard Violations: 187
+POA Generation 5/30 | Best Fitness: 18861 | Hard Violations: 184
+POA Generation 6/30 | Best Fitness: 18748 | Hard Violations: 183
+POA Generation 7/30 | Best Fitness: 18758 | Hard Violations: 183
+POA Generation 8/30 | Best Fitness: 18552 | Hard Violations: 181
+POA Generation 9/30 | Best Fitness: 18455 | Hard Violations: 180
+POA Generation 10/30 | Best Fitness: 18455 | Hard Violations: 181
+POA Generation 11/30 | Best Fitness: 18351 | Hard Violations: 180
+POA Generation 12/30 | Best Fitness: 18154 | Hard Violations: 178
+POA Generation 13/30 | Best Fitness: 18154 | Hard Violations: 178
+POA Generation 14/30 | Best Fitness: 18104 | Hard Violations: 178
+POA Generation 15/30 | Best Fitness: 18000 | Hard Violations: 177
+POA Generation 16/30 | Best Fitness: 17973 | Hard Violations: 177
+POA Generation 17/30 | Best Fitness: 17673 | Hard Violations: 174
+POA Generation 18/30 | Best Fitness: 17772 | Hard Violations: 175
+POA Generation 19/30 | Best Fitness: 17674 | Hard Violations: 174
+POA Generation 20/30 | Best Fitness: 17646 | Hard Violations: 174
+POA Generation 21/30 | Best Fitness: 17646 | Hard Violations: 174
+POA Generation 22/30 | Best Fitness: 17648 | Hard Violations: 174
+POA Generation 23/30 | Best Fitness: 17928 | Hard Violations: 177
+POA Generation 24/30 | Best Fitness: 17735 | Hard Violations: 175
+POA Generation 25/30 | Best Fitness: 17638 | Hard Violations: 174
+POA Generation 26/30 | Best Fitness: 17231 | Hard Violations: 170
+POA Generation 27/30 | Best Fitness: 17218 | Hard Violations: 170
+POA Generation 28/30 | Best Fitness: 17224 | Hard Violations: 170
+POA Generation 29/30 | Best Fitness: 17216 | Hard Violations: 170
+POA Generation 30/30 | Best Fitness: 17138 | Hard Violations: 169
+
+--- Hasil POA ---
+Skor Fitness Terbaik: 17035
+Jumlah Pelanggaran Hard Constraint: 168
+Jadwal terbaik dari POA disimpan sebagai 'jadwal_poa.csv'

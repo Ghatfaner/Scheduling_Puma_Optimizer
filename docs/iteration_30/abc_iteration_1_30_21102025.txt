@@ -1,0 +1,37 @@
+
+--- Menjalankan Artificial Bee Colony Optimization ---
+ABC Iteration 1/30 | Best Fitness: 20381 
+ABC Iteration 2/30 | Best Fitness: 20250 
+ABC Iteration 3/30 | Best Fitness: 20250 
+ABC Iteration 4/30 | Best Fitness: 20250 
+ABC Iteration 5/30 | Best Fitness: 20244 
+ABC Iteration 6/30 | Best Fitness: 20244 
+ABC Iteration 7/30 | Best Fitness: 19844 
+ABC Iteration 8/30 | Best Fitness: 19539 
+ABC Iteration 9/30 | Best Fitness: 19332 
+ABC Iteration 10/30 | Best Fitness: 19232 
+ABC Iteration 11/30 | Best Fitness: 19146 
+ABC Iteration 12/30 | Best Fitness: 19146 
+ABC Iteration 13/30 | Best Fitness: 19146 
+ABC Iteration 14/30 | Best Fitness: 19146 
+ABC Iteration 15/30 | Best Fitness: 19134 
+ABC Iteration 16/30 | Best Fitness: 19119 
+ABC Iteration 17/30 | Best Fitness: 19105 
+ABC Iteration 18/30 | Best Fitness: 19105 
+ABC Iteration 19/30 | Best Fitness: 19021 
+ABC Iteration 20/30 | Best Fitness: 18815 
+ABC Iteration 21/30 | Best Fitness: 18815 
+ABC Iteration 22/30 | Best Fitness: 18703 
+ABC Iteration 23/30 | Best Fitness: 18602 
+ABC Iteration 24/30 | Best Fitness: 18502 
+ABC Iteration 25/30 | Best Fitness: 18502 
+ABC Iteration 26/30 | Best Fitness: 18397 
+ABC Iteration 27/30 | Best Fitness: 18271 
+ABC Iteration 28/30 | Best Fitness: 18146 
+ABC Iteration 29/30 | Best Fitness: 18146 
+ABC Iteration 30/30 | Best Fitness: 18146 
+
+--- Hasil ABC ---
+Skor Fitness Terbaik: 18146
+Jumlah Pelanggaran Hard Constraint: 179
+Jadwal terbaik dari ABC disimpan sebagai 'jadwal_abc.csv'

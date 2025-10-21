@@ -1,0 +1,27 @@
+
+--- Menjalankan Ant Colony Optimization ---
+ACO Iteration 1/20 | Best Fitness: 21283
+ACO Iteration 2/20 | Best Fitness: 21165
+ACO Iteration 3/20 | Best Fitness: 20369
+ACO Iteration 4/20 | Best Fitness: 20369
+ACO Iteration 5/20 | Best Fitness: 20369
+ACO Iteration 6/20 | Best Fitness: 20369
+ACO Iteration 7/20 | Best Fitness: 20232
+ACO Iteration 8/20 | Best Fitness: 20232
+ACO Iteration 9/20 | Best Fitness: 20232
+ACO Iteration 10/20 | Best Fitness: 20232
+ACO Iteration 11/20 | Best Fitness: 19960
+ACO Iteration 12/20 | Best Fitness: 19960
+ACO Iteration 13/20 | Best Fitness: 19960
+ACO Iteration 14/20 | Best Fitness: 19960
+ACO Iteration 15/20 | Best Fitness: 19960
+ACO Iteration 16/20 | Best Fitness: 19960
+ACO Iteration 17/20 | Best Fitness: 19960
+ACO Iteration 18/20 | Best Fitness: 19712
+ACO Iteration 19/20 | Best Fitness: 19712
+ACO Iteration 20/20 | Best Fitness: 19712
+
+--- Hasil ACO ---
+Skor Fitness Terbaik: 19712
+Jumlah Pelanggaran Hard Constraint: 194
+Jadwal terbaik dari ACO disimpan sebagai 'jadwal_aco.csv'
