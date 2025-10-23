@@ -208,4 +208,4 @@ __marimo__/
 
 /puma/** 
 
-/notebooks/mlruns/**
+# /notebooks/mlruns/**

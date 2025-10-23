@@ -1,0 +1,846 @@
+kode_mk,nama_mk,prodi,prioritas,berminat,dosen_id,dosen_list,jenis,ruang,waktu
+CIE61101,Perkembangan Peserta Didik,Pendidikan Teknologi Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",39.0,['39.0'],reguler,F3.16,Jumat_17:50-18:40
+CIE61102,Perkembangan Peserta Didik,Pendidikan Teknologi Informasi,2,Pengampu,59.0,['59.0'],reguler,F3.5b,Selasa_17:50-18:40
+CIE61102,Filsafat Pendidikan dan Sains,Pendidikan Teknologi Informasi,1,Pengampu,Belum Ada Dosen,['Belum Ada Dosen'],reguler,F3.7a,Kamis_17:00-17:50
+CIE61103,Filsafat Pendidikan dan Sains,Pendidikan Teknologi Informasi,2,Pengampu,103.0,['103.0'],reguler,F2.1,Selasa_08:40-09:30
+CIE61103,Komunikasi dan Teknologi Pendidikan,Pendidikan Teknologi Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",103.0,['103.0'],reguler,F4.14,Rabu_15:20-16:10
+CIE61104,Komunikasi dan Teknologi Pendidikan,Pendidikan Teknologi Informasi,1,Pengampu,39.0,['39.0'],reguler,F3.18,Selasa_12:50-13:40
+CIE61108,Penilaian Hasil Belajar,Pendidikan Teknologi Informasi,1,Pengampu,100.0,['100.0'],reguler,F2.4,Kamis_17:50-18:40
+CIE61109,Pembelajaran Mikro,Pendidikan Teknologi Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",39.0,['39.0'],reguler,F4.4,Rabu_14:30-15:20
+CIE61110,Pembelajaran Mikro,Pendidikan Teknologi Informasi,1,Pengampu,100.0,['100.0'],reguler,F9.1,Kamis_07:50-08:40
+CIE61110,Perancangan Pembelajaran,Pendidikan Teknologi Informasi,1,Pengampu,39.0,['39.0'],reguler,F3.6,Jumat_14:30-15:20
+CIE61110,Perancangan Pembelajaran,Pendidikan Teknologi Informasi,1,Pengampu,Belum Ada Dosen,['Belum Ada Dosen'],reguler,F3.13,Senin_12:00-12:50
+CIE61110,Perancangan Pembelajaran,Pendidikan Teknologi Informasi,1,Pengampu,100.0,['100.0'],reguler,F3.13,Rabu_17:50-18:40
+CIE61111,Pengenalan Lapangan Persekolahan 1,Pendidikan Teknologi Informasi,1,"Pengelola, Pengampu",103.0,['103.0'],reguler,F3.14,Kamis_09:30-10:20
+CIE61111,Pengenalan Lapangan Persekolahan 1,Pendidikan Teknologi Informasi,1,Pengampu,39.0,['39.0'],reguler,F2.6,Rabu_17:50-18:40
+CIE61111,Pengenalan Lapangan Persekolahan 1,Pendidikan Teknologi Informasi,1,Pengampu,Belum Ada Dosen,['Belum Ada Dosen'],reguler,F3.5a,Selasa_07:00-07:50
+CIE61111,Pengenalan Lapangan Persekolahan 1,Pendidikan Teknologi Informasi,2,Pengampu,59.0,['59.0'],reguler,F9.2,Selasa_17:00-17:50
+CIE61112,Pengenalan Lapangan Persekolahan 2,Pendidikan Teknologi Informasi,1,"Pengelola, Pengampu",103.0,['103.0'],reguler,F2.4,Senin_08:40-09:30
+CIE61113,Pengenalan Lapangan Persekolahan 3,Pendidikan Teknologi Informasi,1,Pengampu,39.0,['39.0'],reguler,F3.8,Jumat_11:15-12:05_AGAMA_KHUSUS
+CIE61114,Pengenalan Lapangan Persekolahan 4,Pendidikan Teknologi Informasi,1,Pengampu,Belum Ada Dosen,['Belum Ada Dosen'],reguler,F4.14,Jumat_08:40-09:30
+CIE61115,Pengenalan Lapangan Persekolahan 5,Pendidikan Teknologi Informasi,2,Pengampu,59.0,['59.0'],reguler,F4.4,Rabu_12:50-13:40
+CIE61113,Pengembangan Program Pelatihan Teknologi Informasi,Pendidikan Teknologi Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",Belum Ada Dosen,['Belum Ada Dosen'],reguler,F4.12,Rabu_16:10-17:00
+CIE61113,Pengembangan Program Pelatihan Teknologi Informasi,Pendidikan Teknologi Informasi,1,"Pengelola, Pengampu",47.0,['47.0'],reguler,F3.8,Selasa_14:30-15:20
+CIE61114,Pendidikan Orang Dewasa dan Berkelanjutan,Pendidikan Teknologi Informasi,1,Pengampu,39.0,['39.0'],reguler,F9.1,Jumat_13:40-14:30
+CIE61114,Pendidikan Orang Dewasa dan Berkelanjutan,Pendidikan Teknologi Informasi,1,Pengampu,Belum Ada Dosen,['Belum Ada Dosen'],reguler,F2.2,Senin_09:30-10:20
+CIE61114,Pendidikan Orang Dewasa dan Berkelanjutan,Pendidikan Teknologi Informasi,2,Pengampu,59.0,['59.0'],reguler,F2.1,Selasa_15:20-16:10
+CIE61115,Manajemen Sistem Pendidikan,Pendidikan Teknologi Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",39.0,['39.0'],reguler,F4.14,Kamis_07:00-07:50
+CIE61119,Multimodal Storytelling,Pendidikan Teknologi Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",47.0,['47.0'],reguler,F3.10,Selasa_07:50-08:40
+CIE61119,Multimodal Storytelling,Pendidikan Teknologi Informasi,1,Pengampu,Belum Ada Dosen,['Belum Ada Dosen'],reguler,F3.15,Selasa_08:40-09:30
+CIE61120,Literasi Digital,Pendidikan Teknologi Informasi,1,Pengampu,11.0,['11.0'],reguler,F2.1,Senin_12:50-13:40
+CIE61120,Literasi Digital,Pendidikan Teknologi Informasi,1,Pengampu,Belum Ada Dosen,['Belum Ada Dosen'],reguler,F4.12,Senin_12:00-12:50
+CIE61120,Literasi Digital,Pendidikan Teknologi Informasi,1,Pengampu,Belum Ada Dosen,['Belum Ada Dosen'],reguler,F3.16,Selasa_16:10-17:00
+CIE61120,Literasi Digital,Pendidikan Teknologi Informasi,2,Pengampu,12.0,['12.0'],reguler,F3.12,Senin_17:50-18:40
+CIE61120,Literasi Digital,Pendidikan Teknologi Informasi,2,Pengampu,103.0,['103.0'],reguler,F3.2,Kamis_11:10-12:00
+CIE61205,Pemrograman Web,Pendidikan Teknologi Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",103.0,['103.0'],reguler,F3.18,Rabu_08:40-09:30
+CIE61205,Pemrograman Web,Pendidikan Teknologi Informasi,1,"Pengelola, Pengampu",4.0,['4.0'],reguler,F9.1,Senin_11:10-12:00
+CIE61205,Pemrograman Web,Pendidikan Teknologi Informasi,1,"Pengelola, Pengampu",47.0,['47.0'],reguler,F3.2,Selasa_10:20-11:10
+CIE61205,Pemrograman Web,Pendidikan Teknologi Informasi,1,Pengampu,75.0,['75.0'],reguler,F3.1,Rabu_13:40-14:30
+CIE61205,Pemrograman Web,Pendidikan Teknologi Informasi,1,Pengampu,82.0,['82.0'],reguler,F9.2,Jumat_14:30-15:20
+CIE61205,Pemrograman Web,Pendidikan Teknologi Informasi,1,Pengampu,105.0,['105.0'],reguler,F2.8,Selasa_17:50-18:40
+CIE61206,Jaringan Komputer,Pendidikan Teknologi Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",17.0,['17.0'],reguler,F9.2,Senin_12:00-12:50
+CIE61206,Jaringan Komputer,Pendidikan Teknologi Informasi,1,Pengampu,39.0,['39.0'],reguler,F2.9,Rabu_17:00-17:50
+CIE61206,Jaringan Komputer,Pendidikan Teknologi Informasi,1,Pengampu,75.0,['75.0'],reguler,F2.4,Senin_17:50-18:40
+CIE61206,Jaringan Komputer,Pendidikan Teknologi Informasi,1,Pengampu,79.0,['79.0'],reguler,F4.7,Jumat_11:15-12:05_AGAMA_KHUSUS
+CIE61208,Basis Data,Pendidikan Teknologi Informasi,1,Pengampu,4.0,['4.0'],reguler,F3.18,Senin_13:40-14:30
+CIE61208,Basis Data,Pendidikan Teknologi Informasi,1,Pengampu,60.0,['60.0'],reguler,F2.8,Senin_10:20-11:10
+CIE61208,Basis Data,Pendidikan Teknologi Informasi,1,Pengampu,75.0,['75.0'],reguler,F4.2,Kamis_08:40-09:30
+CIE61208,Basis Data,Pendidikan Teknologi Informasi,1,Pengampu,91.0,['91.0'],reguler,F4.12,Selasa_16:10-17:00
+CIE61208,Basis Data,Pendidikan Teknologi Informasi,1,Pengampu,102.0,['102.0'],reguler,F4.14,Selasa_15:20-16:10
+CIE61208,Basis Data,Pendidikan Teknologi Informasi,1,Pengampu,108.0,['108.0'],reguler,F9.1,Jumat_15:20-16:10
+CIE61215,Pengembangan Aplikasi Peranti Bergerak,Pendidikan Teknologi Informasi,1,"Pengelola, Pengampu",47.0,['47.0'],reguler,F3.14,Senin_12:50-13:40
+CIE61301,Kalkulus dan Aljabar Linear,Pendidikan Teknologi Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",103.0,['103.0'],reguler,F4.5,Jumat_15:20-16:10
+CIE61301,Kalkulus dan Aljabar Linear,Pendidikan Teknologi Informasi,1,Pengampu,100.0,['100.0'],reguler,F3.3,Senin_08:40-09:30
+CIE61301,Kalkulus dan Aljabar Linear,Pendidikan Teknologi Informasi,2,Pengampu,75.0,['75.0'],reguler,F3.10,Rabu_10:20-11:10
+CIE61402,Paradigma Berpikir Komputasi,Pendidikan Teknologi Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",47.0,['47.0'],reguler,F3.1,Selasa_17:50-18:40
+CIE61403,Paradigma Berpikir Sistem dan Desain,Pendidikan Teknologi Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",47.0,['47.0'],reguler,F3.10,Senin_07:00-07:50
+CIE61404,Manajemen Proyek Teknologi Informasi,Pendidikan Teknologi Informasi,1,Pengampu,6.0,['6.0'],reguler,F3.18,Selasa_15:20-16:10
+CIE61404,Manajemen Proyek Teknologi Informasi,Pendidikan Teknologi Informasi,1,Pengampu,60.0,['60.0'],reguler,F3.4,Jumat_11:15-12:05_AGAMA_KHUSUS
+CIE61404,Manajemen Proyek Teknologi Informasi,Pendidikan Teknologi Informasi,1,Pengampu,67.0,['67.0'],reguler,F3.8,Selasa_14:30-15:20
+CIE61404,Manajemen Proyek Teknologi Informasi,Pendidikan Teknologi Informasi,1,Pengampu,76.0,['76.0'],reguler,F3.18,Selasa_12:50-13:40
+CIE61404,Manajemen Proyek Teknologi Informasi,Pendidikan Teknologi Informasi,2,Pengampu,62.0,['62.0'],reguler,F2.5,Rabu_17:00-17:50
+CIE61404,Manajemen Proyek Teknologi Informasi,Pendidikan Teknologi Informasi,2,Pengampu,105.0,['105.0'],reguler,F3.1,Rabu_14:30-15:20
+CIE62104,Pengembangan Kurikulum,Pendidikan Teknologi Informasi,1,Pengampu,Belum Ada Dosen,['Belum Ada Dosen'],reguler,F2.8,Selasa_10:20-11:10
+CIE62104,Pengembangan Kurikulum,Pendidikan Teknologi Informasi,1,Pengampu,Belum Ada Dosen,['Belum Ada Dosen'],reguler,F9.2,Senin_08:40-09:30
+CIE62105,Pembelajaran Berdiferensiasi,Pendidikan Teknologi Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",Belum Ada Dosen,['Belum Ada Dosen'],reguler,F2.4,Rabu_12:00-12:50
+CIE62105,Pembelajaran Berdiferensiasi,Pendidikan Teknologi Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",103.0,['103.0'],reguler,F2.9,Selasa_13:40-14:30
+CIE62105,Pembelajaran Berdiferensiasi,Pendidikan Teknologi Informasi,1,Pengampu,Belum Ada Dosen,['Belum Ada Dosen'],reguler,F2.5,Kamis_07:00-07:50
+CIE62106,Teori dan Sains Belajar,Pendidikan Teknologi Informasi,1,Pengampu,Belum Ada Dosen,['Belum Ada Dosen'],reguler,F3.17,Jumat_17:00-17:50
+CIE62106,Teori dan Sains Belajar,Pendidikan Teknologi Informasi,1,Pengampu,Belum Ada Dosen,['Belum Ada Dosen'],reguler,F3.7b,Jumat_14:30-15:20
+CIE62106,Teori dan Sains Belajar,Pendidikan Teknologi Informasi,1,Pengampu,100.0,['100.0'],reguler,F4.13,Kamis_08:40-09:30
+CIE62107,Lingkungan Pembelajaran Digital,Pendidikan Teknologi Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",47.0,['47.0'],reguler,F2.9,Senin_11:10-12:00
+CIE62107,Lingkungan Pembelajaran Digital,Pendidikan Teknologi Informasi,1,"Pengelola, Pengampu",103.0,['103.0'],reguler,F3.10,Rabu_12:50-13:40
+CIE62107,Lingkungan Pembelajaran Digital,Pendidikan Teknologi Informasi,1,Pengampu,40.0,['40.0'],reguler,F3.3,Selasa_07:50-08:40
+CIE62107,Lingkungan Pembelajaran Digital,Pendidikan Teknologi Informasi,1,Pengampu,Belum Ada Dosen,['Belum Ada Dosen'],reguler,F2.5,Rabu_13:40-14:30
+CIE62116,Teknologi Komputasi Awan,Pendidikan Teknologi Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",17.0,['17.0'],reguler,F3.1,Rabu_12:50-13:40
+CIE62116,Teknologi Komputasi Awan,Pendidikan Teknologi Informasi,1,Pengampu,20.0,['20.0'],reguler,F2.6,Rabu_11:10-12:00
+CIE62116,Teknologi Komputasi Awan,Pendidikan Teknologi Informasi,1,Pengampu,Belum Ada Dosen,['Belum Ada Dosen'],reguler,F4.4,Rabu_12:00-12:50
+CIE62117,Teknologi Peranti Internet,Pendidikan Teknologi Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",17.0,['17.0'],reguler,F3.7a,Selasa_12:50-13:40
+CIE62117,Teknologi Peranti Internet,Pendidikan Teknologi Informasi,1,Pengampu,16.0,['16.0'],reguler,F3.8,Kamis_07:50-08:40
+CIE62117,Teknologi Peranti Internet,Pendidikan Teknologi Informasi,1,Pengampu,20.0,['20.0'],reguler,F3.12,Jumat_09:30-10:20
+CIE62117,Teknologi Peranti Internet,Pendidikan Teknologi Informasi,1,Pengampu,79.0,['79.0'],reguler,F3.4,Senin_14:30-15:20
+CIE62117,Teknologi Peranti Internet,Pendidikan Teknologi Informasi,2,Pengampu,Belum Ada Dosen,['Belum Ada Dosen'],reguler,F9.2,Kamis_11:10-12:00
+CIE62117,Teknologi Peranti Internet,Pendidikan Teknologi Informasi,2,Pengampu,103.0,['103.0'],reguler,F11.3,Rabu_12:50-13:40
+CIE62118,Sistem Pembelajaran Bergamifikasi dan Terpersonalisasi,Pendidikan Teknologi Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",47.0,['47.0'],reguler,F3.7b,Rabu_07:50-08:40
+CIE62118,Sistem Pembelajaran Bergamifikasi dan Terpersonalisasi,Pendidikan Teknologi Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",103.0,['103.0'],reguler,F11.1,Jumat_17:00-17:50
+CIE62118,Sistem Pembelajaran Bergamifikasi dan Terpersonalisasi,Pendidikan Teknologi Informasi,1,Pengampu,40.0,['40.0'],reguler,F4.3,Jumat_14:30-15:20
+CIE62118,Sistem Pembelajaran Bergamifikasi dan Terpersonalisasi,Pendidikan Teknologi Informasi,2,Pengampu,16.0,['16.0'],reguler,F4.11,Jumat_13:40-14:30
+CIE62118,Sistem Pembelajaran Bergamifikasi dan Terpersonalisasi,Pendidikan Teknologi Informasi,2,Pengampu,Belum Ada Dosen,['Belum Ada Dosen'],reguler,F3.2,Jumat_15:20-16:10
+CIE62201,Perancangan Antarmuka Pengguna,Pendidikan Teknologi Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",22.0,['22.0'],reguler,F3.8,Senin_12:50-13:40
+CIE62201,Perancangan Antarmuka Pengguna,Pendidikan Teknologi Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",45.0,['45.0'],reguler,F3.5b,Jumat_13:40-14:30
+CIE62201,Perancangan Antarmuka Pengguna,Pendidikan Teknologi Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",47.0,['47.0'],reguler,F4.2,Jumat_07:50-08:40
+CIE62201,Perancangan Antarmuka Pengguna,Pendidikan Teknologi Informasi,1,"Pengelola, Pengampu",4.0,['4.0'],reguler,F4.13,Senin_07:00-07:50
+CIE62201,Perancangan Antarmuka Pengguna,Pendidikan Teknologi Informasi,1,Pengampu,16.0,['16.0'],reguler,F3.5a,Kamis_17:00-17:50
+CIE62201,Perancangan Antarmuka Pengguna,Pendidikan Teknologi Informasi,1,Pengampu,60.0,['60.0'],reguler,F4.12,Senin_12:50-13:40
+CIE62201,Perancangan Antarmuka Pengguna,Pendidikan Teknologi Informasi,1,Pengampu,62.0,['62.0'],reguler,F4.11,Senin_17:50-18:40
+CIE62201,Perancangan Antarmuka Pengguna,Pendidikan Teknologi Informasi,1,Pengampu,Belum Ada Dosen,['Belum Ada Dosen'],reguler,F3.15,Senin_12:00-12:50
+CIE62201,Perancangan Antarmuka Pengguna,Pendidikan Teknologi Informasi,2,Pengampu,12.0,['12.0'],reguler,F4.14,Selasa_17:50-18:40
+CIE62201,Perancangan Antarmuka Pengguna,Pendidikan Teknologi Informasi,2,Pengampu,98.0,['98.0'],reguler,F3.18,Jumat_08:40-09:30
+CIE62202,Teknologi Platform,Pendidikan Teknologi Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",17.0,['17.0'],reguler,F2.5,Jumat_11:15-12:05_AGAMA_KHUSUS
+CIE62202,Teknologi Platform,Pendidikan Teknologi Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",47.0,['47.0'],reguler,F3.5b,Jumat_11:15-12:05_AGAMA_KHUSUS
+CIE62202,Teknologi Platform,Pendidikan Teknologi Informasi,1,Pengampu,16.0,['16.0'],reguler,F3.7a,Kamis_12:00-12:50
+CIE62202,Teknologi Platform,Pendidikan Teknologi Informasi,1,Pengampu,Belum Ada Dosen,['Belum Ada Dosen'],reguler,F3.1,Jumat_11:10-12:00
+CIE62203,Pemrograman Berbasis Objek,Pendidikan Teknologi Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",98.0,['98.0'],reguler,F3.17,Kamis_10:20-11:10
+CIE62203,Pemrograman Berbasis Objek,Pendidikan Teknologi Informasi,1,"Pengelola, Pengampu",4.0,['4.0'],reguler,F2.8,Jumat_08:40-09:30
+CIE62203,Pemrograman Berbasis Objek,Pendidikan Teknologi Informasi,1,"Pengelola, Pengampu",16.0,['16.0'],reguler,F2.1,Jumat_11:10-12:00
+CIE62203,Pemrograman Berbasis Objek,Pendidikan Teknologi Informasi,1,"Pengelola, Pengampu",20.0,['20.0'],reguler,F3.13,Senin_17:00-17:50
+CIE62203,Pemrograman Berbasis Objek,Pendidikan Teknologi Informasi,1,"Pengelola, Pengampu",52.0,['52.0'],reguler,F11.1,Jumat_11:10-12:00
+CIE62203,Pemrograman Berbasis Objek,Pendidikan Teknologi Informasi,1,Pengampu,67.0,['67.0'],reguler,F2.8,Jumat_11:15-12:05_AGAMA_KHUSUS
+CIE62203,Pemrograman Berbasis Objek,Pendidikan Teknologi Informasi,1,Pengampu,70.0,['70.0'],reguler,F3.8,Selasa_14:30-15:20
+CIE62203,Pemrograman Berbasis Objek,Pendidikan Teknologi Informasi,1,Pengampu,75.0,['75.0'],reguler,F3.16,Kamis_10:20-11:10
+CIE62203,Pemrograman Berbasis Objek,Pendidikan Teknologi Informasi,1,Pengampu,76.0,['76.0'],reguler,F3.11,Kamis_12:50-13:40
+CIE62203,Pemrograman Berbasis Objek,Pendidikan Teknologi Informasi,1,Pengampu,91.0,['91.0'],reguler,F3.7a,Senin_15:20-16:10
+CIE62204,Paradigma Sistem,Pendidikan Teknologi Informasi,1,Pengampu,6.0,['6.0'],reguler,F4.14,Jumat_09:30-10:20
+CIE62209,Pengembangan dan Manajemen Perangkat Lunak,Pendidikan Teknologi Informasi,1,"Pengelola, Pengampu",16.0,['16.0'],reguler,F11.4,Rabu_15:20-16:10
+CIE62209,Pengembangan dan Manajemen Perangkat Lunak,Pendidikan Teknologi Informasi,1,"Pengelola, Pengampu",47.0,['47.0'],reguler,F3.5a,Rabu_16:10-17:00
+CIE62209,Pengembangan dan Manajemen Perangkat Lunak,Pendidikan Teknologi Informasi,1,Pengampu,1.0,['1.0'],reguler,F3.11,Jumat_11:15-12:05_AGAMA_KHUSUS
+CIE62209,Pengembangan dan Manajemen Perangkat Lunak,Pendidikan Teknologi Informasi,1,Pengampu,6.0,['6.0'],reguler,F3.13,Rabu_07:50-08:40
+CIE62209,Pengembangan dan Manajemen Perangkat Lunak,Pendidikan Teknologi Informasi,1,Pengampu,40.0,['40.0'],reguler,F3.9,Rabu_07:50-08:40
+CIE62209,Pengembangan dan Manajemen Perangkat Lunak,Pendidikan Teknologi Informasi,1,Pengampu,60.0,['60.0'],reguler,F3.7a,Jumat_13:40-14:30
+CIE62209,Pengembangan dan Manajemen Perangkat Lunak,Pendidikan Teknologi Informasi,1,Pengampu,67.0,['67.0'],reguler,F3.17,Kamis_12:00-12:50
+CIE62209,Pengembangan dan Manajemen Perangkat Lunak,Pendidikan Teknologi Informasi,1,Pengampu,76.0,['76.0'],reguler,F11.1,Rabu_09:30-10:20
+CIE62209,Pengembangan dan Manajemen Perangkat Lunak,Pendidikan Teknologi Informasi,2,Pengampu,22.0,['22.0'],reguler,F3.12,Kamis_12:50-13:40
+CIE62209,Pengembangan dan Manajemen Perangkat Lunak,Pendidikan Teknologi Informasi,2,Pengampu,62.0,['62.0'],reguler,F11.4,Jumat_14:30-15:20
+CIE62209,Pengembangan dan Manajemen Perangkat Lunak,Pendidikan Teknologi Informasi,2,Pengampu,Belum Ada Dosen,['Belum Ada Dosen'],reguler,F4.9,Kamis_17:50-18:40
+CIE62303,Kecerdasan Artifisial,Pendidikan Teknologi Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",92.0,['92.0'],reguler,F4.7,Senin_17:50-18:40
+CIE62303,Kecerdasan Artifisial,Pendidikan Teknologi Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",94.0,['94.0'],reguler,F3.10,Senin_11:10-12:00
+CIE62303,Kecerdasan Artifisial,Pendidikan Teknologi Informasi,1,"Pengelola, Pengampu",30.0,['30.0'],reguler,F4.11,Jumat_07:50-08:40
+CIE62303,Kecerdasan Artifisial,Pendidikan Teknologi Informasi,1,"Pengelola, Pengampu",107.0,['107.0'],reguler,F3.18,Kamis_14:30-15:20
+CIE62303,Kecerdasan Artifisial,Pendidikan Teknologi Informasi,1,Pengampu,16.0,['16.0'],reguler,F3.18,Selasa_07:00-07:50
+CIE62303,Kecerdasan Artifisial,Pendidikan Teknologi Informasi,1,Pengampu,20.0,['20.0'],reguler,F3.7a,Kamis_16:10-17:00
+CIE62303,Kecerdasan Artifisial,Pendidikan Teknologi Informasi,1,Pengampu,29.0,['29.0'],reguler,F2.8,Kamis_17:50-18:40
+CIE62303,Kecerdasan Artifisial,Pendidikan Teknologi Informasi,1,Pengampu,52.0,['52.0'],reguler,F4.11,Senin_07:00-07:50
+CIE62303,Kecerdasan Artifisial,Pendidikan Teknologi Informasi,1,Pengampu,97.0,['97.0'],reguler,F3.7a,Senin_08:40-09:30
+CIE62305,Pembelajaran Emosional Sosial,Pendidikan Teknologi Informasi,1,Pengampu,Belum Ada Dosen,['Belum Ada Dosen'],reguler,F4.6,Jumat_11:15-12:05_AGAMA_KHUSUS
+CIE62305,Pembelajaran Emosional Sosial,Pendidikan Teknologi Informasi,1,Pengampu,Belum Ada Dosen,['Belum Ada Dosen'],reguler,F3.15,Selasa_14:30-15:20
+CIE62306,Pembelajaran Inklusif,Pendidikan Teknologi Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",47.0,['47.0'],reguler,F4.10,Selasa_07:50-08:40
+CIE62306,Pembelajaran Inklusif,Pendidikan Teknologi Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",Belum Ada Dosen,['Belum Ada Dosen'],reguler,F9.2,Senin_13:40-14:30
+CIE62306,Pembelajaran Inklusif,Pendidikan Teknologi Informasi,1,Pengampu,Belum Ada Dosen,['Belum Ada Dosen'],reguler,F4.12,Selasa_08:40-09:30
+CIE62306,Pembelajaran Inklusif,Pendidikan Teknologi Informasi,2,Pengampu,59.0,['59.0'],reguler,F2.8,Rabu_09:30-10:20
+CIE62306,Pembelajaran Inklusif,Pendidikan Teknologi Informasi,2,Pengampu,103.0,['103.0'],reguler,F3.15,Selasa_16:10-17:00
+CIE62307,"Sistem Pembelajaran Berbasis Multimedia, Gim, dan Peranti Bergerak",Pendidikan Teknologi Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",47.0,['47.0'],reguler,F11.4,Selasa_07:50-08:40
+CIE62307,"Sistem Pembelajaran Berbasis Multimedia, Gim, dan Peranti Bergerak",Pendidikan Teknologi Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",103.0,['103.0'],reguler,F3.6,Jumat_07:00-07:50
+CIE62307,"Sistem Pembelajaran Berbasis Multimedia, Gim, dan Peranti Bergerak",Pendidikan Teknologi Informasi,1,"Pengelola, Pengampu",16.0,['16.0'],reguler,F11.4,Rabu_07:00-07:50
+CIE62307,"Sistem Pembelajaran Berbasis Multimedia, Gim, dan Peranti Bergerak",Pendidikan Teknologi Informasi,2,Pengampu,62.0,['62.0'],reguler,F3.4,Selasa_07:00-07:50
+CIE62308,Sistem Pembelajaran Jarak Jauh,Pendidikan Teknologi Informasi,1,"Pengelola, Pengampu",47.0,['47.0'],reguler,F3.5a,Kamis_08:40-09:30
+CIE62308,Sistem Pembelajaran Jarak Jauh,Pendidikan Teknologi Informasi,1,Pengampu,16.0,['16.0'],reguler,F3.3,Selasa_15:20-16:10
+CIE62401,Inovasi Digital Kompetitif,Pendidikan Teknologi Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",47.0,['47.0'],reguler,F4.2,Selasa_08:40-09:30
+CIE62401,Inovasi Digital Kompetitif,Pendidikan Teknologi Informasi,1,"Pengelola, Pengampu",4.0,['4.0'],reguler,F11.1,Senin_15:20-16:10
+CIE62401,Inovasi Digital Kompetitif,Pendidikan Teknologi Informasi,2,Pengampu,6.0,['6.0'],reguler,F3.6,Kamis_17:50-18:40
+CIE62401,Inovasi Digital Kompetitif,Pendidikan Teknologi Informasi,2,Pengampu,45.0,['45.0'],reguler,F2.5,Senin_07:00-07:50
+CIS60101,Perkembangan dan Tren Teknologi Digital,Sistem Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",94.0,['94.0'],reguler,F4.6,Rabu_12:50-13:40
+CIS60101,Perkembangan dan Tren Teknologi Digital,Sistem Informasi,1,"Pengelola, Pengampu",47.0,['47.0'],reguler,F3.15,Senin_15:20-16:10
+CIS60101,Perkembangan dan Tren Teknologi Digital,Sistem Informasi,1,"Pengelola, Pengampu",108.0,['108.0'],reguler,F2.2,Rabu_10:20-11:10
+CIS60101,Perkembangan dan Tren Teknologi Digital,Sistem Informasi,1,Pengampu,16.0,['16.0'],reguler,F9.1,Selasa_08:40-09:30
+CIS60101,Perkembangan dan Tren Teknologi Digital,Sistem Informasi,1,Pengampu,21.0,['21.0'],reguler,F4.6,Jumat_09:30-10:20
+CIS60101,Perkembangan dan Tren Teknologi Digital,Sistem Informasi,1,Pengampu,40.0,['40.0'],reguler,F3.7a,Senin_17:50-18:40
+CIS60101,Perkembangan dan Tren Teknologi Digital,Sistem Informasi,1,Pengampu,Belum Ada Dosen,['Belum Ada Dosen'],reguler,F4.12,Selasa_15:20-16:10
+CIS60101,Perkembangan dan Tren Teknologi Digital,Sistem Informasi,1,Pengampu,87.0,['87.0'],reguler,F3.14,Senin_11:10-12:00
+CIS60101,Perkembangan dan Tren Teknologi Digital,Sistem Informasi,2,Pengampu,12.0,['12.0'],reguler,F9.1,Kamis_17:00-17:50
+CIS60102,Pengembangan Aplikasi Multiplatform,Sistem Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",16.0,['16.0'],reguler,F4.3,Senin_09:30-10:20
+CIS60102,Pengembangan Aplikasi Multiplatform,Sistem Informasi,1,"Pengelola, Pengampu",47.0,['47.0'],reguler,F4.14,Senin_10:20-11:10
+CIS60102,Pengembangan Aplikasi Multiplatform,Sistem Informasi,1,Pengampu,1.0,['1.0'],reguler,F3.16,Kamis_14:30-15:20
+CIS60102,Pengembangan Aplikasi Multiplatform,Sistem Informasi,2,Pengampu,70.0,['70.0'],reguler,F4.11,Rabu_13:40-14:30
+CIS60103,Pemrograman Web Lanjut,Sistem Informasi,1,Pengampu,1.0,['1.0'],reguler,F3.9,Senin_08:40-09:30
+CIS60103,Pemrograman Web Lanjut,Sistem Informasi,1,Pengampu,16.0,['16.0'],reguler,F3.7a,Kamis_16:10-17:00
+CIS60103,Pemrograman Web Lanjut,Sistem Informasi,1,Pengampu,22.0,['22.0'],reguler,F3.8,Rabu_11:10-12:00
+CIS60103,Pemrograman Web Lanjut,Sistem Informasi,1,Pengampu,31.0,['31.0'],reguler,F4.3,Jumat_07:00-07:50
+CIS60104,Transformasi Pemerintah,Sistem Informasi,1,"Pengelola, Pengampu",94.0,['94.0'],reguler,F2.1,Selasa_12:50-13:40
+CIS60104,Transformasi Pemerintah,Sistem Informasi,1,Pengampu,11.0,['11.0'],reguler,F3.3,Rabu_07:00-07:50
+CIS60104,Transformasi Pemerintah,Sistem Informasi,1,Pengampu,21.0,['21.0'],reguler,F3.13,Senin_08:40-09:30
+CIS60104,Transformasi Pemerintah,Sistem Informasi,1,Pengampu,Belum Ada Dosen,['Belum Ada Dosen'],reguler,F3.5b,Rabu_17:00-17:50
+CIS60104,Transformasi Pemerintah,Sistem Informasi,1,Pengampu,108.0,['108.0'],reguler,F3.12,Selasa_14:30-15:20
+CIS60104,Transformasi Pemerintah,Sistem Informasi,2,"Koordinator Pengelola, Pengelola, Pengampu",47.0,['47.0'],reguler,F3.8,Jumat_17:50-18:40
+CIS60104,Transformasi Pemerintah,Sistem Informasi,2,Pengampu,12.0,['12.0'],reguler,F4.6,Selasa_11:10-12:00
+CIS60105,Strategi Transformasi Digital,Sistem Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",53.0,['53.0'],reguler,F3.12,Kamis_12:00-12:50
+CIS60105,Strategi Transformasi Digital,Sistem Informasi,1,"Pengelola, Pengampu",94.0,['94.0'],reguler,F2.8,Jumat_11:15-12:05_AGAMA_KHUSUS
+CIS60105,Strategi Transformasi Digital,Sistem Informasi,1,Pengampu,Belum Ada Dosen,['Belum Ada Dosen'],reguler,F3.15,Kamis_07:50-08:40
+CIS60105,Strategi Transformasi Digital,Sistem Informasi,1,Pengampu,108.0,['108.0'],reguler,F3.12,Rabu_15:20-16:10
+CIS60106,Sistem Informasi Berkelanjutan,Sistem Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",53.0,['53.0'],reguler,F3.17,Rabu_12:50-13:40
+CIS60106,Sistem Informasi Berkelanjutan,Sistem Informasi,1,"Pengelola, Pengampu",94.0,['94.0'],reguler,F2.5,Selasa_17:00-17:50
+CIS60106,Sistem Informasi Berkelanjutan,Sistem Informasi,1,Pengampu,16.0,['16.0'],reguler,F3.2,Senin_08:40-09:30
+CIS60106,Sistem Informasi Berkelanjutan,Sistem Informasi,1,Pengampu,Belum Ada Dosen,['Belum Ada Dosen'],reguler,F4.12,Jumat_07:50-08:40
+CIS60106,Sistem Informasi Berkelanjutan,Sistem Informasi,1,Pengampu,108.0,['108.0'],reguler,F3.7b,Selasa_12:00-12:50
+CIS60107,Gudang Data,Sistem Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",72.0,['72.0'],reguler,F3.15,Senin_08:40-09:30
+CIS60107,Gudang Data,Sistem Informasi,1,"Pengelola, Pengampu",73.0,['73.0'],reguler,F3.10,Kamis_11:10-12:00
+CIS60107,Gudang Data,Sistem Informasi,1,"Pengelola, Pengampu",102.0,['102.0'],reguler,F9.2,Senin_07:00-07:50
+CIS60107,Gudang Data,Sistem Informasi,2,Pengampu,16.0,['16.0'],reguler,F3.9,Kamis_07:00-07:50
+CIS61102,Infrastruktur Teknologi Informasi,Sistem Informasi,1,Pengampu,17.0,['17.0'],reguler,F11.1,Jumat_14:30-15:20
+CIS61102,Infrastruktur Teknologi Informasi,Sistem Informasi,2,Pengampu,103.0,['103.0'],reguler,F4.11,Rabu_10:20-11:10
+CIS61103,Manajemen Bisnis,Sistem Informasi,1,Pengampu,87.0,['87.0'],reguler,F2.5,Kamis_14:30-15:20
+CIS61103,Manajemen Bisnis,Sistem Informasi,1,Pengampu,108.0,['108.0'],reguler,F3.5a,Selasa_14:30-15:20
+CIS61104,Pengantar Sistem informasi,Sistem Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",47.0,['47.0'],reguler,F3.11,Kamis_11:10-12:00
+CIS61104,Pengantar Sistem informasi,Sistem Informasi,1,"Pengelola, Pengampu",108.0,['108.0'],reguler,F3.15,Rabu_16:10-17:00
+CIS61104,Pengantar Sistem informasi,Sistem Informasi,1,Pengampu,67.0,['67.0'],reguler,F11.4,Jumat_09:30-10:20
+CIS61104,Pengantar Sistem informasi,Sistem Informasi,1,Pengampu,102.0,['102.0'],reguler,F4.14,Selasa_14:30-15:20
+CIS61106,Keamanan dan Privasi Data,Sistem Informasi,1,Pengampu,17.0,['17.0'],reguler,F3.5b,Selasa_08:40-09:30
+CIS61106,Keamanan dan Privasi Data,Sistem Informasi,1,Pengampu,75.0,['75.0'],reguler,F11.3,Rabu_07:00-07:50
+CIS61106,Keamanan dan Privasi Data,Sistem Informasi,1,Pengampu,108.0,['108.0'],reguler,F2.5,Senin_14:30-15:20
+CIS61107,Manajemen Produk,Sistem Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",47.0,['47.0'],reguler,F4.7,Kamis_16:10-17:00
+CIS61107,Manajemen Produk,Sistem Informasi,1,"Pengelola, Pengampu",60.0,['60.0'],reguler,F2.4,Senin_10:20-11:10
+CIS61108,Rekayasa Sistem Informasi,Sistem Informasi,1,"Pengelola, Pengampu",4.0,['4.0'],reguler,F3.10,Senin_07:50-08:40
+CIS61108,Rekayasa Sistem Informasi,Sistem Informasi,1,"Pengelola, Pengampu",47.0,['47.0'],reguler,F4.12,Selasa_07:50-08:40
+CIS61108,Rekayasa Sistem Informasi,Sistem Informasi,1,Pengampu,67.0,['67.0'],reguler,F4.11,Jumat_15:20-16:10
+CIS61108,Rekayasa Sistem Informasi,Sistem Informasi,2,Pengampu,108.0,['108.0'],reguler,F4.2,Rabu_12:50-13:40
+CIS61110,Pengembangan Aplikasi Mobile,Sistem Informasi,1,"Pengelola, Pengampu",4.0,['4.0'],reguler,F3.15,Kamis_10:20-11:10
+CIS61110,Pengembangan Aplikasi Mobile,Sistem Informasi,1,"Pengelola, Pengampu",47.0,['47.0'],reguler,F4.11,Kamis_12:50-13:40
+CIS61110,Pengembangan Aplikasi Mobile,Sistem Informasi,1,Pengampu,31.0,['31.0'],reguler,F3.12,Selasa_10:20-11:10
+CIS61110,Pengembangan Aplikasi Mobile,Sistem Informasi,1,Pengampu,60.0,['60.0'],reguler,F2.2,Rabu_12:50-13:40
+CIS61110,Pengembangan Aplikasi Mobile,Sistem Informasi,1,Pengampu,75.0,['75.0'],reguler,F3.7a,Senin_12:00-12:50
+CIS61111,Sistem Informasi berbasis Kecerdasan Buatan,Sistem Informasi,1,Pengampu,87.0,['87.0'],reguler,F4.13,Kamis_17:00-17:50
+CIS61111,Sistem Informasi berbasis Kecerdasan Buatan,Sistem Informasi,2,Pengampu,89.0,['89.0'],reguler,F3.2,Jumat_11:10-12:00
+CIS61111,Sistem Informasi berbasis Kecerdasan Buatan,Sistem Informasi,2,Pengampu,108.0,['108.0'],reguler,F2.8,Kamis_07:00-07:50
+CIS61112,Dasar Manajemen Proyek,Sistem Informasi,1,"Pengelola, Pengampu",47.0,['47.0'],reguler,F4.6,Rabu_13:40-14:30
+CIS61112,Dasar Manajemen Proyek,Sistem Informasi,1,Pengampu,6.0,['6.0'],reguler,F2.2,Jumat_07:50-08:40
+CIS61112,Dasar Manajemen Proyek,Sistem Informasi,1,Pengampu,67.0,['67.0'],reguler,F4.3,Selasa_07:00-07:50
+CIS61112,Dasar Manajemen Proyek,Sistem Informasi,1,Pengampu,76.0,['76.0'],reguler,F3.7a,Kamis_07:50-08:40
+CIS61112,Dasar Manajemen Proyek,Sistem Informasi,1,Pengampu,87.0,['87.0'],reguler,F4.4,Selasa_13:40-14:30
+CIS61112,Dasar Manajemen Proyek,Sistem Informasi,1,Pengampu,102.0,['102.0'],reguler,F3.18,Selasa_07:00-07:50
+CIS61113,Sistem Enterprise,Sistem Informasi,1,Pengampu,76.0,['76.0'],reguler,F4.4,Kamis_12:50-13:40
+CIS61115,Komunikasi Profesional,Sistem Informasi,1,Pengampu,87.0,['87.0'],reguler,F9.2,Kamis_13:40-14:30
+CIS61115,Komunikasi Profesional,Sistem Informasi,1,Pengampu,108.0,['108.0'],reguler,F3.13,Jumat_11:10-12:00
+CIS61118,Rekayasa Kebutuhan Sistem Informasi,Sistem Informasi,1,"Pengelola, Pengampu",4.0,['4.0'],reguler,F3.17,Selasa_12:50-13:40
+CIS61119,Manajemen Risiko dan Kontrol Sistem Informasi,Sistem Informasi,1,Pengampu,6.0,['6.0'],reguler,F3.1,Selasa_09:30-10:20
+CIS61119,Manajemen Risiko dan Kontrol Sistem Informasi,Sistem Informasi,2,"Pengelola, Pengampu",47.0,['47.0'],reguler,F4.9,Rabu_09:30-10:20
+CIS61120,Perbaikan Proses Bisnis,Sistem Informasi,1,Pengampu,6.0,['6.0'],reguler,F9.2,Selasa_12:50-13:40
+CIS61120,Perbaikan Proses Bisnis,Sistem Informasi,1,Pengampu,108.0,['108.0'],reguler,F3.12,Selasa_10:20-11:10
+CIS61123,Enterprise Architecture II,Sistem Informasi,1,Pengampu,76.0,['76.0'],reguler,F3.7b,Rabu_10:20-11:10
+CIS61123,Enterprise Architecture II,Sistem Informasi,1,Pengampu,87.0,['87.0'],reguler,F3.9,Rabu_09:30-10:20
+CIS61123,Enterprise Architecture II,Sistem Informasi,2,Pengampu,6.0,['6.0'],reguler,F3.5a,Selasa_12:50-13:40
+CIS61124,Pengembangan Gim,Sistem Informasi,1,"Pengelola, Pengampu",47.0,['47.0'],reguler,F3.5a,Senin_16:10-17:00
+CIS61124,Pengembangan Gim,Sistem Informasi,2,Pengampu,103.0,['103.0'],reguler,F3.12,Rabu_14:30-15:20
+CIS61125,Pengantar GeoInformasi,Sistem Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",87.0,['87.0'],reguler,F3.7a,Selasa_16:10-17:00
+CIS61127,Pengembangan Berorientasi Penggunaan Ulang,Sistem Informasi,1,"Pengelola, Pengampu",4.0,['4.0'],reguler,F3.11,Rabu_17:50-18:40
+CIS61128,Keamanan Jaringan dan Siber,Sistem Informasi,1,Pengampu,17.0,['17.0'],reguler,F2.2,Selasa_14:30-15:20
+CIS62102,Desain Antar Muka Pengguna,Sistem Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",22.0,['22.0'],reguler,F3.7b,Senin_13:40-14:30
+CIS62102,Desain Antar Muka Pengguna,Sistem Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",45.0,['45.0'],reguler,F3.5b,Rabu_11:10-12:00
+CIS62102,Desain Antar Muka Pengguna,Sistem Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",47.0,['47.0'],reguler,F4.4,Rabu_14:30-15:20
+CIS62102,Desain Antar Muka Pengguna,Sistem Informasi,1,"Pengelola, Pengampu",4.0,['4.0'],reguler,F3.13,Selasa_09:30-10:20
+CIS62102,Desain Antar Muka Pengguna,Sistem Informasi,1,"Pengelola, Pengampu",16.0,['16.0'],reguler,F2.1,Senin_17:00-17:50
+CIS62102,Desain Antar Muka Pengguna,Sistem Informasi,1,Pengampu,12.0,['12.0'],reguler,F11.4,Senin_10:20-11:10
+CIS62102,Desain Antar Muka Pengguna,Sistem Informasi,1,Pengampu,37.0,['37.0'],reguler,F4.9,Kamis_10:20-11:10
+CIS62102,Desain Antar Muka Pengguna,Sistem Informasi,1,Pengampu,62.0,['62.0'],reguler,F4.10,Senin_17:00-17:50
+CIS62102,Desain Antar Muka Pengguna,Sistem Informasi,1,Pengampu,87.0,['87.0'],reguler,F3.6,Senin_17:50-18:40
+CIS62102,Desain Antar Muka Pengguna,Sistem Informasi,2,Pengampu,70.0,['70.0'],reguler,F3.13,Selasa_08:40-09:30
+CIS62103,Jaringan dan Komputasi Awan,Sistem Informasi,1,Pengampu,16.0,['16.0'],reguler,F4.13,Kamis_09:30-10:20
+CIS62103,Jaringan dan Komputasi Awan,Sistem Informasi,1,Pengampu,17.0,['17.0'],reguler,F3.7a,Kamis_17:50-18:40
+CIS62103,Jaringan dan Komputasi Awan,Sistem Informasi,1,Pengampu,20.0,['20.0'],reguler,F3.5a,Rabu_12:00-12:50
+CIS62103,Jaringan dan Komputasi Awan,Sistem Informasi,1,Pengampu,41.0,['41.0'],reguler,F3.1,Jumat_07:50-08:40
+CIS62103,Jaringan dan Komputasi Awan,Sistem Informasi,1,Pengampu,75.0,['75.0'],reguler,F3.3,Senin_17:00-17:50
+CIS62103,Jaringan dan Komputasi Awan,Sistem Informasi,2,Pengampu,21.0,['21.0'],reguler,F3.15,Kamis_14:30-15:20
+CIS62103,Jaringan dan Komputasi Awan,Sistem Informasi,2,Pengampu,65.0,['65.0'],reguler,F2.6,Selasa_12:00-12:50
+CIS62103,Jaringan dan Komputasi Awan,Sistem Informasi,2,Pengampu,79.0,['79.0'],reguler,F3.18,Kamis_15:20-16:10
+CIS62104,Pemodelan Proses Bisnis,Sistem Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",13.0,['13.0'],reguler,F3.16,Jumat_17:50-18:40
+CIS62104,Pemodelan Proses Bisnis,Sistem Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",53.0,['53.0'],reguler,F3.4,Rabu_13:40-14:30
+CIS62104,Pemodelan Proses Bisnis,Sistem Informasi,1,"Pengelola, Pengampu",6.0,['6.0'],reguler,F4.2,Kamis_10:20-11:10
+CIS62104,Pemodelan Proses Bisnis,Sistem Informasi,1,Pengampu,16.0,['16.0'],reguler,F3.5a,Rabu_07:00-07:50
+CIS62104,Pemodelan Proses Bisnis,Sistem Informasi,1,Pengampu,49.0,['49.0'],reguler,F2.1,Senin_12:00-12:50
+CIS62104,Pemodelan Proses Bisnis,Sistem Informasi,1,Pengampu,55.0,['55.0'],reguler,F4.2,Rabu_12:00-12:50
+CIS62104,Pemodelan Proses Bisnis,Sistem Informasi,1,Pengampu,108.0,['108.0'],reguler,F3.16,Jumat_08:40-09:30
+CIS62105,Pengantar Sains Data,Sistem Informasi,1,"Pengelola, Pengampu",16.0,['16.0'],reguler,F3.16,Rabu_17:00-17:50
+CIS62105,Pengantar Sains Data,Sistem Informasi,1,"Pengelola, Pengampu",52.0,['52.0'],reguler,F2.6,Jumat_09:30-10:20
+CIS62105,Pengantar Sains Data,Sistem Informasi,1,"Pengelola, Pengampu",72.0,['72.0'],reguler,F2.9,Jumat_07:00-07:50
+CIS62105,Pengantar Sains Data,Sistem Informasi,1,"Pengelola, Pengampu",73.0,['73.0'],reguler,F3.18,Kamis_07:00-07:50
+CIS62105,Pengantar Sains Data,Sistem Informasi,1,"Pengelola, Pengampu",94.0,['94.0'],reguler,F3.3,Rabu_09:30-10:20
+CIS62105,Pengantar Sains Data,Sistem Informasi,1,Pengampu,20.0,['20.0'],reguler,F2.2,Selasa_12:00-12:50
+CIS62105,Pengantar Sains Data,Sistem Informasi,1,Pengampu,37.0,['37.0'],reguler,F3.9,Kamis_17:00-17:50
+CIS62105,Pengantar Sains Data,Sistem Informasi,1,Pengampu,63.0,['63.0'],reguler,F4.12,Selasa_11:10-12:00
+CIS62105,Pengantar Sains Data,Sistem Informasi,1,Pengampu,Belum Ada Dosen,['Belum Ada Dosen'],reguler,F4.11,Rabu_16:10-17:00
+CIS62105,Pengantar Sains Data,Sistem Informasi,1,Pengampu,80.0,['80.0'],reguler,F4.2,Rabu_09:30-10:20
+CIS62105,Pengantar Sains Data,Sistem Informasi,1,Pengampu,87.0,['87.0'],reguler,F3.14,Senin_15:20-16:10
+CIS62105,Pengantar Sains Data,Sistem Informasi,1,Pengampu,92.0,['92.0'],reguler,F3.5a,Rabu_12:50-13:40
+CIS62105,Pengantar Sains Data,Sistem Informasi,1,Pengampu,97.0,['97.0'],reguler,F3.7a,Rabu_16:10-17:00
+CIS62105,Pengantar Sains Data,Sistem Informasi,1,Pengampu,102.0,['102.0'],reguler,F3.10,Kamis_10:20-11:10
+CIS62105,Pengantar Sains Data,Sistem Informasi,2,Pengampu,11.0,['11.0'],reguler,F2.5,Kamis_17:50-18:40
+CIS62105,Pengantar Sains Data,Sistem Informasi,2,Pengampu,21.0,['21.0'],reguler,F3.4,Selasa_09:30-10:20
+CIS62105,Pengantar Sains Data,Sistem Informasi,2,Pengampu,89.0,['89.0'],reguler,F3.8,Kamis_15:20-16:10
+CIS62106,Pemrograman Web,Sistem Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",16.0,['16.0'],reguler,F3.15,Rabu_07:50-08:40
+CIS62106,Pemrograman Web,Sistem Informasi,1,"Pengelola, Pengampu",4.0,['4.0'],reguler,F3.7b,Kamis_12:00-12:50
+CIS62106,Pemrograman Web,Sistem Informasi,1,"Pengelola, Pengampu",22.0,['22.0'],reguler,F11.3,Jumat_12:50-13:40
+CIS62106,Pemrograman Web,Sistem Informasi,1,"Pengelola, Pengampu",47.0,['47.0'],reguler,F4.6,Jumat_13:40-14:30
+CIS62106,Pemrograman Web,Sistem Informasi,1,Pengampu,1.0,['1.0'],reguler,F4.9,Senin_11:10-12:00
+CIS62106,Pemrograman Web,Sistem Informasi,1,Pengampu,31.0,['31.0'],reguler,F9.2,Kamis_07:50-08:40
+CIS62106,Pemrograman Web,Sistem Informasi,1,Pengampu,37.0,['37.0'],reguler,F3.13,Jumat_14:30-15:20
+CIS62106,Pemrograman Web,Sistem Informasi,1,Pengampu,75.0,['75.0'],reguler,F4.3,Senin_09:30-10:20
+CIS62106,Pemrograman Web,Sistem Informasi,1,Pengampu,82.0,['82.0'],reguler,F4.12,Jumat_11:10-12:00
+CIS62106,Pemrograman Web,Sistem Informasi,1,Pengampu,98.0,['98.0'],reguler,F3.16,Kamis_09:30-10:20
+CIS62106,Pemrograman Web,Sistem Informasi,1,Pengampu,105.0,['105.0'],reguler,F4.3,Jumat_16:10-17:00
+CIS62106,Pemrograman Web,Sistem Informasi,2,Pengampu,70.0,['70.0'],reguler,F3.17,Selasa_07:50-08:40
+CIS62106,Pemrograman Web,Sistem Informasi,2,Pengampu,103.0,['103.0'],reguler,F3.10,Jumat_08:40-09:30
+CIS62108,Enterprise Architecture I,Sistem Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",13.0,['13.0'],reguler,F11.1,Kamis_07:50-08:40
+CIS62108,Enterprise Architecture I,Sistem Informasi,1,"Pengelola, Pengampu",6.0,['6.0'],reguler,F3.16,Senin_16:10-17:00
+CIS62108,Enterprise Architecture I,Sistem Informasi,1,"Pengelola, Pengampu",55.0,['55.0'],reguler,F3.1,Senin_15:20-16:10
+CIS62108,Enterprise Architecture I,Sistem Informasi,1,Pengampu,62.0,['62.0'],reguler,F3.6,Selasa_10:20-11:10
+CIS62108,Enterprise Architecture I,Sistem Informasi,1,Pengampu,76.0,['76.0'],reguler,F3.3,Jumat_11:10-12:00
+CIS62108,Enterprise Architecture I,Sistem Informasi,1,Pengampu,87.0,['87.0'],reguler,F3.5b,Kamis_14:30-15:20
+CIS62108,Enterprise Architecture I,Sistem Informasi,2,Pengampu,Belum Ada Dosen,['Belum Ada Dosen'],reguler,F4.3,Senin_10:20-11:10
+CIS62109,Pengujian dan Evaluasi Sistem Informasi,Sistem Informasi,1,"Pengelola, Pengampu",4.0,['4.0'],reguler,F3.1,Kamis_14:30-15:20
+CIS62109,Pengujian dan Evaluasi Sistem Informasi,Sistem Informasi,1,Pengampu,67.0,['67.0'],reguler,F2.8,Selasa_16:10-17:00
+CIS62110,Perencanaan Strategis Sistem Informasi,Sistem Informasi,1,"Pengelola, Pengampu",6.0,['6.0'],reguler,F4.10,Kamis_16:10-17:00
+CIS62110,Perencanaan Strategis Sistem Informasi,Sistem Informasi,2,"Pengelola, Pengampu",47.0,['47.0'],reguler,F3.6,Rabu_12:00-12:50
+CIS62112,Kecerdasan Bisnis dan Analitik,Sistem Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",72.0,['72.0'],reguler,F4.11,Selasa_07:50-08:40
+CIS62112,Kecerdasan Bisnis dan Analitik,Sistem Informasi,1,"Pengelola, Pengampu",94.0,['94.0'],reguler,F3.16,Jumat_15:20-16:10
+CIS62112,Kecerdasan Bisnis dan Analitik,Sistem Informasi,1,"Pengelola, Pengampu",102.0,['102.0'],reguler,F3.7a,Selasa_12:00-12:50
+CIS62112,Kecerdasan Bisnis dan Analitik,Sistem Informasi,1,Pengampu,87.0,['87.0'],reguler,F4.2,Senin_12:00-12:50
+CIS62113,Pola-Pola Perancangan,Sistem Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",16.0,['16.0'],reguler,F4.7,Kamis_09:30-10:20
+CIS62113,Pola-Pola Perancangan,Sistem Informasi,1,"Pengelola, Pengampu",4.0,['4.0'],reguler,F4.5,Senin_12:00-12:50
+CIS62113,Pola-Pola Perancangan,Sistem Informasi,1,Pengampu,37.0,['37.0'],reguler,F2.6,Senin_13:40-14:30
+CIS62113,Pola-Pola Perancangan,Sistem Informasi,1,Pengampu,76.0,['76.0'],reguler,F4.2,Selasa_12:50-13:40
+CIS62114,Pengembangan Aplikasi Mobile Lanjut,Sistem Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",16.0,['16.0'],reguler,F4.5,Senin_07:50-08:40
+CIS62114,Pengembangan Aplikasi Mobile Lanjut,Sistem Informasi,1,Pengampu,60.0,['60.0'],reguler,F2.4,Kamis_14:30-15:20
+CIS62114,Pengembangan Aplikasi Mobile Lanjut,Sistem Informasi,2,"Pengelola, Pengampu",47.0,['47.0'],reguler,F4.11,Senin_11:10-12:00
+CIS62114,Pengembangan Aplikasi Mobile Lanjut,Sistem Informasi,2,Pengampu,70.0,['70.0'],reguler,F3.17,Jumat_13:40-14:30
+CIS62115,Manajemen Investasi Teknologi Informasi,Sistem Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",94.0,['94.0'],reguler,F2.4,Rabu_14:30-15:20
+CIS62115,Manajemen Investasi Teknologi Informasi,Sistem Informasi,1,"Pengelola, Pengampu",62.0,['62.0'],reguler,F11.1,Rabu_15:20-16:10
+CIS62115,Manajemen Investasi Teknologi Informasi,Sistem Informasi,1,Pengampu,6.0,['6.0'],reguler,F3.7a,Rabu_09:30-10:20
+CIS62115,Manajemen Investasi Teknologi Informasi,Sistem Informasi,1,Pengampu,13.0,['13.0'],reguler,F3.5b,Kamis_15:20-16:10
+CIS62115,Manajemen Investasi Teknologi Informasi,Sistem Informasi,1,Pengampu,22.0,['22.0'],reguler,F4.10,Jumat_15:20-16:10
+CIS62115,Manajemen Investasi Teknologi Informasi,Sistem Informasi,1,Pengampu,49.0,['49.0'],reguler,F3.14,Senin_11:10-12:00
+CIS62115,Manajemen Investasi Teknologi Informasi,Sistem Informasi,1,Pengampu,60.0,['60.0'],reguler,F4.3,Rabu_12:00-12:50
+CIS62115,Manajemen Investasi Teknologi Informasi,Sistem Informasi,1,Pengampu,87.0,['87.0'],reguler,F3.1,Senin_11:10-12:00
+CIS62115,Manajemen Investasi Teknologi Informasi,Sistem Informasi,2,Pengampu,53.0,['53.0'],reguler,F2.2,Kamis_13:40-14:30
+CIS62117,Manajemen Rantai Suplai,Sistem Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",53.0,['53.0'],reguler,F2.2,Rabu_15:20-16:10
+CIS62117,Manajemen Rantai Suplai,Sistem Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",94.0,['94.0'],reguler,F3.18,Selasa_10:20-11:10
+CIS62117,Manajemen Rantai Suplai,Sistem Informasi,1,"Pengelola, Pengampu",22.0,['22.0'],reguler,F9.2,Selasa_16:10-17:00
+CIS62117,Manajemen Rantai Suplai,Sistem Informasi,1,"Pengelola, Pengampu",108.0,['108.0'],reguler,F3.10,Jumat_17:50-18:40
+CIS62117,Manajemen Rantai Suplai,Sistem Informasi,1,Pengampu,Belum Ada Dosen,['Belum Ada Dosen'],reguler,F4.2,Senin_12:00-12:50
+CIS62125,GeoInformasi Lanjut,Sistem Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",11.0,['11.0'],reguler,F11.4,Jumat_08:40-09:30
+CIS62125,GeoInformasi Lanjut,Sistem Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",87.0,['87.0'],reguler,F4.9,Jumat_10:20-11:10
+CIS62126,Evaluasi Pengalaman dan Antarmuka Pengguna,Sistem Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",45.0,['45.0'],reguler,F11.1,Kamis_13:40-14:30
+CIS62126,Evaluasi Pengalaman dan Antarmuka Pengguna,Sistem Informasi,1,"Pengelola, Pengampu",4.0,['4.0'],reguler,F3.5b,Selasa_12:00-12:50
+CIS62126,Evaluasi Pengalaman dan Antarmuka Pengguna,Sistem Informasi,1,"Pengelola, Pengampu",12.0,['12.0'],reguler,F3.16,Senin_16:10-17:00
+CIS62126,Evaluasi Pengalaman dan Antarmuka Pengguna,Sistem Informasi,1,"Pengelola, Pengampu",16.0,['16.0'],reguler,F11.1,Jumat_15:20-16:10
+CIS62126,Evaluasi Pengalaman dan Antarmuka Pengguna,Sistem Informasi,1,"Pengelola, Pengampu",47.0,['47.0'],reguler,F3.5b,Jumat_11:15-12:05_AGAMA_KHUSUS
+CIS62126,Evaluasi Pengalaman dan Antarmuka Pengguna,Sistem Informasi,1,"Pengelola, Pengampu",55.0,['55.0'],reguler,F4.12,Jumat_14:30-15:20
+CIS62126,Evaluasi Pengalaman dan Antarmuka Pengguna,Sistem Informasi,1,"Pengelola, Pengampu",62.0,['62.0'],reguler,F3.17,Jumat_12:50-13:40
+CIS62126,Evaluasi Pengalaman dan Antarmuka Pengguna,Sistem Informasi,1,Pengampu,60.0,['60.0'],reguler,F4.5,Kamis_07:00-07:50
+CIS62126,Evaluasi Pengalaman dan Antarmuka Pengguna,Sistem Informasi,1,Pengampu,83.0,['83.0'],reguler,F4.7,Kamis_16:10-17:00
+CIS62126,Evaluasi Pengalaman dan Antarmuka Pengguna,Sistem Informasi,1,Pengampu,87.0,['87.0'],reguler,F3.8,Rabu_13:40-14:30
+CIT60031,Manajemen Proyek Teknologi Informasi,Teknologi Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",94.0,['94.0'],reguler,F4.10,Kamis_12:50-13:40
+CIT60031,Manajemen Proyek Teknologi Informasi,Teknologi Informasi,1,"Pengelola, Pengampu",6.0,['6.0'],reguler,F2.6,Rabu_12:00-12:50
+CIT60031,Manajemen Proyek Teknologi Informasi,Teknologi Informasi,1,Pengampu,13.0,['13.0'],reguler,F3.11,Selasa_17:00-17:50
+CIT60031,Manajemen Proyek Teknologi Informasi,Teknologi Informasi,1,Pengampu,22.0,['22.0'],reguler,F2.5,Senin_07:00-07:50
+CIT60031,Manajemen Proyek Teknologi Informasi,Teknologi Informasi,1,Pengampu,40.0,['40.0'],reguler,F4.3,Jumat_17:50-18:40
+CIT60031,Manajemen Proyek Teknologi Informasi,Teknologi Informasi,1,Pengampu,48.0,['48.0'],reguler,F4.9,Rabu_07:00-07:50
+CIT60033,Sistem Forensik Digital,Teknologi Informasi,1,"Pengelola, Pengampu",94.0,['94.0'],reguler,F3.17,Kamis_07:00-07:50
+CIT60033,Sistem Forensik Digital,Teknologi Informasi,1,Pengampu,35.0,['35.0'],reguler,F4.13,Jumat_17:50-18:40
+CIT60033,Sistem Forensik Digital,Teknologi Informasi,1,Pengampu,41.0,['41.0'],reguler,F3.9,Jumat_12:50-13:40
+CIT60033,Sistem Forensik Digital,Teknologi Informasi,1,Pengampu,75.0,['75.0'],reguler,F4.6,Kamis_10:20-11:10
+CIT60033,Sistem Forensik Digital,Teknologi Informasi,1,Pengampu,83.0,['83.0'],reguler,F2.5,Rabu_07:00-07:50
+CIT60036,Teknologi Berbasis Cloud,Teknologi Informasi,1,Pengampu,16.0,['16.0'],reguler,F3.15,Rabu_17:00-17:50
+CIT60036,Teknologi Berbasis Cloud,Teknologi Informasi,1,Pengampu,20.0,['20.0'],reguler,F4.13,Jumat_12:50-13:40
+CIT60036,Teknologi Berbasis Cloud,Teknologi Informasi,1,Pengampu,35.0,['35.0'],reguler,F3.7a,Kamis_13:40-14:30
+CIT60036,Teknologi Berbasis Cloud,Teknologi Informasi,1,Pengampu,46.0,['46.0'],reguler,F4.4,Jumat_15:20-16:10
+CIT60036,Teknologi Berbasis Cloud,Teknologi Informasi,1,Pengampu,75.0,['75.0'],reguler,F3.12,Selasa_10:20-11:10
+CIT60036,Teknologi Berbasis Cloud,Teknologi Informasi,1,Pengampu,104.0,['104.0'],reguler,F3.5b,Kamis_17:00-17:50
+CIT60039,Pengembangan Aplikasi Web Lanjut,Teknologi Informasi,1,"Pengelola, Pengampu",4.0,['4.0'],reguler,F3.18,Jumat_17:00-17:50
+CIT60039,Pengembangan Aplikasi Web Lanjut,Teknologi Informasi,1,"Pengelola, Pengampu",16.0,['16.0'],reguler,F3.12,Jumat_10:20-11:10
+CIT60039,Pengembangan Aplikasi Web Lanjut,Teknologi Informasi,1,"Pengelola, Pengampu",47.0,['47.0'],reguler,F4.4,Rabu_07:50-08:40
+CIT60039,Pengembangan Aplikasi Web Lanjut,Teknologi Informasi,1,Pengampu,1.0,['1.0'],reguler,F4.9,Kamis_12:00-12:50
+CIT60039,Pengembangan Aplikasi Web Lanjut,Teknologi Informasi,1,Pengampu,31.0,['31.0'],reguler,F3.8,Selasa_10:20-11:10
+CIT60039,Pengembangan Aplikasi Web Lanjut,Teknologi Informasi,1,Pengampu,75.0,['75.0'],reguler,F3.6,Rabu_12:00-12:50
+CIT60042,Teknologi Blockchain dan Platform Keuangan Digital,Teknologi Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",14.0,['14.0'],reguler,F2.2,Jumat_07:50-08:40
+CIT60042,Teknologi Blockchain dan Platform Keuangan Digital,Teknologi Informasi,1,"Pengelola, Pengampu",47.0,['47.0'],reguler,F9.1,Selasa_13:40-14:30
+CIT60042,Teknologi Blockchain dan Platform Keuangan Digital,Teknologi Informasi,1,Pengampu,46.0,['46.0'],reguler,F2.8,Jumat_16:10-17:00
+CIT60044,Keamanan Data dan Privasi,Teknologi Informasi,1,"Pengelola, Pengampu",46.0,['46.0'],reguler,F9.2,Jumat_07:00-07:50
+CIT60044,Keamanan Data dan Privasi,Teknologi Informasi,1,Pengampu,17.0,['17.0'],reguler,F4.10,Rabu_07:00-07:50
+CIT60044,Keamanan Data dan Privasi,Teknologi Informasi,1,Pengampu,35.0,['35.0'],reguler,F4.4,Selasa_14:30-15:20
+CIT60044,Keamanan Data dan Privasi,Teknologi Informasi,1,Pengampu,41.0,['41.0'],reguler,F3.1,Senin_12:00-12:50
+CIT60044,Keamanan Data dan Privasi,Teknologi Informasi,1,Pengampu,63.0,['63.0'],reguler,F3.17,Senin_07:50-08:40
+CIT60044,Keamanan Data dan Privasi,Teknologi Informasi,1,Pengampu,65.0,['65.0'],reguler,F2.4,Rabu_12:00-12:50
+CIT60044,Keamanan Data dan Privasi,Teknologi Informasi,1,Pengampu,75.0,['75.0'],reguler,F2.6,Senin_11:10-12:00
+CIT60045,Kriptografi,Teknologi Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",14.0,['14.0'],reguler,F4.6,Kamis_12:00-12:50
+CIT60045,Kriptografi,Teknologi Informasi,1,Pengampu,75.0,['75.0'],reguler,F11.1,Rabu_15:20-16:10
+CIT60047,Tata Kelola dan Kebijakan Keamanan Siber,Teknologi Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",14.0,['14.0'],reguler,F2.4,Jumat_08:40-09:30
+CIT60047,Tata Kelola dan Kebijakan Keamanan Siber,Teknologi Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",94.0,['94.0'],reguler,F3.5a,Rabu_09:30-10:20
+CIT60047,Tata Kelola dan Kebijakan Keamanan Siber,Teknologi Informasi,1,Pengampu,17.0,['17.0'],reguler,F3.18,Rabu_14:30-15:20
+CIT60047,Tata Kelola dan Kebijakan Keamanan Siber,Teknologi Informasi,1,Pengampu,Belum Ada Dosen,['Belum Ada Dosen'],reguler,F4.7,Kamis_16:10-17:00
+CIT60047,Tata Kelola dan Kebijakan Keamanan Siber,Teknologi Informasi,2,Pengampu,46.0,['46.0'],reguler,F3.6,Senin_10:20-11:10
+CIT60048,Information Retrieval,Teknologi Informasi,1,"Pengelola, Pengampu",52.0,['52.0'],reguler,F3.16,Kamis_16:10-17:00
+CIT60048,Information Retrieval,Teknologi Informasi,1,"Pengelola, Pengampu",107.0,['107.0'],reguler,F4.10,Kamis_17:50-18:40
+CIT60048,Information Retrieval,Teknologi Informasi,1,Pengampu,1.0,['1.0'],reguler,F3.3,Jumat_10:20-11:10
+CIT60048,Information Retrieval,Teknologi Informasi,1,Pengampu,80.0,['80.0'],reguler,F11.3,Jumat_17:50-18:40
+CIT60048,Information Retrieval,Teknologi Informasi,1,Pengampu,93.0,['93.0'],reguler,F2.1,Rabu_08:40-09:30
+CIT60048,Information Retrieval,Teknologi Informasi,2,"Pengelola, Pengampu",47.0,['47.0'],reguler,F2.8,Jumat_12:50-13:40
+CIT60048,Information Retrieval,Teknologi Informasi,2,Pengampu,89.0,['89.0'],reguler,F3.10,Selasa_13:40-14:30
+CIT60048,Information Retrieval,Teknologi Informasi,2,Pengampu,97.0,['97.0'],reguler,F4.14,Senin_17:00-17:50
+CIT60049,Teknologi Basis Data Non Relational,Teknologi Informasi,1,"Pengelola, Pengampu",102.0,['102.0'],reguler,F3.3,Selasa_10:20-11:10
+CIT60049,Teknologi Basis Data Non Relational,Teknologi Informasi,1,Pengampu,16.0,['16.0'],reguler,F2.9,Jumat_16:10-17:00
+CIT60049,Teknologi Basis Data Non Relational,Teknologi Informasi,1,Pengampu,Belum Ada Dosen,['Belum Ada Dosen'],reguler,F4.7,Jumat_16:10-17:00
+CIT60051,Teknologi Smart City,Teknologi Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",47.0,['47.0'],reguler,F2.5,Selasa_10:20-11:10
+CIT60051,Teknologi Smart City,Teknologi Informasi,1,Pengampu,20.0,['20.0'],reguler,F3.12,Senin_17:50-18:40
+CIT60051,Teknologi Smart City,Teknologi Informasi,1,Pengampu,67.0,['67.0'],reguler,F3.5a,Selasa_10:20-11:10
+CIT60051,Teknologi Smart City,Teknologi Informasi,2,"Koordinator Pengelola, Pengelola, Pengampu",105.0,['105.0'],reguler,F3.1,Kamis_11:10-12:00
+CIT60051,Teknologi Smart City,Teknologi Informasi,2,Pengampu,6.0,['6.0'],reguler,F4.10,Jumat_10:20-11:10
+CIT60051,Teknologi Smart City,Teknologi Informasi,2,Pengampu,58.0,['58.0'],reguler,F4.2,Selasa_15:20-16:10
+CIT60052,Pengembangan Aplikasi Mobile Terapan,Teknologi Informasi,1,Pengampu,16.0,['16.0'],reguler,F9.1,Kamis_09:30-10:20
+CIT60052,Pengembangan Aplikasi Mobile Terapan,Teknologi Informasi,1,Pengampu,20.0,['20.0'],reguler,F3.15,Rabu_17:00-17:50
+CIT60052,Pengembangan Aplikasi Mobile Terapan,Teknologi Informasi,2,"Pengelola, Pengampu",47.0,['47.0'],reguler,F3.7a,Kamis_11:10-12:00
+CIT60053,Pengembangan Gim,Teknologi Informasi,1,Pengampu,16.0,['16.0'],reguler,F4.11,Senin_12:00-12:50
+CIT61006,Pengembangan Aplikasi Web,Teknologi Informasi,1,"Pengelola, Pengampu",4.0,['4.0'],reguler,F3.15,Rabu_15:20-16:10
+CIT61006,Pengembangan Aplikasi Web,Teknologi Informasi,1,"Pengelola, Pengampu",47.0,['47.0'],reguler,F3.7a,Kamis_07:00-07:50
+CIT61006,Pengembangan Aplikasi Web,Teknologi Informasi,1,"Pengelola, Pengampu",105.0,['105.0'],reguler,F2.2,Rabu_13:40-14:30
+CIT61006,Pengembangan Aplikasi Web,Teknologi Informasi,1,Pengampu,31.0,['31.0'],reguler,F4.7,Rabu_12:00-12:50
+CIT61006,Pengembangan Aplikasi Web,Teknologi Informasi,1,Pengampu,60.0,['60.0'],reguler,F4.11,Jumat_12:50-13:40
+CIT61006,Pengembangan Aplikasi Web,Teknologi Informasi,1,Pengampu,75.0,['75.0'],reguler,F9.1,Kamis_12:00-12:50
+CIT61006,Pengembangan Aplikasi Web,Teknologi Informasi,1,Pengampu,82.0,['82.0'],reguler,F3.2,Rabu_16:10-17:00
+CIT61006,Pengembangan Aplikasi Web,Teknologi Informasi,2,"Pengelola, Pengampu",103.0,['103.0'],reguler,F3.1,Rabu_12:00-12:50
+CIT61006,Pengembangan Aplikasi Web,Teknologi Informasi,2,Pengampu,62.0,['62.0'],reguler,F4.13,Rabu_11:10-12:00
+CIT61015,Jaringan Komputer,Teknologi Informasi,1,"Pengelola, Pengampu",79.0,['79.0'],reguler,F4.9,Senin_07:00-07:50
+CIT61015,Jaringan Komputer,Teknologi Informasi,1,Pengampu,17.0,['17.0'],reguler,F4.9,Jumat_11:10-12:00
+CIT61015,Jaringan Komputer,Teknologi Informasi,1,Pengampu,35.0,['35.0'],reguler,F4.7,Kamis_12:50-13:40
+CIT61015,Jaringan Komputer,Teknologi Informasi,1,Pengampu,75.0,['75.0'],reguler,F3.14,Selasa_11:10-12:00
+CIT61015,Jaringan Komputer,Teknologi Informasi,1,Pengampu,90.0,['90.0'],reguler,F3.2,Senin_14:30-15:20
+CIT61015,Jaringan Komputer,Teknologi Informasi,1,Pengampu,104.0,['104.0'],reguler,F2.8,Jumat_08:40-09:30
+CIT61015,Jaringan Komputer,Teknologi Informasi,2,"Pengelola, Pengampu",46.0,['46.0'],reguler,F4.9,Jumat_12:50-13:40
+CIT61016,Data Sains,Teknologi Informasi,1,Pengampu,15.0,['15.0'],reguler,F3.5b,Senin_13:40-14:30
+CIT61016,Data Sains,Teknologi Informasi,2,Pengampu,89.0,['89.0'],reguler,F2.5,Jumat_15:20-16:10
+CIT61021,Data Warehouse,Teknologi Informasi,1,"Pengelola, Pengampu",73.0,['73.0'],reguler,F4.13,Selasa_17:50-18:40
+CIT61021,Data Warehouse,Teknologi Informasi,1,"Pengelola, Pengampu",102.0,['102.0'],reguler,F3.3,Jumat_10:20-11:10
+CIT61021,Data Warehouse,Teknologi Informasi,1,Pengampu,16.0,['16.0'],reguler,F3.15,Rabu_07:50-08:40
+CIT61021,Data Warehouse,Teknologi Informasi,1,Pengampu,Belum Ada Dosen,['Belum Ada Dosen'],reguler,F3.14,Jumat_07:00-07:50
+CIT61024,Teknologi Keamanan Siber,Teknologi Informasi,1,Pengampu,17.0,['17.0'],reguler,F3.2,Senin_09:30-10:20
+CIT61024,Teknologi Keamanan Siber,Teknologi Informasi,1,Pengampu,35.0,['35.0'],reguler,F11.1,Rabu_07:50-08:40
+CIT61024,Teknologi Keamanan Siber,Teknologi Informasi,1,Pengampu,75.0,['75.0'],reguler,F2.1,Senin_17:50-18:40
+CIT61024,Teknologi Keamanan Siber,Teknologi Informasi,2,Pengampu,46.0,['46.0'],reguler,F11.1,Kamis_09:30-10:20
+CIT61026,Internet of Things,Teknologi Informasi,1,"Pengelola, Pengampu",90.0,['90.0'],reguler,F3.9,Rabu_11:10-12:00
+CIT61026,Internet of Things,Teknologi Informasi,1,Pengampu,17.0,['17.0'],reguler,F4.14,Senin_07:00-07:50
+CIT61026,Internet of Things,Teknologi Informasi,1,Pengampu,35.0,['35.0'],reguler,F3.2,Jumat_12:50-13:40
+CIT61026,Internet of Things,Teknologi Informasi,2,Pengampu,96.0,['96.0'],reguler,F3.1,Kamis_15:20-16:10
+CIT62001,Dasar Desain Antarmuka Pengguna,Teknologi Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",22.0,['22.0'],reguler,F3.5a,Rabu_17:50-18:40
+CIT62001,Dasar Desain Antarmuka Pengguna,Teknologi Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",45.0,['45.0'],reguler,F4.14,Selasa_12:00-12:50
+CIT62001,Dasar Desain Antarmuka Pengguna,Teknologi Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",47.0,['47.0'],reguler,F4.7,Rabu_08:40-09:30
+CIT62001,Dasar Desain Antarmuka Pengguna,Teknologi Informasi,1,"Pengelola, Pengampu",4.0,['4.0'],reguler,F3.11,Senin_12:00-12:50
+CIT62001,Dasar Desain Antarmuka Pengguna,Teknologi Informasi,1,"Pengelola, Pengampu",16.0,['16.0'],reguler,F3.13,Rabu_15:20-16:10
+CIT62001,Dasar Desain Antarmuka Pengguna,Teknologi Informasi,1,Pengampu,62.0,['62.0'],reguler,F11.4,Jumat_17:00-17:50
+CIT62003,Dasar Pengembangan Sistem informasi,Teknologi Informasi,1,"Pengelola, Pengampu",4.0,['4.0'],reguler,F3.14,Kamis_11:10-12:00
+CIT62003,Dasar Pengembangan Sistem informasi,Teknologi Informasi,1,Pengampu,31.0,['31.0'],reguler,F3.18,Rabu_14:30-15:20
+CIT62003,Dasar Pengembangan Sistem informasi,Teknologi Informasi,1,Pengampu,67.0,['67.0'],reguler,F2.9,Kamis_07:00-07:50
+CIT62003,Dasar Pengembangan Sistem informasi,Teknologi Informasi,1,Pengampu,108.0,['108.0'],reguler,F4.14,Jumat_15:20-16:10
+CIT62010,Sistem Operasi,Teknologi Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",94.0,['94.0'],reguler,F3.12,Jumat_13:40-14:30
+CIT62010,Sistem Operasi,Teknologi Informasi,1,Pengampu,16.0,['16.0'],reguler,F3.6,Jumat_17:00-17:50
+CIT62010,Sistem Operasi,Teknologi Informasi,1,Pengampu,20.0,['20.0'],reguler,F2.4,Kamis_10:20-11:10
+CIT62010,Sistem Operasi,Teknologi Informasi,1,Pengampu,75.0,['75.0'],reguler,F2.6,Kamis_16:10-17:00
+CIT62010,Sistem Operasi,Teknologi Informasi,1,Pengampu,Belum Ada Dosen,['Belum Ada Dosen'],reguler,F3.7b,Rabu_12:00-12:50
+CIT62010,Sistem Operasi,Teknologi Informasi,1,Pengampu,79.0,['79.0'],reguler,F3.11,Selasa_17:00-17:50
+CIT62010,Sistem Operasi,Teknologi Informasi,2,Pengampu,58.0,['58.0'],reguler,F2.9,Kamis_15:20-16:10
+CIT62010,Sistem Operasi,Teknologi Informasi,2,Pengampu,65.0,['65.0'],reguler,F2.4,Selasa_13:40-14:30
+CIT62010,Sistem Operasi,Teknologi Informasi,2,Pengampu,103.0,['103.0'],reguler,F3.3,Selasa_08:40-09:30
+CIT62011,Aljabar Linear dan Matriks,Teknologi Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",92.0,['92.0'],reguler,F2.5,Jumat_16:10-17:00
+CIT62011,Aljabar Linear dan Matriks,Teknologi Informasi,1,Pengampu,16.0,['16.0'],reguler,F4.7,Selasa_09:30-10:20
+CIT62011,Aljabar Linear dan Matriks,Teknologi Informasi,1,Pengampu,54.0,['54.0'],reguler,F3.8,Rabu_13:40-14:30
+CIT62011,Aljabar Linear dan Matriks,Teknologi Informasi,1,Pengampu,63.0,['63.0'],reguler,F3.2,Senin_12:50-13:40
+CIT62011,Aljabar Linear dan Matriks,Teknologi Informasi,1,Pengampu,77.0,['77.0'],reguler,F9.1,Rabu_12:50-13:40
+CIT62011,Aljabar Linear dan Matriks,Teknologi Informasi,1,Pengampu,93.0,['93.0'],reguler,F3.2,Senin_07:50-08:40
+CIT62011,Aljabar Linear dan Matriks,Teknologi Informasi,1,Pengampu,100.0,['100.0'],reguler,F3.5a,Jumat_07:50-08:40
+CIT62011,Aljabar Linear dan Matriks,Teknologi Informasi,1,Pengampu,107.0,['107.0'],reguler,F3.18,Rabu_14:30-15:20
+CIT62011,Aljabar Linear dan Matriks,Teknologi Informasi,2,Pengampu,103.0,['103.0'],reguler,F3.18,Senin_07:00-07:50
+CIT62012,Pengembangan Aplikasi Mobile,Teknologi Informasi,1,"Pengelola, Pengampu",16.0,['16.0'],reguler,F3.2,Senin_07:00-07:50
+CIT62012,Pengembangan Aplikasi Mobile,Teknologi Informasi,1,"Pengelola, Pengampu",47.0,['47.0'],reguler,F3.5b,Jumat_11:15-12:05_AGAMA_KHUSUS
+CIT62012,Pengembangan Aplikasi Mobile,Teknologi Informasi,1,Pengampu,20.0,['20.0'],reguler,F3.5a,Selasa_12:00-12:50
+CIT62012,Pengembangan Aplikasi Mobile,Teknologi Informasi,1,Pengampu,31.0,['31.0'],reguler,F4.9,Selasa_09:30-10:20
+CIT62012,Pengembangan Aplikasi Mobile,Teknologi Informasi,1,Pengampu,60.0,['60.0'],reguler,F3.2,Kamis_07:50-08:40
+CIT62012,Pengembangan Aplikasi Mobile,Teknologi Informasi,1,Pengampu,70.0,['70.0'],reguler,F2.6,Senin_10:20-11:10
+CIT62012,Pengembangan Aplikasi Mobile,Teknologi Informasi,1,Pengampu,75.0,['75.0'],reguler,F3.9,Jumat_14:30-15:20
+CIT62012,Pengembangan Aplikasi Mobile,Teknologi Informasi,2,"Pengelola, Pengampu",22.0,['22.0'],reguler,F4.9,Selasa_17:00-17:50
+CIT62012,Pengembangan Aplikasi Mobile,Teknologi Informasi,2,Pengampu,96.0,['96.0'],reguler,F3.7a,Rabu_09:30-10:20
+CIT62015,Administrasi Sistem,Teknologi Informasi,1,Pengampu,75.0,['75.0'],reguler,F9.1,Senin_12:00-12:50
+CIT62015,Administrasi Sistem,Teknologi Informasi,1,Pengampu,104.0,['104.0'],reguler,F3.4,Senin_17:00-17:50
+CIT62015,Administrasi Sistem,Teknologi Informasi,2,Pengampu,65.0,['65.0'],reguler,F11.3,Rabu_17:00-17:50
+CIT62017,Teknologi Integrasi Sistem,Teknologi Informasi,1,"Pengelola, Pengampu",16.0,['16.0'],reguler,F2.6,Selasa_14:30-15:20
+CIT62017,Teknologi Integrasi Sistem,Teknologi Informasi,1,Pengampu,20.0,['20.0'],reguler,F3.7a,Kamis_08:40-09:30
+CIT62017,Teknologi Integrasi Sistem,Teknologi Informasi,1,Pengampu,Belum Ada Dosen,['Belum Ada Dosen'],reguler,F4.13,Jumat_17:00-17:50
+CIT62017,Teknologi Integrasi Sistem,Teknologi Informasi,2,"Pengelola, Pengampu",22.0,['22.0'],reguler,F3.7a,Kamis_10:20-11:10
+CIT62022,Implementasi dan Pengujian Sistem Informasi,Teknologi Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",94.0,['94.0'],reguler,F11.3,Jumat_08:40-09:30
+CIT62022,Implementasi dan Pengujian Sistem Informasi,Teknologi Informasi,1,"Pengelola, Pengampu",4.0,['4.0'],reguler,F3.14,Rabu_17:00-17:50
+CIT62022,Implementasi dan Pengujian Sistem Informasi,Teknologi Informasi,1,Pengampu,1.0,['1.0'],reguler,F3.2,Selasa_16:10-17:00
+CIT62022,Implementasi dan Pengujian Sistem Informasi,Teknologi Informasi,1,Pengampu,6.0,['6.0'],reguler,F4.12,Rabu_07:00-07:50
+CIT62022,Implementasi dan Pengujian Sistem Informasi,Teknologi Informasi,1,Pengampu,16.0,['16.0'],reguler,F2.9,Rabu_07:50-08:40
+CIT62022,Implementasi dan Pengujian Sistem Informasi,Teknologi Informasi,1,Pengampu,31.0,['31.0'],reguler,F3.8,Kamis_10:20-11:10
+CIT62022,Implementasi dan Pengujian Sistem Informasi,Teknologi Informasi,1,Pengampu,40.0,['40.0'],reguler,F3.7b,Jumat_11:10-12:00
+CIT62022,Implementasi dan Pengujian Sistem Informasi,Teknologi Informasi,1,Pengampu,Belum Ada Dosen,['Belum Ada Dosen'],reguler,F4.6,Rabu_15:20-16:10
+CIT62022,Implementasi dan Pengujian Sistem Informasi,Teknologi Informasi,1,Pengampu,67.0,['67.0'],reguler,F4.6,Rabu_07:50-08:40
+CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,Teknologi Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",94.0,['94.0'],reguler,F3.12,Rabu_12:50-13:40
+CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,Teknologi Informasi,1,"Pengelola, Pengampu",30.0,['30.0'],reguler,F2.8,Rabu_15:20-16:10
+CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,Teknologi Informasi,1,"Pengelola, Pengampu",52.0,['52.0'],reguler,F4.6,Selasa_07:50-08:40
+CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,Teknologi Informasi,1,"Pengelola, Pengampu",92.0,['92.0'],reguler,F4.14,Rabu_13:40-14:30
+CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,Teknologi Informasi,1,"Pengelola, Pengampu",93.0,['93.0'],reguler,F4.2,Kamis_07:00-07:50
+CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,Teknologi Informasi,1,"Pengelola, Pengampu",107.0,['107.0'],reguler,F3.11,Rabu_07:00-07:50
+CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,Teknologi Informasi,1,Pengampu,20.0,['20.0'],reguler,F3.1,Jumat_07:00-07:50
+CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,Teknologi Informasi,1,Pengampu,29.0,['29.0'],reguler,F4.14,Senin_17:50-18:40
+CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,Teknologi Informasi,1,Pengampu,37.0,['37.0'],reguler,F3.14,Selasa_15:20-16:10
+CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,Teknologi Informasi,1,Pengampu,48.0,['48.0'],reguler,F3.5b,Senin_10:20-11:10
+CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,Teknologi Informasi,1,Pengampu,63.0,['63.0'],reguler,F3.2,Kamis_13:40-14:30
+CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,Teknologi Informasi,1,Pengampu,97.0,['97.0'],reguler,F4.13,Rabu_13:40-14:30
+CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,Teknologi Informasi,2,Pengampu,3.0,['3.0'],reguler,F4.11,Kamis_14:30-15:20
+CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,Teknologi Informasi,2,Pengampu,16.0,['16.0'],reguler,F3.5b,Selasa_13:40-14:30
+CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,Teknologi Informasi,2,Pengampu,89.0,['89.0'],reguler,F3.7b,Kamis_12:00-12:50
+CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,Teknologi Informasi,2,Pengampu,96.0,['96.0'],reguler,F3.7b,Kamis_17:50-18:40
+COM60004,Kecerdasan Buatan dan Pembelajaran Mesin,Teknologi Informasi,1,Pengampu,31.0,['31.0'],reguler,F3.9,Senin_14:30-15:20
+COM60004,Kecerdasan Buatan dan Pembelajaran Mesin,Teknologi Informasi,1,Pengampu,75.0,['75.0'],reguler,F3.3,Selasa_12:50-13:40
+COM60004,Kecerdasan Buatan dan Pembelajaran Mesin,Teknologi Informasi,2,Pengampu,3.0,['3.0'],reguler,F4.4,Kamis_12:50-13:40
+COM60011,Arsitektur dan Organisasi Komputer,Teknologi Informasi,2,Pengampu,103.0,['103.0'],reguler,F3.11,Jumat_13:40-14:30
+COM60014,Pemrograman Dasar,Pendidikan Teknologi Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",47.0,['47.0'],reguler,F3.6,Jumat_16:10-17:00
+COM60014,Pemrograman Dasar,Pendidikan Teknologi Informasi,1,"Pengelola, Pengampu",4.0,['4.0'],reguler,F4.14,Senin_07:00-07:50
+COM60014,Pemrograman Dasar,Pendidikan Teknologi Informasi,1,Pengampu,67.0,['67.0'],reguler,F3.5a,Jumat_13:40-14:30
+COM60014,Pemrograman Dasar,Pendidikan Teknologi Informasi,1,Pengampu,75.0,['75.0'],reguler,F3.8,Rabu_13:40-14:30
+COM60014,Pemrograman Dasar,Pendidikan Teknologi Informasi,1,Pengampu,76.0,['76.0'],reguler,F4.10,Kamis_12:50-13:40
+COM60014,Pemrograman Dasar,Pendidikan Teknologi Informasi,1,Pengampu,82.0,['82.0'],reguler,F11.1,Selasa_17:00-17:50
+COM60014,Pemrograman Dasar,Pendidikan Teknologi Informasi,1,Pengampu,91.0,['91.0'],reguler,F3.5a,Kamis_11:10-12:00
+COM60014,Pemrograman Dasar,Pendidikan Teknologi Informasi,2,Pengampu,103.0,['103.0'],reguler,F4.11,Senin_07:00-07:50
+COM60014,Pemrograman Dasar,Teknologi Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",47.0,['47.0'],reguler,F3.3,Kamis_17:50-18:40
+COM60014,Pemrograman Dasar,Teknologi Informasi,1,"Pengelola, Pengampu",4.0,['4.0'],reguler,F3.3,Jumat_09:30-10:20
+COM60014,Pemrograman Dasar,Teknologi Informasi,1,Pengampu,31.0,['31.0'],reguler,F11.3,Selasa_13:40-14:30
+COM60014,Pemrograman Dasar,Teknologi Informasi,1,Pengampu,75.0,['75.0'],reguler,F4.13,Kamis_08:40-09:30
+COM60014,Pemrograman Dasar,Teknologi Informasi,1,Pengampu,76.0,['76.0'],reguler,F4.10,Senin_16:10-17:00
+COM60014,Pemrograman Dasar,Teknologi Informasi,1,Pengampu,82.0,['82.0'],reguler,F2.6,Kamis_08:40-09:30
+COM60014,Pemrograman Dasar,Teknologi Informasi,1,Pengampu,91.0,['91.0'],reguler,F4.3,Selasa_10:20-11:10
+COM60014,Pemrograman Dasar,Teknologi Informasi,2,Pengampu,67.0,['67.0'],reguler,F3.17,Selasa_10:20-11:10
+COM60014,Pemrograman Dasar,Sistem Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",47.0,['47.0'],reguler,F4.10,Kamis_17:50-18:40
+COM60014,Pemrograman Dasar,Sistem Informasi,1,"Pengelola, Pengampu",4.0,['4.0'],reguler,F3.8,Jumat_07:00-07:50
+COM60014,Pemrograman Dasar,Sistem Informasi,1,Pengampu,31.0,['31.0'],reguler,F4.4,Jumat_07:50-08:40
+COM60014,Pemrograman Dasar,Sistem Informasi,1,Pengampu,67.0,['67.0'],reguler,F2.5,Kamis_09:30-10:20
+COM60014,Pemrograman Dasar,Sistem Informasi,1,Pengampu,76.0,['76.0'],reguler,F3.4,Rabu_13:40-14:30
+COM60014,Pemrograman Dasar,Sistem Informasi,1,Pengampu,82.0,['82.0'],reguler,F11.3,Selasa_11:10-12:00
+COM60014,Pemrograman Dasar,Sistem Informasi,1,Pengampu,87.0,['87.0'],reguler,F3.10,Rabu_12:00-12:50
+COM60014,Pemrograman Dasar,Sistem Informasi,1,Pengampu,91.0,['91.0'],reguler,F2.9,Senin_07:50-08:40
+COM60014,Pemrograman Dasar,Sistem Informasi,2,Pengampu,23.0,['23.0'],reguler,F3.14,Selasa_17:50-18:40
+COM60015,Matematika Diskret,Pendidikan Teknologi Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",103.0,['103.0'],reguler,F4.11,Senin_17:00-17:50
+COM60015,Matematika Diskret,Pendidikan Teknologi Informasi,1,Pengampu,100.0,['100.0'],reguler,F2.6,Rabu_07:00-07:50
+COM60015,Matematika Diskret,Sistem Informasi,1,Pengampu,100.0,['100.0'],reguler,F9.2,Senin_17:00-17:50
+COM60015,Matematika Diskret,Sistem Informasi,2,Pengampu,103.0,['103.0'],reguler,F3.12,Kamis_09:30-10:20
+COM60015,Matematika Diskret,Teknologi Informasi,1,Pengampu,100.0,['100.0'],reguler,F4.2,Selasa_11:10-12:00
+COM60015,Matematika Diskret,Teknologi Informasi,2,"Pengelola, Pengampu",103.0,['103.0'],reguler,F3.7a,Rabu_07:00-07:50
+COM60016,Pengantar Keilmuan Komputer,Pendidikan Teknologi Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",47.0,['47.0'],reguler,F3.16,Senin_12:50-13:40
+COM60016,Pengantar Keilmuan Komputer,Pendidikan Teknologi Informasi,1,"Pengelola, Pengampu",4.0,['4.0'],reguler,F3.8,Jumat_17:00-17:50
+COM60016,Pengantar Keilmuan Komputer,Pendidikan Teknologi Informasi,1,Pengampu,83.0,['83.0'],reguler,F2.1,Jumat_16:10-17:00
+COM60016,Pengantar Keilmuan Komputer,Pendidikan Teknologi Informasi,1,Pengampu,90.0,['90.0'],reguler,F2.9,Kamis_10:20-11:10
+COM60016,Pengantar Keilmuan Komputer,Pendidikan Teknologi Informasi,1,Pengampu,108.0,['108.0'],reguler,F3.3,Senin_17:00-17:50
+COM60016,Pengantar Keilmuan Komputer,Pendidikan Teknologi Informasi,2,Pengampu,103.0,['103.0'],reguler,F3.1,Rabu_12:50-13:40
+COM60016,Pengantar Keilmuan Komputer,Sistem Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",47.0,['47.0'],reguler,F2.6,Rabu_14:30-15:20
+COM60016,Pengantar Keilmuan Komputer,Sistem Informasi,1,"Pengelola, Pengampu",4.0,['4.0'],reguler,F3.7b,Selasa_16:10-17:00
+COM60016,Pengantar Keilmuan Komputer,Sistem Informasi,1,"Pengelola, Pengampu",108.0,['108.0'],reguler,F3.6,Kamis_12:50-13:40
+COM60016,Pengantar Keilmuan Komputer,Sistem Informasi,1,Pengampu,83.0,['83.0'],reguler,F3.5a,Selasa_16:10-17:00
+COM60016,Pengantar Keilmuan Komputer,Sistem Informasi,1,Pengampu,90.0,['90.0'],reguler,F4.4,Jumat_13:40-14:30
+COM60016,Pengantar Keilmuan Komputer,Sistem Informasi,2,Pengampu,103.0,['103.0'],reguler,F3.1,Selasa_14:30-15:20
+COM60016,Pengantar Keilmuan Komputer,Teknologi Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",47.0,['47.0'],reguler,F2.2,Kamis_17:00-17:50
+COM60016,Pengantar Keilmuan Komputer,Teknologi Informasi,1,"Pengelola, Pengampu",4.0,['4.0'],reguler,F2.8,Jumat_17:50-18:40
+COM60016,Pengantar Keilmuan Komputer,Teknologi Informasi,1,Pengampu,83.0,['83.0'],reguler,F3.16,Kamis_17:00-17:50
+COM60016,Pengantar Keilmuan Komputer,Teknologi Informasi,1,Pengampu,90.0,['90.0'],reguler,F4.6,Rabu_08:40-09:30
+COM60016,Pengantar Keilmuan Komputer,Teknologi Informasi,1,Pengampu,102.0,['102.0'],reguler,F3.7b,Selasa_11:10-12:00
+COM60016,Pengantar Keilmuan Komputer,Teknologi Informasi,1,Pengampu,108.0,['108.0'],reguler,F2.6,Senin_15:20-16:10
+COM60016,Pengantar Keilmuan Komputer,Teknologi Informasi,2,Pengampu,62.0,['62.0'],reguler,F2.5,Senin_15:20-16:10
+COM60016,Pengantar Keilmuan Komputer,Teknologi Informasi,2,Pengampu,103.0,['103.0'],reguler,F4.11,Selasa_12:00-12:50
+COM60024,Pemrograman Lanjut,Sistem Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",16.0,['16.0'],reguler,F4.5,Rabu_09:30-10:20
+COM60024,Pemrograman Lanjut,Sistem Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",20.0,['20.0'],reguler,F3.15,Selasa_12:00-12:50
+COM60024,Pemrograman Lanjut,Sistem Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",47.0,['47.0'],reguler,F3.14,Rabu_08:40-09:30
+COM60024,Pemrograman Lanjut,Sistem Informasi,1,"Pengelola, Pengampu",4.0,['4.0'],reguler,F3.15,Kamis_17:00-17:50
+COM60024,Pemrograman Lanjut,Sistem Informasi,1,"Pengelola, Pengampu",52.0,['52.0'],reguler,F3.15,Jumat_12:50-13:40
+COM60024,Pemrograman Lanjut,Sistem Informasi,1,"Pengelola, Pengampu",70.0,['70.0'],reguler,F11.4,Jumat_08:40-09:30
+COM60024,Pemrograman Lanjut,Sistem Informasi,1,Pengampu,1.0,['1.0'],reguler,F3.8,Senin_10:20-11:10
+COM60024,Pemrograman Lanjut,Sistem Informasi,1,Pengampu,31.0,['31.0'],reguler,F2.8,Kamis_17:50-18:40
+COM60024,Pemrograman Lanjut,Sistem Informasi,1,Pengampu,37.0,['37.0'],reguler,F2.9,Selasa_17:00-17:50
+COM60024,Pemrograman Lanjut,Sistem Informasi,1,Pengampu,55.0,['55.0'],reguler,F3.4,Kamis_14:30-15:20
+COM60024,Pemrograman Lanjut,Sistem Informasi,1,Pengampu,65.0,['65.0'],reguler,F4.12,Selasa_12:00-12:50
+COM60024,Pemrograman Lanjut,Sistem Informasi,1,Pengampu,75.0,['75.0'],reguler,F3.11,Jumat_10:20-11:10
+COM60024,Pemrograman Lanjut,Sistem Informasi,1,Pengampu,76.0,['76.0'],reguler,F4.10,Selasa_16:10-17:00
+COM60024,Pemrograman Lanjut,Sistem Informasi,1,Pengampu,80.0,['80.0'],reguler,F9.2,Jumat_17:00-17:50
+COM60024,Pemrograman Lanjut,Sistem Informasi,1,Pengampu,82.0,['82.0'],reguler,F2.6,Jumat_10:20-11:10
+COM60024,Pemrograman Lanjut,Sistem Informasi,1,Pengampu,87.0,['87.0'],reguler,F3.4,Kamis_17:50-18:40
+COM60024,Pemrograman Lanjut,Sistem Informasi,1,Pengampu,91.0,['91.0'],reguler,F3.5b,Rabu_07:00-07:50
+COM60024,Pemrograman Lanjut,Sistem Informasi,1,Pengampu,98.0,['98.0'],reguler,F2.2,Kamis_12:50-13:40
+COM60024,Pemrograman Lanjut,Sistem Informasi,2,"Pengelola, Pengampu",22.0,['22.0'],reguler,F4.7,Selasa_12:50-13:40
+COM60024,Pemrograman Lanjut,Sistem Informasi,2,Pengampu,23.0,['23.0'],reguler,F2.2,Rabu_16:10-17:00
+COM60024,Pemrograman Lanjut,Teknologi Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",20.0,['20.0'],reguler,F4.4,Kamis_15:20-16:10
+COM60024,Pemrograman Lanjut,Teknologi Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",47.0,['47.0'],reguler,F4.7,Selasa_16:10-17:00
+COM60024,Pemrograman Lanjut,Teknologi Informasi,1,"Pengelola, Pengampu",4.0,['4.0'],reguler,F3.15,Selasa_07:00-07:50
+COM60024,Pemrograman Lanjut,Teknologi Informasi,1,"Pengelola, Pengampu",16.0,['16.0'],reguler,F9.1,Kamis_17:50-18:40
+COM60024,Pemrograman Lanjut,Teknologi Informasi,1,"Pengelola, Pengampu",22.0,['22.0'],reguler,F3.6,Senin_16:10-17:00
+COM60024,Pemrograman Lanjut,Teknologi Informasi,1,"Pengelola, Pengampu",52.0,['52.0'],reguler,F2.2,Kamis_07:00-07:50
+COM60024,Pemrograman Lanjut,Teknologi Informasi,1,"Pengelola, Pengampu",80.0,['80.0'],reguler,F4.11,Selasa_07:00-07:50
+COM60024,Pemrograman Lanjut,Teknologi Informasi,1,Pengampu,1.0,['1.0'],reguler,F3.6,Jumat_07:50-08:40
+COM60024,Pemrograman Lanjut,Teknologi Informasi,1,Pengampu,31.0,['31.0'],reguler,F3.11,Selasa_14:30-15:20
+COM60024,Pemrograman Lanjut,Teknologi Informasi,1,Pengampu,55.0,['55.0'],reguler,F2.1,Kamis_07:00-07:50
+COM60024,Pemrograman Lanjut,Teknologi Informasi,1,Pengampu,70.0,['70.0'],reguler,F11.1,Rabu_08:40-09:30
+COM60024,Pemrograman Lanjut,Teknologi Informasi,1,Pengampu,75.0,['75.0'],reguler,F4.2,Selasa_15:20-16:10
+COM60024,Pemrograman Lanjut,Teknologi Informasi,1,Pengampu,76.0,['76.0'],reguler,F11.4,Selasa_12:50-13:40
+COM60024,Pemrograman Lanjut,Teknologi Informasi,1,Pengampu,82.0,['82.0'],reguler,F3.17,Jumat_13:40-14:30
+COM60024,Pemrograman Lanjut,Teknologi Informasi,1,Pengampu,91.0,['91.0'],reguler,F3.8,Jumat_17:50-18:40
+COM60024,Pemrograman Lanjut,Teknologi Informasi,1,Pengampu,98.0,['98.0'],reguler,F11.1,Selasa_11:10-12:00
+COM60024,Pemrograman Lanjut,Teknologi Informasi,2,Pengampu,67.0,['67.0'],reguler,F4.9,Kamis_17:50-18:40
+COM60025,Kalkulus,Teknologi Informasi,1,Pengampu,100.0,['100.0'],reguler,F4.4,Rabu_07:00-07:50
+COM60025,Kalkulus,Teknologi Informasi,2,Pengampu,75.0,['75.0'],reguler,F2.1,Senin_15:20-16:10
+COM60025,Kalkulus,Teknologi Informasi,2,Pengampu,103.0,['103.0'],reguler,F4.12,Jumat_11:10-12:00
+COM60051,Metodologi Penelitian dan Penulisan Ilmiah,Pendidikan Teknologi Informasi,1,"Pengelola, Pengampu",100.0,['100.0'],reguler,F2.4,Kamis_13:40-14:30
+COM60051,Metodologi Penelitian dan Penulisan Ilmiah,Pendidikan Teknologi Informasi,1,Pengampu,Belum Ada Dosen,['Belum Ada Dosen'],reguler,F9.1,Kamis_17:50-18:40
+COM60051,Metodologi Penelitian dan Penulisan Ilmiah,Pendidikan Teknologi Informasi,2,Pengampu,103.0,['103.0'],reguler,F4.2,Rabu_07:00-07:50
+COM60051,Metodologi Penelitian dan Penulisan Ilmiah,Sistem Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",87.0,['87.0'],reguler,F2.5,Kamis_17:00-17:50
+COM60051,Metodologi Penelitian dan Penulisan Ilmiah,Sistem Informasi,1,Pengampu,100.0,['100.0'],reguler,F3.9,Senin_12:00-12:50
+COM60051,Metodologi Penelitian dan Penulisan Ilmiah,Sistem Informasi,2,Pengampu,103.0,['103.0'],reguler,F3.16,Jumat_10:20-11:10
+COM60051,Metodologi Penelitian dan Penulisan Ilmiah,Teknologi Informasi,2,Pengampu,103.0,['103.0'],reguler,F2.1,Rabu_13:40-14:30
+COM60052,Etika Profesi,Pendidikan Teknologi Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",94.0,['94.0'],reguler,F4.7,Kamis_14:30-15:20
+COM60052,Etika Profesi,Pendidikan Teknologi Informasi,1,"Pengelola, Pengampu",4.0,['4.0'],reguler,F3.11,Senin_14:30-15:20
+COM60052,Etika Profesi,Pendidikan Teknologi Informasi,1,Pengampu,22.0,['22.0'],reguler,F2.2,Rabu_07:50-08:40
+COM60052,Etika Profesi,Pendidikan Teknologi Informasi,1,Pengampu,48.0,['48.0'],reguler,F4.5,Senin_14:30-15:20
+COM60052,Etika Profesi,Pendidikan Teknologi Informasi,1,Pengampu,77.0,['77.0'],reguler,F3.7a,Senin_17:00-17:50
+COM60052,Etika Profesi,Pendidikan Teknologi Informasi,1,Pengampu,Belum Ada Dosen,['Belum Ada Dosen'],reguler,F3.5a,Selasa_09:30-10:20
+COM60052,Etika Profesi,Pendidikan Teknologi Informasi,2,Pengampu,59.0,['59.0'],reguler,F3.7b,Rabu_11:10-12:00
+COM60052,Etika Profesi,Sistem Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",87.0,['87.0'],reguler,F3.5b,Kamis_12:00-12:50
+COM60052,Etika Profesi,Sistem Informasi,1,"Pengelola, Pengampu",4.0,['4.0'],reguler,F2.6,Rabu_07:50-08:40
+COM60052,Etika Profesi,Teknologi Informasi,1,"Pengelola, Pengampu",4.0,['4.0'],reguler,F3.10,Rabu_12:00-12:50
+COM60052,Etika Profesi,Teknologi Informasi,2,Pengampu,96.0,['96.0'],reguler,F3.7a,Kamis_07:50-08:40
+COM60061,Capstone Project,Pendidikan Teknologi Informasi,1,"Pengelola, Pengampu",4.0,['4.0'],reguler,F3.10,Jumat_11:10-12:00
+COM60061,Capstone Project,Pendidikan Teknologi Informasi,1,Pengampu,22.0,['22.0'],reguler,F11.3,Jumat_11:10-12:00
+COM60061,Capstone Project,Pendidikan Teknologi Informasi,1,Pengampu,40.0,['40.0'],reguler,F11.1,Kamis_13:40-14:30
+COM60061,Capstone Project,Pendidikan Teknologi Informasi,1,Pengampu,76.0,['76.0'],reguler,F3.16,Kamis_11:10-12:00
+COM60061,Capstone Project,Pendidikan Teknologi Informasi,1,Pengampu,Belum Ada Dosen,['Belum Ada Dosen'],reguler,F4.7,Senin_12:00-12:50
+COM60061,Capstone Project,Pendidikan Teknologi Informasi,2,"Pengelola, Pengampu",47.0,['47.0'],reguler,F3.18,Kamis_07:50-08:40
+COM60061,Capstone Project,Pendidikan Teknologi Informasi,2,Pengampu,48.0,['48.0'],reguler,F4.14,Senin_07:00-07:50
+COM60061,Capstone Project,Sistem Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",47.0,['47.0'],reguler,F3.5b,Jumat_07:00-07:50
+COM60061,Capstone Project,Sistem Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",87.0,['87.0'],reguler,F3.2,Selasa_07:50-08:40
+COM60061,Capstone Project,Sistem Informasi,1,"Pengelola, Pengampu",4.0,['4.0'],reguler,F2.8,Kamis_08:40-09:30
+COM60061,Capstone Project,Sistem Informasi,1,"Pengelola, Pengampu",108.0,['108.0'],reguler,F3.2,Jumat_16:10-17:00
+COM60061,Capstone Project,Sistem Informasi,1,Pengampu,22.0,['22.0'],reguler,F3.13,Senin_08:40-09:30
+COM60061,Capstone Project,Sistem Informasi,1,Pengampu,40.0,['40.0'],reguler,F3.14,Senin_13:40-14:30
+COM60061,Capstone Project,Sistem Informasi,1,Pengampu,76.0,['76.0'],reguler,F3.17,Selasa_10:20-11:10
+COM60061,Capstone Project,Teknologi Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",14.0,['14.0'],reguler,F2.6,Kamis_14:30-15:20
+COM60061,Capstone Project,Teknologi Informasi,1,"Pengelola, Pengampu",4.0,['4.0'],reguler,F4.6,Senin_08:40-09:30
+COM60061,Capstone Project,Teknologi Informasi,1,"Pengelola, Pengampu",47.0,['47.0'],reguler,F3.6,Rabu_17:50-18:40
+COM60061,Capstone Project,Teknologi Informasi,1,Pengampu,22.0,['22.0'],reguler,F3.1,Jumat_17:50-18:40
+COM60061,Capstone Project,Teknologi Informasi,1,Pengampu,48.0,['48.0'],reguler,F4.5,Selasa_12:00-12:50
+COM60061,Capstone Project,Teknologi Informasi,1,Pengampu,76.0,['76.0'],reguler,F4.7,Rabu_08:40-09:30
+CSD60701,Manajemen Layanan Teknologi Informasi,Pendidikan Teknologi Informasi,1,"Pengelola, Pengampu",108.0,['108.0'],reguler,F3.3,Selasa_11:10-12:00
+CSD60701,Manajemen Layanan Teknologi Informasi,Pendidikan Teknologi Informasi,1,Pengampu,6.0,['6.0'],reguler,F4.10,Kamis_11:10-12:00
+CSD60701,Manajemen Layanan Teknologi Informasi,Sistem Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",94.0,['94.0'],reguler,F9.2,Rabu_15:20-16:10
+CSD60701,Manajemen Layanan Teknologi Informasi,Sistem Informasi,1,"Pengelola, Pengampu",108.0,['108.0'],reguler,F2.4,Selasa_16:10-17:00
+CSD60701,Manajemen Layanan Teknologi Informasi,Sistem Informasi,1,Pengampu,6.0,['6.0'],reguler,F3.11,Kamis_07:00-07:50
+CSD60701,Manajemen Layanan Teknologi Informasi,Sistem Informasi,1,Pengampu,15.0,['15.0'],reguler,F4.5,Senin_07:50-08:40
+CSD60701,Manajemen Layanan Teknologi Informasi,Sistem Informasi,1,Pengampu,21.0,['21.0'],reguler,F2.8,Jumat_10:20-11:10
+CSD60701,Manajemen Layanan Teknologi Informasi,Sistem Informasi,1,Pengampu,87.0,['87.0'],reguler,F3.9,Kamis_10:20-11:10
+CSD60701,Manajemen Layanan Teknologi Informasi,Sistem Informasi,2,"Pengelola, Pengampu",47.0,['47.0'],reguler,F3.3,Kamis_14:30-15:20
+CSD60701,Manajemen Layanan Teknologi Informasi,Sistem Informasi,2,Pengampu,22.0,['22.0'],reguler,F4.6,Rabu_14:30-15:20
+CSD60702,Sistem Pendukung Keputusan,Pendidikan Teknologi Informasi,1,Pengampu,83.0,['83.0'],reguler,F3.8,Selasa_12:00-12:50
+CSD60702,Sistem Pendukung Keputusan,Pendidikan Teknologi Informasi,1,Pengampu,108.0,['108.0'],reguler,F9.1,Kamis_08:40-09:30
+CSD60702,Sistem Pendukung Keputusan,Sistem Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",94.0,['94.0'],reguler,F3.15,Selasa_07:00-07:50
+CSD60702,Sistem Pendukung Keputusan,Sistem Informasi,1,"Pengelola, Pengampu",30.0,['30.0'],reguler,F2.2,Senin_14:30-15:20
+CSD60702,Sistem Pendukung Keputusan,Sistem Informasi,1,"Pengelola, Pengampu",52.0,['52.0'],reguler,F3.14,Jumat_07:50-08:40
+CSD60702,Sistem Pendukung Keputusan,Sistem Informasi,1,"Pengelola, Pengampu",107.0,['107.0'],reguler,F3.18,Selasa_10:20-11:10
+CSD60702,Sistem Pendukung Keputusan,Sistem Informasi,1,"Pengelola, Pengampu",108.0,['108.0'],reguler,F3.7a,Kamis_17:00-17:50
+CSD60702,Sistem Pendukung Keputusan,Sistem Informasi,1,Pengampu,15.0,['15.0'],reguler,F2.1,Jumat_13:40-14:30
+CSD60702,Sistem Pendukung Keputusan,Sistem Informasi,1,Pengampu,16.0,['16.0'],reguler,F4.2,Senin_13:40-14:30
+CSD60702,Sistem Pendukung Keputusan,Sistem Informasi,1,Pengampu,20.0,['20.0'],reguler,F3.18,Kamis_07:00-07:50
+CSD60702,Sistem Pendukung Keputusan,Sistem Informasi,1,Pengampu,29.0,['29.0'],reguler,F11.1,Jumat_07:00-07:50
+CSD60702,Sistem Pendukung Keputusan,Sistem Informasi,1,Pengampu,73.0,['73.0'],reguler,F2.5,Kamis_09:30-10:20
+CSD60702,Sistem Pendukung Keputusan,Sistem Informasi,1,Pengampu,83.0,['83.0'],reguler,F11.4,Jumat_09:30-10:20
+CSD60702,Sistem Pendukung Keputusan,Sistem Informasi,1,Pengampu,92.0,['92.0'],reguler,F2.4,Selasa_14:30-15:20
+CSD60703,Tata Kelola Teknologi Informasi,Sistem Informasi,1,"Pengelola, Pengampu",6.0,['6.0'],reguler,F4.5,Kamis_17:00-17:50
+CSD60703,Tata Kelola Teknologi Informasi,Sistem Informasi,1,Pengampu,87.0,['87.0'],reguler,F3.16,Senin_11:10-12:00
+CSD60703,Tata Kelola Teknologi Informasi,Sistem Informasi,1,Pengampu,108.0,['108.0'],reguler,F2.9,Jumat_13:40-14:30
+CSD60703,Tata Kelola Teknologi Informasi,Teknologi Informasi,1,"Pengelola, Pengampu",6.0,['6.0'],reguler,F3.9,Jumat_11:15-12:05_AGAMA_KHUSUS
+CSD60703,Tata Kelola Teknologi Informasi,Teknologi Informasi,1,Pengampu,15.0,['15.0'],reguler,F4.4,Selasa_15:20-16:10
+CSD60704,Desain Basis Data,Sistem Informasi,1,"Pengelola, Pengampu",72.0,['72.0'],reguler,F3.9,Kamis_17:50-18:40
+CSD60704,Desain Basis Data,Sistem Informasi,1,"Pengelola, Pengampu",102.0,['102.0'],reguler,F3.6,Senin_15:20-16:10
+CSD60704,Desain Basis Data,Sistem Informasi,1,"Pengelola, Pengampu",108.0,['108.0'],reguler,F2.8,Senin_08:40-09:30
+CSD60704,Desain Basis Data,Sistem Informasi,1,Pengampu,75.0,['75.0'],reguler,F4.14,Kamis_10:20-11:10
+CSD60704,Desain Basis Data,Sistem Informasi,1,Pengampu,91.0,['91.0'],reguler,F3.1,Rabu_10:20-11:10
+CSD60704,Desain Basis Data,Teknologi Informasi,1,"Pengelola, Pengampu",22.0,['22.0'],reguler,F3.16,Rabu_16:10-17:00
+CSD60704,Desain Basis Data,Teknologi Informasi,1,"Pengelola, Pengampu",102.0,['102.0'],reguler,F3.17,Rabu_08:40-09:30
+CSD60704,Desain Basis Data,Teknologi Informasi,1,Pengampu,1.0,['1.0'],reguler,F2.4,Rabu_13:40-14:30
+CSD60704,Desain Basis Data,Teknologi Informasi,1,Pengampu,16.0,['16.0'],reguler,F11.1,Senin_15:20-16:10
+CSD60704,Desain Basis Data,Teknologi Informasi,1,Pengampu,20.0,['20.0'],reguler,F11.3,Kamis_14:30-15:20
+CSD60704,Desain Basis Data,Teknologi Informasi,1,Pengampu,29.0,['29.0'],reguler,F9.2,Kamis_08:40-09:30
+CSD60704,Desain Basis Data,Teknologi Informasi,1,Pengampu,Belum Ada Dosen,['Belum Ada Dosen'],reguler,F2.1,Jumat_15:20-16:10
+CSD60704,Desain Basis Data,Teknologi Informasi,1,Pengampu,73.0,['73.0'],reguler,F3.7b,Senin_15:20-16:10
+CSD60704,Desain Basis Data,Teknologi Informasi,1,Pengampu,75.0,['75.0'],reguler,F3.4,Selasa_12:50-13:40
+CSD60704,Desain Basis Data,Teknologi Informasi,1,Pengampu,91.0,['91.0'],reguler,F3.5a,Selasa_11:10-12:00
+CSD60704,Desain Basis Data,Teknologi Informasi,1,Pengampu,98.0,['98.0'],reguler,F4.13,Kamis_17:00-17:50
+CSD60704,Desain Basis Data,Teknologi Informasi,1,Pengampu,108.0,['108.0'],reguler,F2.6,Senin_07:50-08:40
+CSD60705,Pemrograman SQL,Sistem Informasi,1,"Pengelola, Pengampu",22.0,['22.0'],reguler,F4.13,Jumat_15:20-16:10
+CSD60705,Pemrograman SQL,Sistem Informasi,1,"Pengelola, Pengampu",72.0,['72.0'],reguler,F4.7,Senin_07:00-07:50
+CSD60705,Pemrograman SQL,Sistem Informasi,1,"Pengelola, Pengampu",73.0,['73.0'],reguler,F4.13,Rabu_08:40-09:30
+CSD60705,Pemrograman SQL,Sistem Informasi,1,"Pengelola, Pengampu",102.0,['102.0'],reguler,F2.8,Rabu_13:40-14:30
+CSD60705,Pemrograman SQL,Sistem Informasi,1,Pengampu,1.0,['1.0'],reguler,F3.5a,Kamis_17:50-18:40
+CSD60705,Pemrograman SQL,Sistem Informasi,1,Pengampu,20.0,['20.0'],reguler,F4.14,Rabu_07:00-07:50
+CSD60705,Pemrograman SQL,Sistem Informasi,1,Pengampu,60.0,['60.0'],reguler,F9.1,Jumat_11:10-12:00
+CSD60705,Pemrograman SQL,Sistem Informasi,1,Pengampu,Belum Ada Dosen,['Belum Ada Dosen'],reguler,F4.11,Kamis_16:10-17:00
+CSD60705,Pemrograman SQL,Sistem Informasi,1,Pengampu,70.0,['70.0'],reguler,F3.3,Kamis_11:10-12:00
+CSD60705,Pemrograman SQL,Sistem Informasi,1,Pengampu,91.0,['91.0'],reguler,F3.8,Jumat_12:50-13:40
+CSD60705,Pemrograman SQL,Sistem Informasi,1,Pengampu,98.0,['98.0'],reguler,F4.9,Rabu_16:10-17:00
+CSD60705,Pemrograman SQL,Sistem Informasi,2,"Pengelola, Pengampu",16.0,['16.0'],reguler,F3.3,Senin_15:20-16:10
+CSD60705,Pemrograman SQL,Teknologi Informasi,1,"Pengelola, Pengampu",102.0,['102.0'],reguler,F3.8,Rabu_07:00-07:50
+CSD60705,Pemrograman SQL,Teknologi Informasi,1,Pengampu,60.0,['60.0'],reguler,F4.14,Jumat_07:50-08:40
+CSD60705,Pemrograman SQL,Teknologi Informasi,1,Pengampu,91.0,['91.0'],reguler,F2.8,Senin_17:00-17:50
+CSD60706,Administrasi Basis Data,Sistem Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",72.0,['72.0'],reguler,F4.3,Senin_12:00-12:50
+CSD60706,Administrasi Basis Data,Sistem Informasi,1,"Pengelola, Pengampu",102.0,['102.0'],reguler,F9.2,Jumat_07:50-08:40
+CSD60706,Administrasi Basis Data,Sistem Informasi,1,Pengampu,75.0,['75.0'],reguler,F3.13,Jumat_16:10-17:00
+CSD60706,Administrasi Basis Data,Sistem Informasi,1,Pengampu,91.0,['91.0'],reguler,F3.14,Kamis_12:00-12:50
+CSD60706,Administrasi Basis Data,Teknologi Informasi,1,"Pengelola, Pengampu",102.0,['102.0'],reguler,F3.14,Kamis_13:40-14:30
+CSD60706,Administrasi Basis Data,Teknologi Informasi,1,Pengampu,Belum Ada Dosen,['Belum Ada Dosen'],reguler,F3.16,Rabu_17:00-17:50
+CSD60706,Administrasi Basis Data,Teknologi Informasi,1,Pengampu,75.0,['75.0'],reguler,F4.9,Senin_07:50-08:40
+CSD60706,Administrasi Basis Data,Teknologi Informasi,1,Pengampu,91.0,['91.0'],reguler,F4.12,Selasa_13:40-14:30
+CSD60707,Big Data dan Analitik,Sistem Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",72.0,['72.0'],reguler,F2.4,Jumat_15:20-16:10
+CSD60707,Big Data dan Analitik,Sistem Informasi,1,"Pengelola, Pengampu",52.0,['52.0'],reguler,F4.10,Jumat_10:20-11:10
+CSD60707,Big Data dan Analitik,Sistem Informasi,1,Pengampu,16.0,['16.0'],reguler,F3.5a,Jumat_17:00-17:50
+CSD60707,Big Data dan Analitik,Sistem Informasi,1,Pengampu,20.0,['20.0'],reguler,F2.4,Rabu_07:50-08:40
+CSD60707,Big Data dan Analitik,Sistem Informasi,1,Pengampu,80.0,['80.0'],reguler,F9.1,Selasa_08:40-09:30
+CSD60707,Big Data dan Analitik,Sistem Informasi,1,Pengampu,102.0,['102.0'],reguler,F3.4,Jumat_08:40-09:30
+CSD60707,Big Data dan Analitik,Sistem Informasi,2,Pengampu,89.0,['89.0'],reguler,F3.15,Jumat_07:00-07:50
+CSD60707,Big Data dan Analitik,Teknologi Informasi,1,"Pengelola, Pengampu",52.0,['52.0'],reguler,F3.1,Jumat_11:15-12:05_AGAMA_KHUSUS
+CSD60707,Big Data dan Analitik,Teknologi Informasi,1,Pengampu,20.0,['20.0'],reguler,F9.2,Senin_09:30-10:20
+CSD60707,Big Data dan Analitik,Teknologi Informasi,1,Pengampu,48.0,['48.0'],reguler,F9.1,Jumat_12:50-13:40
+CSD60707,Big Data dan Analitik,Teknologi Informasi,1,Pengampu,Belum Ada Dosen,['Belum Ada Dosen'],reguler,F3.6,Jumat_11:10-12:00
+CSD60707,Big Data dan Analitik,Teknologi Informasi,1,Pengampu,80.0,['80.0'],reguler,F3.14,Selasa_16:10-17:00
+CSD60707,Big Data dan Analitik,Teknologi Informasi,1,Pengampu,93.0,['93.0'],reguler,F3.1,Rabu_07:00-07:50
+CSD60707,Big Data dan Analitik,Teknologi Informasi,1,Pengampu,102.0,['102.0'],reguler,F3.2,Selasa_13:40-14:30
+CSD60707,Big Data dan Analitik,Teknologi Informasi,2,Pengampu,89.0,['89.0'],reguler,F2.2,Selasa_07:50-08:40
+CSD60708,Penambangan Data,Pendidikan Teknologi Informasi,1,Pengampu,102.0,['102.0'],reguler,F9.1,Rabu_07:00-07:50
+CSD60708,Penambangan Data,Sistem Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",92.0,['92.0'],reguler,F3.11,Rabu_14:30-15:20
+CSD60708,Penambangan Data,Sistem Informasi,1,"Pengelola, Pengampu",30.0,['30.0'],reguler,F3.8,Jumat_13:40-14:30
+CSD60708,Penambangan Data,Sistem Informasi,1,"Pengelola, Pengampu",52.0,['52.0'],reguler,F2.6,Kamis_10:20-11:10
+CSD60708,Penambangan Data,Sistem Informasi,1,"Pengelola, Pengampu",107.0,['107.0'],reguler,F3.6,Kamis_12:50-13:40
+CSD60708,Penambangan Data,Sistem Informasi,1,Pengampu,1.0,['1.0'],reguler,F2.5,Kamis_12:50-13:40
+CSD60708,Penambangan Data,Sistem Informasi,1,Pengampu,16.0,['16.0'],reguler,F11.4,Rabu_17:50-18:40
+CSD60708,Penambangan Data,Sistem Informasi,1,Pengampu,20.0,['20.0'],reguler,F3.7b,Kamis_08:40-09:30
+CSD60708,Penambangan Data,Sistem Informasi,1,Pengampu,29.0,['29.0'],reguler,F4.12,Selasa_10:20-11:10
+CSD60708,Penambangan Data,Sistem Informasi,1,Pengampu,72.0,['72.0'],reguler,F3.14,Senin_11:10-12:00
+CSD60708,Penambangan Data,Sistem Informasi,1,Pengampu,80.0,['80.0'],reguler,F3.2,Kamis_17:50-18:40
+CSD60708,Penambangan Data,Sistem Informasi,1,Pengampu,102.0,['102.0'],reguler,F2.9,Jumat_12:50-13:40
+CSD60708,Penambangan Data,Sistem Informasi,2,Pengampu,89.0,['89.0'],reguler,F4.7,Kamis_07:00-07:50
+CSD60708,Penambangan Data,Sistem Informasi,2,Pengampu,97.0,['97.0'],reguler,F4.2,Selasa_16:10-17:00
+CSD60708,Penambangan Data,Teknologi Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",92.0,['92.0'],reguler,F2.1,Selasa_07:50-08:40
+CSD60708,Penambangan Data,Teknologi Informasi,1,"Pengelola, Pengampu",30.0,['30.0'],reguler,F4.7,Rabu_16:10-17:00
+CSD60708,Penambangan Data,Teknologi Informasi,1,"Pengelola, Pengampu",107.0,['107.0'],reguler,F11.3,Jumat_10:20-11:10
+CSD60708,Penambangan Data,Teknologi Informasi,1,Pengampu,1.0,['1.0'],reguler,F4.7,Jumat_10:20-11:10
+CSD60708,Penambangan Data,Teknologi Informasi,1,Pengampu,16.0,['16.0'],reguler,F4.11,Selasa_09:30-10:20
+CSD60708,Penambangan Data,Teknologi Informasi,1,Pengampu,20.0,['20.0'],reguler,F3.7a,Selasa_11:10-12:00
+CSD60708,Penambangan Data,Teknologi Informasi,1,Pengampu,29.0,['29.0'],reguler,F4.3,Kamis_17:00-17:50
+CSD60708,Penambangan Data,Teknologi Informasi,1,Pengampu,52.0,['52.0'],reguler,F4.13,Rabu_07:50-08:40
+CSD60708,Penambangan Data,Teknologi Informasi,1,Pengampu,80.0,['80.0'],reguler,F2.8,Senin_08:40-09:30
+CSD60708,Penambangan Data,Teknologi Informasi,1,Pengampu,93.0,['93.0'],reguler,F4.10,Senin_12:50-13:40
+CSD60708,Penambangan Data,Teknologi Informasi,1,Pengampu,102.0,['102.0'],reguler,F3.18,Jumat_13:40-14:30
+CSD60708,Penambangan Data,Teknologi Informasi,2,Pengampu,97.0,['97.0'],reguler,F3.3,Senin_17:00-17:50
+CSD60709,Keamanan Siber,Pendidikan Teknologi Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",14.0,['14.0'],reguler,F2.1,Kamis_13:40-14:30
+CSD60708,Penambangan Data,Teknologi Informasi,2,"Koordinator Pengelola, Pengelola, Pengampu",17.0,['17.0'],reguler,F3.2,Rabu_08:40-09:30
+CSD60709,Keamanan Siber,Pendidikan Teknologi Informasi,1,"Pengelola, Pengampu",94.0,['94.0'],reguler,F2.8,Senin_14:30-15:20
+CSD60708,Penambangan Data,Teknologi Informasi,2,Pengampu,41.0,['41.0'],reguler,F2.2,Senin_07:50-08:40
+CSD60709,Keamanan Siber,Pendidikan Teknologi Informasi,1,Pengampu,63.0,['63.0'],reguler,F3.11,Selasa_08:40-09:30
+CSD60708,Penambangan Data,Teknologi Informasi,2,Pengampu,65.0,['65.0'],reguler,F4.9,Senin_15:20-16:10
+CSD60709,Keamanan Siber,Pendidikan Teknologi Informasi,1,Pengampu,75.0,['75.0'],reguler,F2.8,Senin_10:20-11:10
+CSD60709,Keamanan Siber,Teknologi Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",94.0,['94.0'],reguler,F11.3,Senin_09:30-10:20
+CSD60709,Keamanan Siber,Teknologi Informasi,1,Pengampu,17.0,['17.0'],reguler,F4.14,Kamis_11:10-12:00
+CSD60709,Keamanan Siber,Teknologi Informasi,1,Pengampu,41.0,['41.0'],reguler,F4.6,Jumat_14:30-15:20
+CSD60709,Keamanan Siber,Teknologi Informasi,1,Pengampu,46.0,['46.0'],reguler,F9.1,Senin_17:50-18:40
+CSD60709,Keamanan Siber,Teknologi Informasi,1,Pengampu,63.0,['63.0'],reguler,F11.4,Jumat_10:20-11:10
+CSD60709,Keamanan Siber,Teknologi Informasi,1,Pengampu,65.0,['65.0'],reguler,F3.10,Kamis_14:30-15:20
+CSD60709,Keamanan Siber,Teknologi Informasi,1,Pengampu,75.0,['75.0'],reguler,F4.13,Rabu_15:20-16:10
+CSD60710,Sistem Informasi Geografis,Sistem Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",87.0,['87.0'],reguler,F2.6,Kamis_08:40-09:30
+CSD60710,Sistem Informasi Geografis,Teknologi Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",11.0,['11.0'],reguler,F3.16,Selasa_15:20-16:10
+CSD60711,Perancangan Pengalaman Pengguna,Pendidikan Teknologi Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",22.0,['22.0'],reguler,F9.2,Senin_14:30-15:20
+CSD60711,Perancangan Pengalaman Pengguna,Pendidikan Teknologi Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",45.0,['45.0'],reguler,F4.3,Selasa_16:10-17:00
+CSD60711,Perancangan Pengalaman Pengguna,Pendidikan Teknologi Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",47.0,['47.0'],reguler,F3.7a,Jumat_11:10-12:00
+CSD60711,Perancangan Pengalaman Pengguna,Pendidikan Teknologi Informasi,1,"Pengelola, Pengampu",4.0,['4.0'],reguler,F2.5,Rabu_14:30-15:20
+CSD60711,Perancangan Pengalaman Pengguna,Pendidikan Teknologi Informasi,1,"Pengelola, Pengampu",16.0,['16.0'],reguler,F3.4,Rabu_14:30-15:20
+CSD60711,Perancangan Pengalaman Pengguna,Pendidikan Teknologi Informasi,1,Pengampu,62.0,['62.0'],reguler,F4.7,Senin_12:00-12:50
+CSD60711,Perancangan Pengalaman Pengguna,Pendidikan Teknologi Informasi,2,Pengampu,12.0,['12.0'],reguler,F4.3,Senin_14:30-15:20
+CSD60711,Perancangan Pengalaman Pengguna,Sistem Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",47.0,['47.0'],reguler,F2.6,Selasa_13:40-14:30
+CSD60711,Perancangan Pengalaman Pengguna,Sistem Informasi,1,"Pengelola, Pengampu",4.0,['4.0'],reguler,F4.3,Rabu_15:20-16:10
+CSD60711,Perancangan Pengalaman Pengguna,Sistem Informasi,1,Pengampu,60.0,['60.0'],reguler,F4.13,Senin_08:40-09:30
+CSD60711,Perancangan Pengalaman Pengguna,Sistem Informasi,1,Pengampu,62.0,['62.0'],reguler,F9.1,Senin_07:50-08:40
+CSD60711,Perancangan Pengalaman Pengguna,Sistem Informasi,1,Pengampu,87.0,['87.0'],reguler,F4.11,Jumat_17:00-17:50
+CSD60711,Perancangan Pengalaman Pengguna,Teknologi Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",22.0,['22.0'],reguler,F3.16,Selasa_07:50-08:40
+CSD60711,Perancangan Pengalaman Pengguna,Teknologi Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",45.0,['45.0'],reguler,F2.5,Selasa_07:50-08:40
+CSD60711,Perancangan Pengalaman Pengguna,Teknologi Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",47.0,['47.0'],reguler,F4.6,Rabu_07:00-07:50
+CSD60711,Perancangan Pengalaman Pengguna,Teknologi Informasi,1,"Pengelola, Pengampu",4.0,['4.0'],reguler,F3.5b,Senin_16:10-17:00
+CSD60711,Perancangan Pengalaman Pengguna,Teknologi Informasi,1,"Pengelola, Pengampu",16.0,['16.0'],reguler,F3.18,Kamis_13:40-14:30
+CSD60711,Perancangan Pengalaman Pengguna,Teknologi Informasi,1,"Pengelola, Pengampu",55.0,['55.0'],reguler,F2.4,Jumat_12:50-13:40
+CSD60711,Perancangan Pengalaman Pengguna,Teknologi Informasi,1,Pengampu,60.0,['60.0'],reguler,F3.5b,Jumat_17:50-18:40
+CSD60711,Perancangan Pengalaman Pengguna,Teknologi Informasi,1,Pengampu,62.0,['62.0'],reguler,F3.17,Senin_08:40-09:30
+CSD60711,Perancangan Pengalaman Pengguna,Teknologi Informasi,2,Pengampu,12.0,['12.0'],reguler,F3.7b,Kamis_17:00-17:50
+CSD60712,Probabilitas dan Statistika,Pendidikan Teknologi Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",92.0,['92.0'],reguler,F3.4,Rabu_14:30-15:20
+CSD60712,Probabilitas dan Statistika,Pendidikan Teknologi Informasi,1,"Pengelola, Pengampu",100.0,['100.0'],reguler,F9.2,Kamis_08:40-09:30
+CSD60712,Probabilitas dan Statistika,Pendidikan Teknologi Informasi,1,"Pengelola, Pengampu",107.0,['107.0'],reguler,F3.14,Jumat_12:50-13:40
+CSD60712,Probabilitas dan Statistika,Pendidikan Teknologi Informasi,1,Pengampu,11.0,['11.0'],reguler,F3.14,Senin_15:20-16:10
+CSD60712,Probabilitas dan Statistika,Pendidikan Teknologi Informasi,1,Pengampu,16.0,['16.0'],reguler,F3.16,Jumat_12:50-13:40
+CSD60712,Probabilitas dan Statistika,Pendidikan Teknologi Informasi,1,Pengampu,77.0,['77.0'],reguler,F4.5,Rabu_10:20-11:10
+CSD60712,Probabilitas dan Statistika,Pendidikan Teknologi Informasi,1,Pengampu,83.0,['83.0'],reguler,F2.1,Selasa_08:40-09:30
+CSD60712,Probabilitas dan Statistika,Sistem Informasi,1,Pengampu,83.0,['83.0'],reguler,F4.6,Kamis_16:10-17:00
+CSD60712,Probabilitas dan Statistika,Sistem Informasi,1,Pengampu,87.0,['87.0'],reguler,F4.13,Selasa_16:10-17:00
+CSD60712,Probabilitas dan Statistika,Sistem Informasi,1,Pengampu,100.0,['100.0'],reguler,F3.5a,Senin_07:50-08:40
+CSD60712,Probabilitas dan Statistika,Teknologi Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",92.0,['92.0'],reguler,F3.7a,Kamis_13:40-14:30
+CSD60712,Probabilitas dan Statistika,Teknologi Informasi,1,"Pengelola, Pengampu",107.0,['107.0'],reguler,F4.2,Rabu_13:40-14:30
+CSD60712,Probabilitas dan Statistika,Teknologi Informasi,1,Pengampu,11.0,['11.0'],reguler,F4.10,Senin_16:10-17:00
+CSD60712,Probabilitas dan Statistika,Teknologi Informasi,1,Pengampu,16.0,['16.0'],reguler,F3.17,Jumat_15:20-16:10
+CSD60712,Probabilitas dan Statistika,Teknologi Informasi,1,Pengampu,83.0,['83.0'],reguler,F3.18,Selasa_09:30-10:20
+CSD60712,Probabilitas dan Statistika,Teknologi Informasi,1,Pengampu,93.0,['93.0'],reguler,F2.4,Selasa_13:40-14:30
+CSD60712,Probabilitas dan Statistika,Teknologi Informasi,1,Pengampu,100.0,['100.0'],reguler,F2.8,Selasa_17:00-17:50
+CSD60713,Jaringan Terapan,Pendidikan Teknologi Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",17.0,['17.0'],reguler,F3.5a,Rabu_17:50-18:40
+CSD60713,Jaringan Terapan,Pendidikan Teknologi Informasi,1,Pengampu,90.0,['90.0'],reguler,F4.6,Senin_14:30-15:20
+CSD60713,Jaringan Terapan,Teknologi Informasi,1,Pengampu,79.0,['79.0'],reguler,F3.8,Senin_16:10-17:00
+CSD60713,Jaringan Terapan,Teknologi Informasi,1,Pengampu,90.0,['90.0'],reguler,F3.13,Jumat_17:50-18:40
+CSD60714,Jaminan Kualitas Perangkat Lunak,Pendidikan Teknologi Informasi,1,"Pengelola, Pengampu",4.0,['4.0'],reguler,F3.14,Jumat_08:40-09:30
+CSD60714,Jaminan Kualitas Perangkat Lunak,Pendidikan Teknologi Informasi,1,Pengampu,1.0,['1.0'],reguler,F2.2,Senin_07:50-08:40
+CSD60714,Jaminan Kualitas Perangkat Lunak,Pendidikan Teknologi Informasi,1,Pengampu,6.0,['6.0'],reguler,F2.2,Senin_07:00-07:50
+CSD60714,Jaminan Kualitas Perangkat Lunak,Pendidikan Teknologi Informasi,1,Pengampu,67.0,['67.0'],reguler,F4.3,Selasa_17:50-18:40
+CSD60714,Jaminan Kualitas Perangkat Lunak,Pendidikan Teknologi Informasi,2,Pengampu,40.0,['40.0'],reguler,F9.1,Jumat_16:10-17:00
+CSD60714,Jaminan Kualitas Perangkat Lunak,Teknologi Informasi,1,"Pengelola, Pengampu",4.0,['4.0'],reguler,F3.15,Senin_11:10-12:00
+CSD60714,Jaminan Kualitas Perangkat Lunak,Teknologi Informasi,1,Pengampu,1.0,['1.0'],reguler,F3.16,Rabu_08:40-09:30
+CSD60714,Jaminan Kualitas Perangkat Lunak,Teknologi Informasi,1,Pengampu,40.0,['40.0'],reguler,F3.9,Senin_09:30-10:20
+CSD60714,Jaminan Kualitas Perangkat Lunak,Teknologi Informasi,1,Pengampu,60.0,['60.0'],reguler,F2.8,Kamis_16:10-17:00
+CSD60714,Jaminan Kualitas Perangkat Lunak,Teknologi Informasi,1,Pengampu,67.0,['67.0'],reguler,F3.14,Jumat_08:40-09:30
+CSD60715,Analisis Data Penelitian Kuantitatif,Pendidikan Teknologi Informasi,1,Pengampu,11.0,['11.0'],reguler,F3.8,Jumat_11:15-12:05_AGAMA_KHUSUS
+CSD60715,Analisis Data Penelitian Kuantitatif,Pendidikan Teknologi Informasi,1,Pengampu,16.0,['16.0'],reguler,F4.12,Rabu_07:00-07:50
+CSD60715,Analisis Data Penelitian Kuantitatif,Pendidikan Teknologi Informasi,1,Pengampu,63.0,['63.0'],reguler,F11.1,Selasa_13:40-14:30
+CSD60715,Analisis Data Penelitian Kuantitatif,Pendidikan Teknologi Informasi,1,Pengampu,Belum Ada Dosen,['Belum Ada Dosen'],reguler,F4.4,Selasa_11:10-12:00
+CSD60715,Analisis Data Penelitian Kuantitatif,Pendidikan Teknologi Informasi,1,Pengampu,Belum Ada Dosen,['Belum Ada Dosen'],reguler,F2.5,Rabu_14:30-15:20
+CSD60715,Analisis Data Penelitian Kuantitatif,Pendidikan Teknologi Informasi,1,Pengampu,100.0,['100.0'],reguler,F4.6,Jumat_09:30-10:20
+CSD60715,Analisis Data Penelitian Kuantitatif,Sistem Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",87.0,['87.0'],reguler,F4.11,Senin_09:30-10:20
+CSD60715,Analisis Data Penelitian Kuantitatif,Sistem Informasi,1,"Pengelola, Pengampu",16.0,['16.0'],reguler,F3.10,Selasa_12:00-12:50
+CSD60715,Analisis Data Penelitian Kuantitatif,Sistem Informasi,1,Pengampu,37.0,['37.0'],reguler,F3.7b,Selasa_12:50-13:40
+CSD60715,Analisis Data Penelitian Kuantitatif,Sistem Informasi,1,Pengampu,40.0,['40.0'],reguler,F2.8,Senin_07:00-07:50
+CSD60715,Analisis Data Penelitian Kuantitatif,Sistem Informasi,1,Pengampu,Belum Ada Dosen,['Belum Ada Dosen'],reguler,F11.1,Kamis_17:50-18:40
+CSD60715,Analisis Data Penelitian Kuantitatif,Sistem Informasi,1,Pengampu,100.0,['100.0'],reguler,F3.11,Jumat_16:10-17:00
+CSD60715,Analisis Data Penelitian Kuantitatif,Sistem Informasi,1,Pengampu,108.0,['108.0'],reguler,F3.14,Selasa_11:10-12:00
+CSD60715,Analisis Data Penelitian Kuantitatif,Sistem Informasi,2,Pengampu,11.0,['11.0'],reguler,F11.3,Rabu_12:50-13:40
+CSD60715,Analisis Data Penelitian Kuantitatif,Sistem Informasi,2,Pengampu,12.0,['12.0'],reguler,F3.3,Kamis_07:00-07:50
+CSD60716,Analisis Data Penelitian Kualitatif,Pendidikan Teknologi Informasi,1,"Pengelola, Pengampu",Belum Ada Dosen,['Belum Ada Dosen'],reguler,F2.1,Rabu_17:50-18:40
+CSD60716,Analisis Data Penelitian Kualitatif,Pendidikan Teknologi Informasi,1,Pengampu,Belum Ada Dosen,['Belum Ada Dosen'],reguler,F2.4,Rabu_08:40-09:30
+CSD60716,Analisis Data Penelitian Kualitatif,Pendidikan Teknologi Informasi,1,Pengampu,100.0,['100.0'],reguler,F3.11,Selasa_15:20-16:10
+CSD60716,Analisis Data Penelitian Kualitatif,Sistem Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",87.0,['87.0'],reguler,F3.12,Jumat_08:40-09:30
+CSD60716,Analisis Data Penelitian Kualitatif,Sistem Informasi,1,Pengampu,37.0,['37.0'],reguler,F3.5a,Jumat_14:30-15:20
+CSD60716,Analisis Data Penelitian Kualitatif,Sistem Informasi,1,Pengampu,Belum Ada Dosen,['Belum Ada Dosen'],reguler,F4.11,Senin_08:40-09:30
+CSD60716,Analisis Data Penelitian Kualitatif,Sistem Informasi,1,Pengampu,Belum Ada Dosen,['Belum Ada Dosen'],reguler,F4.14,Senin_07:00-07:50
+CSD60716,Analisis Data Penelitian Kualitatif,Sistem Informasi,1,Pengampu,100.0,['100.0'],reguler,F3.16,Senin_08:40-09:30
+CSD60716,Analisis Data Penelitian Kualitatif,Sistem Informasi,2,Pengampu,12.0,['12.0'],reguler,F3.17,Senin_15:20-16:10
+CSD60717,Teknologi Blockchain dan Platform Keuangan Digital,Sistem Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",14.0,['14.0'],reguler,F3.18,Senin_14:30-15:20
+CSD60717,Teknologi Blockchain dan Platform Keuangan Digital,Sistem Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",47.0,['47.0'],reguler,F3.16,Senin_12:50-13:40
+CSD60717,Teknologi Blockchain dan Platform Keuangan Digital,Sistem Informasi,1,Pengampu,17.0,['17.0'],reguler,F9.1,Senin_10:20-11:10
+CSD60717,Teknologi Blockchain dan Platform Keuangan Digital,Sistem Informasi,2,Pengampu,Belum Ada Dosen,['Belum Ada Dosen'],reguler,F3.14,Senin_07:50-08:40
+CSD60717,Teknologi Blockchain dan Platform Keuangan Digital,Sistem Informasi,2,Pengampu,105.0,['105.0'],reguler,F3.5b,Jumat_17:00-17:50
+UBU60003,Kewirausahaan,Pendidikan Teknologi Informasi,2,Pengampu,62.0,['62.0'],reguler,F3.13,Kamis_09:30-10:20
+UBU60003,Kewirausahaan,Sistem Informasi,1,"Koordinator Pengelola, Pengelola, Pengampu",87.0,['87.0'],reguler,F2.9,Rabu_09:30-10:20
+UBU60003,Kewirausahaan,Sistem Informasi,2,"Pengelola, Pengampu",47.0,['47.0'],reguler,F3.7b,Selasa_12:00-12:50
+UBU60003,Kewirausahaan,Sistem Informasi,2,Pengampu,62.0,['62.0'],reguler,F3.6,Rabu_14:30-15:20
+UBU60003,Kewirausahaan,Teknologi Informasi,1,Pengampu,15.0,['15.0'],reguler,F3.8,Rabu_07:50-08:40
+UBU60003,Kewirausahaan,Teknologi Informasi,2,"Pengelola, Pengampu",47.0,['47.0'],reguler,F3.9,Kamis_07:50-08:40
+UBU60003,Kewirausahaan,Teknologi Informasi,2,Pengampu,62.0,['62.0'],reguler,F3.6,Kamis_16:10-17:00
+UBU60003,Kewirausahaan,Teknologi Informasi,2,Pengampu,96.0,['96.0'],reguler,F3.9,Selasa_17:00-17:50
