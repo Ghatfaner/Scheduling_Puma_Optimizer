@@ -1,8 +1,9 @@
 artifact_uri: file:///c:/Users/student/Documents/Scheduling_Puma_Optimizer/notebooks/mlruns/742559778635974792/3c8a40fe524642e5a260b9ff62bd2af2/artifacts
+deleted_time: 1761272489531
 end_time: 1761210558923
 entry_point_name: ''
 experiment_id: '742559778635974792'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 3c8a40fe524642e5a260b9ff62bd2af2
 run_name: ABC_Run
 source_name: ''
