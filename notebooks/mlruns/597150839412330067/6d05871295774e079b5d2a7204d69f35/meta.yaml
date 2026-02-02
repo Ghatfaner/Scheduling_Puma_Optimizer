@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/student/Documents/Scheduling_Puma_Optimizer/notebooks/mlruns/597150839412330067/6d05871295774e079b5d2a7204d69f35/artifacts
+end_time: 1761277153100
+entry_point_name: ''
+experiment_id: '597150839412330067'
+lifecycle_stage: active
+run_id: 6d05871295774e079b5d2a7204d69f35
+run_name: POA_Run
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761277119767
+status: 3
+tags: []
+user_id: student

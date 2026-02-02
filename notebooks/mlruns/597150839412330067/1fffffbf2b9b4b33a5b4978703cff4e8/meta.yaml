@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/student/Documents/Scheduling_Puma_Optimizer/notebooks/mlruns/597150839412330067/1fffffbf2b9b4b33a5b4978703cff4e8/artifacts
+end_time: 1761203798606
+entry_point_name: ''
+experiment_id: '597150839412330067'
+lifecycle_stage: active
+run_id: 1fffffbf2b9b4b33a5b4978703cff4e8
+run_name: ACO_Run
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761203294439
+status: 3
+tags: []
+user_id: student

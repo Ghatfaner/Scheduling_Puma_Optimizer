@@ -1,0 +1,31 @@
+
+--- Running Puma Optimization Algorithm with MLflow Logging ---
+POA Generation 1/100 | Current Best Fitness: 3223 | Violations: 28
+POA Generation 2/100 | Current Best Fitness: 2843 | Violations: 24
+POA Generation 3/100 | Current Best Fitness: 2339 | Violations: 19
+POA Generation 4/100 | Current Best Fitness: 2040 | Violations: 16
+POA Generation 5/100 | Current Best Fitness: 1738 | Violations: 13
+POA Generation 6/100 | Current Best Fitness: 1642 | Violations: 12
+POA Generation 7/100 | Current Best Fitness: 1540 | Violations: 11
+POA Generation 8/100 | Current Best Fitness: 1340 | Violations: 9
+POA Generation 9/100 | Current Best Fitness: 1340 | Violations: 9
+POA Generation 10/100 | Current Best Fitness: 1340 | Violations: 9
+POA Generation 11/100 | Current Best Fitness: 1334 | Violations: 9
+POA Generation 12/100 | Current Best Fitness: 1240 | Violations: 8
+POA Generation 13/100 | Current Best Fitness: 1234 | Violations: 8
+POA Generation 14/100 | Current Best Fitness: 1234 | Violations: 8
+POA Generation 15/100 | Current Best Fitness: 1234 | Violations: 8
+POA Generation 16/100 | Current Best Fitness: 1234 | Violations: 8
+POA Generation 17/100 | Current Best Fitness: 1134 | Violations: 7
+POA Generation 18/100 | Current Best Fitness: 1134 | Violations: 7
+POA Generation 19/100 | Current Best Fitness: 1134 | Violations: 7
+POA Generation 20/100 | Current Best Fitness: 1134 | Violations: 7
+POA Generation 21/100 | Current Best Fitness: 1134 | Violations: 7
+POA Generation 22/100 | Current Best Fitness: 1034 | Violations: 6
+POA Generation 23/100 | Current Best Fitness: 1026 | Violations: 6
+...
+
+--- POA Run Finished ---
+Final Best Fitness: 495
+Final Hard Constraint Violations: 1
+Output is truncated. View as a scrollable element or open in a text editor. Adjust cell output settings...
