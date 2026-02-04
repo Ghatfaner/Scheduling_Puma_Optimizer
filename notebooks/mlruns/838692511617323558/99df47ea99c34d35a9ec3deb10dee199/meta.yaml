@@ -1,0 +1,14 @@
+artifact_uri: file:///home/emery/Documents/Scheduling_Puma_Optimizer/notebooks/mlruns/838692511617323558/99df47ea99c34d35a9ec3deb10dee199/artifacts
+end_time: 1770119469606
+entry_point_name: ''
+experiment_id: '838692511617323558'
+lifecycle_stage: active
+run_id: 99df47ea99c34d35a9ec3deb10dee199
+run_name: ABC_Run
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770119200924
+status: 3
+tags: []
+user_id: emery
