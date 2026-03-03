@@ -1,0 +1,14 @@
+artifact_uri: file:///home/emery/Documents/Scheduling_Puma_Optimizer/notebooks/mlruns/d04157f739a74942b19e1bd35161ac8e/artifacts
+end_time: 1772339675947
+entry_point_name: ''
+experiment_id: '843173483530355952'
+lifecycle_stage: active
+run_id: d04157f739a74942b19e1bd35161ac8e
+run_name: Summary
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772339675919
+status: 4
+tags: []
+user_id: emery
