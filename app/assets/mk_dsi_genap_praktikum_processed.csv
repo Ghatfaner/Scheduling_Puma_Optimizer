@@ -1,0 +1,726 @@
+event_id,course_id,course_name,requires_practicum_room,slots_needed,teacher_id,teacher_priority
+EVT_0000,CSD60706,Administrasi Basis Data,False,2,75,1
+EVT_0001,CSD60706,Administrasi Basis Data,False,2,91,1
+EVT_0002,CSD60706,Administrasi Basis Data,False,2,102,1
+EVT_0003,CSD60706,Administrasi Basis Data,False,2,TBA_47,1
+EVT_0004,CIT62015,Administrasi Sistem,False,2,65,2
+EVT_0005,CIT62015,Administrasi Sistem,False,2,75,1
+EVT_0006,CIT62015,Administrasi Sistem,False,2,104,1
+EVT_0007,CIT62015,Administrasi Sistem - Praktikum,True,2,65,2
+EVT_0008,CIT62015,Administrasi Sistem - Praktikum,True,2,75,1
+EVT_0009,CIT62015,Administrasi Sistem - Praktikum,True,2,104,1
+EVT_0010,CIT62011,Aljabar Linear dan Matriks,False,2,16,1
+EVT_0011,CIT62011,Aljabar Linear dan Matriks,False,2,54,1
+EVT_0012,CIT62011,Aljabar Linear dan Matriks,False,2,63,1
+EVT_0013,CIT62011,Aljabar Linear dan Matriks,False,2,77,1
+EVT_0014,CIT62011,Aljabar Linear dan Matriks,False,2,92,1
+EVT_0015,CIT62011,Aljabar Linear dan Matriks,False,2,93,1
+EVT_0016,CIT62011,Aljabar Linear dan Matriks,False,2,100,1
+EVT_0017,CIT62011,Aljabar Linear dan Matriks,False,2,103,2
+EVT_0018,CIT62011,Aljabar Linear dan Matriks,False,2,107,1
+EVT_0019,CSD60716,Analisis Data Penelitian Kualitatif,False,2,100,1
+EVT_0020,CSD60716,Analisis Data Penelitian Kualitatif,False,2,TBA_1,1
+EVT_0021,CSD60716,Analisis Data Penelitian Kualitatif,False,2,TBA_2,1
+EVT_0022,CSD60716,Analisis Data Penelitian Kualitatif,False,2,100,1
+EVT_0023,CSD60716,Analisis Data Penelitian Kualitatif,False,2,TBA_1,1
+EVT_0024,CSD60716,Analisis Data Penelitian Kualitatif,False,2,TBA_2,1
+EVT_0025,CSD60716,Analisis Data Penelitian Kualitatif,False,2,12,2
+EVT_0026,CSD60716,Analisis Data Penelitian Kualitatif,False,2,37,1
+EVT_0027,CSD60716,Analisis Data Penelitian Kualitatif,False,2,87,1
+EVT_0028,CSD60716,Analisis Data Penelitian Kualitatif,False,2,100,1
+EVT_0029,CSD60716,Analisis Data Penelitian Kualitatif,False,2,TBA_35,1
+EVT_0030,CSD60716,Analisis Data Penelitian Kualitatif,False,2,TBA_36,1
+EVT_0031,CSD60715,Analisis Data Penelitian Kuantitatif,False,2,11,1
+EVT_0032,CSD60715,Analisis Data Penelitian Kuantitatif,False,2,16,1
+EVT_0033,CSD60715,Analisis Data Penelitian Kuantitatif,False,2,63,1
+EVT_0034,CSD60715,Analisis Data Penelitian Kuantitatif,False,2,100,1
+EVT_0035,CSD60715,Analisis Data Penelitian Kuantitatif,False,2,TBA_3,1
+EVT_0036,CSD60715,Analisis Data Penelitian Kuantitatif,False,2,TBA_4,1
+EVT_0037,CSD60715,Analisis Data Penelitian Kuantitatif,False,2,11,2
+EVT_0038,CSD60715,Analisis Data Penelitian Kuantitatif,False,2,12,2
+EVT_0039,CSD60715,Analisis Data Penelitian Kuantitatif,False,2,16,1
+EVT_0040,CSD60715,Analisis Data Penelitian Kuantitatif,False,2,37,1
+EVT_0041,CSD60715,Analisis Data Penelitian Kuantitatif,False,2,40,1
+EVT_0042,CSD60715,Analisis Data Penelitian Kuantitatif,False,2,87,1
+EVT_0043,CSD60715,Analisis Data Penelitian Kuantitatif,False,2,100,1
+EVT_0044,CSD60715,Analisis Data Penelitian Kuantitatif,False,2,108,1
+EVT_0045,CSD60715,Analisis Data Penelitian Kuantitatif,False,2,TBA_37,1
+EVT_0046,CIE61208,Basis Data,False,2,4,1
+EVT_0047,CIE61208,Basis Data - Praktikum,True,2,4,1
+EVT_0048,CSD60707,Big Data dan Analitik,False,2,16,1
+EVT_0049,CSD60707,Big Data dan Analitik,False,2,20,1
+EVT_0050,CSD60707,Big Data dan Analitik,False,2,52,1
+EVT_0051,CSD60707,Big Data dan Analitik,False,2,72,1
+EVT_0052,CSD60707,Big Data dan Analitik,False,2,80,1
+EVT_0053,CSD60707,Big Data dan Analitik,False,2,89,2
+EVT_0054,CSD60707,Big Data dan Analitik,False,2,102,1
+EVT_0055,CSD60707,Big Data dan Analitik,False,2,20,1
+EVT_0056,CSD60707,Big Data dan Analitik,False,2,48,1
+EVT_0057,CSD60707,Big Data dan Analitik,False,2,52,1
+EVT_0058,CSD60707,Big Data dan Analitik,False,2,80,1
+EVT_0059,CSD60707,Big Data dan Analitik,False,2,89,2
+EVT_0060,CSD60707,Big Data dan Analitik,False,2,93,1
+EVT_0061,CSD60707,Big Data dan Analitik,False,2,102,1
+EVT_0062,CSD60707,Big Data dan Analitik,False,2,TBA_48,1
+EVT_0063,COM60061,Capstone Project,False,2,4,1
+EVT_0064,COM60061,Capstone Project,False,2,22,1
+EVT_0065,COM60061,Capstone Project,False,2,40,1
+EVT_0066,COM60061,Capstone Project,False,2,47,1
+EVT_0067,COM60061,Capstone Project,False,2,76,1
+EVT_0068,COM60061,Capstone Project,False,2,87,1
+EVT_0069,COM60061,Capstone Project,False,2,108,1
+EVT_0070,CIT62001,Dasar Desain Antarmuka Pengguna,False,2,4,1
+EVT_0071,CIT62001,Dasar Desain Antarmuka Pengguna,False,2,16,1
+EVT_0072,CIT62001,Dasar Desain Antarmuka Pengguna,False,2,22,1
+EVT_0073,CIT62001,Dasar Desain Antarmuka Pengguna,False,2,45,1
+EVT_0074,CIT62001,Dasar Desain Antarmuka Pengguna,False,2,47,1
+EVT_0075,CIT62001,Dasar Desain Antarmuka Pengguna,False,2,62,1
+EVT_0076,CIT61021,Data Warehouse,False,2,16,1
+EVT_0077,CIT61021,Data Warehouse,False,2,73,1
+EVT_0078,CIT61021,Data Warehouse,False,2,102,1
+EVT_0079,CIT61021,Data Warehouse,False,2,TBA_49,1
+EVT_0080,CIS62102,Desain Antar Muka Pengguna,False,2,4,1
+EVT_0081,CIS62102,Desain Antar Muka Pengguna,False,2,12,1
+EVT_0082,CIS62102,Desain Antar Muka Pengguna,False,2,16,1
+EVT_0083,CIS62102,Desain Antar Muka Pengguna,False,2,22,1
+EVT_0084,CIS62102,Desain Antar Muka Pengguna,False,2,37,1
+EVT_0085,CIS62102,Desain Antar Muka Pengguna,False,2,45,1
+EVT_0086,CIS62102,Desain Antar Muka Pengguna,False,2,47,1
+EVT_0087,CIS62102,Desain Antar Muka Pengguna,False,2,62,1
+EVT_0088,CIS62102,Desain Antar Muka Pengguna,False,2,70,2
+EVT_0089,CIS62102,Desain Antar Muka Pengguna,False,2,87,1
+EVT_0090,CSD60704,Desain Basis Data,False,2,1,1
+EVT_0091,CSD60704,Desain Basis Data,False,2,16,1
+EVT_0092,CSD60704,Desain Basis Data,False,2,20,1
+EVT_0093,CSD60704,Desain Basis Data,False,2,22,1
+EVT_0094,CSD60704,Desain Basis Data,False,2,29,1
+EVT_0095,CSD60704,Desain Basis Data,False,2,73,1
+EVT_0096,CSD60704,Desain Basis Data,False,2,75,1
+EVT_0097,CSD60704,Desain Basis Data,False,2,91,1
+EVT_0098,CSD60704,Desain Basis Data,False,2,98,1
+EVT_0099,CSD60704,Desain Basis Data,False,2,102,1
+EVT_0100,CSD60704,Desain Basis Data,False,2,108,1
+EVT_0101,CSD60704,Desain Basis Data,False,2,TBA_50,1
+EVT_0102,CIS62108,Enterprise Architecture I,False,2,6,1
+EVT_0103,CIS62108,Enterprise Architecture I,False,2,13,1
+EVT_0104,CIS62108,Enterprise Architecture I,False,2,55,1
+EVT_0105,CIS62108,Enterprise Architecture I,False,2,62,1
+EVT_0106,CIS62108,Enterprise Architecture I,False,2,76,1
+EVT_0107,CIS62108,Enterprise Architecture I,False,2,87,1
+EVT_0108,CIS62108,Enterprise Architecture I,False,2,TBA_38,2
+EVT_0109,COM60052,Etika Profesi,False,2,4,1
+EVT_0110,COM60052,Etika Profesi,False,2,22,1
+EVT_0111,COM60052,Etika Profesi,False,2,48,1
+EVT_0112,COM60052,Etika Profesi,False,2,59,2
+EVT_0113,COM60052,Etika Profesi,False,2,77,1
+EVT_0114,COM60052,Etika Profesi,False,2,94,1
+EVT_0115,COM60052,Etika Profesi,False,2,TBA_6,1
+EVT_0116,CIS62126,Evaluasi Pengalaman dan Antarmuka Pengguna,False,2,4,1
+EVT_0117,CIS62126,Evaluasi Pengalaman dan Antarmuka Pengguna,False,2,12,1
+EVT_0118,CIS62126,Evaluasi Pengalaman dan Antarmuka Pengguna,False,2,16,1
+EVT_0119,CIS62126,Evaluasi Pengalaman dan Antarmuka Pengguna,False,2,45,1
+EVT_0120,CIS62126,Evaluasi Pengalaman dan Antarmuka Pengguna,False,2,47,1
+EVT_0121,CIS62126,Evaluasi Pengalaman dan Antarmuka Pengguna,False,2,55,1
+EVT_0122,CIS62126,Evaluasi Pengalaman dan Antarmuka Pengguna,False,2,60,1
+EVT_0123,CIS62126,Evaluasi Pengalaman dan Antarmuka Pengguna,False,2,62,1
+EVT_0124,CIS62126,Evaluasi Pengalaman dan Antarmuka Pengguna,False,2,83,1
+EVT_0125,CIS62126,Evaluasi Pengalaman dan Antarmuka Pengguna,False,2,87,1
+EVT_0126,CIS62125,GeoInformasi Lanjut,False,2,11,1
+EVT_0127,CIS62125,GeoInformasi Lanjut,False,2,87,1
+EVT_0128,CIS62125,GeoInformasi Lanjut - Praktikum,True,2,11,1
+EVT_0129,CIS62125,GeoInformasi Lanjut - Praktikum,True,2,87,1
+EVT_0130,CIS60107,Gudang Data,False,2,16,2
+EVT_0131,CIS60107,Gudang Data,False,2,72,1
+EVT_0132,CIS60107,Gudang Data,False,2,73,1
+EVT_0133,CIS60107,Gudang Data,False,2,102,1
+EVT_0134,CIT62022,Implementasi dan Pengujian Sistem Informasi,False,2,1,1
+EVT_0135,CIT62022,Implementasi dan Pengujian Sistem Informasi,False,2,4,1
+EVT_0136,CIT62022,Implementasi dan Pengujian Sistem Informasi,False,2,6,1
+EVT_0137,CIT62022,Implementasi dan Pengujian Sistem Informasi,False,2,16,1
+EVT_0138,CIT62022,Implementasi dan Pengujian Sistem Informasi,False,2,31,1
+EVT_0139,CIT62022,Implementasi dan Pengujian Sistem Informasi,False,2,40,1
+EVT_0140,CIT62022,Implementasi dan Pengujian Sistem Informasi,False,2,67,1
+EVT_0141,CIT62022,Implementasi dan Pengujian Sistem Informasi,False,2,94,1
+EVT_0142,CIT62022,Implementasi dan Pengujian Sistem Informasi,False,2,TBA_51,1
+EVT_0143,CIT60048,Information Retrieval,False,2,1,1
+EVT_0144,CIT60048,Information Retrieval,False,2,47,2
+EVT_0145,CIT60048,Information Retrieval,False,2,52,1
+EVT_0146,CIT60048,Information Retrieval,False,2,80,1
+EVT_0147,CIT60048,Information Retrieval,False,2,89,2
+EVT_0148,CIT60048,Information Retrieval,False,2,93,1
+EVT_0149,CIT60048,Information Retrieval,False,2,97,2
+EVT_0150,CIT60048,Information Retrieval,False,2,107,1
+EVT_0151,CIE62401,Inovasi Digital Kompetitif,False,2,4,1
+EVT_0152,CIE62401,Inovasi Digital Kompetitif,False,2,6,2
+EVT_0153,CIE62401,Inovasi Digital Kompetitif,False,2,45,2
+EVT_0154,CIE62401,Inovasi Digital Kompetitif,False,2,47,1
+EVT_0155,CSD60714,Jaminan Kualitas Perangkat Lunak,False,2,1,1
+EVT_0156,CSD60714,Jaminan Kualitas Perangkat Lunak,False,2,4,1
+EVT_0157,CSD60714,Jaminan Kualitas Perangkat Lunak,False,2,6,1
+EVT_0158,CSD60714,Jaminan Kualitas Perangkat Lunak,False,2,40,2
+EVT_0159,CSD60714,Jaminan Kualitas Perangkat Lunak,False,2,67,1
+EVT_0160,CSD60714,Jaminan Kualitas Perangkat Lunak,False,2,1,1
+EVT_0161,CSD60714,Jaminan Kualitas Perangkat Lunak,False,2,4,1
+EVT_0162,CSD60714,Jaminan Kualitas Perangkat Lunak,False,2,40,1
+EVT_0163,CSD60714,Jaminan Kualitas Perangkat Lunak,False,2,60,1
+EVT_0164,CSD60714,Jaminan Kualitas Perangkat Lunak,False,2,67,1
+EVT_0165,CIS62103,Jaringan dan Komputasi Awan,False,2,16,1
+EVT_0166,CIS62103,Jaringan dan Komputasi Awan,False,2,17,1
+EVT_0167,CIS62103,Jaringan dan Komputasi Awan,False,2,20,1
+EVT_0168,CIS62103,Jaringan dan Komputasi Awan,False,2,21,2
+EVT_0169,CIS62103,Jaringan dan Komputasi Awan,False,2,41,1
+EVT_0170,CIS62103,Jaringan dan Komputasi Awan,False,2,65,2
+EVT_0171,CIS62103,Jaringan dan Komputasi Awan,False,2,75,1
+EVT_0172,CIS62103,Jaringan dan Komputasi Awan,False,2,79,2
+EVT_0173,CSD60713,Jaringan Terapan,False,2,79,1
+EVT_0174,CSD60713,Jaringan Terapan,False,2,90,1
+EVT_0175,CSD60713,Jaringan Terapan - Praktikum,True,2,79,1
+EVT_0176,CSD60713,Jaringan Terapan - Praktikum,True,2,90,1
+EVT_0177,CIT60044,Keamanan Data dan Privasi,False,2,17,1
+EVT_0178,CIT60044,Keamanan Data dan Privasi,False,2,35,1
+EVT_0179,CIT60044,Keamanan Data dan Privasi,False,2,41,1
+EVT_0180,CIT60044,Keamanan Data dan Privasi,False,2,46,1
+EVT_0181,CIT60044,Keamanan Data dan Privasi,False,2,63,1
+EVT_0182,CIT60044,Keamanan Data dan Privasi,False,2,65,1
+EVT_0183,CIT60044,Keamanan Data dan Privasi,False,2,75,1
+EVT_0184,CIS61128,Keamanan Jaringan dan Siber,False,2,17,1
+EVT_0185,CSD60709,Keamanan Siber,False,2,14,1
+EVT_0186,CSD60709,Keamanan Siber,False,2,17,1
+EVT_0187,CSD60709,Keamanan Siber,False,2,41,1
+EVT_0188,CSD60709,Keamanan Siber,False,2,63,1
+EVT_0189,CSD60709,Keamanan Siber,False,2,65,1
+EVT_0190,CSD60709,Keamanan Siber,False,2,75,1
+EVT_0191,CSD60709,Keamanan Siber,False,2,94,1
+EVT_0192,CSD60709,Keamanan Siber,False,2,17,1
+EVT_0193,CSD60709,Keamanan Siber,False,2,41,1
+EVT_0194,CSD60709,Keamanan Siber,False,2,46,1
+EVT_0195,CSD60709,Keamanan Siber,False,2,63,1
+EVT_0196,CSD60709,Keamanan Siber,False,2,65,1
+EVT_0197,CSD60709,Keamanan Siber,False,2,75,1
+EVT_0198,CSD60709,Keamanan Siber,False,2,94,1
+EVT_0199,CIE62303,Kecerdasan Artifisial,False,2,16,1
+EVT_0200,CIE62303,Kecerdasan Artifisial,False,2,20,1
+EVT_0201,CIE62303,Kecerdasan Artifisial,False,2,29,1
+EVT_0202,CIE62303,Kecerdasan Artifisial,False,2,30,1
+EVT_0203,CIE62303,Kecerdasan Artifisial,False,2,52,1
+EVT_0204,CIE62303,Kecerdasan Artifisial,False,2,92,1
+EVT_0205,CIE62303,Kecerdasan Artifisial,False,2,94,1
+EVT_0206,CIE62303,Kecerdasan Artifisial,False,2,97,1
+EVT_0207,CIE62303,Kecerdasan Artifisial,False,2,107,1
+EVT_0208,CIS62112,Kecerdasan Bisnis dan Analitik,False,2,72,1
+EVT_0209,CIS62112,Kecerdasan Bisnis dan Analitik,False,2,87,1
+EVT_0210,CIS62112,Kecerdasan Bisnis dan Analitik,False,2,94,1
+EVT_0211,CIS62112,Kecerdasan Bisnis dan Analitik,False,2,102,1
+EVT_0212,CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,False,2,3,2
+EVT_0213,COM60004,Kecerdasan Buatan dan Pembelajaran Mesin,False,2,3,2
+EVT_0214,CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,False,2,16,2
+EVT_0215,CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,False,2,20,1
+EVT_0216,CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,False,2,29,1
+EVT_0217,CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,False,2,30,1
+EVT_0218,COM60004,Kecerdasan Buatan dan Pembelajaran Mesin,False,2,31,1
+EVT_0219,CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,False,2,37,1
+EVT_0220,CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,False,2,48,1
+EVT_0221,CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,False,2,52,1
+EVT_0222,CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,False,2,63,1
+EVT_0223,COM60004,Kecerdasan Buatan dan Pembelajaran Mesin,False,2,75,1
+EVT_0224,CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,False,2,89,2
+EVT_0225,CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,False,2,92,1
+EVT_0226,CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,False,2,93,1
+EVT_0227,CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,False,2,94,1
+EVT_0228,CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,False,2,96,2
+EVT_0229,CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,False,2,97,1
+EVT_0230,CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,False,2,107,1
+EVT_0231,UBU60003,Kewirausahaan,False,2,47,2
+EVT_0232,UBU60003,Kewirausahaan,False,2,62,2
+EVT_0233,UBU60003,Kewirausahaan,False,2,87,1
+EVT_0234,CIT60045,Kriptografi,False,2,14,1
+EVT_0235,CIT60045,Kriptografi,False,2,75,1
+EVT_0236,CIE62107,Lingkungan Pembelajaran Digital,False,2,40,1
+EVT_0237,CIE62107,Lingkungan Pembelajaran Digital,False,2,47,1
+EVT_0238,CIE62107,Lingkungan Pembelajaran Digital,False,2,103,1
+EVT_0239,CIE62107,Lingkungan Pembelajaran Digital,False,2,TBA_8,1
+EVT_0240,CIE62107,Lingkungan Pembelajaran Digital - Praktikum,True,2,40,1
+EVT_0241,CIE62107,Lingkungan Pembelajaran Digital - Praktikum,True,2,47,1
+EVT_0242,CIE62107,Lingkungan Pembelajaran Digital - Praktikum,True,2,103,1
+EVT_0243,CIE62107,Lingkungan Pembelajaran Digital - Praktikum,True,2,TBA_8,1
+EVT_0244,CIE61120,Literasi Digital,False,2,11,1
+EVT_0245,CIE61120,Literasi Digital,False,2,12,2
+EVT_0246,CIE61120,Literasi Digital,False,2,103,2
+EVT_0247,CIE61120,Literasi Digital,False,2,TBA_9,1
+EVT_0248,CIE61120,Literasi Digital,False,2,TBA_10,1
+EVT_0249,CIS62115,Manajemen Investasi Teknologi Informasi,False,2,6,1
+EVT_0250,CIS62115,Manajemen Investasi Teknologi Informasi,False,2,13,1
+EVT_0251,CIS62115,Manajemen Investasi Teknologi Informasi,False,2,22,1
+EVT_0252,CIS62115,Manajemen Investasi Teknologi Informasi,False,2,49,1
+EVT_0253,CIS62115,Manajemen Investasi Teknologi Informasi,False,2,53,2
+EVT_0254,CIS62115,Manajemen Investasi Teknologi Informasi,False,2,60,1
+EVT_0255,CIS62115,Manajemen Investasi Teknologi Informasi,False,2,62,1
+EVT_0256,CIS62115,Manajemen Investasi Teknologi Informasi,False,2,87,1
+EVT_0257,CIS62115,Manajemen Investasi Teknologi Informasi,False,2,94,1
+EVT_0258,CSD60701,Manajemen Layanan Teknologi Informasi,False,2,6,1
+EVT_0259,CSD60701,Manajemen Layanan Teknologi Informasi,False,2,15,1
+EVT_0260,CSD60701,Manajemen Layanan Teknologi Informasi,False,2,21,1
+EVT_0261,CSD60701,Manajemen Layanan Teknologi Informasi,False,2,22,2
+EVT_0262,CSD60701,Manajemen Layanan Teknologi Informasi,False,2,47,2
+EVT_0263,CSD60701,Manajemen Layanan Teknologi Informasi,False,2,87,1
+EVT_0264,CSD60701,Manajemen Layanan Teknologi Informasi,False,2,94,1
+EVT_0265,CSD60701,Manajemen Layanan Teknologi Informasi,False,2,108,1
+EVT_0266,CIT60031,Manajemen Proyek Teknologi Informasi,False,2,6,1
+EVT_0267,CIT60031,Manajemen Proyek Teknologi Informasi,False,2,13,1
+EVT_0268,CIT60031,Manajemen Proyek Teknologi Informasi,False,2,22,1
+EVT_0269,CIT60031,Manajemen Proyek Teknologi Informasi,False,2,40,1
+EVT_0270,CIT60031,Manajemen Proyek Teknologi Informasi,False,2,48,1
+EVT_0271,CIT60031,Manajemen Proyek Teknologi Informasi,False,2,94,1
+EVT_0272,CIS62117,Manajemen Rantai Suplai,False,2,22,1
+EVT_0273,CIS62117,Manajemen Rantai Suplai,False,2,53,1
+EVT_0274,CIS62117,Manajemen Rantai Suplai,False,2,94,1
+EVT_0275,CIS62117,Manajemen Rantai Suplai,False,2,108,1
+EVT_0276,CIS62117,Manajemen Rantai Suplai,False,2,TBA_39,1
+EVT_0277,CIE61119,Multimodal Storytelling,False,2,47,1
+EVT_0278,CIE61119,Multimodal Storytelling,False,2,TBA_12,1
+EVT_0279,CIE62105,Pembelajaran Berdiferensiasi,False,2,103,1
+EVT_0280,CIE62105,Pembelajaran Berdiferensiasi,False,2,TBA_13,1
+EVT_0281,CIE62105,Pembelajaran Berdiferensiasi,False,2,TBA_14,1
+EVT_0282,CIE62305,Pembelajaran Emosional Sosial,False,2,TBA_15,1
+EVT_0283,CIE62305,Pembelajaran Emosional Sosial,False,2,TBA_16,1
+EVT_0284,CIE62306,Pembelajaran Inklusif,False,2,47,1
+EVT_0285,CIE62306,Pembelajaran Inklusif,False,2,59,2
+EVT_0286,CIE62306,Pembelajaran Inklusif,False,2,103,2
+EVT_0287,CIE62306,Pembelajaran Inklusif,False,2,TBA_17,1
+EVT_0288,CIE62306,Pembelajaran Inklusif,False,2,TBA_18,1
+EVT_0289,CIS62104,Pemodelan Proses Bisnis,False,2,6,1
+EVT_0290,CIS62104,Pemodelan Proses Bisnis,False,2,13,1
+EVT_0291,CIS62104,Pemodelan Proses Bisnis,False,2,16,1
+EVT_0292,CIS62104,Pemodelan Proses Bisnis,False,2,49,1
+EVT_0293,CIS62104,Pemodelan Proses Bisnis,False,2,53,1
+EVT_0294,CIS62104,Pemodelan Proses Bisnis,False,2,55,1
+EVT_0295,CIS62104,Pemodelan Proses Bisnis,False,2,108,1
+EVT_0296,CIS62104,Pemodelan Proses Bisnis - Praktikum,True,2,6,1
+EVT_0297,CIS62104,Pemodelan Proses Bisnis - Praktikum,True,2,13,1
+EVT_0298,CIS62104,Pemodelan Proses Bisnis - Praktikum,True,2,16,1
+EVT_0299,CIS62104,Pemodelan Proses Bisnis - Praktikum,True,2,49,1
+EVT_0300,CIS62104,Pemodelan Proses Bisnis - Praktikum,True,2,53,1
+EVT_0301,CIS62104,Pemodelan Proses Bisnis - Praktikum,True,2,55,1
+EVT_0302,CIS62104,Pemodelan Proses Bisnis - Praktikum,True,2,108,1
+EVT_0303,CIE62203,Pemrograman Berbasis Objek,False,2,4,1
+EVT_0304,CIE62203,Pemrograman Berbasis Objek,False,2,16,1
+EVT_0305,CIE62203,Pemrograman Berbasis Objek,False,2,20,1
+EVT_0306,CIE62203,Pemrograman Berbasis Objek,False,2,52,1
+EVT_0307,CIE62203,Pemrograman Berbasis Objek,False,2,67,1
+EVT_0308,CIE62203,Pemrograman Berbasis Objek,False,2,70,1
+EVT_0309,CIE62203,Pemrograman Berbasis Objek,False,2,75,1
+EVT_0310,CIE62203,Pemrograman Berbasis Objek,False,2,76,1
+EVT_0311,CIE62203,Pemrograman Berbasis Objek,False,2,91,1
+EVT_0312,CIE62203,Pemrograman Berbasis Objek,False,2,98,1
+EVT_0313,CIE62203,Pemrograman Berbasis Objek - Praktikum,True,2,4,1
+EVT_0314,CIE62203,Pemrograman Berbasis Objek - Praktikum,True,2,16,1
+EVT_0315,CIE62203,Pemrograman Berbasis Objek - Praktikum,True,2,20,1
+EVT_0316,CIE62203,Pemrograman Berbasis Objek - Praktikum,True,2,52,1
+EVT_0317,CIE62203,Pemrograman Berbasis Objek - Praktikum,True,2,67,1
+EVT_0318,CIE62203,Pemrograman Berbasis Objek - Praktikum,True,2,70,1
+EVT_0319,CIE62203,Pemrograman Berbasis Objek - Praktikum,True,2,75,1
+EVT_0320,CIE62203,Pemrograman Berbasis Objek - Praktikum,True,2,76,1
+EVT_0321,CIE62203,Pemrograman Berbasis Objek - Praktikum,True,2,91,1
+EVT_0322,CIE62203,Pemrograman Berbasis Objek - Praktikum,True,2,98,1
+EVT_0323,COM60024,Pemrograman Lanjut,False,2,1,1
+EVT_0324,COM60024,Pemrograman Lanjut,False,2,4,1
+EVT_0325,COM60024,Pemrograman Lanjut,False,2,16,1
+EVT_0326,COM60024,Pemrograman Lanjut,False,2,20,1
+EVT_0327,COM60024,Pemrograman Lanjut,False,2,22,2
+EVT_0328,COM60024,Pemrograman Lanjut,False,2,23,2
+EVT_0329,COM60024,Pemrograman Lanjut,False,2,31,1
+EVT_0330,COM60024,Pemrograman Lanjut,False,2,37,1
+EVT_0331,COM60024,Pemrograman Lanjut,False,2,47,1
+EVT_0332,COM60024,Pemrograman Lanjut,False,2,52,1
+EVT_0333,COM60024,Pemrograman Lanjut,False,2,55,1
+EVT_0334,COM60024,Pemrograman Lanjut,False,2,65,1
+EVT_0335,COM60024,Pemrograman Lanjut,False,2,70,1
+EVT_0336,COM60024,Pemrograman Lanjut,False,2,75,1
+EVT_0337,COM60024,Pemrograman Lanjut,False,2,76,1
+EVT_0338,COM60024,Pemrograman Lanjut,False,2,80,1
+EVT_0339,COM60024,Pemrograman Lanjut,False,2,82,1
+EVT_0340,COM60024,Pemrograman Lanjut,False,2,87,1
+EVT_0341,COM60024,Pemrograman Lanjut,False,2,91,1
+EVT_0342,COM60024,Pemrograman Lanjut,False,2,98,1
+EVT_0343,COM60024,Pemrograman Lanjut,False,2,1,1
+EVT_0344,COM60024,Pemrograman Lanjut,False,2,4,1
+EVT_0345,COM60024,Pemrograman Lanjut,False,2,16,1
+EVT_0346,COM60024,Pemrograman Lanjut,False,2,20,1
+EVT_0347,COM60024,Pemrograman Lanjut,False,2,22,1
+EVT_0348,COM60024,Pemrograman Lanjut,False,2,31,1
+EVT_0349,COM60024,Pemrograman Lanjut,False,2,47,1
+EVT_0350,COM60024,Pemrograman Lanjut,False,2,52,1
+EVT_0351,COM60024,Pemrograman Lanjut,False,2,55,1
+EVT_0352,COM60024,Pemrograman Lanjut,False,2,67,2
+EVT_0353,COM60024,Pemrograman Lanjut,False,2,70,1
+EVT_0354,COM60024,Pemrograman Lanjut,False,2,75,1
+EVT_0355,COM60024,Pemrograman Lanjut,False,2,76,1
+EVT_0356,COM60024,Pemrograman Lanjut,False,2,80,1
+EVT_0357,COM60024,Pemrograman Lanjut,False,2,82,1
+EVT_0358,COM60024,Pemrograman Lanjut,False,2,91,1
+EVT_0359,COM60024,Pemrograman Lanjut,False,2,98,1
+EVT_0360,COM60024,Pemrograman Lanjut - Praktikum,True,2,1,1
+EVT_0361,COM60024,Pemrograman Lanjut - Praktikum,True,2,4,1
+EVT_0362,COM60024,Pemrograman Lanjut - Praktikum,True,2,16,1
+EVT_0363,COM60024,Pemrograman Lanjut - Praktikum,True,2,20,1
+EVT_0364,COM60024,Pemrograman Lanjut - Praktikum,True,2,22,2
+EVT_0365,COM60024,Pemrograman Lanjut - Praktikum,True,2,23,2
+EVT_0366,COM60024,Pemrograman Lanjut - Praktikum,True,2,31,1
+EVT_0367,COM60024,Pemrograman Lanjut - Praktikum,True,2,37,1
+EVT_0368,COM60024,Pemrograman Lanjut - Praktikum,True,2,47,1
+EVT_0369,COM60024,Pemrograman Lanjut - Praktikum,True,2,52,1
+EVT_0370,COM60024,Pemrograman Lanjut - Praktikum,True,2,55,1
+EVT_0371,COM60024,Pemrograman Lanjut - Praktikum,True,2,65,1
+EVT_0372,COM60024,Pemrograman Lanjut - Praktikum,True,2,70,1
+EVT_0373,COM60024,Pemrograman Lanjut - Praktikum,True,2,75,1
+EVT_0374,COM60024,Pemrograman Lanjut - Praktikum,True,2,76,1
+EVT_0375,COM60024,Pemrograman Lanjut - Praktikum,True,2,80,1
+EVT_0376,COM60024,Pemrograman Lanjut - Praktikum,True,2,82,1
+EVT_0377,COM60024,Pemrograman Lanjut - Praktikum,True,2,87,1
+EVT_0378,COM60024,Pemrograman Lanjut - Praktikum,True,2,91,1
+EVT_0379,COM60024,Pemrograman Lanjut - Praktikum,True,2,98,1
+EVT_0380,COM60024,Pemrograman Lanjut - Praktikum,True,2,1,1
+EVT_0381,COM60024,Pemrograman Lanjut - Praktikum,True,2,4,1
+EVT_0382,COM60024,Pemrograman Lanjut - Praktikum,True,2,16,1
+EVT_0383,COM60024,Pemrograman Lanjut - Praktikum,True,2,20,1
+EVT_0384,COM60024,Pemrograman Lanjut - Praktikum,True,2,22,1
+EVT_0385,COM60024,Pemrograman Lanjut - Praktikum,True,2,31,1
+EVT_0386,COM60024,Pemrograman Lanjut - Praktikum,True,2,47,1
+EVT_0387,COM60024,Pemrograman Lanjut - Praktikum,True,2,52,1
+EVT_0388,COM60024,Pemrograman Lanjut - Praktikum,True,2,55,1
+EVT_0389,COM60024,Pemrograman Lanjut - Praktikum,True,2,67,2
+EVT_0390,COM60024,Pemrograman Lanjut - Praktikum,True,2,70,1
+EVT_0391,COM60024,Pemrograman Lanjut - Praktikum,True,2,75,1
+EVT_0392,COM60024,Pemrograman Lanjut - Praktikum,True,2,76,1
+EVT_0393,COM60024,Pemrograman Lanjut - Praktikum,True,2,80,1
+EVT_0394,COM60024,Pemrograman Lanjut - Praktikum,True,2,82,1
+EVT_0395,COM60024,Pemrograman Lanjut - Praktikum,True,2,91,1
+EVT_0396,COM60024,Pemrograman Lanjut - Praktikum,True,2,98,1
+EVT_0397,CSD60705,Pemrograman SQL,False,2,1,1
+EVT_0398,CSD60705,Pemrograman SQL,False,2,16,2
+EVT_0399,CSD60705,Pemrograman SQL,False,2,20,1
+EVT_0400,CSD60705,Pemrograman SQL,False,2,22,1
+EVT_0401,CSD60705,Pemrograman SQL,False,2,60,1
+EVT_0402,CSD60705,Pemrograman SQL,False,2,70,1
+EVT_0403,CSD60705,Pemrograman SQL,False,2,72,1
+EVT_0404,CSD60705,Pemrograman SQL,False,2,73,1
+EVT_0405,CSD60705,Pemrograman SQL,False,2,91,1
+EVT_0406,CSD60705,Pemrograman SQL,False,2,98,1
+EVT_0407,CSD60705,Pemrograman SQL,False,2,102,1
+EVT_0408,CSD60705,Pemrograman SQL,False,2,TBA_40,1
+EVT_0409,CSD60705,Pemrograman SQL - Praktikum,True,2,1,1
+EVT_0410,CSD60705,Pemrograman SQL - Praktikum,True,2,16,2
+EVT_0411,CSD60705,Pemrograman SQL - Praktikum,True,2,20,1
+EVT_0412,CSD60705,Pemrograman SQL - Praktikum,True,2,22,1
+EVT_0413,CSD60705,Pemrograman SQL - Praktikum,True,2,60,1
+EVT_0414,CSD60705,Pemrograman SQL - Praktikum,True,2,70,1
+EVT_0415,CSD60705,Pemrograman SQL - Praktikum,True,2,72,1
+EVT_0416,CSD60705,Pemrograman SQL - Praktikum,True,2,73,1
+EVT_0417,CSD60705,Pemrograman SQL - Praktikum,True,2,91,1
+EVT_0418,CSD60705,Pemrograman SQL - Praktikum,True,2,98,1
+EVT_0419,CSD60705,Pemrograman SQL - Praktikum,True,2,102,1
+EVT_0420,CSD60705,Pemrograman SQL - Praktikum,True,2,TBA_40,1
+EVT_0421,CIS62106,Pemrograman Web,False,2,1,1
+EVT_0422,CIS62106,Pemrograman Web,False,2,4,1
+EVT_0423,CIS62106,Pemrograman Web,False,2,16,1
+EVT_0424,CIS62106,Pemrograman Web,False,2,22,1
+EVT_0425,CIS62106,Pemrograman Web,False,2,31,1
+EVT_0426,CIS62106,Pemrograman Web,False,2,37,1
+EVT_0427,CIS62106,Pemrograman Web,False,2,47,1
+EVT_0428,CIS62106,Pemrograman Web,False,2,70,2
+EVT_0429,CIS62106,Pemrograman Web,False,2,75,1
+EVT_0430,CIS62106,Pemrograman Web,False,2,82,1
+EVT_0431,CIS62106,Pemrograman Web,False,2,98,1
+EVT_0432,CIS62106,Pemrograman Web,False,2,103,2
+EVT_0433,CIS62106,Pemrograman Web,False,2,105,1
+EVT_0434,CIS60103,Pemrograman Web Lanjut,False,2,1,1
+EVT_0435,CIS60103,Pemrograman Web Lanjut,False,2,16,1
+EVT_0436,CIS60103,Pemrograman Web Lanjut,False,2,22,1
+EVT_0437,CIS60103,Pemrograman Web Lanjut,False,2,31,1
+EVT_0438,CSD60708,Penambangan Data,False,2,1,1
+EVT_0439,CSD60708,Penambangan Data,False,2,16,1
+EVT_0440,CSD60708,Penambangan Data,False,2,20,1
+EVT_0441,CSD60708,Penambangan Data,False,2,29,1
+EVT_0442,CSD60708,Penambangan Data,False,2,30,1
+EVT_0443,CSD60708,Penambangan Data,False,2,52,1
+EVT_0444,CSD60708,Penambangan Data,False,2,72,1
+EVT_0445,CSD60708,Penambangan Data,False,2,80,1
+EVT_0446,CSD60708,Penambangan Data,False,2,89,2
+EVT_0447,CSD60708,Penambangan Data,False,2,92,1
+EVT_0448,CSD60708,Penambangan Data,False,2,97,2
+EVT_0449,CSD60708,Penambangan Data,False,2,102,1
+EVT_0450,CSD60708,Penambangan Data,False,2,107,1
+EVT_0451,CSD60708,Penambangan Data,False,2,1,1
+EVT_0452,CSD60708,Penambangan Data,False,2,16,1
+EVT_0453,CSD60708,Penambangan Data,False,2,20,1
+EVT_0454,CSD60708,Penambangan Data,False,2,29,1
+EVT_0455,CSD60708,Penambangan Data,False,2,30,1
+EVT_0456,CSD60708,Penambangan Data,False,2,52,1
+EVT_0457,CSD60708,Penambangan Data,False,2,80,1
+EVT_0458,CSD60708,Penambangan Data,False,2,92,1
+EVT_0459,CSD60708,Penambangan Data,False,2,93,1
+EVT_0460,CSD60708,Penambangan Data,False,2,97,2
+EVT_0461,CSD60708,Penambangan Data,False,2,102,1
+EVT_0462,CSD60708,Penambangan Data,False,2,107,1
+EVT_0463,CIS62105,Pengantar Sains Data,False,2,11,2
+EVT_0464,CIS62105,Pengantar Sains Data,False,2,16,1
+EVT_0465,CIS62105,Pengantar Sains Data,False,2,20,1
+EVT_0466,CIS62105,Pengantar Sains Data,False,2,21,2
+EVT_0467,CIS62105,Pengantar Sains Data,False,2,37,1
+EVT_0468,CIS62105,Pengantar Sains Data,False,2,52,1
+EVT_0469,CIS62105,Pengantar Sains Data,False,2,63,1
+EVT_0470,CIS62105,Pengantar Sains Data,False,2,72,1
+EVT_0471,CIS62105,Pengantar Sains Data,False,2,73,1
+EVT_0472,CIS62105,Pengantar Sains Data,False,2,80,1
+EVT_0473,CIS62105,Pengantar Sains Data,False,2,87,1
+EVT_0474,CIS62105,Pengantar Sains Data,False,2,89,2
+EVT_0475,CIS62105,Pengantar Sains Data,False,2,92,1
+EVT_0476,CIS62105,Pengantar Sains Data,False,2,94,1
+EVT_0477,CIS62105,Pengantar Sains Data,False,2,97,1
+EVT_0478,CIS62105,Pengantar Sains Data,False,2,102,1
+EVT_0479,CIS62105,Pengantar Sains Data,False,2,TBA_41,1
+EVT_0480,CIT62012,Pengembangan Aplikasi Mobile,False,2,16,1
+EVT_0481,CIT62012,Pengembangan Aplikasi Mobile,False,2,20,1
+EVT_0482,CIT62012,Pengembangan Aplikasi Mobile,False,2,22,2
+EVT_0483,CIT62012,Pengembangan Aplikasi Mobile,False,2,31,1
+EVT_0484,CIT62012,Pengembangan Aplikasi Mobile,False,2,47,1
+EVT_0485,CIT62012,Pengembangan Aplikasi Mobile,False,2,60,1
+EVT_0486,CIT62012,Pengembangan Aplikasi Mobile,False,2,70,1
+EVT_0487,CIT62012,Pengembangan Aplikasi Mobile,False,2,75,1
+EVT_0488,CIT62012,Pengembangan Aplikasi Mobile,False,2,96,2
+EVT_0489,CIT62012,Pengembangan Aplikasi Mobile - Praktikum,True,2,16,1
+EVT_0490,CIT62012,Pengembangan Aplikasi Mobile - Praktikum,True,2,20,1
+EVT_0491,CIT62012,Pengembangan Aplikasi Mobile - Praktikum,True,2,22,2
+EVT_0492,CIT62012,Pengembangan Aplikasi Mobile - Praktikum,True,2,31,1
+EVT_0493,CIT62012,Pengembangan Aplikasi Mobile - Praktikum,True,2,47,1
+EVT_0494,CIT62012,Pengembangan Aplikasi Mobile - Praktikum,True,2,60,1
+EVT_0495,CIT62012,Pengembangan Aplikasi Mobile - Praktikum,True,2,70,1
+EVT_0496,CIT62012,Pengembangan Aplikasi Mobile - Praktikum,True,2,75,1
+EVT_0497,CIT62012,Pengembangan Aplikasi Mobile - Praktikum,True,2,96,2
+EVT_0498,CIS62114,Pengembangan Aplikasi Mobile Lanjut,False,2,16,1
+EVT_0499,CIS62114,Pengembangan Aplikasi Mobile Lanjut,False,2,47,2
+EVT_0500,CIS62114,Pengembangan Aplikasi Mobile Lanjut,False,2,60,1
+EVT_0501,CIS62114,Pengembangan Aplikasi Mobile Lanjut,False,2,70,2
+EVT_0502,CIT60052,Pengembangan Aplikasi Mobile Terapan,False,2,16,1
+EVT_0503,CIT60052,Pengembangan Aplikasi Mobile Terapan,False,2,20,1
+EVT_0504,CIT60052,Pengembangan Aplikasi Mobile Terapan,False,2,47,2
+EVT_0505,CIS60102,Pengembangan Aplikasi Multiplatform,False,2,1,1
+EVT_0506,CIS60102,Pengembangan Aplikasi Multiplatform,False,2,16,1
+EVT_0507,CIS60102,Pengembangan Aplikasi Multiplatform,False,2,47,1
+EVT_0508,CIS60102,Pengembangan Aplikasi Multiplatform,False,2,70,2
+EVT_0509,CIT60039,Pengembangan Aplikasi Web Lanjut,False,2,1,1
+EVT_0510,CIT60039,Pengembangan Aplikasi Web Lanjut,False,2,4,1
+EVT_0511,CIT60039,Pengembangan Aplikasi Web Lanjut,False,2,16,1
+EVT_0512,CIT60039,Pengembangan Aplikasi Web Lanjut,False,2,31,1
+EVT_0513,CIT60039,Pengembangan Aplikasi Web Lanjut,False,2,47,1
+EVT_0514,CIT60039,Pengembangan Aplikasi Web Lanjut,False,2,75,1
+EVT_0515,CIS61127,Pengembangan Berorientasi Penggunaan Ulang,False,2,4,1
+EVT_0516,CIE62209,Pengembangan dan Manajemen Perangkat Lunak,False,2,1,1
+EVT_0517,CIE62209,Pengembangan dan Manajemen Perangkat Lunak,False,2,6,1
+EVT_0518,CIE62209,Pengembangan dan Manajemen Perangkat Lunak,False,2,16,1
+EVT_0519,CIE62209,Pengembangan dan Manajemen Perangkat Lunak,False,2,22,2
+EVT_0520,CIE62209,Pengembangan dan Manajemen Perangkat Lunak,False,2,40,1
+EVT_0521,CIE62209,Pengembangan dan Manajemen Perangkat Lunak,False,2,47,1
+EVT_0522,CIE62209,Pengembangan dan Manajemen Perangkat Lunak,False,2,60,1
+EVT_0523,CIE62209,Pengembangan dan Manajemen Perangkat Lunak,False,2,62,2
+EVT_0524,CIE62209,Pengembangan dan Manajemen Perangkat Lunak,False,2,67,1
+EVT_0525,CIE62209,Pengembangan dan Manajemen Perangkat Lunak,False,2,76,1
+EVT_0526,CIE62209,Pengembangan dan Manajemen Perangkat Lunak,False,2,TBA_20,2
+EVT_0527,CIE62209,Pengembangan dan Manajemen Perangkat Lunak - Praktikum,True,2,1,1
+EVT_0528,CIE62209,Pengembangan dan Manajemen Perangkat Lunak - Praktikum,True,2,6,1
+EVT_0529,CIE62209,Pengembangan dan Manajemen Perangkat Lunak - Praktikum,True,2,16,1
+EVT_0530,CIE62209,Pengembangan dan Manajemen Perangkat Lunak - Praktikum,True,2,22,2
+EVT_0531,CIE62209,Pengembangan dan Manajemen Perangkat Lunak - Praktikum,True,2,40,1
+EVT_0532,CIE62209,Pengembangan dan Manajemen Perangkat Lunak - Praktikum,True,2,47,1
+EVT_0533,CIE62209,Pengembangan dan Manajemen Perangkat Lunak - Praktikum,True,2,60,1
+EVT_0534,CIE62209,Pengembangan dan Manajemen Perangkat Lunak - Praktikum,True,2,62,2
+EVT_0535,CIE62209,Pengembangan dan Manajemen Perangkat Lunak - Praktikum,True,2,67,1
+EVT_0536,CIE62209,Pengembangan dan Manajemen Perangkat Lunak - Praktikum,True,2,76,1
+EVT_0537,CIE62209,Pengembangan dan Manajemen Perangkat Lunak - Praktikum,True,2,TBA_20,2
+EVT_0538,CIT60053,Pengembangan Gim,False,2,16,1
+EVT_0539,CIE62104,Pengembangan Kurikulum,False,2,TBA_21,1
+EVT_0540,CIE62104,Pengembangan Kurikulum,False,2,TBA_22,1
+EVT_0541,CIE62201,Perancangan Antarmuka Pengguna,False,2,4,1
+EVT_0542,CIE62201,Perancangan Antarmuka Pengguna,False,2,12,2
+EVT_0543,CIE62201,Perancangan Antarmuka Pengguna,False,2,16,1
+EVT_0544,CIE62201,Perancangan Antarmuka Pengguna,False,2,22,1
+EVT_0545,CIE62201,Perancangan Antarmuka Pengguna,False,2,45,1
+EVT_0546,CIE62201,Perancangan Antarmuka Pengguna,False,2,47,1
+EVT_0547,CIE62201,Perancangan Antarmuka Pengguna,False,2,60,1
+EVT_0548,CIE62201,Perancangan Antarmuka Pengguna,False,2,62,1
+EVT_0549,CIE62201,Perancangan Antarmuka Pengguna,False,2,98,2
+EVT_0550,CIE62201,Perancangan Antarmuka Pengguna,False,2,TBA_26,1
+EVT_0551,CIE62201,Perancangan Antarmuka Pengguna - Praktikum,True,2,4,1
+EVT_0552,CIE62201,Perancangan Antarmuka Pengguna - Praktikum,True,2,12,2
+EVT_0553,CIE62201,Perancangan Antarmuka Pengguna - Praktikum,True,2,16,1
+EVT_0554,CIE62201,Perancangan Antarmuka Pengguna - Praktikum,True,2,22,1
+EVT_0555,CIE62201,Perancangan Antarmuka Pengguna - Praktikum,True,2,45,1
+EVT_0556,CIE62201,Perancangan Antarmuka Pengguna - Praktikum,True,2,47,1
+EVT_0557,CIE62201,Perancangan Antarmuka Pengguna - Praktikum,True,2,60,1
+EVT_0558,CIE62201,Perancangan Antarmuka Pengguna - Praktikum,True,2,62,1
+EVT_0559,CIE62201,Perancangan Antarmuka Pengguna - Praktikum,True,2,98,2
+EVT_0560,CIE62201,Perancangan Antarmuka Pengguna - Praktikum,True,2,TBA_26,1
+EVT_0561,CSD60711,Perancangan Pengalaman Pengguna,False,2,4,1
+EVT_0562,CSD60711,Perancangan Pengalaman Pengguna,False,2,12,2
+EVT_0563,CSD60711,Perancangan Pengalaman Pengguna,False,2,16,1
+EVT_0564,CSD60711,Perancangan Pengalaman Pengguna,False,2,22,1
+EVT_0565,CSD60711,Perancangan Pengalaman Pengguna,False,2,45,1
+EVT_0566,CSD60711,Perancangan Pengalaman Pengguna,False,2,47,1
+EVT_0567,CSD60711,Perancangan Pengalaman Pengguna,False,2,62,1
+EVT_0568,CSD60711,Perancangan Pengalaman Pengguna,False,2,4,1
+EVT_0569,CSD60711,Perancangan Pengalaman Pengguna,False,2,47,1
+EVT_0570,CSD60711,Perancangan Pengalaman Pengguna,False,2,60,1
+EVT_0571,CSD60711,Perancangan Pengalaman Pengguna,False,2,62,1
+EVT_0572,CSD60711,Perancangan Pengalaman Pengguna,False,2,87,1
+EVT_0573,CSD60711,Perancangan Pengalaman Pengguna,False,2,4,1
+EVT_0574,CSD60711,Perancangan Pengalaman Pengguna,False,2,12,2
+EVT_0575,CSD60711,Perancangan Pengalaman Pengguna,False,2,16,1
+EVT_0576,CSD60711,Perancangan Pengalaman Pengguna,False,2,22,1
+EVT_0577,CSD60711,Perancangan Pengalaman Pengguna,False,2,45,1
+EVT_0578,CSD60711,Perancangan Pengalaman Pengguna,False,2,47,1
+EVT_0579,CSD60711,Perancangan Pengalaman Pengguna,False,2,55,1
+EVT_0580,CSD60711,Perancangan Pengalaman Pengguna,False,2,60,1
+EVT_0581,CSD60711,Perancangan Pengalaman Pengguna,False,2,62,1
+EVT_0582,CSD60711,Perancangan Pengalaman Pengguna - Praktikum,True,2,4,1
+EVT_0583,CSD60711,Perancangan Pengalaman Pengguna - Praktikum,True,2,12,2
+EVT_0584,CSD60711,Perancangan Pengalaman Pengguna - Praktikum,True,2,16,1
+EVT_0585,CSD60711,Perancangan Pengalaman Pengguna - Praktikum,True,2,22,1
+EVT_0586,CSD60711,Perancangan Pengalaman Pengguna - Praktikum,True,2,45,1
+EVT_0587,CSD60711,Perancangan Pengalaman Pengguna - Praktikum,True,2,47,1
+EVT_0588,CSD60711,Perancangan Pengalaman Pengguna - Praktikum,True,2,62,1
+EVT_0589,CIS62110,Perencanaan Strategis Sistem Informasi,False,2,6,1
+EVT_0590,CIS62110,Perencanaan Strategis Sistem Informasi,False,2,47,2
+EVT_0591,CIS60101,Perkembangan dan Tren Teknologi Digital,False,2,12,2
+EVT_0592,CIS60101,Perkembangan dan Tren Teknologi Digital,False,2,16,1
+EVT_0593,CIS60101,Perkembangan dan Tren Teknologi Digital,False,2,21,1
+EVT_0594,CIS60101,Perkembangan dan Tren Teknologi Digital,False,2,40,1
+EVT_0595,CIS60101,Perkembangan dan Tren Teknologi Digital,False,2,47,1
+EVT_0596,CIS60101,Perkembangan dan Tren Teknologi Digital,False,2,87,1
+EVT_0597,CIS60101,Perkembangan dan Tren Teknologi Digital,False,2,94,1
+EVT_0598,CIS60101,Perkembangan dan Tren Teknologi Digital,False,2,108,1
+EVT_0599,CIS60101,Perkembangan dan Tren Teknologi Digital,False,2,TBA_42,1
+EVT_0600,CIS62113,Pola-Pola Perancangan,False,2,4,1
+EVT_0601,CIS62113,Pola-Pola Perancangan,False,2,16,1
+EVT_0602,CIS62113,Pola-Pola Perancangan,False,2,37,1
+EVT_0603,CIS62113,Pola-Pola Perancangan,False,2,76,1
+EVT_0604,CSD60712,Probabilitas dan Statistika,False,2,11,1
+EVT_0605,CSD60712,Probabilitas dan Statistika,False,2,16,1
+EVT_0606,CSD60712,Probabilitas dan Statistika,False,2,77,1
+EVT_0607,CSD60712,Probabilitas dan Statistika,False,2,83,1
+EVT_0608,CSD60712,Probabilitas dan Statistika,False,2,92,1
+EVT_0609,CSD60712,Probabilitas dan Statistika,False,2,100,1
+EVT_0610,CSD60712,Probabilitas dan Statistika,False,2,107,1
+EVT_0611,CSD60712,Probabilitas dan Statistika,False,2,11,1
+EVT_0612,CSD60712,Probabilitas dan Statistika,False,2,16,1
+EVT_0613,CSD60712,Probabilitas dan Statistika,False,2,83,1
+EVT_0614,CSD60712,Probabilitas dan Statistika,False,2,92,1
+EVT_0615,CSD60712,Probabilitas dan Statistika,False,2,93,1
+EVT_0616,CSD60712,Probabilitas dan Statistika,False,2,100,1
+EVT_0617,CSD60712,Probabilitas dan Statistika,False,2,107,1
+EVT_0618,CIT60033,Sistem Forensik Digital,False,2,35,1
+EVT_0619,CIT60033,Sistem Forensik Digital,False,2,41,1
+EVT_0620,CIT60033,Sistem Forensik Digital,False,2,75,1
+EVT_0621,CIT60033,Sistem Forensik Digital,False,2,83,1
+EVT_0622,CIT60033,Sistem Forensik Digital,False,2,94,1
+EVT_0623,CIS60106,Sistem Informasi Berkelanjutan,False,2,16,1
+EVT_0624,CIS60106,Sistem Informasi Berkelanjutan,False,2,53,1
+EVT_0625,CIS60106,Sistem Informasi Berkelanjutan,False,2,94,1
+EVT_0626,CIS60106,Sistem Informasi Berkelanjutan,False,2,108,1
+EVT_0627,CIS60106,Sistem Informasi Berkelanjutan,False,2,TBA_43,1
+EVT_0628,CSD60710,Sistem Informasi Geografis,False,2,11,1
+EVT_0629,CSD60710,Sistem Informasi Geografis - Praktikum,True,2,11,1
+EVT_0630,CIT62010,Sistem Operasi,False,2,16,1
+EVT_0631,CIT62010,Sistem Operasi,False,2,20,1
+EVT_0632,CIT62010,Sistem Operasi,False,2,58,2
+EVT_0633,CIT62010,Sistem Operasi,False,2,65,2
+EVT_0634,CIT62010,Sistem Operasi,False,2,75,1
+EVT_0635,CIT62010,Sistem Operasi,False,2,79,1
+EVT_0636,CIT62010,Sistem Operasi,False,2,94,1
+EVT_0637,CIT62010,Sistem Operasi,False,2,103,2
+EVT_0638,CIT62010,Sistem Operasi,False,2,TBA_52,1
+EVT_0639,CIE62307,"Sistem Pembelajaran Berbasis Multimedia, Gim, dan Peranti Bergerak",False,2,16,1
+EVT_0640,CIE62307,"Sistem Pembelajaran Berbasis Multimedia, Gim, dan Peranti Bergerak",False,2,47,1
+EVT_0641,CIE62307,"Sistem Pembelajaran Berbasis Multimedia, Gim, dan Peranti Bergerak",False,2,62,2
+EVT_0642,CIE62307,"Sistem Pembelajaran Berbasis Multimedia, Gim, dan Peranti Bergerak",False,2,103,1
+EVT_0643,CIE62118,Sistem Pembelajaran Bergamifikasi dan Terpersonalisasi,False,2,16,2
+EVT_0644,CIE62118,Sistem Pembelajaran Bergamifikasi dan Terpersonalisasi,False,2,40,1
+EVT_0645,CIE62118,Sistem Pembelajaran Bergamifikasi dan Terpersonalisasi,False,2,47,1
+EVT_0646,CIE62118,Sistem Pembelajaran Bergamifikasi dan Terpersonalisasi,False,2,103,1
+EVT_0647,CIE62118,Sistem Pembelajaran Bergamifikasi dan Terpersonalisasi,False,2,TBA_29,2
+EVT_0648,CIE62308,Sistem Pembelajaran Jarak Jauh,False,2,16,1
+EVT_0649,CIE62308,Sistem Pembelajaran Jarak Jauh,False,2,47,1
+EVT_0650,CSD60702,Sistem Pendukung Keputusan,False,2,15,1
+EVT_0651,CSD60702,Sistem Pendukung Keputusan,False,2,16,1
+EVT_0652,CSD60702,Sistem Pendukung Keputusan,False,2,20,1
+EVT_0653,CSD60702,Sistem Pendukung Keputusan,False,2,29,1
+EVT_0654,CSD60702,Sistem Pendukung Keputusan,False,2,30,1
+EVT_0655,CSD60702,Sistem Pendukung Keputusan,False,2,52,1
+EVT_0656,CSD60702,Sistem Pendukung Keputusan,False,2,73,1
+EVT_0657,CSD60702,Sistem Pendukung Keputusan,False,2,83,1
+EVT_0658,CSD60702,Sistem Pendukung Keputusan,False,2,92,1
+EVT_0659,CSD60702,Sistem Pendukung Keputusan,False,2,94,1
+EVT_0660,CSD60702,Sistem Pendukung Keputusan,False,2,107,1
+EVT_0661,CSD60702,Sistem Pendukung Keputusan,False,2,108,1
+EVT_0662,CIS60105,Strategi Transformasi Digital,False,2,53,1
+EVT_0663,CIS60105,Strategi Transformasi Digital,False,2,94,1
+EVT_0664,CIS60105,Strategi Transformasi Digital,False,2,108,1
+EVT_0665,CIS60105,Strategi Transformasi Digital,False,2,TBA_44,1
+EVT_0666,CIT60047,Tata Kelola dan Kebijakan Keamanan Siber,False,2,14,1
+EVT_0667,CIT60047,Tata Kelola dan Kebijakan Keamanan Siber,False,2,17,1
+EVT_0668,CIT60047,Tata Kelola dan Kebijakan Keamanan Siber,False,2,46,2
+EVT_0669,CIT60047,Tata Kelola dan Kebijakan Keamanan Siber,False,2,94,1
+EVT_0670,CIT60047,Tata Kelola dan Kebijakan Keamanan Siber,False,2,TBA_53,1
+EVT_0671,CIT60049,Teknologi Basis Data Non Relational,False,2,16,1
+EVT_0672,CIT60049,Teknologi Basis Data Non Relational,False,2,102,1
+EVT_0673,CIT60049,Teknologi Basis Data Non Relational,False,2,TBA_54,1
+EVT_0674,CIT60036,Teknologi Berbasis Cloud,False,2,16,1
+EVT_0675,CIT60036,Teknologi Berbasis Cloud,False,2,20,1
+EVT_0676,CIT60036,Teknologi Berbasis Cloud,False,2,35,1
+EVT_0677,CIT60036,Teknologi Berbasis Cloud,False,2,46,1
+EVT_0678,CIT60036,Teknologi Berbasis Cloud,False,2,75,1
+EVT_0679,CIT60036,Teknologi Berbasis Cloud,False,2,104,1
+EVT_0680,CSD60717,Teknologi Blockchain dan Platform Keuangan Digital,False,2,14,1
+EVT_0681,CSD60717,Teknologi Blockchain dan Platform Keuangan Digital,False,2,17,1
+EVT_0682,CSD60717,Teknologi Blockchain dan Platform Keuangan Digital,False,2,47,1
+EVT_0683,CSD60717,Teknologi Blockchain dan Platform Keuangan Digital,False,2,105,2
+EVT_0684,CSD60717,Teknologi Blockchain dan Platform Keuangan Digital,False,2,TBA_45,2
+EVT_0685,CIT60042,Teknologi Blockchain dan Platform Keuangan Digital,False,2,14,1
+EVT_0686,CIT60042,Teknologi Blockchain dan Platform Keuangan Digital,False,2,46,1
+EVT_0687,CIT60042,Teknologi Blockchain dan Platform Keuangan Digital,False,2,47,1
+EVT_0688,CIT62017,Teknologi Integrasi Sistem,False,2,16,1
+EVT_0689,CIT62017,Teknologi Integrasi Sistem,False,2,20,1
+EVT_0690,CIT62017,Teknologi Integrasi Sistem,False,2,22,2
+EVT_0691,CIT62017,Teknologi Integrasi Sistem,False,2,TBA_55,1
+EVT_0692,CIT62017,Teknologi Integrasi Sistem - Praktikum,True,2,16,1
+EVT_0693,CIT62017,Teknologi Integrasi Sistem - Praktikum,True,2,20,1
+EVT_0694,CIT62017,Teknologi Integrasi Sistem - Praktikum,True,2,22,2
+EVT_0695,CIT62017,Teknologi Integrasi Sistem - Praktikum,True,2,TBA_55,1
+EVT_0696,CIE62116,Teknologi Komputasi Awan,False,2,17,1
+EVT_0697,CIE62116,Teknologi Komputasi Awan,False,2,20,1
+EVT_0698,CIE62116,Teknologi Komputasi Awan,False,2,TBA_30,1
+EVT_0699,CIE62117,Teknologi Peranti Internet,False,2,16,1
+EVT_0700,CIE62117,Teknologi Peranti Internet,False,2,17,1
+EVT_0701,CIE62117,Teknologi Peranti Internet,False,2,20,1
+EVT_0702,CIE62117,Teknologi Peranti Internet,False,2,79,1
+EVT_0703,CIE62117,Teknologi Peranti Internet,False,2,103,2
+EVT_0704,CIE62117,Teknologi Peranti Internet,False,2,TBA_31,2
+EVT_0705,CIE62202,Teknologi Platform,False,2,16,1
+EVT_0706,CIE62202,Teknologi Platform,False,2,17,1
+EVT_0707,CIE62202,Teknologi Platform,False,2,47,1
+EVT_0708,CIE62202,Teknologi Platform,False,2,TBA_32,1
+EVT_0709,CIT60051,Teknologi Smart City,False,2,6,2
+EVT_0710,CIT60051,Teknologi Smart City,False,2,20,1
+EVT_0711,CIT60051,Teknologi Smart City,False,2,47,1
+EVT_0712,CIT60051,Teknologi Smart City,False,2,58,2
+EVT_0713,CIT60051,Teknologi Smart City,False,2,67,1
+EVT_0714,CIT60051,Teknologi Smart City,False,2,105,2
+EVT_0715,CIE62106,Teori dan Sains Belajar,False,2,100,1
+EVT_0716,CIE62106,Teori dan Sains Belajar,False,2,TBA_33,1
+EVT_0717,CIE62106,Teori dan Sains Belajar,False,2,TBA_34,1
+EVT_0718,CIS60104,Transformasi Pemerintah,False,2,11,1
+EVT_0719,CIS60104,Transformasi Pemerintah,False,2,12,2
+EVT_0720,CIS60104,Transformasi Pemerintah,False,2,21,1
+EVT_0721,CIS60104,Transformasi Pemerintah,False,2,47,2
+EVT_0722,CIS60104,Transformasi Pemerintah,False,2,94,1
+EVT_0723,CIS60104,Transformasi Pemerintah,False,2,108,1
+EVT_0724,CIS60104,Transformasi Pemerintah,False,2,TBA_46,1
