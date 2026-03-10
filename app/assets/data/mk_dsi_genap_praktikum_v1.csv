@@ -1,0 +1,726 @@
+course_id,course_name,prodi,sks,course_time_minute,course_type,teacher_priority,teacher_position,teacher_id
+CSD60706,Administrasi Basis Data,Teknologi Informasi,3,100,Pilihan,1,Pengampu,75
+CSD60706,Administrasi Basis Data,Teknologi Informasi,3,100,Pilihan,1,Pengampu,91
+CSD60706,Administrasi Basis Data,Teknologi Informasi,3,100,Pilihan,1,"Pengelola, Pengampu",102
+CSD60706,Administrasi Basis Data,Teknologi Informasi,3,100,Pilihan,1,Pengampu,TBA_47
+CIT62015,Administrasi Sistem,Teknologi Informasi,4,100,Wajib,2,Pengampu,65
+CIT62015,Administrasi Sistem,Teknologi Informasi,4,100,Wajib,1,Pengampu,75
+CIT62015,Administrasi Sistem,Teknologi Informasi,4,100,Wajib,1,Pengampu,104
+CIT62015,Administrasi Sistem - Praktikum,Teknologi Informasi,4,100,Wajib,2,Pengampu,Asprak_1
+CIT62015,Administrasi Sistem - Praktikum,Teknologi Informasi,4,100,Wajib,1,Pengampu,Asprak_2
+CIT62015,Administrasi Sistem - Praktikum,Teknologi Informasi,4,100,Wajib,1,Pengampu,Asprak_3
+CIT62011,Aljabar Linear dan Matriks,Teknologi Informasi,3,100,Wajib,1,Pengampu,16
+CIT62011,Aljabar Linear dan Matriks,Teknologi Informasi,3,100,Wajib,1,Pengampu,54
+CIT62011,Aljabar Linear dan Matriks,Teknologi Informasi,3,100,Wajib,1,Pengampu,63
+CIT62011,Aljabar Linear dan Matriks,Teknologi Informasi,3,100,Wajib,1,Pengampu,77
+CIT62011,Aljabar Linear dan Matriks,Teknologi Informasi,3,100,Wajib,1,"Koordinator Pengelola, Pengelola, Pengampu",92
+CIT62011,Aljabar Linear dan Matriks,Teknologi Informasi,3,100,Wajib,1,Pengampu,93
+CIT62011,Aljabar Linear dan Matriks,Teknologi Informasi,3,100,Wajib,1,Pengampu,100
+CIT62011,Aljabar Linear dan Matriks,Teknologi Informasi,3,100,Wajib,2,Pengampu,103
+CIT62011,Aljabar Linear dan Matriks,Teknologi Informasi,3,100,Wajib,1,Pengampu,107
+CSD60716,Analisis Data Penelitian Kualitatif,Sistem Informasi,3,100,Pilihan,2,Pengampu,12
+CSD60716,Analisis Data Penelitian Kualitatif,Sistem Informasi,3,100,Pilihan,1,Pengampu,37
+CSD60716,Analisis Data Penelitian Kualitatif,Sistem Informasi,3,100,Pilihan,1,"Koordinator Pengelola, Pengelola, Pengampu",87
+CSD60716,Analisis Data Penelitian Kualitatif,Pendidikan Teknologi Informasi,3,100,Pilihan,1,Pengampu,100
+CSD60716,Analisis Data Penelitian Kualitatif,Pendidikan Teknologi Informasi,3,100,Pilihan,1,Pengampu,100
+CSD60716,Analisis Data Penelitian Kualitatif,Sistem Informasi,3,100,Pilihan,1,Pengampu,100
+CSD60716,Analisis Data Penelitian Kualitatif,Pendidikan Teknologi Informasi,3,100,Pilihan,1,"Pengelola, Pengampu",TBA_1
+CSD60716,Analisis Data Penelitian Kualitatif,Pendidikan Teknologi Informasi,3,100,Pilihan,1,"Pengelola, Pengampu",TBA_1
+CSD60716,Analisis Data Penelitian Kualitatif,Pendidikan Teknologi Informasi,3,100,Pilihan,1,Pengampu,TBA_2
+CSD60716,Analisis Data Penelitian Kualitatif,Pendidikan Teknologi Informasi,3,100,Pilihan,1,Pengampu,TBA_2
+CSD60716,Analisis Data Penelitian Kualitatif,Sistem Informasi,3,100,Pilihan,1,Pengampu,TBA_35
+CSD60716,Analisis Data Penelitian Kualitatif,Sistem Informasi,3,100,Pilihan,1,Pengampu,TBA_36
+CSD60715,Analisis Data Penelitian Kuantitatif,Pendidikan Teknologi Informasi,3,100,Pilihan,1,Pengampu,11
+CSD60715,Analisis Data Penelitian Kuantitatif,Sistem Informasi,3,100,Wajib,2,Pengampu,11
+CSD60715,Analisis Data Penelitian Kuantitatif,Sistem Informasi,3,100,Wajib,2,Pengampu,12
+CSD60715,Analisis Data Penelitian Kuantitatif,Pendidikan Teknologi Informasi,3,100,Pilihan,1,Pengampu,16
+CSD60715,Analisis Data Penelitian Kuantitatif,Sistem Informasi,3,100,Wajib,1,"Pengelola, Pengampu",16
+CSD60715,Analisis Data Penelitian Kuantitatif,Sistem Informasi,3,100,Wajib,1,Pengampu,37
+CSD60715,Analisis Data Penelitian Kuantitatif,Sistem Informasi,3,100,Wajib,1,Pengampu,40
+CSD60715,Analisis Data Penelitian Kuantitatif,Pendidikan Teknologi Informasi,3,100,Pilihan,1,Pengampu,63
+CSD60715,Analisis Data Penelitian Kuantitatif,Sistem Informasi,3,100,Wajib,1,"Koordinator Pengelola, Pengelola, Pengampu",87
+CSD60715,Analisis Data Penelitian Kuantitatif,Pendidikan Teknologi Informasi,3,100,Pilihan,1,Pengampu,100
+CSD60715,Analisis Data Penelitian Kuantitatif,Sistem Informasi,3,100,Wajib,1,Pengampu,100
+CSD60715,Analisis Data Penelitian Kuantitatif,Sistem Informasi,3,100,Wajib,1,Pengampu,108
+CSD60715,Analisis Data Penelitian Kuantitatif,Pendidikan Teknologi Informasi,3,100,Pilihan,1,Pengampu,TBA_3
+CSD60715,Analisis Data Penelitian Kuantitatif,Sistem Informasi,3,100,Wajib,1,Pengampu,TBA_37
+CSD60715,Analisis Data Penelitian Kuantitatif,Pendidikan Teknologi Informasi,3,100,Pilihan,1,Pengampu,TBA_4
+CIE61208,Basis Data,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,4
+CIE61208,Basis Data - Praktikum,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,Asprak_4
+CSD60707,Big Data dan Analitik,Sistem Informasi,2,100,Pilihan,1,Pengampu,16
+CSD60707,Big Data dan Analitik,Sistem Informasi,2,100,Pilihan,1,Pengampu,20
+CSD60707,Big Data dan Analitik,Teknologi Informasi,3,100,Pilihan,1,Pengampu,20
+CSD60707,Big Data dan Analitik,Teknologi Informasi,3,100,Pilihan,1,Pengampu,48
+CSD60707,Big Data dan Analitik,Sistem Informasi,2,100,Pilihan,1,"Pengelola, Pengampu",52
+CSD60707,Big Data dan Analitik,Teknologi Informasi,3,100,Pilihan,1,"Pengelola, Pengampu",52
+CSD60707,Big Data dan Analitik,Sistem Informasi,2,100,Pilihan,1,"Koordinator Pengelola, Pengelola, Pengampu",72
+CSD60707,Big Data dan Analitik,Sistem Informasi,2,100,Pilihan,1,Pengampu,80
+CSD60707,Big Data dan Analitik,Teknologi Informasi,3,100,Pilihan,1,Pengampu,80
+CSD60707,Big Data dan Analitik,Sistem Informasi,2,100,Pilihan,2,Pengampu,89
+CSD60707,Big Data dan Analitik,Teknologi Informasi,3,100,Pilihan,2,Pengampu,89
+CSD60707,Big Data dan Analitik,Teknologi Informasi,3,100,Pilihan,1,Pengampu,93
+CSD60707,Big Data dan Analitik,Sistem Informasi,2,100,Pilihan,1,Pengampu,102
+CSD60707,Big Data dan Analitik,Teknologi Informasi,3,100,Pilihan,1,Pengampu,102
+CSD60707,Big Data dan Analitik,Teknologi Informasi,3,100,Pilihan,1,Pengampu,TBA_48
+COM60061,Capstone Project,Sistem Informasi,3,100,Wajib,1,"Pengelola, Pengampu",4
+COM60061,Capstone Project,Sistem Informasi,3,100,Wajib,1,Pengampu,22
+COM60061,Capstone Project,Sistem Informasi,3,100,Wajib,1,Pengampu,40
+COM60061,Capstone Project,Sistem Informasi,3,100,Wajib,1,"Koordinator Pengelola, Pengelola, Pengampu",47
+COM60061,Capstone Project,Sistem Informasi,3,100,Wajib,1,Pengampu,76
+COM60061,Capstone Project,Sistem Informasi,3,100,Wajib,1,"Koordinator Pengelola, Pengelola, Pengampu",87
+COM60061,Capstone Project,Sistem Informasi,3,100,Wajib,1,"Pengelola, Pengampu",108
+CIT62001,Dasar Desain Antarmuka Pengguna,Teknologi Informasi,3,100,Wajib,1,"Pengelola, Pengampu",4
+CIT62001,Dasar Desain Antarmuka Pengguna,Teknologi Informasi,3,100,Wajib,1,"Pengelola, Pengampu",16
+CIT62001,Dasar Desain Antarmuka Pengguna,Teknologi Informasi,3,100,Wajib,1,"Koordinator Pengelola, Pengelola, Pengampu",22
+CIT62001,Dasar Desain Antarmuka Pengguna,Teknologi Informasi,3,100,Wajib,1,"Koordinator Pengelola, Pengelola, Pengampu",45
+CIT62001,Dasar Desain Antarmuka Pengguna,Teknologi Informasi,3,100,Wajib,1,"Koordinator Pengelola, Pengelola, Pengampu",47
+CIT62001,Dasar Desain Antarmuka Pengguna,Teknologi Informasi,3,100,Wajib,1,Pengampu,62
+CIT61021,Data Warehouse,Teknologi Informasi,3,100,Pilihan,1,Pengampu,16
+CIT61021,Data Warehouse,Teknologi Informasi,3,100,Pilihan,1,"Pengelola, Pengampu",73
+CIT61021,Data Warehouse,Teknologi Informasi,3,100,Pilihan,1,"Pengelola, Pengampu",102
+CIT61021,Data Warehouse,Teknologi Informasi,3,100,Pilihan,1,Pengampu,TBA_49
+CIS62102,Desain Antar Muka Pengguna,Sistem Informasi,3,100,Wajib,1,"Pengelola, Pengampu",4
+CIS62102,Desain Antar Muka Pengguna,Sistem Informasi,3,100,Wajib,1,Pengampu,12
+CIS62102,Desain Antar Muka Pengguna,Sistem Informasi,3,100,Wajib,1,"Pengelola, Pengampu",16
+CIS62102,Desain Antar Muka Pengguna,Sistem Informasi,3,100,Wajib,1,"Koordinator Pengelola, Pengelola, Pengampu",22
+CIS62102,Desain Antar Muka Pengguna,Sistem Informasi,3,100,Wajib,1,Pengampu,37
+CIS62102,Desain Antar Muka Pengguna,Sistem Informasi,3,100,Wajib,1,"Koordinator Pengelola, Pengelola, Pengampu",45
+CIS62102,Desain Antar Muka Pengguna,Sistem Informasi,3,100,Wajib,1,"Koordinator Pengelola, Pengelola, Pengampu",47
+CIS62102,Desain Antar Muka Pengguna,Sistem Informasi,3,100,Wajib,1,Pengampu,62
+CIS62102,Desain Antar Muka Pengguna,Sistem Informasi,3,100,Wajib,2,Pengampu,70
+CIS62102,Desain Antar Muka Pengguna,Sistem Informasi,3,100,Wajib,1,Pengampu,87
+CSD60704,Desain Basis Data,Teknologi Informasi,2,100,Wajib,1,Pengampu,1
+CSD60704,Desain Basis Data,Teknologi Informasi,2,100,Wajib,1,Pengampu,16
+CSD60704,Desain Basis Data,Teknologi Informasi,2,100,Wajib,1,Pengampu,20
+CSD60704,Desain Basis Data,Teknologi Informasi,2,100,Wajib,1,"Pengelola, Pengampu",22
+CSD60704,Desain Basis Data,Teknologi Informasi,2,100,Wajib,1,Pengampu,29
+CSD60704,Desain Basis Data,Teknologi Informasi,2,100,Wajib,1,Pengampu,73
+CSD60704,Desain Basis Data,Teknologi Informasi,2,100,Wajib,1,Pengampu,75
+CSD60704,Desain Basis Data,Teknologi Informasi,2,100,Wajib,1,Pengampu,91
+CSD60704,Desain Basis Data,Teknologi Informasi,2,100,Wajib,1,Pengampu,98
+CSD60704,Desain Basis Data,Teknologi Informasi,2,100,Wajib,1,"Pengelola, Pengampu",102
+CSD60704,Desain Basis Data,Teknologi Informasi,2,100,Wajib,1,Pengampu,108
+CSD60704,Desain Basis Data,Teknologi Informasi,2,100,Wajib,1,Pengampu,TBA_50
+CIS62108,Enterprise Architecture I,Sistem Informasi,2,100,Wajib,1,"Pengelola, Pengampu",6
+CIS62108,Enterprise Architecture I,Sistem Informasi,2,100,Wajib,1,"Koordinator Pengelola, Pengelola, Pengampu",13
+CIS62108,Enterprise Architecture I,Sistem Informasi,2,100,Wajib,1,"Pengelola, Pengampu",55
+CIS62108,Enterprise Architecture I,Sistem Informasi,2,100,Wajib,1,Pengampu,62
+CIS62108,Enterprise Architecture I,Sistem Informasi,2,100,Wajib,1,Pengampu,76
+CIS62108,Enterprise Architecture I,Sistem Informasi,2,100,Wajib,1,Pengampu,87
+CIS62108,Enterprise Architecture I,Sistem Informasi,2,100,Wajib,2,Pengampu,TBA_38
+COM60052,Etika Profesi,Pendidikan Teknologi Informasi,2,100,Wajib,1,"Pengelola, Pengampu",4
+COM60052,Etika Profesi,Pendidikan Teknologi Informasi,2,100,Wajib,1,Pengampu,22
+COM60052,Etika Profesi,Pendidikan Teknologi Informasi,2,100,Wajib,1,Pengampu,48
+COM60052,Etika Profesi,Pendidikan Teknologi Informasi,2,100,Wajib,2,Pengampu,59
+COM60052,Etika Profesi,Pendidikan Teknologi Informasi,2,100,Wajib,1,Pengampu,77
+COM60052,Etika Profesi,Pendidikan Teknologi Informasi,2,100,Wajib,1,"Koordinator Pengelola, Pengelola, Pengampu",94
+COM60052,Etika Profesi,Pendidikan Teknologi Informasi,2,100,Wajib,1,Pengampu,TBA_6
+CIS62126,Evaluasi Pengalaman dan Antarmuka Pengguna,Sistem Informasi,3,100,Pilihan,1,"Pengelola, Pengampu",4
+CIS62126,Evaluasi Pengalaman dan Antarmuka Pengguna,Sistem Informasi,3,100,Pilihan,1,"Pengelola, Pengampu",12
+CIS62126,Evaluasi Pengalaman dan Antarmuka Pengguna,Sistem Informasi,3,100,Pilihan,1,"Pengelola, Pengampu",16
+CIS62126,Evaluasi Pengalaman dan Antarmuka Pengguna,Sistem Informasi,3,100,Pilihan,1,"Koordinator Pengelola, Pengelola, Pengampu",45
+CIS62126,Evaluasi Pengalaman dan Antarmuka Pengguna,Sistem Informasi,3,100,Pilihan,1,"Pengelola, Pengampu",47
+CIS62126,Evaluasi Pengalaman dan Antarmuka Pengguna,Sistem Informasi,3,100,Pilihan,1,"Pengelola, Pengampu",55
+CIS62126,Evaluasi Pengalaman dan Antarmuka Pengguna,Sistem Informasi,3,100,Pilihan,1,Pengampu,60
+CIS62126,Evaluasi Pengalaman dan Antarmuka Pengguna,Sistem Informasi,3,100,Pilihan,1,"Pengelola, Pengampu",62
+CIS62126,Evaluasi Pengalaman dan Antarmuka Pengguna,Sistem Informasi,3,100,Pilihan,1,Pengampu,83
+CIS62126,Evaluasi Pengalaman dan Antarmuka Pengguna,Sistem Informasi,3,100,Pilihan,1,Pengampu,87
+CIS62125,GeoInformasi Lanjut,Sistem Informasi,3,100,Pilihan,1,"Koordinator Pengelola, Pengelola, Pengampu",11
+CIS62125,GeoInformasi Lanjut,Sistem Informasi,3,100,Pilihan,1,"Koordinator Pengelola, Pengelola, Pengampu",87
+CIS62125,GeoInformasi Lanjut - Praktikum,Sistem Informasi,3,100,Pilihan,1,"Koordinator Pengelola, Pengelola, Pengampu",Asprak_5
+CIS62125,GeoInformasi Lanjut - Praktikum,Sistem Informasi,3,100,Pilihan,1,"Koordinator Pengelola, Pengelola, Pengampu",Asprak_6
+CIS60107,Gudang Data,Sistem Informasi,3,100,Pilihan,2,Pengampu,16
+CIS60107,Gudang Data,Sistem Informasi,3,100,Pilihan,1,"Koordinator Pengelola, Pengelola, Pengampu",72
+CIS60107,Gudang Data,Sistem Informasi,3,100,Pilihan,1,"Pengelola, Pengampu",73
+CIS60107,Gudang Data,Sistem Informasi,3,100,Pilihan,1,"Pengelola, Pengampu",102
+CIT62022,Implementasi dan Pengujian Sistem Informasi,Teknologi Informasi,2,100,Wajib,1,Pengampu,1
+CIT62022,Implementasi dan Pengujian Sistem Informasi,Teknologi Informasi,2,100,Wajib,1,"Pengelola, Pengampu",4
+CIT62022,Implementasi dan Pengujian Sistem Informasi,Teknologi Informasi,2,100,Wajib,1,Pengampu,6
+CIT62022,Implementasi dan Pengujian Sistem Informasi,Teknologi Informasi,2,100,Wajib,1,Pengampu,16
+CIT62022,Implementasi dan Pengujian Sistem Informasi,Teknologi Informasi,2,100,Wajib,1,Pengampu,31
+CIT62022,Implementasi dan Pengujian Sistem Informasi,Teknologi Informasi,2,100,Wajib,1,Pengampu,40
+CIT62022,Implementasi dan Pengujian Sistem Informasi,Teknologi Informasi,2,100,Wajib,1,Pengampu,67
+CIT62022,Implementasi dan Pengujian Sistem Informasi,Teknologi Informasi,2,100,Wajib,1,"Koordinator Pengelola, Pengelola, Pengampu",94
+CIT62022,Implementasi dan Pengujian Sistem Informasi,Teknologi Informasi,2,100,Wajib,1,Pengampu,TBA_51
+CIT60048,Information Retrieval,Teknologi Informasi,2,100,Pilihan,1,Pengampu,1
+CIT60048,Information Retrieval,Teknologi Informasi,2,100,Pilihan,2,"Pengelola, Pengampu",47
+CIT60048,Information Retrieval,Teknologi Informasi,2,100,Pilihan,1,"Pengelola, Pengampu",52
+CIT60048,Information Retrieval,Teknologi Informasi,2,100,Pilihan,1,Pengampu,80
+CIT60048,Information Retrieval,Teknologi Informasi,2,100,Pilihan,2,Pengampu,89
+CIT60048,Information Retrieval,Teknologi Informasi,2,100,Pilihan,1,Pengampu,93
+CIT60048,Information Retrieval,Teknologi Informasi,2,100,Pilihan,2,Pengampu,97
+CIT60048,Information Retrieval,Teknologi Informasi,2,100,Pilihan,1,"Pengelola, Pengampu",107
+CIE62401,Inovasi Digital Kompetitif,Pendidikan Teknologi Informasi,3,100,Wajib,1,"Pengelola, Pengampu",4
+CIE62401,Inovasi Digital Kompetitif,Pendidikan Teknologi Informasi,3,100,Wajib,2,Pengampu,6
+CIE62401,Inovasi Digital Kompetitif,Pendidikan Teknologi Informasi,3,100,Wajib,2,Pengampu,45
+CIE62401,Inovasi Digital Kompetitif,Pendidikan Teknologi Informasi,3,100,Wajib,1,"Koordinator Pengelola, Pengelola, Pengampu",47
+CSD60714,Jaminan Kualitas Perangkat Lunak,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,1
+CSD60714,Jaminan Kualitas Perangkat Lunak,Teknologi Informasi,3,100,Pilihan,1,Pengampu,1
+CSD60714,Jaminan Kualitas Perangkat Lunak,Pendidikan Teknologi Informasi,3,100,Wajib,1,"Pengelola, Pengampu",4
+CSD60714,Jaminan Kualitas Perangkat Lunak,Teknologi Informasi,3,100,Pilihan,1,"Pengelola, Pengampu",4
+CSD60714,Jaminan Kualitas Perangkat Lunak,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,6
+CSD60714,Jaminan Kualitas Perangkat Lunak,Pendidikan Teknologi Informasi,3,100,Wajib,2,Pengampu,40
+CSD60714,Jaminan Kualitas Perangkat Lunak,Teknologi Informasi,3,100,Pilihan,1,Pengampu,40
+CSD60714,Jaminan Kualitas Perangkat Lunak,Teknologi Informasi,3,100,Pilihan,1,Pengampu,60
+CSD60714,Jaminan Kualitas Perangkat Lunak,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,67
+CSD60714,Jaminan Kualitas Perangkat Lunak,Teknologi Informasi,3,100,Pilihan,1,Pengampu,67
+CIS62103,Jaringan dan Komputasi Awan,Sistem Informasi,2,100,Wajib,1,Pengampu,16
+CIS62103,Jaringan dan Komputasi Awan,Sistem Informasi,2,100,Wajib,1,Pengampu,17
+CIS62103,Jaringan dan Komputasi Awan,Sistem Informasi,2,100,Wajib,1,Pengampu,20
+CIS62103,Jaringan dan Komputasi Awan,Sistem Informasi,2,100,Wajib,2,Pengampu,21
+CIS62103,Jaringan dan Komputasi Awan,Sistem Informasi,2,100,Wajib,1,Pengampu,41
+CIS62103,Jaringan dan Komputasi Awan,Sistem Informasi,2,100,Wajib,2,Pengampu,65
+CIS62103,Jaringan dan Komputasi Awan,Sistem Informasi,2,100,Wajib,1,Pengampu,75
+CIS62103,Jaringan dan Komputasi Awan,Sistem Informasi,2,100,Wajib,2,Pengampu,79
+CSD60713,Jaringan Terapan,Teknologi Informasi,3,100,Pilihan,1,Pengampu,79
+CSD60713,Jaringan Terapan,Teknologi Informasi,3,100,Pilihan,1,Pengampu,90
+CSD60713,Jaringan Terapan - Praktikum,Teknologi Informasi,3,100,Pilihan,1,Pengampu,Asprak_7
+CSD60713,Jaringan Terapan - Praktikum,Teknologi Informasi,3,100,Pilihan,1,Pengampu,Asprak_8
+CIT60044,Keamanan Data dan Privasi,Teknologi Informasi,3,100,Pilihan,1,Pengampu,17
+CIT60044,Keamanan Data dan Privasi,Teknologi Informasi,3,100,Pilihan,1,Pengampu,35
+CIT60044,Keamanan Data dan Privasi,Teknologi Informasi,3,100,Pilihan,1,Pengampu,41
+CIT60044,Keamanan Data dan Privasi,Teknologi Informasi,3,100,Pilihan,1,"Pengelola, Pengampu",46
+CIT60044,Keamanan Data dan Privasi,Teknologi Informasi,3,100,Pilihan,1,Pengampu,63
+CIT60044,Keamanan Data dan Privasi,Teknologi Informasi,3,100,Pilihan,1,Pengampu,65
+CIT60044,Keamanan Data dan Privasi,Teknologi Informasi,3,100,Pilihan,1,Pengampu,75
+CIS61128,Keamanan Jaringan dan Siber,Sistem Informasi,3,100,Pilihan,1,Pengampu,17
+CSD60709,Keamanan Siber,Pendidikan Teknologi Informasi,2,100,Wajib,1,"Koordinator Pengelola, Pengelola, Pengampu",14
+CSD60709,Keamanan Siber,Pendidikan Teknologi Informasi,2,100,Wajib,1,"Koordinator Pengelola, Pengelola, Pengampu",17
+CSD60709,Keamanan Siber,Teknologi Informasi,2,100,Wajib,1,Pengampu,17
+CSD60709,Keamanan Siber,Pendidikan Teknologi Informasi,2,100,Wajib,1,Pengampu,41
+CSD60709,Keamanan Siber,Teknologi Informasi,2,100,Wajib,1,Pengampu,41
+CSD60709,Keamanan Siber,Teknologi Informasi,2,100,Wajib,1,Pengampu,46
+CSD60709,Keamanan Siber,Pendidikan Teknologi Informasi,2,100,Wajib,1,Pengampu,63
+CSD60709,Keamanan Siber,Teknologi Informasi,2,100,Wajib,1,Pengampu,63
+CSD60709,Keamanan Siber,Pendidikan Teknologi Informasi,2,100,Wajib,1,Pengampu,65
+CSD60709,Keamanan Siber,Teknologi Informasi,2,100,Wajib,1,Pengampu,65
+CSD60709,Keamanan Siber,Pendidikan Teknologi Informasi,2,100,Wajib,1,Pengampu,75
+CSD60709,Keamanan Siber,Teknologi Informasi,2,100,Wajib,1,Pengampu,75
+CSD60709,Keamanan Siber,Pendidikan Teknologi Informasi,2,100,Wajib,1,"Pengelola, Pengampu",94
+CSD60709,Keamanan Siber,Teknologi Informasi,2,100,Wajib,1,"Koordinator Pengelola, Pengelola, Pengampu",94
+CIE62303,Kecerdasan Artifisial,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,16
+CIE62303,Kecerdasan Artifisial,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,20
+CIE62303,Kecerdasan Artifisial,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,29
+CIE62303,Kecerdasan Artifisial,Pendidikan Teknologi Informasi,3,100,Wajib,1,"Pengelola, Pengampu",30
+CIE62303,Kecerdasan Artifisial,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,52
+CIE62303,Kecerdasan Artifisial,Pendidikan Teknologi Informasi,3,100,Wajib,1,"Koordinator Pengelola, Pengelola, Pengampu",92
+CIE62303,Kecerdasan Artifisial,Pendidikan Teknologi Informasi,3,100,Wajib,1,"Koordinator Pengelola, Pengelola, Pengampu",94
+CIE62303,Kecerdasan Artifisial,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,97
+CIE62303,Kecerdasan Artifisial,Pendidikan Teknologi Informasi,3,100,Wajib,1,"Pengelola, Pengampu",107
+CIS62112,Kecerdasan Bisnis dan Analitik,Sistem Informasi,3,100,Wajib,1,"Koordinator Pengelola, Pengelola, Pengampu",72
+CIS62112,Kecerdasan Bisnis dan Analitik,Sistem Informasi,3,100,Wajib,1,Pengampu,87
+CIS62112,Kecerdasan Bisnis dan Analitik,Sistem Informasi,3,100,Wajib,1,"Pengelola, Pengampu",94
+CIS62112,Kecerdasan Bisnis dan Analitik,Sistem Informasi,3,100,Wajib,1,"Pengelola, Pengampu",102
+CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,Teknologi Informasi,3,100,Wajib,2,Pengampu,3
+COM60004,Kecerdasan Buatan dan Pembelajaran Mesin,Teknologi Informasi,3,100,Wajib,2,Pengampu,3
+CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,Teknologi Informasi,3,100,Wajib,2,Pengampu,16
+CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,Teknologi Informasi,3,100,Wajib,1,Pengampu,20
+CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,Teknologi Informasi,3,100,Wajib,1,Pengampu,29
+CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,Teknologi Informasi,3,100,Wajib,1,"Pengelola, Pengampu",30
+COM60004,Kecerdasan Buatan dan Pembelajaran Mesin,Teknologi Informasi,3,100,Wajib,1,Pengampu,31
+CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,Teknologi Informasi,3,100,Wajib,1,Pengampu,37
+CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,Teknologi Informasi,3,100,Wajib,1,Pengampu,48
+CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,Teknologi Informasi,3,100,Wajib,1,"Pengelola, Pengampu",52
+CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,Teknologi Informasi,3,100,Wajib,1,Pengampu,63
+COM60004,Kecerdasan Buatan dan Pembelajaran Mesin,Teknologi Informasi,3,100,Wajib,1,Pengampu,75
+CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,Teknologi Informasi,3,100,Wajib,2,Pengampu,89
+CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,Teknologi Informasi,3,100,Wajib,1,"Pengelola, Pengampu",92
+CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,Teknologi Informasi,3,100,Wajib,1,"Pengelola, Pengampu",93
+CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,Teknologi Informasi,3,100,Wajib,1,"Koordinator Pengelola, Pengelola, Pengampu",94
+CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,Teknologi Informasi,3,100,Wajib,2,Pengampu,96
+CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,Teknologi Informasi,3,100,Wajib,1,Pengampu,97
+CIT62023,Kecerdasan Buatan dan Pembelajaran Mesin,Teknologi Informasi,3,100,Wajib,1,"Pengelola, Pengampu",107
+UBU60003,Kewirausahaan,Sistem Informasi,2,100,Wajib,2,"Pengelola, Pengampu",47
+UBU60003,Kewirausahaan,Sistem Informasi,2,100,Wajib,2,Pengampu,62
+UBU60003,Kewirausahaan,Sistem Informasi,2,100,Wajib,1,"Koordinator Pengelola, Pengelola, Pengampu",87
+CIT60045,Kriptografi,Teknologi Informasi,3,100,Pilihan,1,"Koordinator Pengelola, Pengelola, Pengampu",14
+CIT60045,Kriptografi,Teknologi Informasi,3,100,Pilihan,1,Pengampu,75
+CIE62107,Lingkungan Pembelajaran Digital,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,40
+CIE62107,Lingkungan Pembelajaran Digital,Pendidikan Teknologi Informasi,3,100,Wajib,1,"Koordinator Pengelola, Pengelola, Pengampu",47
+CIE62107,Lingkungan Pembelajaran Digital,Pendidikan Teknologi Informasi,3,100,Wajib,1,"Pengelola, Pengampu",103
+CIE62107,Lingkungan Pembelajaran Digital,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,TBA_8
+CIE62107,Lingkungan Pembelajaran Digital - Praktikum,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,Asprak_9
+CIE62107,Lingkungan Pembelajaran Digital - Praktikum,Pendidikan Teknologi Informasi,3,100,Wajib,1,"Koordinator Pengelola, Pengelola, Pengampu",Asprak_10
+CIE62107,Lingkungan Pembelajaran Digital - Praktikum,Pendidikan Teknologi Informasi,3,100,Wajib,1,"Pengelola, Pengampu",Asprak_11
+CIE62107,Lingkungan Pembelajaran Digital - Praktikum,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,Asprak_12
+CIE61120,Literasi Digital,Pendidikan Teknologi Informasi,3,100,Pilihan,1,Pengampu,11
+CIE61120,Literasi Digital,Pendidikan Teknologi Informasi,3,100,Pilihan,2,Pengampu,12
+CIE61120,Literasi Digital,Pendidikan Teknologi Informasi,3,100,Pilihan,2,Pengampu,103
+CIE61120,Literasi Digital,Pendidikan Teknologi Informasi,3,100,Pilihan,1,Pengampu,TBA_10
+CIE61120,Literasi Digital,Pendidikan Teknologi Informasi,3,100,Pilihan,1,Pengampu,TBA_9
+CIS62115,Manajemen Investasi Teknologi Informasi,Sistem Informasi,3,100,Pilihan,1,Pengampu,6
+CIS62115,Manajemen Investasi Teknologi Informasi,Sistem Informasi,3,100,Pilihan,1,Pengampu,13
+CIS62115,Manajemen Investasi Teknologi Informasi,Sistem Informasi,3,100,Pilihan,1,Pengampu,22
+CIS62115,Manajemen Investasi Teknologi Informasi,Sistem Informasi,3,100,Pilihan,1,Pengampu,49
+CIS62115,Manajemen Investasi Teknologi Informasi,Sistem Informasi,3,100,Pilihan,2,Pengampu,53
+CIS62115,Manajemen Investasi Teknologi Informasi,Sistem Informasi,3,100,Pilihan,1,Pengampu,60
+CIS62115,Manajemen Investasi Teknologi Informasi,Sistem Informasi,3,100,Pilihan,1,"Pengelola, Pengampu",62
+CIS62115,Manajemen Investasi Teknologi Informasi,Sistem Informasi,3,100,Pilihan,1,Pengampu,87
+CIS62115,Manajemen Investasi Teknologi Informasi,Sistem Informasi,3,100,Pilihan,1,"Koordinator Pengelola, Pengelola, Pengampu",94
+CSD60701,Manajemen Layanan Teknologi Informasi,Sistem Informasi,2,100,Pilihan,1,Pengampu,6
+CSD60701,Manajemen Layanan Teknologi Informasi,Sistem Informasi,2,100,Pilihan,1,Pengampu,15
+CSD60701,Manajemen Layanan Teknologi Informasi,Sistem Informasi,2,100,Pilihan,1,Pengampu,21
+CSD60701,Manajemen Layanan Teknologi Informasi,Sistem Informasi,2,100,Pilihan,2,Pengampu,22
+CSD60701,Manajemen Layanan Teknologi Informasi,Sistem Informasi,2,100,Pilihan,2,"Pengelola, Pengampu",47
+CSD60701,Manajemen Layanan Teknologi Informasi,Sistem Informasi,2,100,Pilihan,1,Pengampu,87
+CSD60701,Manajemen Layanan Teknologi Informasi,Sistem Informasi,2,100,Pilihan,1,"Koordinator Pengelola, Pengelola, Pengampu",94
+CSD60701,Manajemen Layanan Teknologi Informasi,Sistem Informasi,2,100,Pilihan,1,"Pengelola, Pengampu",108
+CIT60031,Manajemen Proyek Teknologi Informasi,Teknologi Informasi,3,100,Pilihan,1,"Pengelola, Pengampu",6
+CIT60031,Manajemen Proyek Teknologi Informasi,Teknologi Informasi,3,100,Pilihan,1,Pengampu,13
+CIT60031,Manajemen Proyek Teknologi Informasi,Teknologi Informasi,3,100,Pilihan,1,Pengampu,22
+CIT60031,Manajemen Proyek Teknologi Informasi,Teknologi Informasi,3,100,Pilihan,1,Pengampu,40
+CIT60031,Manajemen Proyek Teknologi Informasi,Teknologi Informasi,3,100,Pilihan,1,Pengampu,48
+CIT60031,Manajemen Proyek Teknologi Informasi,Teknologi Informasi,3,100,Pilihan,1,"Koordinator Pengelola, Pengelola, Pengampu",94
+CIS62117,Manajemen Rantai Suplai,Sistem Informasi,2,100,Pilihan,1,"Pengelola, Pengampu",22
+CIS62117,Manajemen Rantai Suplai,Sistem Informasi,2,100,Pilihan,1,"Koordinator Pengelola, Pengelola, Pengampu",53
+CIS62117,Manajemen Rantai Suplai,Sistem Informasi,2,100,Pilihan,1,"Koordinator Pengelola, Pengelola, Pengampu",94
+CIS62117,Manajemen Rantai Suplai,Sistem Informasi,2,100,Pilihan,1,"Pengelola, Pengampu",108
+CIS62117,Manajemen Rantai Suplai,Sistem Informasi,2,100,Pilihan,1,Pengampu,TBA_39
+CIE61119,Multimodal Storytelling,Pendidikan Teknologi Informasi,3,100,Pilihan,1,"Koordinator Pengelola, Pengelola, Pengampu",47
+CIE61119,Multimodal Storytelling,Pendidikan Teknologi Informasi,3,100,Pilihan,1,Pengampu,TBA_12
+CIE62105,Pembelajaran Berdiferensiasi,Pendidikan Teknologi Informasi,2,100,Wajib,1,"Koordinator Pengelola, Pengelola, Pengampu",103
+CIE62105,Pembelajaran Berdiferensiasi,Pendidikan Teknologi Informasi,2,100,Wajib,1,"Koordinator Pengelola, Pengelola, Pengampu",TBA_13
+CIE62105,Pembelajaran Berdiferensiasi,Pendidikan Teknologi Informasi,2,100,Wajib,1,Pengampu,TBA_14
+CIE62305,Pembelajaran Emosional Sosial,Pendidikan Teknologi Informasi,3,100,Pilihan,1,Pengampu,TBA_15
+CIE62305,Pembelajaran Emosional Sosial,Pendidikan Teknologi Informasi,3,100,Pilihan,1,Pengampu,TBA_16
+CIE62306,Pembelajaran Inklusif,Pendidikan Teknologi Informasi,3,100,Pilihan,1,"Koordinator Pengelola, Pengelola, Pengampu",47
+CIE62306,Pembelajaran Inklusif,Pendidikan Teknologi Informasi,3,100,Pilihan,2,Pengampu,59
+CIE62306,Pembelajaran Inklusif,Pendidikan Teknologi Informasi,3,100,Pilihan,2,Pengampu,103
+CIE62306,Pembelajaran Inklusif,Pendidikan Teknologi Informasi,3,100,Pilihan,1,"Koordinator Pengelola, Pengelola, Pengampu",TBA_17
+CIE62306,Pembelajaran Inklusif,Pendidikan Teknologi Informasi,3,100,Pilihan,1,Pengampu,TBA_18
+CIS62104,Pemodelan Proses Bisnis,Sistem Informasi,3,100,Wajib,1,"Pengelola, Pengampu",6
+CIS62104,Pemodelan Proses Bisnis,Sistem Informasi,3,100,Wajib,1,"Koordinator Pengelola, Pengelola, Pengampu",13
+CIS62104,Pemodelan Proses Bisnis,Sistem Informasi,3,100,Wajib,1,Pengampu,16
+CIS62104,Pemodelan Proses Bisnis,Sistem Informasi,3,100,Wajib,1,Pengampu,49
+CIS62104,Pemodelan Proses Bisnis,Sistem Informasi,3,100,Wajib,1,"Koordinator Pengelola, Pengelola, Pengampu",53
+CIS62104,Pemodelan Proses Bisnis,Sistem Informasi,3,100,Wajib,1,Pengampu,55
+CIS62104,Pemodelan Proses Bisnis,Sistem Informasi,3,100,Wajib,1,Pengampu,108
+CIS62104,Pemodelan Proses Bisnis - Praktikum,Sistem Informasi,3,100,Wajib,1,"Pengelola, Pengampu",Asprak_13
+CIS62104,Pemodelan Proses Bisnis - Praktikum,Sistem Informasi,3,100,Wajib,1,"Koordinator Pengelola, Pengelola, Pengampu",Asprak_14
+CIS62104,Pemodelan Proses Bisnis - Praktikum,Sistem Informasi,3,100,Wajib,1,Pengampu,Asprak_15
+CIS62104,Pemodelan Proses Bisnis - Praktikum,Sistem Informasi,3,100,Wajib,1,Pengampu,Asprak_16
+CIS62104,Pemodelan Proses Bisnis - Praktikum,Sistem Informasi,3,100,Wajib,1,"Koordinator Pengelola, Pengelola, Pengampu",Asprak_17
+CIS62104,Pemodelan Proses Bisnis - Praktikum,Sistem Informasi,3,100,Wajib,1,Pengampu,Asprak_18
+CIS62104,Pemodelan Proses Bisnis - Praktikum,Sistem Informasi,3,100,Wajib,1,Pengampu,Asprak_19
+CIE62203,Pemrograman Berbasis Objek,Pendidikan Teknologi Informasi,3,100,Wajib,1,"Pengelola, Pengampu",4
+CIE62203,Pemrograman Berbasis Objek,Pendidikan Teknologi Informasi,3,100,Wajib,1,"Pengelola, Pengampu",16
+CIE62203,Pemrograman Berbasis Objek,Pendidikan Teknologi Informasi,3,100,Wajib,1,"Pengelola, Pengampu",20
+CIE62203,Pemrograman Berbasis Objek,Pendidikan Teknologi Informasi,3,100,Wajib,1,"Pengelola, Pengampu",52
+CIE62203,Pemrograman Berbasis Objek,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,67
+CIE62203,Pemrograman Berbasis Objek,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,70
+CIE62203,Pemrograman Berbasis Objek,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,75
+CIE62203,Pemrograman Berbasis Objek,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,76
+CIE62203,Pemrograman Berbasis Objek,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,91
+CIE62203,Pemrograman Berbasis Objek,Pendidikan Teknologi Informasi,3,100,Wajib,1,"Koordinator Pengelola, Pengelola, Pengampu",98
+CIE62203,Pemrograman Berbasis Objek - Praktikum,Pendidikan Teknologi Informasi,3,100,Wajib,1,"Pengelola, Pengampu",Asprak_20
+CIE62203,Pemrograman Berbasis Objek - Praktikum,Pendidikan Teknologi Informasi,3,100,Wajib,1,"Pengelola, Pengampu",Asprak_21
+CIE62203,Pemrograman Berbasis Objek - Praktikum,Pendidikan Teknologi Informasi,3,100,Wajib,1,"Pengelola, Pengampu",Asprak_22
+CIE62203,Pemrograman Berbasis Objek - Praktikum,Pendidikan Teknologi Informasi,3,100,Wajib,1,"Pengelola, Pengampu",Asprak_23
+CIE62203,Pemrograman Berbasis Objek - Praktikum,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,Asprak_24
+CIE62203,Pemrograman Berbasis Objek - Praktikum,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,Asprak_25
+CIE62203,Pemrograman Berbasis Objek - Praktikum,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,Asprak_26
+CIE62203,Pemrograman Berbasis Objek - Praktikum,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,Asprak_27
+CIE62203,Pemrograman Berbasis Objek - Praktikum,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,Asprak_28
+CIE62203,Pemrograman Berbasis Objek - Praktikum,Pendidikan Teknologi Informasi,3,100,Wajib,1,"Koordinator Pengelola, Pengelola, Pengampu",Asprak_29
+COM60024,Pemrograman Lanjut,Sistem Informasi,5,100,Wajib,1,Pengampu,1
+COM60024,Pemrograman Lanjut,Teknologi Informasi,5,100,Wajib,1,Pengampu,1
+COM60024,Pemrograman Lanjut,Sistem Informasi,5,100,Wajib,1,"Pengelola, Pengampu",4
+COM60024,Pemrograman Lanjut,Teknologi Informasi,5,100,Wajib,1,"Pengelola, Pengampu",4
+COM60024,Pemrograman Lanjut,Sistem Informasi,5,100,Wajib,1,"Koordinator Pengelola, Pengelola, Pengampu",16
+COM60024,Pemrograman Lanjut,Teknologi Informasi,5,100,Wajib,1,"Pengelola, Pengampu",16
+COM60024,Pemrograman Lanjut,Sistem Informasi,5,100,Wajib,1,"Koordinator Pengelola, Pengelola, Pengampu",20
+COM60024,Pemrograman Lanjut,Teknologi Informasi,5,100,Wajib,1,"Koordinator Pengelola, Pengelola, Pengampu",20
+COM60024,Pemrograman Lanjut,Sistem Informasi,5,100,Wajib,2,"Pengelola, Pengampu",22
+COM60024,Pemrograman Lanjut,Teknologi Informasi,5,100,Wajib,1,"Pengelola, Pengampu",22
+COM60024,Pemrograman Lanjut,Sistem Informasi,5,100,Wajib,2,Pengampu,23
+COM60024,Pemrograman Lanjut,Sistem Informasi,5,100,Wajib,1,Pengampu,31
+COM60024,Pemrograman Lanjut,Teknologi Informasi,5,100,Wajib,1,Pengampu,31
+COM60024,Pemrograman Lanjut,Sistem Informasi,5,100,Wajib,1,Pengampu,37
+COM60024,Pemrograman Lanjut,Sistem Informasi,5,100,Wajib,1,"Koordinator Pengelola, Pengelola, Pengampu",47
+COM60024,Pemrograman Lanjut,Teknologi Informasi,5,100,Wajib,1,"Koordinator Pengelola, Pengelola, Pengampu",47
+COM60024,Pemrograman Lanjut,Sistem Informasi,5,100,Wajib,1,"Pengelola, Pengampu",52
+COM60024,Pemrograman Lanjut,Teknologi Informasi,5,100,Wajib,1,"Pengelola, Pengampu",52
+COM60024,Pemrograman Lanjut,Sistem Informasi,5,100,Wajib,1,Pengampu,55
+COM60024,Pemrograman Lanjut,Teknologi Informasi,5,100,Wajib,1,Pengampu,55
+COM60024,Pemrograman Lanjut,Sistem Informasi,5,100,Wajib,1,Pengampu,65
+COM60024,Pemrograman Lanjut,Teknologi Informasi,5,100,Wajib,2,Pengampu,67
+COM60024,Pemrograman Lanjut,Sistem Informasi,5,100,Wajib,1,"Pengelola, Pengampu",70
+COM60024,Pemrograman Lanjut,Teknologi Informasi,5,100,Wajib,1,Pengampu,70
+COM60024,Pemrograman Lanjut,Sistem Informasi,5,100,Wajib,1,Pengampu,75
+COM60024,Pemrograman Lanjut,Teknologi Informasi,5,100,Wajib,1,Pengampu,75
+COM60024,Pemrograman Lanjut,Sistem Informasi,5,100,Wajib,1,Pengampu,76
+COM60024,Pemrograman Lanjut,Teknologi Informasi,5,100,Wajib,1,Pengampu,76
+COM60024,Pemrograman Lanjut,Sistem Informasi,5,100,Wajib,1,Pengampu,80
+COM60024,Pemrograman Lanjut,Teknologi Informasi,5,100,Wajib,1,"Pengelola, Pengampu",80
+COM60024,Pemrograman Lanjut,Sistem Informasi,5,100,Wajib,1,Pengampu,82
+COM60024,Pemrograman Lanjut,Teknologi Informasi,5,100,Wajib,1,Pengampu,82
+COM60024,Pemrograman Lanjut,Sistem Informasi,5,100,Wajib,1,Pengampu,87
+COM60024,Pemrograman Lanjut,Sistem Informasi,5,100,Wajib,1,Pengampu,91
+COM60024,Pemrograman Lanjut,Teknologi Informasi,5,100,Wajib,1,Pengampu,91
+COM60024,Pemrograman Lanjut,Sistem Informasi,5,100,Wajib,1,Pengampu,98
+COM60024,Pemrograman Lanjut,Teknologi Informasi,5,100,Wajib,1,Pengampu,98
+COM60024,Pemrograman Lanjut - Praktikum,Sistem Informasi,5,100,Wajib,1,Pengampu,Asprak_30
+COM60024,Pemrograman Lanjut - Praktikum,Teknologi Informasi,5,100,Wajib,1,Pengampu,Asprak_31
+COM60024,Pemrograman Lanjut - Praktikum,Sistem Informasi,5,100,Wajib,1,"Pengelola, Pengampu",Asprak_32
+COM60024,Pemrograman Lanjut - Praktikum,Teknologi Informasi,5,100,Wajib,1,"Pengelola, Pengampu",Asprak_33
+COM60024,Pemrograman Lanjut - Praktikum,Sistem Informasi,5,100,Wajib,1,"Koordinator Pengelola, Pengelola, Pengampu",Asprak_34
+COM60024,Pemrograman Lanjut - Praktikum,Teknologi Informasi,5,100,Wajib,1,"Pengelola, Pengampu",Asprak_35
+COM60024,Pemrograman Lanjut - Praktikum,Sistem Informasi,5,100,Wajib,1,"Koordinator Pengelola, Pengelola, Pengampu",Asprak_36
+COM60024,Pemrograman Lanjut - Praktikum,Teknologi Informasi,5,100,Wajib,1,"Koordinator Pengelola, Pengelola, Pengampu",Asprak_37
+COM60024,Pemrograman Lanjut - Praktikum,Sistem Informasi,5,100,Wajib,2,"Pengelola, Pengampu",Asprak_38
+COM60024,Pemrograman Lanjut - Praktikum,Teknologi Informasi,5,100,Wajib,1,"Pengelola, Pengampu",Asprak_39
+COM60024,Pemrograman Lanjut - Praktikum,Sistem Informasi,5,100,Wajib,2,Pengampu,Asprak_40
+COM60024,Pemrograman Lanjut - Praktikum,Sistem Informasi,5,100,Wajib,1,Pengampu,Asprak_41
+COM60024,Pemrograman Lanjut - Praktikum,Teknologi Informasi,5,100,Wajib,1,Pengampu,Asprak_42
+COM60024,Pemrograman Lanjut - Praktikum,Sistem Informasi,5,100,Wajib,1,Pengampu,Asprak_43
+COM60024,Pemrograman Lanjut - Praktikum,Sistem Informasi,5,100,Wajib,1,"Koordinator Pengelola, Pengelola, Pengampu",Asprak_44
+COM60024,Pemrograman Lanjut - Praktikum,Teknologi Informasi,5,100,Wajib,1,"Koordinator Pengelola, Pengelola, Pengampu",Asprak_45
+COM60024,Pemrograman Lanjut - Praktikum,Sistem Informasi,5,100,Wajib,1,"Pengelola, Pengampu",Asprak_46
+COM60024,Pemrograman Lanjut - Praktikum,Teknologi Informasi,5,100,Wajib,1,"Pengelola, Pengampu",Asprak_47
+COM60024,Pemrograman Lanjut - Praktikum,Sistem Informasi,5,100,Wajib,1,Pengampu,Asprak_48
+COM60024,Pemrograman Lanjut - Praktikum,Teknologi Informasi,5,100,Wajib,1,Pengampu,Asprak_49
+COM60024,Pemrograman Lanjut - Praktikum,Sistem Informasi,5,100,Wajib,1,Pengampu,Asprak_50
+COM60024,Pemrograman Lanjut - Praktikum,Teknologi Informasi,5,100,Wajib,2,Pengampu,Asprak_51
+COM60024,Pemrograman Lanjut - Praktikum,Sistem Informasi,5,100,Wajib,1,"Pengelola, Pengampu",Asprak_52
+COM60024,Pemrograman Lanjut - Praktikum,Teknologi Informasi,5,100,Wajib,1,Pengampu,Asprak_53
+COM60024,Pemrograman Lanjut - Praktikum,Sistem Informasi,5,100,Wajib,1,Pengampu,Asprak_54
+COM60024,Pemrograman Lanjut - Praktikum,Teknologi Informasi,5,100,Wajib,1,Pengampu,Asprak_55
+COM60024,Pemrograman Lanjut - Praktikum,Sistem Informasi,5,100,Wajib,1,Pengampu,Asprak_56
+COM60024,Pemrograman Lanjut - Praktikum,Teknologi Informasi,5,100,Wajib,1,Pengampu,Asprak_57
+COM60024,Pemrograman Lanjut - Praktikum,Sistem Informasi,5,100,Wajib,1,Pengampu,Asprak_58
+COM60024,Pemrograman Lanjut - Praktikum,Teknologi Informasi,5,100,Wajib,1,"Pengelola, Pengampu",Asprak_59
+COM60024,Pemrograman Lanjut - Praktikum,Sistem Informasi,5,100,Wajib,1,Pengampu,Asprak_60
+COM60024,Pemrograman Lanjut - Praktikum,Teknologi Informasi,5,100,Wajib,1,Pengampu,Asprak_61
+COM60024,Pemrograman Lanjut - Praktikum,Sistem Informasi,5,100,Wajib,1,Pengampu,Asprak_62
+COM60024,Pemrograman Lanjut - Praktikum,Sistem Informasi,5,100,Wajib,1,Pengampu,Asprak_63
+COM60024,Pemrograman Lanjut - Praktikum,Teknologi Informasi,5,100,Wajib,1,Pengampu,Asprak_64
+COM60024,Pemrograman Lanjut - Praktikum,Sistem Informasi,5,100,Wajib,1,Pengampu,Asprak_65
+COM60024,Pemrograman Lanjut - Praktikum,Teknologi Informasi,5,100,Wajib,1,Pengampu,Asprak_66
+CSD60705,Pemrograman SQL,Sistem Informasi,3,100,Wajib,1,Pengampu,1
+CSD60705,Pemrograman SQL,Sistem Informasi,3,100,Wajib,2,"Pengelola, Pengampu",16
+CSD60705,Pemrograman SQL,Sistem Informasi,3,100,Wajib,1,Pengampu,20
+CSD60705,Pemrograman SQL,Sistem Informasi,3,100,Wajib,1,"Pengelola, Pengampu",22
+CSD60705,Pemrograman SQL,Sistem Informasi,3,100,Wajib,1,Pengampu,60
+CSD60705,Pemrograman SQL,Sistem Informasi,3,100,Wajib,1,Pengampu,70
+CSD60705,Pemrograman SQL,Sistem Informasi,3,100,Wajib,1,"Pengelola, Pengampu",72
+CSD60705,Pemrograman SQL,Sistem Informasi,3,100,Wajib,1,"Pengelola, Pengampu",73
+CSD60705,Pemrograman SQL,Sistem Informasi,3,100,Wajib,1,Pengampu,91
+CSD60705,Pemrograman SQL,Sistem Informasi,3,100,Wajib,1,Pengampu,98
+CSD60705,Pemrograman SQL,Sistem Informasi,3,100,Wajib,1,"Pengelola, Pengampu",102
+CSD60705,Pemrograman SQL,Sistem Informasi,3,100,Wajib,1,Pengampu,TBA_40
+CSD60705,Pemrograman SQL - Praktikum,Sistem Informasi,3,100,Wajib,1,Pengampu,Asprak_67
+CSD60705,Pemrograman SQL - Praktikum,Sistem Informasi,3,100,Wajib,2,"Pengelola, Pengampu",Asprak_68
+CSD60705,Pemrograman SQL - Praktikum,Sistem Informasi,3,100,Wajib,1,Pengampu,Asprak_69
+CSD60705,Pemrograman SQL - Praktikum,Sistem Informasi,3,100,Wajib,1,"Pengelola, Pengampu",Asprak_70
+CSD60705,Pemrograman SQL - Praktikum,Sistem Informasi,3,100,Wajib,1,Pengampu,Asprak_71
+CSD60705,Pemrograman SQL - Praktikum,Sistem Informasi,3,100,Wajib,1,Pengampu,Asprak_72
+CSD60705,Pemrograman SQL - Praktikum,Sistem Informasi,3,100,Wajib,1,"Pengelola, Pengampu",Asprak_73
+CSD60705,Pemrograman SQL - Praktikum,Sistem Informasi,3,100,Wajib,1,"Pengelola, Pengampu",Asprak_74
+CSD60705,Pemrograman SQL - Praktikum,Sistem Informasi,3,100,Wajib,1,Pengampu,Asprak_75
+CSD60705,Pemrograman SQL - Praktikum,Sistem Informasi,3,100,Wajib,1,Pengampu,Asprak_76
+CSD60705,Pemrograman SQL - Praktikum,Sistem Informasi,3,100,Wajib,1,"Pengelola, Pengampu",Asprak_77
+CSD60705,Pemrograman SQL - Praktikum,Sistem Informasi,3,100,Wajib,1,Pengampu,Asprak_78
+CIS62106,Pemrograman Web,Sistem Informasi,4,100,Wajib,1,Pengampu,1
+CIS62106,Pemrograman Web,Sistem Informasi,4,100,Wajib,1,"Pengelola, Pengampu",4
+CIS62106,Pemrograman Web,Sistem Informasi,4,100,Wajib,1,"Koordinator Pengelola, Pengelola, Pengampu",16
+CIS62106,Pemrograman Web,Sistem Informasi,4,100,Wajib,1,"Pengelola, Pengampu",22
+CIS62106,Pemrograman Web,Sistem Informasi,4,100,Wajib,1,Pengampu,31
+CIS62106,Pemrograman Web,Sistem Informasi,4,100,Wajib,1,Pengampu,37
+CIS62106,Pemrograman Web,Sistem Informasi,4,100,Wajib,1,"Pengelola, Pengampu",47
+CIS62106,Pemrograman Web,Sistem Informasi,4,100,Wajib,2,Pengampu,70
+CIS62106,Pemrograman Web,Sistem Informasi,4,100,Wajib,1,Pengampu,75
+CIS62106,Pemrograman Web,Sistem Informasi,4,100,Wajib,1,Pengampu,82
+CIS62106,Pemrograman Web,Sistem Informasi,4,100,Wajib,1,Pengampu,98
+CIS62106,Pemrograman Web,Sistem Informasi,4,100,Wajib,2,Pengampu,103
+CIS62106,Pemrograman Web,Sistem Informasi,4,100,Wajib,1,Pengampu,105
+CIS60103,Pemrograman Web Lanjut,Sistem Informasi,3,100,Pilihan,1,Pengampu,1
+CIS60103,Pemrograman Web Lanjut,Sistem Informasi,3,100,Pilihan,1,Pengampu,16
+CIS60103,Pemrograman Web Lanjut,Sistem Informasi,3,100,Pilihan,1,Pengampu,22
+CIS60103,Pemrograman Web Lanjut,Sistem Informasi,3,100,Pilihan,1,Pengampu,31
+CSD60708,Penambangan Data,Sistem Informasi,3,100,Pilihan,1,Pengampu,1
+CSD60708,Penambangan Data,Teknologi Informasi,3,100,Pilihan,1,Pengampu,1
+CSD60708,Penambangan Data,Sistem Informasi,3,100,Pilihan,1,Pengampu,16
+CSD60708,Penambangan Data,Teknologi Informasi,3,100,Pilihan,1,Pengampu,16
+CSD60708,Penambangan Data,Sistem Informasi,3,100,Pilihan,1,Pengampu,20
+CSD60708,Penambangan Data,Teknologi Informasi,3,100,Pilihan,1,Pengampu,20
+CSD60708,Penambangan Data,Sistem Informasi,3,100,Pilihan,1,Pengampu,29
+CSD60708,Penambangan Data,Teknologi Informasi,3,100,Pilihan,1,Pengampu,29
+CSD60708,Penambangan Data,Sistem Informasi,3,100,Pilihan,1,"Pengelola, Pengampu",30
+CSD60708,Penambangan Data,Teknologi Informasi,3,100,Pilihan,1,"Pengelola, Pengampu",30
+CSD60708,Penambangan Data,Sistem Informasi,3,100,Pilihan,1,"Pengelola, Pengampu",52
+CSD60708,Penambangan Data,Teknologi Informasi,3,100,Pilihan,1,Pengampu,52
+CSD60708,Penambangan Data,Sistem Informasi,3,100,Pilihan,1,Pengampu,72
+CSD60708,Penambangan Data,Sistem Informasi,3,100,Pilihan,1,Pengampu,80
+CSD60708,Penambangan Data,Teknologi Informasi,3,100,Pilihan,1,Pengampu,80
+CSD60708,Penambangan Data,Sistem Informasi,3,100,Pilihan,2,Pengampu,89
+CSD60708,Penambangan Data,Sistem Informasi,3,100,Pilihan,1,"Koordinator Pengelola, Pengelola, Pengampu",92
+CSD60708,Penambangan Data,Teknologi Informasi,3,100,Pilihan,1,"Koordinator Pengelola, Pengelola, Pengampu",92
+CSD60708,Penambangan Data,Teknologi Informasi,3,100,Pilihan,1,Pengampu,93
+CSD60708,Penambangan Data,Sistem Informasi,3,100,Pilihan,2,Pengampu,97
+CSD60708,Penambangan Data,Teknologi Informasi,3,100,Pilihan,2,Pengampu,97
+CSD60708,Penambangan Data,Sistem Informasi,3,100,Pilihan,1,Pengampu,102
+CSD60708,Penambangan Data,Teknologi Informasi,3,100,Pilihan,1,Pengampu,102
+CSD60708,Penambangan Data,Sistem Informasi,3,100,Pilihan,1,"Pengelola, Pengampu",107
+CSD60708,Penambangan Data,Teknologi Informasi,3,100,Pilihan,1,"Pengelola, Pengampu",107
+CIS62105,Pengantar Sains Data,Sistem Informasi,2,100,Wajib,2,Pengampu,11
+CIS62105,Pengantar Sains Data,Sistem Informasi,2,100,Wajib,1,"Pengelola, Pengampu",16
+CIS62105,Pengantar Sains Data,Sistem Informasi,2,100,Wajib,1,Pengampu,20
+CIS62105,Pengantar Sains Data,Sistem Informasi,2,100,Wajib,2,Pengampu,21
+CIS62105,Pengantar Sains Data,Sistem Informasi,2,100,Wajib,1,Pengampu,37
+CIS62105,Pengantar Sains Data,Sistem Informasi,2,100,Wajib,1,"Pengelola, Pengampu",52
+CIS62105,Pengantar Sains Data,Sistem Informasi,2,100,Wajib,1,Pengampu,63
+CIS62105,Pengantar Sains Data,Sistem Informasi,2,100,Wajib,1,"Pengelola, Pengampu",72
+CIS62105,Pengantar Sains Data,Sistem Informasi,2,100,Wajib,1,"Pengelola, Pengampu",73
+CIS62105,Pengantar Sains Data,Sistem Informasi,2,100,Wajib,1,Pengampu,80
+CIS62105,Pengantar Sains Data,Sistem Informasi,2,100,Wajib,1,Pengampu,87
+CIS62105,Pengantar Sains Data,Sistem Informasi,2,100,Wajib,2,Pengampu,89
+CIS62105,Pengantar Sains Data,Sistem Informasi,2,100,Wajib,1,Pengampu,92
+CIS62105,Pengantar Sains Data,Sistem Informasi,2,100,Wajib,1,"Pengelola, Pengampu",94
+CIS62105,Pengantar Sains Data,Sistem Informasi,2,100,Wajib,1,Pengampu,97
+CIS62105,Pengantar Sains Data,Sistem Informasi,2,100,Wajib,1,Pengampu,102
+CIS62105,Pengantar Sains Data,Sistem Informasi,2,100,Wajib,1,Pengampu,TBA_41
+CIT62012,Pengembangan Aplikasi Mobile,Teknologi Informasi,4,100,Wajib,1,"Pengelola, Pengampu",16
+CIT62012,Pengembangan Aplikasi Mobile,Teknologi Informasi,4,100,Wajib,1,Pengampu,20
+CIT62012,Pengembangan Aplikasi Mobile,Teknologi Informasi,4,100,Wajib,2,"Pengelola, Pengampu",22
+CIT62012,Pengembangan Aplikasi Mobile,Teknologi Informasi,4,100,Wajib,1,Pengampu,31
+CIT62012,Pengembangan Aplikasi Mobile,Teknologi Informasi,4,100,Wajib,1,"Pengelola, Pengampu",47
+CIT62012,Pengembangan Aplikasi Mobile,Teknologi Informasi,4,100,Wajib,1,Pengampu,60
+CIT62012,Pengembangan Aplikasi Mobile,Teknologi Informasi,4,100,Wajib,1,Pengampu,70
+CIT62012,Pengembangan Aplikasi Mobile,Teknologi Informasi,4,100,Wajib,1,Pengampu,75
+CIT62012,Pengembangan Aplikasi Mobile,Teknologi Informasi,4,100,Wajib,2,Pengampu,96
+CIT62012,Pengembangan Aplikasi Mobile - Praktikum,Teknologi Informasi,4,100,Wajib,1,"Pengelola, Pengampu",Asprak_79
+CIT62012,Pengembangan Aplikasi Mobile - Praktikum,Teknologi Informasi,4,100,Wajib,1,Pengampu,Asprak_80
+CIT62012,Pengembangan Aplikasi Mobile - Praktikum,Teknologi Informasi,4,100,Wajib,2,"Pengelola, Pengampu",Asprak_81
+CIT62012,Pengembangan Aplikasi Mobile - Praktikum,Teknologi Informasi,4,100,Wajib,1,Pengampu,Asprak_82
+CIT62012,Pengembangan Aplikasi Mobile - Praktikum,Teknologi Informasi,4,100,Wajib,1,"Pengelola, Pengampu",Asprak_83
+CIT62012,Pengembangan Aplikasi Mobile - Praktikum,Teknologi Informasi,4,100,Wajib,1,Pengampu,Asprak_84
+CIT62012,Pengembangan Aplikasi Mobile - Praktikum,Teknologi Informasi,4,100,Wajib,1,Pengampu,Asprak_85
+CIT62012,Pengembangan Aplikasi Mobile - Praktikum,Teknologi Informasi,4,100,Wajib,1,Pengampu,Asprak_86
+CIT62012,Pengembangan Aplikasi Mobile - Praktikum,Teknologi Informasi,4,100,Wajib,2,Pengampu,Asprak_87
+CIS62114,Pengembangan Aplikasi Mobile Lanjut,Sistem Informasi,3,100,Pilihan,1,"Koordinator Pengelola, Pengelola, Pengampu",16
+CIS62114,Pengembangan Aplikasi Mobile Lanjut,Sistem Informasi,3,100,Pilihan,2,"Pengelola, Pengampu",47
+CIS62114,Pengembangan Aplikasi Mobile Lanjut,Sistem Informasi,3,100,Pilihan,1,Pengampu,60
+CIS62114,Pengembangan Aplikasi Mobile Lanjut,Sistem Informasi,3,100,Pilihan,2,Pengampu,70
+CIT60052,Pengembangan Aplikasi Mobile Terapan,Teknologi Informasi,3,100,Pilihan,1,Pengampu,16
+CIT60052,Pengembangan Aplikasi Mobile Terapan,Teknologi Informasi,3,100,Pilihan,1,Pengampu,20
+CIT60052,Pengembangan Aplikasi Mobile Terapan,Teknologi Informasi,3,100,Pilihan,2,"Pengelola, Pengampu",47
+CIS60102,Pengembangan Aplikasi Multiplatform,Sistem Informasi,2,100,Pilihan,1,Pengampu,1
+CIS60102,Pengembangan Aplikasi Multiplatform,Sistem Informasi,2,100,Pilihan,1,"Koordinator Pengelola, Pengelola, Pengampu",16
+CIS60102,Pengembangan Aplikasi Multiplatform,Sistem Informasi,2,100,Pilihan,1,"Pengelola, Pengampu",47
+CIS60102,Pengembangan Aplikasi Multiplatform,Sistem Informasi,2,100,Pilihan,2,Pengampu,70
+CIT60039,Pengembangan Aplikasi Web Lanjut,Teknologi Informasi,3,100,Pilihan,1,Pengampu,1
+CIT60039,Pengembangan Aplikasi Web Lanjut,Teknologi Informasi,3,100,Pilihan,1,"Pengelola, Pengampu",4
+CIT60039,Pengembangan Aplikasi Web Lanjut,Teknologi Informasi,3,100,Pilihan,1,"Pengelola, Pengampu",16
+CIT60039,Pengembangan Aplikasi Web Lanjut,Teknologi Informasi,3,100,Pilihan,1,Pengampu,31
+CIT60039,Pengembangan Aplikasi Web Lanjut,Teknologi Informasi,3,100,Pilihan,1,"Pengelola, Pengampu",47
+CIT60039,Pengembangan Aplikasi Web Lanjut,Teknologi Informasi,3,100,Pilihan,1,Pengampu,75
+CIS61127,Pengembangan Berorientasi Penggunaan Ulang,Sistem Informasi,2,100,Pilihan,1,"Pengelola, Pengampu",4
+CIE62209,Pengembangan dan Manajemen Perangkat Lunak,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,1
+CIE62209,Pengembangan dan Manajemen Perangkat Lunak,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,6
+CIE62209,Pengembangan dan Manajemen Perangkat Lunak,Pendidikan Teknologi Informasi,3,100,Wajib,1,"Pengelola, Pengampu",16
+CIE62209,Pengembangan dan Manajemen Perangkat Lunak,Pendidikan Teknologi Informasi,3,100,Wajib,2,Pengampu,22
+CIE62209,Pengembangan dan Manajemen Perangkat Lunak,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,40
+CIE62209,Pengembangan dan Manajemen Perangkat Lunak,Pendidikan Teknologi Informasi,3,100,Wajib,1,"Pengelola, Pengampu",47
+CIE62209,Pengembangan dan Manajemen Perangkat Lunak,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,60
+CIE62209,Pengembangan dan Manajemen Perangkat Lunak,Pendidikan Teknologi Informasi,3,100,Wajib,2,Pengampu,62
+CIE62209,Pengembangan dan Manajemen Perangkat Lunak,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,67
+CIE62209,Pengembangan dan Manajemen Perangkat Lunak,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,76
+CIE62209,Pengembangan dan Manajemen Perangkat Lunak,Pendidikan Teknologi Informasi,3,100,Wajib,2,Pengampu,TBA_20
+CIE62209,Pengembangan dan Manajemen Perangkat Lunak - Praktikum,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,Asprak_88
+CIE62209,Pengembangan dan Manajemen Perangkat Lunak - Praktikum,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,Asprak_89
+CIE62209,Pengembangan dan Manajemen Perangkat Lunak - Praktikum,Pendidikan Teknologi Informasi,3,100,Wajib,1,"Pengelola, Pengampu",Asprak_90
+CIE62209,Pengembangan dan Manajemen Perangkat Lunak - Praktikum,Pendidikan Teknologi Informasi,3,100,Wajib,2,Pengampu,Asprak_91
+CIE62209,Pengembangan dan Manajemen Perangkat Lunak - Praktikum,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,Asprak_92
+CIE62209,Pengembangan dan Manajemen Perangkat Lunak - Praktikum,Pendidikan Teknologi Informasi,3,100,Wajib,1,"Pengelola, Pengampu",Asprak_93
+CIE62209,Pengembangan dan Manajemen Perangkat Lunak - Praktikum,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,Asprak_94
+CIE62209,Pengembangan dan Manajemen Perangkat Lunak - Praktikum,Pendidikan Teknologi Informasi,3,100,Wajib,2,Pengampu,Asprak_95
+CIE62209,Pengembangan dan Manajemen Perangkat Lunak - Praktikum,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,Asprak_96
+CIE62209,Pengembangan dan Manajemen Perangkat Lunak - Praktikum,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,Asprak_97
+CIE62209,Pengembangan dan Manajemen Perangkat Lunak - Praktikum,Pendidikan Teknologi Informasi,3,100,Wajib,2,Pengampu,Asprak_98
+CIT60053,Pengembangan Gim,Teknologi Informasi,3,100,Pilihan,1,Pengampu,16
+CIE62104,Pengembangan Kurikulum,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,TBA_21
+CIE62104,Pengembangan Kurikulum,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,TBA_22
+CIE62201,Perancangan Antarmuka Pengguna,Pendidikan Teknologi Informasi,3,100,Wajib,1,"Pengelola, Pengampu",4
+CIE62201,Perancangan Antarmuka Pengguna,Pendidikan Teknologi Informasi,3,100,Wajib,2,Pengampu,12
+CIE62201,Perancangan Antarmuka Pengguna,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,16
+CIE62201,Perancangan Antarmuka Pengguna,Pendidikan Teknologi Informasi,3,100,Wajib,1,"Koordinator Pengelola, Pengelola, Pengampu",22
+CIE62201,Perancangan Antarmuka Pengguna,Pendidikan Teknologi Informasi,3,100,Wajib,1,"Koordinator Pengelola, Pengelola, Pengampu",45
+CIE62201,Perancangan Antarmuka Pengguna,Pendidikan Teknologi Informasi,3,100,Wajib,1,"Koordinator Pengelola, Pengelola, Pengampu",47
+CIE62201,Perancangan Antarmuka Pengguna,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,60
+CIE62201,Perancangan Antarmuka Pengguna,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,62
+CIE62201,Perancangan Antarmuka Pengguna,Pendidikan Teknologi Informasi,3,100,Wajib,2,Pengampu,98
+CIE62201,Perancangan Antarmuka Pengguna,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,TBA_26
+CIE62201,Perancangan Antarmuka Pengguna - Praktikum,Pendidikan Teknologi Informasi,3,100,Wajib,1,"Pengelola, Pengampu",Asprak_99
+CIE62201,Perancangan Antarmuka Pengguna - Praktikum,Pendidikan Teknologi Informasi,3,100,Wajib,2,Pengampu,Asprak_100
+CIE62201,Perancangan Antarmuka Pengguna - Praktikum,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,Asprak_101
+CIE62201,Perancangan Antarmuka Pengguna - Praktikum,Pendidikan Teknologi Informasi,3,100,Wajib,1,"Koordinator Pengelola, Pengelola, Pengampu",Asprak_102
+CIE62201,Perancangan Antarmuka Pengguna - Praktikum,Pendidikan Teknologi Informasi,3,100,Wajib,1,"Koordinator Pengelola, Pengelola, Pengampu",Asprak_103
+CIE62201,Perancangan Antarmuka Pengguna - Praktikum,Pendidikan Teknologi Informasi,3,100,Wajib,1,"Koordinator Pengelola, Pengelola, Pengampu",Asprak_104
+CIE62201,Perancangan Antarmuka Pengguna - Praktikum,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,Asprak_105
+CIE62201,Perancangan Antarmuka Pengguna - Praktikum,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,Asprak_106
+CIE62201,Perancangan Antarmuka Pengguna - Praktikum,Pendidikan Teknologi Informasi,3,100,Wajib,2,Pengampu,Asprak_107
+CIE62201,Perancangan Antarmuka Pengguna - Praktikum,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,Asprak_108
+CSD60711,Perancangan Pengalaman Pengguna,Pendidikan Teknologi Informasi,3,100,Pilihan,1,"Pengelola, Pengampu",4
+CSD60711,Perancangan Pengalaman Pengguna,Sistem Informasi,3,100,Wajib,1,"Pengelola, Pengampu",4
+CSD60711,Perancangan Pengalaman Pengguna,Teknologi Informasi,3,100,Pilihan,1,"Pengelola, Pengampu",4
+CSD60711,Perancangan Pengalaman Pengguna,Pendidikan Teknologi Informasi,3,100,Pilihan,2,Pengampu,12
+CSD60711,Perancangan Pengalaman Pengguna,Teknologi Informasi,3,100,Pilihan,2,Pengampu,12
+CSD60711,Perancangan Pengalaman Pengguna,Pendidikan Teknologi Informasi,3,100,Pilihan,1,"Pengelola, Pengampu",16
+CSD60711,Perancangan Pengalaman Pengguna,Teknologi Informasi,3,100,Pilihan,1,"Pengelola, Pengampu",16
+CSD60711,Perancangan Pengalaman Pengguna,Pendidikan Teknologi Informasi,3,100,Pilihan,1,"Koordinator Pengelola, Pengelola, Pengampu",22
+CSD60711,Perancangan Pengalaman Pengguna,Teknologi Informasi,3,100,Pilihan,1,"Koordinator Pengelola, Pengelola, Pengampu",22
+CSD60711,Perancangan Pengalaman Pengguna,Pendidikan Teknologi Informasi,3,100,Pilihan,1,"Koordinator Pengelola, Pengelola, Pengampu",45
+CSD60711,Perancangan Pengalaman Pengguna,Teknologi Informasi,3,100,Pilihan,1,"Koordinator Pengelola, Pengelola, Pengampu",45
+CSD60711,Perancangan Pengalaman Pengguna,Pendidikan Teknologi Informasi,3,100,Pilihan,1,"Koordinator Pengelola, Pengelola, Pengampu",47
+CSD60711,Perancangan Pengalaman Pengguna,Sistem Informasi,3,100,Wajib,1,"Koordinator Pengelola, Pengelola, Pengampu",47
+CSD60711,Perancangan Pengalaman Pengguna,Teknologi Informasi,3,100,Pilihan,1,"Koordinator Pengelola, Pengelola, Pengampu",47
+CSD60711,Perancangan Pengalaman Pengguna,Teknologi Informasi,3,100,Pilihan,1,"Pengelola, Pengampu",55
+CSD60711,Perancangan Pengalaman Pengguna,Sistem Informasi,3,100,Wajib,1,Pengampu,60
+CSD60711,Perancangan Pengalaman Pengguna,Teknologi Informasi,3,100,Pilihan,1,Pengampu,60
+CSD60711,Perancangan Pengalaman Pengguna,Pendidikan Teknologi Informasi,3,100,Pilihan,1,Pengampu,62
+CSD60711,Perancangan Pengalaman Pengguna,Sistem Informasi,3,100,Wajib,1,Pengampu,62
+CSD60711,Perancangan Pengalaman Pengguna,Teknologi Informasi,3,100,Pilihan,1,Pengampu,62
+CSD60711,Perancangan Pengalaman Pengguna,Sistem Informasi,3,100,Wajib,1,Pengampu,87
+CSD60711,Perancangan Pengalaman Pengguna - Praktikum,Pendidikan Teknologi Informasi,3,100,Pilihan,1,"Pengelola, Pengampu",Asprak_109
+CSD60711,Perancangan Pengalaman Pengguna - Praktikum,Pendidikan Teknologi Informasi,3,100,Pilihan,2,Pengampu,Asprak_110
+CSD60711,Perancangan Pengalaman Pengguna - Praktikum,Pendidikan Teknologi Informasi,3,100,Pilihan,1,"Pengelola, Pengampu",Asprak_111
+CSD60711,Perancangan Pengalaman Pengguna - Praktikum,Pendidikan Teknologi Informasi,3,100,Pilihan,1,"Koordinator Pengelola, Pengelola, Pengampu",Asprak_112
+CSD60711,Perancangan Pengalaman Pengguna - Praktikum,Pendidikan Teknologi Informasi,3,100,Pilihan,1,"Koordinator Pengelola, Pengelola, Pengampu",Asprak_113
+CSD60711,Perancangan Pengalaman Pengguna - Praktikum,Pendidikan Teknologi Informasi,3,100,Pilihan,1,"Koordinator Pengelola, Pengelola, Pengampu",Asprak_114
+CSD60711,Perancangan Pengalaman Pengguna - Praktikum,Pendidikan Teknologi Informasi,3,100,Pilihan,1,Pengampu,Asprak_115
+CIS62110,Perencanaan Strategis Sistem Informasi,Sistem Informasi,3,100,Pilihan,1,"Pengelola, Pengampu",6
+CIS62110,Perencanaan Strategis Sistem Informasi,Sistem Informasi,3,100,Pilihan,2,"Pengelola, Pengampu",47
+CIS60101,Perkembangan dan Tren Teknologi Digital,Sistem Informasi,2,100,Pilihan,2,Pengampu,12
+CIS60101,Perkembangan dan Tren Teknologi Digital,Sistem Informasi,2,100,Pilihan,1,Pengampu,16
+CIS60101,Perkembangan dan Tren Teknologi Digital,Sistem Informasi,2,100,Pilihan,1,Pengampu,21
+CIS60101,Perkembangan dan Tren Teknologi Digital,Sistem Informasi,2,100,Pilihan,1,Pengampu,40
+CIS60101,Perkembangan dan Tren Teknologi Digital,Sistem Informasi,2,100,Pilihan,1,"Pengelola, Pengampu",47
+CIS60101,Perkembangan dan Tren Teknologi Digital,Sistem Informasi,2,100,Pilihan,1,Pengampu,87
+CIS60101,Perkembangan dan Tren Teknologi Digital,Sistem Informasi,2,100,Pilihan,1,"Koordinator Pengelola, Pengelola, Pengampu",94
+CIS60101,Perkembangan dan Tren Teknologi Digital,Sistem Informasi,2,100,Pilihan,1,"Pengelola, Pengampu",108
+CIS60101,Perkembangan dan Tren Teknologi Digital,Sistem Informasi,2,100,Pilihan,1,Pengampu,TBA_42
+CIS62113,Pola-Pola Perancangan,Sistem Informasi,2,100,Pilihan,1,"Pengelola, Pengampu",4
+CIS62113,Pola-Pola Perancangan,Sistem Informasi,2,100,Pilihan,1,"Koordinator Pengelola, Pengelola, Pengampu",16
+CIS62113,Pola-Pola Perancangan,Sistem Informasi,2,100,Pilihan,1,Pengampu,37
+CIS62113,Pola-Pola Perancangan,Sistem Informasi,2,100,Pilihan,1,Pengampu,76
+CSD60712,Probabilitas dan Statistika,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,11
+CSD60712,Probabilitas dan Statistika,Teknologi Informasi,3,100,Wajib,1,Pengampu,11
+CSD60712,Probabilitas dan Statistika,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,16
+CSD60712,Probabilitas dan Statistika,Teknologi Informasi,3,100,Wajib,1,Pengampu,16
+CSD60712,Probabilitas dan Statistika,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,77
+CSD60712,Probabilitas dan Statistika,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,83
+CSD60712,Probabilitas dan Statistika,Teknologi Informasi,3,100,Wajib,1,Pengampu,83
+CSD60712,Probabilitas dan Statistika,Pendidikan Teknologi Informasi,3,100,Wajib,1,"Koordinator Pengelola, Pengelola, Pengampu",92
+CSD60712,Probabilitas dan Statistika,Teknologi Informasi,3,100,Wajib,1,"Koordinator Pengelola, Pengelola, Pengampu",92
+CSD60712,Probabilitas dan Statistika,Teknologi Informasi,3,100,Wajib,1,Pengampu,93
+CSD60712,Probabilitas dan Statistika,Pendidikan Teknologi Informasi,3,100,Wajib,1,"Pengelola, Pengampu",100
+CSD60712,Probabilitas dan Statistika,Teknologi Informasi,3,100,Wajib,1,Pengampu,100
+CSD60712,Probabilitas dan Statistika,Pendidikan Teknologi Informasi,3,100,Wajib,1,"Pengelola, Pengampu",107
+CSD60712,Probabilitas dan Statistika,Teknologi Informasi,3,100,Wajib,1,"Pengelola, Pengampu",107
+CIT60033,Sistem Forensik Digital,Teknologi Informasi,3,100,Pilihan,1,Pengampu,35
+CIT60033,Sistem Forensik Digital,Teknologi Informasi,3,100,Pilihan,1,Pengampu,41
+CIT60033,Sistem Forensik Digital,Teknologi Informasi,3,100,Pilihan,1,Pengampu,75
+CIT60033,Sistem Forensik Digital,Teknologi Informasi,3,100,Pilihan,1,Pengampu,83
+CIT60033,Sistem Forensik Digital,Teknologi Informasi,3,100,Pilihan,1,"Pengelola, Pengampu",94
+CIS60106,Sistem Informasi Berkelanjutan,Sistem Informasi,2,100,Pilihan,1,Pengampu,16
+CIS60106,Sistem Informasi Berkelanjutan,Sistem Informasi,2,100,Pilihan,1,"Koordinator Pengelola, Pengelola, Pengampu",53
+CIS60106,Sistem Informasi Berkelanjutan,Sistem Informasi,2,100,Pilihan,1,"Pengelola, Pengampu",94
+CIS60106,Sistem Informasi Berkelanjutan,Sistem Informasi,2,100,Pilihan,1,Pengampu,108
+CIS60106,Sistem Informasi Berkelanjutan,Sistem Informasi,2,100,Pilihan,1,Pengampu,TBA_43
+CSD60710,Sistem Informasi Geografis,Teknologi Informasi,3,100,Pilihan,1,"Koordinator Pengelola, Pengelola, Pengampu",11
+CSD60710,Sistem Informasi Geografis - Praktikum,Teknologi Informasi,3,100,Pilihan,1,"Koordinator Pengelola, Pengelola, Pengampu",Asprak_116
+CIT62010,Sistem Operasi,Teknologi Informasi,3,100,Wajib,1,Pengampu,16
+CIT62010,Sistem Operasi,Teknologi Informasi,3,100,Wajib,1,Pengampu,20
+CIT62010,Sistem Operasi,Teknologi Informasi,3,100,Wajib,2,Pengampu,58
+CIT62010,Sistem Operasi,Teknologi Informasi,3,100,Wajib,2,Pengampu,65
+CIT62010,Sistem Operasi,Teknologi Informasi,3,100,Wajib,1,Pengampu,75
+CIT62010,Sistem Operasi,Teknologi Informasi,3,100,Wajib,1,Pengampu,79
+CIT62010,Sistem Operasi,Teknologi Informasi,3,100,Wajib,1,"Koordinator Pengelola, Pengelola, Pengampu",94
+CIT62010,Sistem Operasi,Teknologi Informasi,3,100,Wajib,2,Pengampu,103
+CIT62010,Sistem Operasi,Teknologi Informasi,3,100,Wajib,1,Pengampu,TBA_52
+CIE62307,"Sistem Pembelajaran Berbasis Multimedia, Gim, dan Peranti Bergerak",Pendidikan Teknologi Informasi,3,100,Pilihan,1,"Pengelola, Pengampu",16
+CIE62307,"Sistem Pembelajaran Berbasis Multimedia, Gim, dan Peranti Bergerak",Pendidikan Teknologi Informasi,3,100,Pilihan,1,"Koordinator Pengelola, Pengelola, Pengampu",47
+CIE62307,"Sistem Pembelajaran Berbasis Multimedia, Gim, dan Peranti Bergerak",Pendidikan Teknologi Informasi,3,100,Pilihan,2,Pengampu,62
+CIE62307,"Sistem Pembelajaran Berbasis Multimedia, Gim, dan Peranti Bergerak",Pendidikan Teknologi Informasi,3,100,Pilihan,1,"Koordinator Pengelola, Pengelola, Pengampu",103
+CIE62118,Sistem Pembelajaran Bergamifikasi dan Terpersonalisasi,Pendidikan Teknologi Informasi,3,100,Pilihan,2,Pengampu,16
+CIE62118,Sistem Pembelajaran Bergamifikasi dan Terpersonalisasi,Pendidikan Teknologi Informasi,3,100,Pilihan,1,Pengampu,40
+CIE62118,Sistem Pembelajaran Bergamifikasi dan Terpersonalisasi,Pendidikan Teknologi Informasi,3,100,Pilihan,1,"Koordinator Pengelola, Pengelola, Pengampu",47
+CIE62118,Sistem Pembelajaran Bergamifikasi dan Terpersonalisasi,Pendidikan Teknologi Informasi,3,100,Pilihan,1,"Koordinator Pengelola, Pengelola, Pengampu",103
+CIE62118,Sistem Pembelajaran Bergamifikasi dan Terpersonalisasi,Pendidikan Teknologi Informasi,3,100,Pilihan,2,Pengampu,TBA_29
+CIE62308,Sistem Pembelajaran Jarak Jauh,Pendidikan Teknologi Informasi,3,100,Pilihan,1,Pengampu,16
+CIE62308,Sistem Pembelajaran Jarak Jauh,Pendidikan Teknologi Informasi,3,100,Pilihan,1,"Pengelola, Pengampu",47
+CSD60702,Sistem Pendukung Keputusan,Sistem Informasi,3,100,Pilihan,1,Pengampu,15
+CSD60702,Sistem Pendukung Keputusan,Sistem Informasi,3,100,Pilihan,1,Pengampu,16
+CSD60702,Sistem Pendukung Keputusan,Sistem Informasi,3,100,Pilihan,1,Pengampu,20
+CSD60702,Sistem Pendukung Keputusan,Sistem Informasi,3,100,Pilihan,1,Pengampu,29
+CSD60702,Sistem Pendukung Keputusan,Sistem Informasi,3,100,Pilihan,1,"Pengelola, Pengampu",30
+CSD60702,Sistem Pendukung Keputusan,Sistem Informasi,3,100,Pilihan,1,"Pengelola, Pengampu",52
+CSD60702,Sistem Pendukung Keputusan,Sistem Informasi,3,100,Pilihan,1,Pengampu,73
+CSD60702,Sistem Pendukung Keputusan,Sistem Informasi,3,100,Pilihan,1,Pengampu,83
+CSD60702,Sistem Pendukung Keputusan,Sistem Informasi,3,100,Pilihan,1,Pengampu,92
+CSD60702,Sistem Pendukung Keputusan,Sistem Informasi,3,100,Pilihan,1,"Koordinator Pengelola, Pengelola, Pengampu",94
+CSD60702,Sistem Pendukung Keputusan,Sistem Informasi,3,100,Pilihan,1,"Pengelola, Pengampu",107
+CSD60702,Sistem Pendukung Keputusan,Sistem Informasi,3,100,Pilihan,1,"Pengelola, Pengampu",108
+CIS60105,Strategi Transformasi Digital,Sistem Informasi,2,100,Pilihan,1,"Koordinator Pengelola, Pengelola, Pengampu",53
+CIS60105,Strategi Transformasi Digital,Sistem Informasi,2,100,Pilihan,1,"Pengelola, Pengampu",94
+CIS60105,Strategi Transformasi Digital,Sistem Informasi,2,100,Pilihan,1,Pengampu,108
+CIS60105,Strategi Transformasi Digital,Sistem Informasi,2,100,Pilihan,1,Pengampu,TBA_44
+CIT60047,Tata Kelola dan Kebijakan Keamanan Siber,Teknologi Informasi,2,100,Pilihan,1,"Koordinator Pengelola, Pengelola, Pengampu",14
+CIT60047,Tata Kelola dan Kebijakan Keamanan Siber,Teknologi Informasi,2,100,Pilihan,1,Pengampu,17
+CIT60047,Tata Kelola dan Kebijakan Keamanan Siber,Teknologi Informasi,2,100,Pilihan,2,Pengampu,46
+CIT60047,Tata Kelola dan Kebijakan Keamanan Siber,Teknologi Informasi,2,100,Pilihan,1,"Koordinator Pengelola, Pengelola, Pengampu",94
+CIT60047,Tata Kelola dan Kebijakan Keamanan Siber,Teknologi Informasi,2,100,Pilihan,1,Pengampu,TBA_53
+CIT60049,Teknologi Basis Data Non Relational,Teknologi Informasi,3,100,Pilihan,1,Pengampu,16
+CIT60049,Teknologi Basis Data Non Relational,Teknologi Informasi,3,100,Pilihan,1,"Pengelola, Pengampu",102
+CIT60049,Teknologi Basis Data Non Relational,Teknologi Informasi,3,100,Pilihan,1,Pengampu,TBA_54
+CIT60036,Teknologi Berbasis Cloud,Teknologi Informasi,3,100,Pilihan,1,Pengampu,16
+CIT60036,Teknologi Berbasis Cloud,Teknologi Informasi,3,100,Pilihan,1,Pengampu,20
+CIT60036,Teknologi Berbasis Cloud,Teknologi Informasi,3,100,Pilihan,1,Pengampu,35
+CIT60036,Teknologi Berbasis Cloud,Teknologi Informasi,3,100,Pilihan,1,Pengampu,46
+CIT60036,Teknologi Berbasis Cloud,Teknologi Informasi,3,100,Pilihan,1,Pengampu,75
+CIT60036,Teknologi Berbasis Cloud,Teknologi Informasi,3,100,Pilihan,1,Pengampu,104
+CSD60717,Teknologi Blockchain dan Platform Keuangan Digital,Sistem Informasi,2,100,Pilihan,1,"Koordinator Pengelola, Pengelola, Pengampu",14
+CIT60042,Teknologi Blockchain dan Platform Keuangan Digital,Teknologi Informasi,2,100,Pilihan,1,"Koordinator Pengelola, Pengelola, Pengampu",14
+CSD60717,Teknologi Blockchain dan Platform Keuangan Digital,Sistem Informasi,2,100,Pilihan,1,Pengampu,17
+CIT60042,Teknologi Blockchain dan Platform Keuangan Digital,Teknologi Informasi,2,100,Pilihan,1,Pengampu,46
+CSD60717,Teknologi Blockchain dan Platform Keuangan Digital,Sistem Informasi,2,100,Pilihan,1,"Koordinator Pengelola, Pengelola, Pengampu",47
+CIT60042,Teknologi Blockchain dan Platform Keuangan Digital,Teknologi Informasi,2,100,Pilihan,1,"Pengelola, Pengampu",47
+CSD60717,Teknologi Blockchain dan Platform Keuangan Digital,Sistem Informasi,2,100,Pilihan,2,Pengampu,105
+CSD60717,Teknologi Blockchain dan Platform Keuangan Digital,Sistem Informasi,2,100,Pilihan,2,Pengampu,TBA_45
+CIT62017,Teknologi Integrasi Sistem,Teknologi Informasi,4,100,Wajib,1,"Pengelola, Pengampu",16
+CIT62017,Teknologi Integrasi Sistem,Teknologi Informasi,4,100,Wajib,1,Pengampu,20
+CIT62017,Teknologi Integrasi Sistem,Teknologi Informasi,4,100,Wajib,2,"Pengelola, Pengampu",22
+CIT62017,Teknologi Integrasi Sistem,Teknologi Informasi,4,100,Wajib,1,Pengampu,TBA_55
+CIT62017,Teknologi Integrasi Sistem - Praktikum,Teknologi Informasi,4,100,Wajib,1,"Pengelola, Pengampu",Asprak_117
+CIT62017,Teknologi Integrasi Sistem - Praktikum,Teknologi Informasi,4,100,Wajib,1,Pengampu,Asprak_118
+CIT62017,Teknologi Integrasi Sistem - Praktikum,Teknologi Informasi,4,100,Wajib,2,"Pengelola, Pengampu",Asprak_119
+CIT62017,Teknologi Integrasi Sistem - Praktikum,Teknologi Informasi,4,100,Wajib,1,Pengampu,Asprak_120
+CIE62116,Teknologi Komputasi Awan,Pendidikan Teknologi Informasi,3,100,Pilihan,1,"Koordinator Pengelola, Pengelola, Pengampu",17
+CIE62116,Teknologi Komputasi Awan,Pendidikan Teknologi Informasi,3,100,Pilihan,1,Pengampu,20
+CIE62116,Teknologi Komputasi Awan,Pendidikan Teknologi Informasi,3,100,Pilihan,1,Pengampu,TBA_30
+CIE62117,Teknologi Peranti Internet,Pendidikan Teknologi Informasi,3,100,Pilihan,1,Pengampu,16
+CIE62117,Teknologi Peranti Internet,Pendidikan Teknologi Informasi,3,100,Pilihan,1,"Koordinator Pengelola, Pengelola, Pengampu",17
+CIE62117,Teknologi Peranti Internet,Pendidikan Teknologi Informasi,3,100,Pilihan,1,Pengampu,20
+CIE62117,Teknologi Peranti Internet,Pendidikan Teknologi Informasi,3,100,Pilihan,1,Pengampu,79
+CIE62117,Teknologi Peranti Internet,Pendidikan Teknologi Informasi,3,100,Pilihan,2,Pengampu,103
+CIE62117,Teknologi Peranti Internet,Pendidikan Teknologi Informasi,3,100,Pilihan,2,Pengampu,TBA_31
+CIE62202,Teknologi Platform,Pendidikan Teknologi Informasi,2,100,Wajib,1,Pengampu,16
+CIE62202,Teknologi Platform,Pendidikan Teknologi Informasi,2,100,Wajib,1,"Koordinator Pengelola, Pengelola, Pengampu",17
+CIE62202,Teknologi Platform,Pendidikan Teknologi Informasi,2,100,Wajib,1,"Koordinator Pengelola, Pengelola, Pengampu",47
+CIE62202,Teknologi Platform,Pendidikan Teknologi Informasi,2,100,Wajib,1,Pengampu,TBA_32
+CIT60051,Teknologi Smart City,Teknologi Informasi,2,100,Pilihan,2,Pengampu,6
+CIT60051,Teknologi Smart City,Teknologi Informasi,2,100,Pilihan,1,Pengampu,20
+CIT60051,Teknologi Smart City,Teknologi Informasi,2,100,Pilihan,1,"Koordinator Pengelola, Pengelola, Pengampu",47
+CIT60051,Teknologi Smart City,Teknologi Informasi,2,100,Pilihan,2,Pengampu,58
+CIT60051,Teknologi Smart City,Teknologi Informasi,2,100,Pilihan,1,Pengampu,67
+CIT60051,Teknologi Smart City,Teknologi Informasi,2,100,Pilihan,2,"Koordinator Pengelola, Pengelola, Pengampu",105
+CIE62106,Teori dan Sains Belajar,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,100
+CIE62106,Teori dan Sains Belajar,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,TBA_33
+CIE62106,Teori dan Sains Belajar,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,TBA_34
+CIS60104,Transformasi Pemerintah,Sistem Informasi,2,100,Pilihan,1,Pengampu,11
+CIS60104,Transformasi Pemerintah,Sistem Informasi,2,100,Pilihan,2,Pengampu,12
+CIS60104,Transformasi Pemerintah,Sistem Informasi,2,100,Pilihan,1,Pengampu,21
+CIS60104,Transformasi Pemerintah,Sistem Informasi,2,100,Pilihan,2,"Koordinator Pengelola, Pengelola, Pengampu",47
+CIS60104,Transformasi Pemerintah,Sistem Informasi,2,100,Pilihan,1,"Pengelola, Pengampu",94
+CIS60104,Transformasi Pemerintah,Sistem Informasi,2,100,Pilihan,1,Pengampu,108
+CIS60104,Transformasi Pemerintah,Sistem Informasi,2,100,Pilihan,1,Pengampu,TBA_46

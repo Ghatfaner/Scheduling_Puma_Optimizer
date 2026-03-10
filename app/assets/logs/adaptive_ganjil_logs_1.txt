@@ -1,0 +1,163 @@
+[INFO] Memuat dan memproses dataset...
+[INFO] Parallel workers : 8
+[INFO] HC weight        : 10,000,000
+[INFO] Total courses    : 474
+
+Mengevaluasi populasi inisial...
+
+Initial Best  | Fitness:     30001490 | HC:   3 (u:1 g:2) | Repaired:   0 | SC: 1490
+
+==============================================================================================================
+                               PUMA OPTIMISER — ADAPTIVE CONFLICT-DIRECTED REPAIR                             
+==============================================================================================================
+Iter 001 | Best:     10002620 | Worst:     30002390 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   2620 | 3.6s
+Iter 002 | Best:     10002430 | Worst:     30001750 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   2430 | 7.6s
+Iter 003 | Best:     10002430 | Worst:     30001490 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   2430 | 12.6s
+Iter 004 | Best:     10002010 | Worst:     30001490 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   2010 | 15.2s
+         ↳ HC improved: 1 → 1
+Iter 005 | Best:     10002010 | Worst:     30001490 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   2010 | 17.7s
+Iter 006 | Best:     10002010 | Worst:     30001490 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   2010 | 20.3s
+Iter 007 | Best:     10002010 | Worst:     30001490 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   2010 | 22.8s
+Iter 008 | Best:     10001920 | Worst:     30001490 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1920 | 25.2s
+Iter 009 | Best:     10001920 | Worst:     30001490 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1920 | 27.7s
+[ADAPT-T1] Iter 9 — Targeted perturbation of stuck courses (HC stagnant 5 iters)
+Iter 010 | Best:     10001920 | Worst:     30001490 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1920 | 31.2s
+Iter 011 | Best:     10001920 | Worst:     30001490 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1920 | 33.8s
+Iter 012 | Best:     10001920 | Worst:     30001490 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1920 | 36.2s
+Iter 013 | Best:     10001920 | Worst:     30001490 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1920 | 38.8s
+Iter 014 | Best:     10001920 | Worst:     30001490 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1920 | 41.3s
+[ADAPT-T1] Iter 14 — Targeted perturbation of stuck courses (HC stagnant 10 iters)
+Iter 015 | Best:     10001920 | Worst:     30001890 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1920 | 44.8s
+Iter 016 | Best:     10001920 | Worst:     30001890 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1920 | 47.3s
+Iter 017 | Best:     10001920 | Worst:     30001890 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1920 | 50.0s
+Iter 018 | Best:     10001920 | Worst:     30001650 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1920 | 52.4s
+[STAG-SC] Iter 18 — SC stagnation recovery (random diversity)
+Iter 019 | Best:     10001920 | Worst:     30002700 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1920 | 55.7s
+[ADAPT-T2] Iter 19 — Levy flight + targeted seeds (HC stagnant 15 iters)
+Iter 020 | Best:     10001920 | Worst:     30002860 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1920 | 59.7s
+Iter 021 | Best:     10001920 | Worst:     30002660 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1920 | 62.3s
+Iter 022 | Best:     10001920 | Worst:     30002600 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1920 | 65.1s
+Iter 023 | Best:     10001920 | Worst:     30002600 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1920 | 67.8s
+Iter 024 | Best:     10001920 | Worst:     30002150 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1920 | 70.3s
+[ADAPT-T1] Iter 24 — Targeted perturbation of stuck courses (HC stagnant 20 iters)
+Iter 025 | Best:     10001920 | Worst:     30002780 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1920 | 73.9s
+Iter 026 | Best:     10001920 | Worst:     30002590 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1920 | 76.1s
+Iter 027 | Best:     10001920 | Worst:     30002280 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1920 | 78.5s
+Iter 028 | Best:     10001920 | Worst:     30002030 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1920 | 81.5s
+[STAG-SC] Iter 28 — SC stagnation recovery (random diversity)
+Iter 029 | Best:     10001920 | Worst:     30002710 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1920 | 84.9s
+[ADAPT-T1] Iter 29 — Targeted perturbation of stuck courses (HC stagnant 25 iters)
+Iter 030 | Best:     10001920 | Worst:     30002680 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1920 | 88.7s
+Iter 031 | Best:     10001920 | Worst:     30002480 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1920 | 91.4s
+Iter 032 | Best:     10001920 | Worst:     30002310 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1920 | 94.0s
+Iter 033 | Best:     10001920 | Worst:     30002310 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1920 | 96.5s
+Iter 034 | Best:     10001920 | Worst:     30001940 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1920 | 100.0s
+[ADAPT-T3] Iter 34 — Full adaptive restart (HC stagnant 30 iters, stuck=1 courses)
+Iter 035 | Best:     10001920 | Worst:     30002690 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1920 | 104.9s
+Iter 036 | Best:     10001920 | Worst:     30002500 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1920 | 107.5s
+Iter 037 | Best:     10001920 | Worst:     30002420 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1920 | 110.1s
+Iter 038 | Best:     10001920 | Worst:     30002230 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1920 | 112.4s
+Iter 039 | Best:     10001560 | Worst:     30001910 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1560 | 115.3s
+[ADAPT-T1] Iter 39 — Targeted perturbation of stuck courses (HC stagnant 5 iters)
+Iter 040 | Best:     10001560 | Worst:     30001910 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1560 | 119.7s
+Iter 041 | Best:     10001560 | Worst:     30001810 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1560 | 122.8s
+Iter 042 | Best:     10001560 | Worst:     30001750 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1560 | 125.7s
+Iter 043 | Best:     10001560 | Worst:     30001710 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1560 | 128.7s
+Iter 044 | Best:     10001560 | Worst:     30001710 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1560 | 131.8s
+[ADAPT-T1] Iter 44 — Targeted perturbation of stuck courses (HC stagnant 10 iters)
+Iter 045 | Best:     10001560 | Worst:     30001640 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1560 | 135.5s
+Iter 046 | Best:     10001560 | Worst:     30001640 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1560 | 138.2s
+Iter 047 | Best:     10001560 | Worst:     30001640 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1560 | 140.6s
+Iter 048 | Best:     10001560 | Worst:     30001640 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1560 | 143.1s
+Iter 049 | Best:     10001560 | Worst:     30001640 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1560 | 145.4s
+[ADAPT-T2] Iter 49 — Levy flight + targeted seeds (HC stagnant 15 iters)
+Iter 050 | Best:     10001560 | Worst:     30002330 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1560 | 149.3s
+[STAG-SC] Iter 50 — SC stagnation recovery (random diversity)
+Iter 051 | Best:     10001560 | Worst:     30002640 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1560 | 152.6s
+Iter 052 | Best:     10001560 | Worst:     30002390 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1560 | 155.1s
+Iter 053 | Best:     10001560 | Worst:     30002070 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1560 | 157.6s
+Iter 054 | Best:     10001560 | Worst:     30001940 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1560 | 160.4s
+[ADAPT-T1] Iter 54 — Targeted perturbation of stuck courses (HC stagnant 20 iters)
+Iter 055 | Best:     10001560 | Worst:     30002310 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1560 | 164.6s
+Iter 056 | Best:     10001560 | Worst:     30002050 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1560 | 167.1s
+Iter 057 | Best:     10001560 | Worst:     30002050 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1560 | 169.6s
+Iter 058 | Best:     10001560 | Worst:     30001810 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1560 | 172.1s
+Iter 059 | Best:     10001560 | Worst:     30001800 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1560 | 174.5s
+[ADAPT-T1] Iter 59 — Targeted perturbation of stuck courses (HC stagnant 25 iters)
+Iter 060 | Best:     10001560 | Worst:     30002400 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1560 | 178.2s
+[STAG-SC] Iter 60 — SC stagnation recovery (random diversity)
+Iter 061 | Best:     10001560 | Worst:     30002600 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1560 | 181.5s
+Iter 062 | Best:     10001560 | Worst:     30002350 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1560 | 183.8s
+Iter 063 | Best:     10001560 | Worst:     30002280 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1560 | 186.3s
+Iter 064 | Best:     10001560 | Worst:     30001900 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1560 | 188.6s
+[ADAPT-T3] Iter 64 — Full adaptive restart (HC stagnant 30 iters, stuck=1 courses)
+Iter 065 | Best:     10001560 | Worst:     30002710 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1560 | 193.0s
+Iter 066 | Best:     10001560 | Worst:     30002340 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1560 | 195.4s
+Iter 067 | Best:     10001560 | Worst:     30001930 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1560 | 197.9s
+Iter 068 | Best:     10001560 | Worst:     30001860 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1560 | 200.3s
+Iter 069 | Best:     10001560 | Worst:     30001860 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1560 | 202.7s
+[ADAPT-T1] Iter 69 — Targeted perturbation of stuck courses (HC stagnant 5 iters)
+Iter 070 | Best:     10001560 | Worst:     30001760 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1560 | 206.1s
+Iter 071 | Best:     10001560 | Worst:     30001750 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1560 | 208.7s
+Iter 072 | Best:     10001560 | Worst:     30001690 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1560 | 211.0s
+Iter 073 | Best:     10001560 | Worst:     30001690 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1560 | 213.7s
+Iter 074 | Best:     10001560 | Worst:     30001660 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1560 | 216.1s
+[ADAPT-T1] Iter 74 — Targeted perturbation of stuck courses (HC stagnant 10 iters)
+Iter 075 | Best:     10001560 | Worst:     30001590 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1560 | 219.3s
+[STAG-SC] Iter 75 — SC stagnation recovery (random diversity)
+Iter 076 | Best:     10001560 | Worst:     30002690 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1560 | 222.5s
+Iter 077 | Best:     10001560 | Worst:     30002400 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1560 | 224.9s
+Iter 078 | Best:     10001560 | Worst:     30001940 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1560 | 227.3s
+Iter 079 | Best:     10001560 | Worst:     30001940 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1560 | 229.7s
+[ADAPT-T2] Iter 79 — Levy flight + targeted seeds (HC stagnant 15 iters)
+Iter 080 | Best:     10001560 | Worst:     30002340 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1560 | 233.4s
+Iter 081 | Best:     10001560 | Worst:     30002050 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1560 | 235.8s
+Iter 082 | Best:     10001560 | Worst:     30001910 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1560 | 238.2s
+Iter 083 | Best:     10001560 | Worst:     30001830 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1560 | 240.6s
+Iter 084 | Best:     10001560 | Worst:     30001830 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1560 | 242.9s
+[ADAPT-T1] Iter 84 — Targeted perturbation of stuck courses (HC stagnant 20 iters)
+Iter 085 | Best:     10001560 | Worst:     30002220 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1560 | 246.7s
+[STAG-SC] Iter 85 — SC stagnation recovery (random diversity)
+Iter 086 | Best:     10001560 | Worst:     30002510 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1560 | 249.9s
+Iter 087 | Best:     10001560 | Worst:     30002130 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1560 | 252.3s
+Iter 088 | Best:     10001560 | Worst:     30002130 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1560 | 254.6s
+Iter 089 | Best:     10001560 | Worst:     30002130 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1560 | 257.2s
+[ADAPT-T1] Iter 89 — Targeted perturbation of stuck courses (HC stagnant 25 iters)
+Iter 090 | Best:     10001560 | Worst:     30002160 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1560 | 260.6s
+Iter 091 | Best:     10001560 | Worst:     30002010 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1560 | 263.3s
+Iter 092 | Best:     10001560 | Worst:     30001810 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1560 | 265.6s
+Iter 093 | Best:     10001560 | Worst:     30001800 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1560 | 268.0s
+Iter 094 | Best:     10001560 | Worst:     30001750 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1560 | 270.3s
+[ADAPT-T3] Iter 94 — Full adaptive restart (HC stagnant 30 iters, stuck=1 courses)
+Iter 095 | Best:     10001560 | Worst:     30002540 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1560 | 274.7s
+Iter 096 | Best:     10001560 | Worst:     30002240 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1560 | 277.4s
+Iter 097 | Best:     10001560 | Worst:     30001880 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1560 | 280.5s
+Iter 098 | Best:     10001560 | Worst:     30001840 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1560 | 282.8s
+Iter 099 | Best:     10001560 | Worst:     30001790 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1560 | 285.5s
+[ADAPT-T1] Iter 99 — Targeted perturbation of stuck courses (HC stagnant 5 iters)
+Iter 100 | Best:     10001560 | Worst:     30001910 | HC:   1 (u:1 g:0) | Repaired:   0 | SC:   1560 | 289.1s
+
+[INFO] Optimasi selesai dalam 289.1s
+
+================================================================================
+  FEASIBILITY DIAGNOSIS — Courses that could not be scheduled
+================================================================================
+  Course idx  133 | teacher:       47 | Pemrograman Dasar
+
+  Teacher capacity summary:
+    Teacher       47: 1 stuck, 30 assigned, 55 total timeslot pairs available per room type
+================================================================================
+  If stuck count = total slots available for teacher, the problem
+  is infeasible for that teacher — reduce their course load in the dataset.
+Total elapsed: 290.9s
+
+=================================================================
+  FINAL RESULT
+  HC Violations  : 1  (unassigned: 1, ghost: 0)
+  HC Penalty     : 10,000,000
+  Repaired by P2 : 0
+  SC Violations  : 2  (penalty: 1560)
+  Total Fitness  : 10,001,560
+  Courses scheduled: 473 / 474
+=================================================================
+[INFO] Solusi disimpan di 'scheduled_courses_poa_adaptive_ganjil_v1.csv'

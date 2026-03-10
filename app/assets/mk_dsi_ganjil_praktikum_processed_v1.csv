@@ -1,0 +1,475 @@
+event_id,course_id,course_name,requires_practicum_room,slots_needed,teacher_id,teacher_priority
+EVT_0000,CIT60048,Information Retrieval,False,2,1,1
+EVT_0001,CSD60714,Jaminan Kualitas Perangkat Lunak,False,2,1,1
+EVT_0002,CIS60103,Pemrograman Web Lanjut,False,2,1,1
+EVT_0003,CSD60708,Penambangan Data,False,2,1,1
+EVT_0004,CIS60102,Pengembangan Aplikasi Multiplatform,False,2,1,1
+EVT_0005,CIT60039,Pengembangan Aplikasi Web Lanjut,False,2,1,1
+EVT_0006,COM60061,Capstone Project,False,2,4,1
+EVT_0007,COM60061,Capstone Project,False,2,4,1
+EVT_0008,CIT62003,Dasar Pengembangan Sistem informasi,False,2,4,1
+EVT_0009,COM60052,Etika Profesi,False,2,4,1
+EVT_0010,COM60052,Etika Profesi,False,2,4,1
+EVT_0011,CSD60714,Jaminan Kualitas Perangkat Lunak,False,2,4,1
+EVT_0012,COM60014,Pemrograman Dasar,False,2,4,1
+EVT_0013,COM60014,Pemrograman Dasar,False,2,4,1
+EVT_0014,COM60014,Pemrograman Dasar,False,2,4,1
+EVT_0015,CIE61205,Pemrograman Web,False,2,4,1
+EVT_0016,COM60016,Pengantar Keilmuan Komputer,False,2,4,1
+EVT_0017,COM60016,Pengantar Keilmuan Komputer,False,2,4,1
+EVT_0018,COM60016,Pengantar Keilmuan Komputer,False,2,4,1
+EVT_0019,CIS61110,Pengembangan Aplikasi Mobile,False,2,4,1
+EVT_0020,CIT61006,Pengembangan Aplikasi Web,False,2,4,1
+EVT_0021,CIT60039,Pengembangan Aplikasi Web Lanjut,False,2,4,1
+EVT_0022,CIS62109,Pengujian dan Evaluasi Sistem Informasi,False,2,4,1
+EVT_0023,CSD60711,Perancangan Pengalaman Pengguna,False,2,4,1
+EVT_0024,CIS61118,Rekayasa Kebutuhan Sistem Informasi,False,2,4,1
+EVT_0025,CIS61108,Rekayasa Sistem Informasi,False,2,4,1
+EVT_0026,CIS61112,Dasar Manajemen Proyek,False,2,6,1
+EVT_0027,CIS61123,Enterprise Architecture II,False,2,6,2
+EVT_0028,CSD60701,Manajemen Layanan Teknologi Informasi,False,2,6,1
+EVT_0029,CIE61404,Manajemen Proyek Teknologi Informasi,False,2,6,1
+EVT_0030,CIT60031,Manajemen Proyek Teknologi Informasi,False,2,6,1
+EVT_0031,CIS61119,Manajemen Risiko dan Kontrol Sistem Informasi,False,2,6,1
+EVT_0032,CIE62204,Paradigma Sistem,False,2,6,1
+EVT_0033,CIS61120,Perbaikan Proses Bisnis,False,2,6,1
+EVT_0034,CSD60703,Tata Kelola Teknologi Informasi,False,2,6,1
+EVT_0035,CSD60703,Tata Kelola Teknologi Informasi,False,2,6,1
+EVT_0036,CIT60051,Teknologi Smart City,False,2,6,2
+EVT_0037,CSD60710,Sistem Informasi Geografis,False,2,11,1
+EVT_0038,CIS60104,Transformasi Pemerintah,False,2,11,1
+EVT_0039,CSD60711,Perancangan Pengalaman Pengguna,False,2,12,2
+EVT_0040,CIS60101,Perkembangan dan Tren Teknologi Digital,False,2,12,2
+EVT_0041,CIS60104,Transformasi Pemerintah,False,2,12,2
+EVT_0042,CIT60031,Manajemen Proyek Teknologi Informasi,False,2,13,1
+EVT_0043,COM60061,Capstone Project,False,2,14,1
+EVT_0044,CIT60045,Kriptografi,False,2,14,1
+EVT_0045,CIT60047,Tata Kelola dan Kebijakan Keamanan Siber,False,2,14,1
+EVT_0046,CIT60042,Teknologi Blockchain dan Platform Keuangan Digital,False,2,14,1
+EVT_0047,CIT61016,Data Sains,False,2,15,1
+EVT_0048,UBU60003,Kewirausahaan,False,2,15,1
+EVT_0049,CSD60703,Tata Kelola Teknologi Informasi,False,2,15,1
+EVT_0050,CIT61021,Data Warehouse,False,2,16,1
+EVT_0051,CIS60103,Pemrograman Web Lanjut,False,2,16,1
+EVT_0052,CSD60708,Penambangan Data,False,2,16,1
+EVT_0053,CIT60052,Pengembangan Aplikasi Mobile Terapan,False,2,16,1
+EVT_0054,CIS60102,Pengembangan Aplikasi Multiplatform,False,2,16,1
+EVT_0055,CIT60039,Pengembangan Aplikasi Web Lanjut,False,2,16,1
+EVT_0056,CIT60053,Pengembangan Gim,False,2,16,1
+EVT_0057,CSD60711,Perancangan Pengalaman Pengguna,False,2,16,1
+EVT_0058,CIS60101,Perkembangan dan Tren Teknologi Digital,False,2,16,1
+EVT_0059,CIS60106,Sistem Informasi Berkelanjutan,False,2,16,1
+EVT_0060,CIT60049,Teknologi Basis Data Non Relational,False,2,16,1
+EVT_0061,CIT60036,Teknologi Berbasis Cloud,False,2,16,1
+EVT_0062,CIS61102,Infrastruktur Teknologi Informasi,False,2,17,1
+EVT_0063,CIT61026,Internet of Things,False,2,17,1
+EVT_0064,CIE61206,Jaringan Komputer,False,2,17,1
+EVT_0065,CIT61015,Jaringan Komputer,False,2,17,1
+EVT_0066,CSD60713,Jaringan Terapan,False,2,17,1
+EVT_0067,CIS61106,Keamanan dan Privasi Data,False,2,17,1
+EVT_0068,CIT60044,Keamanan Data dan Privasi,False,2,17,1
+EVT_0069,CIS61128,Keamanan Jaringan dan Siber,False,2,17,1
+EVT_0070,CIT60047,Tata Kelola dan Kebijakan Keamanan Siber,False,2,17,1
+EVT_0071,CIT61024,Teknologi Keamanan Siber,False,2,17,1
+EVT_0072,CSD60707,Big Data dan Analitik,False,2,20,1
+EVT_0073,CSD60708,Penambangan Data,False,2,20,1
+EVT_0074,CIT60052,Pengembangan Aplikasi Mobile Terapan,False,2,20,1
+EVT_0075,CIT60036,Teknologi Berbasis Cloud,False,2,20,1
+EVT_0076,CIT60051,Teknologi Smart City,False,2,20,1
+EVT_0077,CIS60101,Perkembangan dan Tren Teknologi Digital,False,2,21,1
+EVT_0078,CIS60104,Transformasi Pemerintah,False,2,21,1
+EVT_0079,COM60061,Capstone Project,False,2,22,1
+EVT_0080,COM60061,Capstone Project,False,2,22,1
+EVT_0081,CIT60031,Manajemen Proyek Teknologi Informasi,False,2,22,1
+EVT_0082,CIS60103,Pemrograman Web Lanjut,False,2,22,1
+EVT_0083,CSD60711,Perancangan Pengalaman Pengguna,False,2,22,1
+EVT_0084,COM60014,Pemrograman Dasar,False,2,23,2
+EVT_0085,CSD60708,Penambangan Data,False,2,29,1
+EVT_0086,CSD60708,Penambangan Data,False,2,30,1
+EVT_0087,CIT62003,Dasar Pengembangan Sistem informasi,False,2,31,1
+EVT_0088,COM60014,Pemrograman Dasar,False,2,31,1
+EVT_0089,COM60014,Pemrograman Dasar,False,2,31,1
+EVT_0090,CIS60103,Pemrograman Web Lanjut,False,2,31,1
+EVT_0091,CIS61110,Pengembangan Aplikasi Mobile,False,2,31,1
+EVT_0092,CIT61006,Pengembangan Aplikasi Web,False,2,31,1
+EVT_0093,CIT60039,Pengembangan Aplikasi Web Lanjut,False,2,31,1
+EVT_0094,CIT61026,Internet of Things,False,2,35,1
+EVT_0095,CIT61015,Jaringan Komputer,False,2,35,1
+EVT_0096,CIT60044,Keamanan Data dan Privasi,False,2,35,1
+EVT_0097,CIT60033,Sistem Forensik Digital,False,2,35,1
+EVT_0098,CIT60036,Teknologi Berbasis Cloud,False,2,35,1
+EVT_0099,CIT61024,Teknologi Keamanan Siber,False,2,35,1
+EVT_0100,CIE61206,Jaringan Komputer,False,2,39,1
+EVT_0101,CIE61103,Komunikasi dan Teknologi Pendidikan,False,2,39,1
+EVT_0102,CIE61115,Manajemen Sistem Pendidikan,False,2,39,1
+EVT_0103,CIE61109,Pembelajaran Mikro,False,2,39,1
+EVT_0104,CIE61114,Pendidikan Orang Dewasa dan Berkelanjutan,False,2,39,1
+EVT_0105,CIE61111,Pengenalan Lapangan Persekolahan 1,False,2,39,1
+EVT_0106,CIE61112,Pengenalan Lapangan Persekolahan 2,False,2,39,1
+EVT_0107,CIE61110,Perancangan Pembelajaran,False,2,39,1
+EVT_0108,CIE61101,Perkembangan Peserta Didik,False,2,39,1
+EVT_0109,COM60061,Capstone Project,False,2,40,1
+EVT_0110,CSD60714,Jaminan Kualitas Perangkat Lunak,False,2,40,1
+EVT_0111,CIT60031,Manajemen Proyek Teknologi Informasi,False,2,40,1
+EVT_0112,CIS60101,Perkembangan dan Tren Teknologi Digital,False,2,40,1
+EVT_0113,CIT60044,Keamanan Data dan Privasi,False,2,41,1
+EVT_0114,CIT60033,Sistem Forensik Digital,False,2,41,1
+EVT_0115,CSD60711,Perancangan Pengalaman Pengguna,False,2,45,1
+EVT_0116,CIT61015,Jaringan Komputer,False,2,46,2
+EVT_0117,CIT60044,Keamanan Data dan Privasi,False,2,46,1
+EVT_0118,CIT60047,Tata Kelola dan Kebijakan Keamanan Siber,False,2,46,2
+EVT_0119,CIT60036,Teknologi Berbasis Cloud,False,2,46,1
+EVT_0120,CIT60042,Teknologi Blockchain dan Platform Keuangan Digital,False,2,46,1
+EVT_0121,CIT61024,Teknologi Keamanan Siber,False,2,46,2
+EVT_0122,COM60061,Capstone Project,False,2,47,2
+EVT_0123,COM60061,Capstone Project,False,2,47,1
+EVT_0124,CIS61112,Dasar Manajemen Proyek,False,2,47,1
+EVT_0125,CIT60048,Information Retrieval,False,2,47,2
+EVT_0126,UBU60003,Kewirausahaan,False,2,47,2
+EVT_0127,CIS61107,Manajemen Produk,False,2,47,1
+EVT_0128,CIS61119,Manajemen Risiko dan Kontrol Sistem Informasi,False,2,47,2
+EVT_0129,CIE61402,Paradigma Berpikir Komputasi,False,2,47,1
+EVT_0130,CIE61403,Paradigma Berpikir Sistem dan Desain,False,2,47,1
+EVT_0131,COM60014,Pemrograman Dasar,False,2,47,1
+EVT_0132,COM60014,Pemrograman Dasar,False,2,47,1
+EVT_0133,COM60014,Pemrograman Dasar,False,2,47,1
+EVT_0134,CIE61205,Pemrograman Web,False,2,47,1
+EVT_0135,COM60016,Pengantar Keilmuan Komputer,False,2,47,1
+EVT_0136,COM60016,Pengantar Keilmuan Komputer,False,2,47,1
+EVT_0137,COM60016,Pengantar Keilmuan Komputer,False,2,47,1
+EVT_0138,CIS61104,Pengantar Sistem informasi,False,2,47,1
+EVT_0139,CIS61110,Pengembangan Aplikasi Mobile,False,2,47,1
+EVT_0140,CIT60052,Pengembangan Aplikasi Mobile Terapan,False,2,47,2
+EVT_0141,CIS60102,Pengembangan Aplikasi Multiplatform,False,2,47,1
+EVT_0142,CIE61215,Pengembangan Aplikasi Peranti Bergerak,False,2,47,1
+EVT_0143,CIT61006,Pengembangan Aplikasi Web,False,2,47,1
+EVT_0144,CIT60039,Pengembangan Aplikasi Web Lanjut,False,2,47,1
+EVT_0145,CIS61124,Pengembangan Gim,False,2,47,1
+EVT_0146,CIE61113,Pengembangan Program Pelatihan Teknologi Informasi,False,2,47,1
+EVT_0147,CSD60711,Perancangan Pengalaman Pengguna,False,2,47,1
+EVT_0148,CIS60101,Perkembangan dan Tren Teknologi Digital,False,2,47,1
+EVT_0149,CIS61108,Rekayasa Sistem Informasi,False,2,47,1
+EVT_0150,CIT60042,Teknologi Blockchain dan Platform Keuangan Digital,False,2,47,1
+EVT_0151,CIT60051,Teknologi Smart City,False,2,47,1
+EVT_0152,CIS60104,Transformasi Pemerintah,False,2,47,2
+EVT_0153,CSD60707,Big Data dan Analitik,False,2,48,1
+EVT_0154,COM60061,Capstone Project,False,2,48,2
+EVT_0155,COM60061,Capstone Project,False,2,48,1
+EVT_0156,CIT60031,Manajemen Proyek Teknologi Informasi,False,2,48,1
+EVT_0157,CSD60707,Big Data dan Analitik,False,2,52,1
+EVT_0158,CIT60048,Information Retrieval,False,2,52,1
+EVT_0159,CSD60708,Penambangan Data,False,2,52,1
+EVT_0160,CIS60106,Sistem Informasi Berkelanjutan,False,2,53,1
+EVT_0161,CIS60105,Strategi Transformasi Digital,False,2,53,1
+EVT_0162,CSD60711,Perancangan Pengalaman Pengguna,False,2,55,1
+EVT_0163,CIT60051,Teknologi Smart City,False,2,58,2
+EVT_0164,CIE61114,Pendidikan Orang Dewasa dan Berkelanjutan,False,2,59,2
+EVT_0165,CIE61111,Pengenalan Lapangan Persekolahan 1,False,2,59,2
+EVT_0166,CIE61112,Pengenalan Lapangan Persekolahan 2,False,2,59,2
+EVT_0167,CIE61101,Perkembangan Peserta Didik,False,2,59,2
+EVT_0168,CIE61208,Basis Data,False,2,60,1
+EVT_0169,CSD60714,Jaminan Kualitas Perangkat Lunak,False,2,60,1
+EVT_0170,CIS61107,Manajemen Produk,False,2,60,1
+EVT_0171,CIE61404,Manajemen Proyek Teknologi Informasi,False,2,60,1
+EVT_0172,CSD60705,Pemrograman SQL,False,2,60,1
+EVT_0173,CIS61110,Pengembangan Aplikasi Mobile,False,2,60,1
+EVT_0174,CIT61006,Pengembangan Aplikasi Web,False,2,60,1
+EVT_0175,CSD60711,Perancangan Pengalaman Pengguna,False,2,60,1
+EVT_0176,UBU60003,Kewirausahaan,False,2,62,2
+EVT_0177,UBU60003,Kewirausahaan,False,2,62,2
+EVT_0178,CIE61404,Manajemen Proyek Teknologi Informasi,False,2,62,2
+EVT_0179,COM60016,Pengantar Keilmuan Komputer,False,2,62,2
+EVT_0180,CIT61006,Pengembangan Aplikasi Web,False,2,62,2
+EVT_0181,CSD60711,Perancangan Pengalaman Pengguna,False,2,62,1
+EVT_0182,CIT60044,Keamanan Data dan Privasi,False,2,63,1
+EVT_0183,CIT60044,Keamanan Data dan Privasi,False,2,65,1
+EVT_0184,CIS61112,Dasar Manajemen Proyek,False,2,67,1
+EVT_0185,CIT62003,Dasar Pengembangan Sistem informasi,False,2,67,1
+EVT_0186,CSD60714,Jaminan Kualitas Perangkat Lunak,False,2,67,1
+EVT_0187,CIE61404,Manajemen Proyek Teknologi Informasi,False,2,67,1
+EVT_0188,COM60014,Pemrograman Dasar,False,2,67,1
+EVT_0189,COM60014,Pemrograman Dasar,False,2,67,1
+EVT_0190,COM60014,Pemrograman Dasar,False,2,67,2
+EVT_0191,CIS61104,Pengantar Sistem informasi,False,2,67,1
+EVT_0192,CIS62109,Pengujian dan Evaluasi Sistem Informasi,False,2,67,1
+EVT_0193,CIS61108,Rekayasa Sistem Informasi,False,2,67,1
+EVT_0194,CIT60051,Teknologi Smart City,False,2,67,1
+EVT_0195,CIS60102,Pengembangan Aplikasi Multiplatform,False,2,70,2
+EVT_0196,CSD60706,Administrasi Basis Data,False,2,72,1
+EVT_0197,CSD60704,Desain Basis Data,False,2,72,1
+EVT_0198,CIT61021,Data Warehouse,False,2,73,1
+EVT_0199,CSD60706,Administrasi Basis Data,False,2,75,1
+EVT_0200,CSD60706,Administrasi Basis Data,False,2,75,1
+EVT_0201,CIE61208,Basis Data,False,2,75,1
+EVT_0202,CSD60704,Desain Basis Data,False,2,75,1
+EVT_0203,CIE61206,Jaringan Komputer,False,2,75,1
+EVT_0204,CIT61015,Jaringan Komputer,False,2,75,1
+EVT_0205,COM60025,Kalkulus,False,2,75,2
+EVT_0206,CIE61301,Kalkulus dan Aljabar Linear,False,2,75,2
+EVT_0207,CIS61106,Keamanan dan Privasi Data,False,2,75,1
+EVT_0208,CIT60044,Keamanan Data dan Privasi,False,2,75,1
+EVT_0209,CIT60045,Kriptografi,False,2,75,1
+EVT_0210,COM60014,Pemrograman Dasar,False,2,75,1
+EVT_0211,COM60014,Pemrograman Dasar,False,2,75,1
+EVT_0212,CIE61205,Pemrograman Web,False,2,75,1
+EVT_0213,CIS61110,Pengembangan Aplikasi Mobile,False,2,75,1
+EVT_0214,CIT61006,Pengembangan Aplikasi Web,False,2,75,1
+EVT_0215,CIT60039,Pengembangan Aplikasi Web Lanjut,False,2,75,1
+EVT_0216,CIT60033,Sistem Forensik Digital,False,2,75,1
+EVT_0217,CIT60036,Teknologi Berbasis Cloud,False,2,75,1
+EVT_0218,CIT61024,Teknologi Keamanan Siber,False,2,75,1
+EVT_0219,COM60061,Capstone Project,False,2,76,1
+EVT_0220,COM60061,Capstone Project,False,2,76,1
+EVT_0221,CIS61112,Dasar Manajemen Proyek,False,2,76,1
+EVT_0222,CIS61123,Enterprise Architecture II,False,2,76,1
+EVT_0223,CIE61404,Manajemen Proyek Teknologi Informasi,False,2,76,1
+EVT_0224,COM60014,Pemrograman Dasar,False,2,76,1
+EVT_0225,COM60014,Pemrograman Dasar,False,2,76,1
+EVT_0226,COM60014,Pemrograman Dasar,False,2,76,1
+EVT_0227,CIS61113,Sistem Enterprise,False,2,76,1
+EVT_0228,CIE61206,Jaringan Komputer,False,2,79,1
+EVT_0229,CIT61015,Jaringan Komputer,False,2,79,1
+EVT_0230,CSD60713,Jaringan Terapan,False,2,79,1
+EVT_0231,CSD60707,Big Data dan Analitik,False,2,80,1
+EVT_0232,CIT60048,Information Retrieval,False,2,80,1
+EVT_0233,CSD60708,Penambangan Data,False,2,80,1
+EVT_0234,COM60014,Pemrograman Dasar,False,2,82,1
+EVT_0235,COM60014,Pemrograman Dasar,False,2,82,1
+EVT_0236,COM60014,Pemrograman Dasar,False,2,82,1
+EVT_0237,CIE61205,Pemrograman Web,False,2,82,1
+EVT_0238,CIT61006,Pengembangan Aplikasi Web,False,2,82,1
+EVT_0239,COM60016,Pengantar Keilmuan Komputer,False,2,83,1
+EVT_0240,COM60016,Pengantar Keilmuan Komputer,False,2,83,1
+EVT_0241,COM60016,Pengantar Keilmuan Komputer,False,2,83,1
+EVT_0242,CSD60712,Probabilitas dan Statistika,False,2,83,1
+EVT_0243,CIT60033,Sistem Forensik Digital,False,2,83,1
+EVT_0244,CSD60702,Sistem Pendukung Keputusan,False,2,83,1
+EVT_0245,CIS61112,Dasar Manajemen Proyek,False,2,87,1
+EVT_0246,CIS61123,Enterprise Architecture II,False,2,87,1
+EVT_0247,COM60052,Etika Profesi,False,2,87,1
+EVT_0248,CIS61115,Komunikasi Profesional,False,2,87,1
+EVT_0249,CIS61103,Manajemen Bisnis,False,2,87,1
+EVT_0250,COM60051,Metodologi Penelitian dan Penulisan Ilmiah,False,2,87,1
+EVT_0251,COM60014,Pemrograman Dasar,False,2,87,1
+EVT_0252,CIS61125,Pengantar GeoInformasi,False,2,87,1
+EVT_0253,CIS60101,Perkembangan dan Tren Teknologi Digital,False,2,87,1
+EVT_0254,CSD60712,Probabilitas dan Statistika,False,2,87,1
+EVT_0255,CIS61111,Sistem Informasi berbasis Kecerdasan Buatan,False,2,87,1
+EVT_0256,CSD60710,Sistem Informasi Geografis,False,2,87,1
+EVT_0257,CSD60703,Tata Kelola Teknologi Informasi,False,2,87,1
+EVT_0258,CSD60707,Big Data dan Analitik,False,2,89,2
+EVT_0259,CIT61016,Data Sains,False,2,89,2
+EVT_0260,CIT60048,Information Retrieval,False,2,89,2
+EVT_0261,CIS61111,Sistem Informasi berbasis Kecerdasan Buatan,False,2,89,2
+EVT_0262,CIT61026,Internet of Things,False,2,90,1
+EVT_0263,CIT61015,Jaringan Komputer,False,2,90,1
+EVT_0264,CSD60713,Jaringan Terapan,False,2,90,1
+EVT_0265,CSD60713,Jaringan Terapan,False,2,90,1
+EVT_0266,COM60016,Pengantar Keilmuan Komputer,False,2,90,1
+EVT_0267,COM60016,Pengantar Keilmuan Komputer,False,2,90,1
+EVT_0268,COM60016,Pengantar Keilmuan Komputer,False,2,90,1
+EVT_0269,CSD60706,Administrasi Basis Data,False,2,91,1
+EVT_0270,CSD60706,Administrasi Basis Data,False,2,91,1
+EVT_0271,CIE61208,Basis Data,False,2,91,1
+EVT_0272,CSD60704,Desain Basis Data,False,2,91,1
+EVT_0273,COM60014,Pemrograman Dasar,False,2,91,1
+EVT_0274,COM60014,Pemrograman Dasar,False,2,91,1
+EVT_0275,COM60014,Pemrograman Dasar,False,2,91,1
+EVT_0276,CSD60705,Pemrograman SQL,False,2,91,1
+EVT_0277,CSD60708,Penambangan Data,False,2,92,1
+EVT_0278,CSD60707,Big Data dan Analitik,False,2,93,1
+EVT_0279,CIT60048,Information Retrieval,False,2,93,1
+EVT_0280,CSD60708,Penambangan Data,False,2,93,1
+EVT_0281,CIT60031,Manajemen Proyek Teknologi Informasi,False,2,94,1
+EVT_0282,CIS60101,Perkembangan dan Tren Teknologi Digital,False,2,94,1
+EVT_0283,CIT60033,Sistem Forensik Digital,False,2,94,1
+EVT_0284,CIS60106,Sistem Informasi Berkelanjutan,False,2,94,1
+EVT_0285,CIS60105,Strategi Transformasi Digital,False,2,94,1
+EVT_0286,CIT60047,Tata Kelola dan Kebijakan Keamanan Siber,False,2,94,1
+EVT_0287,CIS60104,Transformasi Pemerintah,False,2,94,1
+EVT_0288,COM60052,Etika Profesi,False,2,96,2
+EVT_0289,CIT61026,Internet of Things,False,2,96,2
+EVT_0290,UBU60003,Kewirausahaan,False,2,96,2
+EVT_0291,CIT60048,Information Retrieval,False,2,97,2
+EVT_0292,CSD60708,Penambangan Data,False,2,97,2
+EVT_0293,COM60025,Kalkulus,False,2,100,1
+EVT_0294,CIE61301,Kalkulus dan Aljabar Linear,False,2,100,1
+EVT_0295,COM60015,Matematika Diskret,False,2,100,1
+EVT_0296,COM60015,Matematika Diskret,False,2,100,1
+EVT_0297,COM60015,Matematika Diskrit,False,2,100,1
+EVT_0298,COM60051,Metode Penelitian dan Penulisan Ilmiah,False,2,100,1
+EVT_0299,COM60051,Metodologi Penelitian dan Penulisan Ilmiah,False,2,100,1
+EVT_0300,CIE61109,Pembelajaran Mikro,False,2,100,1
+EVT_0301,CIE61108,Penilaian Hasil Belajar,False,2,100,1
+EVT_0302,CIE61110,Perancangan Pembelajaran,False,2,100,1
+EVT_0303,CSD60712,Probabilitas dan Statistika,False,2,100,1
+EVT_0304,CSD60706,Administrasi Basis Data,False,2,102,1
+EVT_0305,CSD60706,Administrasi Basis Data,False,2,102,1
+EVT_0306,CIE61208,Basis Data,False,2,102,1
+EVT_0307,CSD60707,Big Data dan Analitik,False,2,102,1
+EVT_0308,CIS61112,Dasar Manajemen Proyek,False,2,102,1
+EVT_0309,CIT61021,Data Warehouse,False,2,102,1
+EVT_0310,CSD60704,Desain Basis Data,False,2,102,1
+EVT_0311,CSD60705,Pemrograman SQL,False,2,102,1
+EVT_0312,CSD60708,Penambangan Data,False,2,102,1
+EVT_0313,CSD60708,Penambangan Data,False,2,102,1
+EVT_0314,COM60016,Pengantar Keilmuan Komputer,False,2,102,1
+EVT_0315,CIS61104,Pengantar Sistem informasi,False,2,102,1
+EVT_0316,CIT60049,Teknologi Basis Data Non Relational,False,2,102,1
+EVT_0317,COM60011,Arsitektur dan Organisasi Komputer,False,2,103,2
+EVT_0318,CIE61102,Filsafat Pendidikan dan Sains,False,2,103,2
+EVT_0319,CIS61102,Infrastruktur Teknologi Informasi,False,2,103,2
+EVT_0320,COM60025,Kalkulus,False,2,103,2
+EVT_0321,CIE61301,Kalkulus dan Aljabar Linear,False,2,103,1
+EVT_0322,CIE61103,Komunikasi dan Teknologi Pendidikan,False,2,103,1
+EVT_0323,COM60015,Matematika Diskret,False,2,103,2
+EVT_0324,COM60015,Matematika Diskret,False,2,103,2
+EVT_0325,COM60015,Matematika Diskrit,False,2,103,1
+EVT_0326,COM60051,Metode Penelitian dan Penulisan Ilmiah,False,2,103,2
+EVT_0327,COM60051,Metodologi Penelitian dan Penulisan Ilmiah,False,2,103,2
+EVT_0328,COM60051,Metodologi Penelitian dan Penulisan Ilmiah,False,2,103,2
+EVT_0329,COM60014,Pemrograman Dasar,False,2,103,2
+EVT_0330,CIE61205,Pemrograman Web,False,2,103,1
+EVT_0331,COM60016,Pengantar Keilmuan Komputer,False,2,103,2
+EVT_0332,COM60016,Pengantar Keilmuan Komputer,False,2,103,2
+EVT_0333,COM60016,Pengantar Keilmuan Komputer,False,2,103,2
+EVT_0334,CIT61006,Pengembangan Aplikasi Web,False,2,103,2
+EVT_0335,CIS61124,Pengembangan Gim,False,2,103,2
+EVT_0336,CIE61111,Pengenalan Lapangan Persekolahan 1,False,2,103,1
+EVT_0337,CIE61112,Pengenalan Lapangan Persekolahan 2,False,2,103,1
+EVT_0338,CIT61015,Jaringan Komputer,False,2,104,1
+EVT_0339,CIT60036,Teknologi Berbasis Cloud,False,2,104,1
+EVT_0340,CIE61404,Manajemen Proyek Teknologi Informasi,False,2,105,2
+EVT_0341,CIE61205,Pemrograman Web,False,2,105,1
+EVT_0342,CIT61006,Pengembangan Aplikasi Web,False,2,105,1
+EVT_0343,CIT60051,Teknologi Smart City,False,2,105,2
+EVT_0344,CIT60048,Information Retrieval,False,2,107,1
+EVT_0345,CSD60708,Penambangan Data,False,2,107,1
+EVT_0346,CIE61208,Basis Data,False,2,108,1
+EVT_0347,CIT62003,Dasar Pengembangan Sistem informasi,False,2,108,1
+EVT_0348,CSD60704,Desain Basis Data,False,2,108,1
+EVT_0349,CIS61106,Keamanan dan Privasi Data,False,2,108,1
+EVT_0350,CIS61115,Komunikasi Profesional,False,2,108,1
+EVT_0351,CIS61103,Manajemen Bisnis,False,2,108,1
+EVT_0352,CSD60701,Manajemen Layanan Teknologi Informasi,False,2,108,1
+EVT_0353,COM60016,Pengantar Keilmuan Komputer,False,2,108,1
+EVT_0354,COM60016,Pengantar Keilmuan Komputer,False,2,108,1
+EVT_0355,COM60016,Pengantar Keilmuan Komputer,False,2,108,1
+EVT_0356,CIS61104,Pengantar Sistem informasi,False,2,108,1
+EVT_0357,CIS61120,Perbaikan Proses Bisnis,False,2,108,1
+EVT_0358,CIS60101,Perkembangan dan Tren Teknologi Digital,False,2,108,1
+EVT_0359,CIS61108,Rekayasa Sistem Informasi,False,2,108,2
+EVT_0360,CIS61111,Sistem Informasi berbasis Kecerdasan Buatan,False,2,108,2
+EVT_0361,CIS60106,Sistem Informasi Berkelanjutan,False,2,108,1
+EVT_0362,CSD60702,Sistem Pendukung Keputusan,False,2,108,1
+EVT_0363,CIS60105,Strategi Transformasi Digital,False,2,108,1
+EVT_0364,CSD60703,Tata Kelola Teknologi Informasi,False,2,108,1
+EVT_0365,CIS60104,Transformasi Pemerintah,False,2,108,1
+EVT_0366,CSD60706,Administrasi Basis Data - Praktikum,True,2,Asprak_1,1
+EVT_0367,CIT62003,Dasar Pengembangan Sistem informasi - Praktikum,True,2,Asprak_10,1
+EVT_0368,CIT62003,Dasar Pengembangan Sistem informasi - Praktikum,True,2,Asprak_11,1
+EVT_0369,CIT62003,Dasar Pengembangan Sistem informasi - Praktikum,True,2,Asprak_12,1
+EVT_0370,CIT62003,Dasar Pengembangan Sistem informasi - Praktikum,True,2,Asprak_13,1
+EVT_0371,CIS61123,Enterprise Architecture II - Praktikum,True,2,Asprak_14,2
+EVT_0372,CIS61123,Enterprise Architecture II - Praktikum,True,2,Asprak_15,1
+EVT_0373,CIS61123,Enterprise Architecture II - Praktikum,True,2,Asprak_16,1
+EVT_0374,CIT61026,Internet of Things - Praktikum,True,2,Asprak_17,1
+EVT_0375,CIT61026,Internet of Things - Praktikum,True,2,Asprak_18,1
+EVT_0376,CIT61026,Internet of Things - Praktikum,True,2,Asprak_19,1
+EVT_0377,CSD60706,Administrasi Basis Data - Praktikum,True,2,Asprak_2,1
+EVT_0378,CIT61026,Internet of Things - Praktikum,True,2,Asprak_20,2
+EVT_0379,CIE61206,Jaringan Komputer - Praktikum,True,2,Asprak_21,1
+EVT_0380,CIT61015,Jaringan Komputer - Praktikum,True,2,Asprak_22,1
+EVT_0381,CIT61015,Jaringan Komputer - Praktikum,True,2,Asprak_23,1
+EVT_0382,CIE61206,Jaringan Komputer - Praktikum,True,2,Asprak_24,1
+EVT_0383,CIT61015,Jaringan Komputer - Praktikum,True,2,Asprak_25,2
+EVT_0384,CIE61206,Jaringan Komputer - Praktikum,True,2,Asprak_26,1
+EVT_0385,CIT61015,Jaringan Komputer - Praktikum,True,2,Asprak_27,1
+EVT_0386,CIE61206,Jaringan Komputer - Praktikum,True,2,Asprak_28,1
+EVT_0387,CIT61015,Jaringan Komputer - Praktikum,True,2,Asprak_29,1
+EVT_0388,CSD60706,Administrasi Basis Data - Praktikum,True,2,Asprak_3,1
+EVT_0389,CIT61015,Jaringan Komputer - Praktikum,True,2,Asprak_30,1
+EVT_0390,CIT61015,Jaringan Komputer - Praktikum,True,2,Asprak_31,1
+EVT_0391,CSD60713,Jaringan Terapan - Praktikum,True,2,Asprak_32,1
+EVT_0392,CSD60713,Jaringan Terapan - Praktikum,True,2,Asprak_33,1
+EVT_0393,CIE61109,Pembelajaran Mikro - Praktikum,True,2,Asprak_34,1
+EVT_0394,CIE61109,Pembelajaran Mikro - Praktikum,True,2,Asprak_35,1
+EVT_0395,COM60014,Pemrograman Dasar - Praktikum,True,2,Asprak_36,1
+EVT_0396,COM60014,Pemrograman Dasar - Praktikum,True,2,Asprak_37,1
+EVT_0397,COM60014,Pemrograman Dasar - Praktikum,True,2,Asprak_38,1
+EVT_0398,COM60014,Pemrograman Dasar - Praktikum,True,2,Asprak_39,2
+EVT_0399,CSD60706,Administrasi Basis Data - Praktikum,True,2,Asprak_4,1
+EVT_0400,COM60014,Pemrograman Dasar - Praktikum,True,2,Asprak_40,1
+EVT_0401,COM60014,Pemrograman Dasar - Praktikum,True,2,Asprak_41,1
+EVT_0402,COM60014,Pemrograman Dasar - Praktikum,True,2,Asprak_42,1
+EVT_0403,COM60014,Pemrograman Dasar - Praktikum,True,2,Asprak_43,1
+EVT_0404,COM60014,Pemrograman Dasar - Praktikum,True,2,Asprak_44,1
+EVT_0405,COM60014,Pemrograman Dasar - Praktikum,True,2,Asprak_45,1
+EVT_0406,COM60014,Pemrograman Dasar - Praktikum,True,2,Asprak_46,1
+EVT_0407,COM60014,Pemrograman Dasar - Praktikum,True,2,Asprak_47,2
+EVT_0408,COM60014,Pemrograman Dasar - Praktikum,True,2,Asprak_48,1
+EVT_0409,COM60014,Pemrograman Dasar - Praktikum,True,2,Asprak_49,1
+EVT_0410,CIE61208,Basis Data - Praktikum,True,2,Asprak_5,1
+EVT_0411,COM60014,Pemrograman Dasar - Praktikum,True,2,Asprak_50,1
+EVT_0412,COM60014,Pemrograman Dasar - Praktikum,True,2,Asprak_51,1
+EVT_0413,COM60014,Pemrograman Dasar - Praktikum,True,2,Asprak_52,1
+EVT_0414,COM60014,Pemrograman Dasar - Praktikum,True,2,Asprak_53,1
+EVT_0415,COM60014,Pemrograman Dasar - Praktikum,True,2,Asprak_54,1
+EVT_0416,COM60014,Pemrograman Dasar - Praktikum,True,2,Asprak_55,1
+EVT_0417,COM60014,Pemrograman Dasar - Praktikum,True,2,Asprak_56,1
+EVT_0418,COM60014,Pemrograman Dasar - Praktikum,True,2,Asprak_57,1
+EVT_0419,COM60014,Pemrograman Dasar - Praktikum,True,2,Asprak_58,1
+EVT_0420,COM60014,Pemrograman Dasar - Praktikum,True,2,Asprak_59,1
+EVT_0421,CIE61208,Basis Data - Praktikum,True,2,Asprak_6,1
+EVT_0422,COM60014,Pemrograman Dasar - Praktikum,True,2,Asprak_60,2
+EVT_0423,CSD60705,Pemrograman SQL - Praktikum,True,2,Asprak_61,1
+EVT_0424,CSD60705,Pemrograman SQL - Praktikum,True,2,Asprak_62,1
+EVT_0425,CSD60705,Pemrograman SQL - Praktikum,True,2,Asprak_63,1
+EVT_0426,CIE61205,Pemrograman Web - Praktikum,True,2,Asprak_64,1
+EVT_0427,CIE61205,Pemrograman Web - Praktikum,True,2,Asprak_65,1
+EVT_0428,CIE61205,Pemrograman Web - Praktikum,True,2,Asprak_66,1
+EVT_0429,CIE61205,Pemrograman Web - Praktikum,True,2,Asprak_67,1
+EVT_0430,CIE61205,Pemrograman Web - Praktikum,True,2,Asprak_68,1
+EVT_0431,CIE61205,Pemrograman Web - Praktikum,True,2,Asprak_69,1
+EVT_0432,CIE61208,Basis Data - Praktikum,True,2,Asprak_7,1
+EVT_0433,CIT61006,Pengembangan Aplikasi Web - Praktikum,True,2,Asprak_70,1
+EVT_0434,CIT61006,Pengembangan Aplikasi Web - Praktikum,True,2,Asprak_71,1
+EVT_0435,CIT61006,Pengembangan Aplikasi Web - Praktikum,True,2,Asprak_72,1
+EVT_0436,CIT61006,Pengembangan Aplikasi Web - Praktikum,True,2,Asprak_73,1
+EVT_0437,CIT61006,Pengembangan Aplikasi Web - Praktikum,True,2,Asprak_74,2
+EVT_0438,CIT61006,Pengembangan Aplikasi Web - Praktikum,True,2,Asprak_75,1
+EVT_0439,CIT61006,Pengembangan Aplikasi Web - Praktikum,True,2,Asprak_76,1
+EVT_0440,CIT61006,Pengembangan Aplikasi Web - Praktikum,True,2,Asprak_77,2
+EVT_0441,CIT61006,Pengembangan Aplikasi Web - Praktikum,True,2,Asprak_78,1
+EVT_0442,CIS61108,Rekayasa Sistem Informasi - Praktikum,True,2,Asprak_79,1
+EVT_0443,CIE61208,Basis Data - Praktikum,True,2,Asprak_8,1
+EVT_0444,CIS61108,Rekayasa Sistem Informasi - Praktikum,True,2,Asprak_80,1
+EVT_0445,CIS61108,Rekayasa Sistem Informasi - Praktikum,True,2,Asprak_81,1
+EVT_0446,CIS61108,Rekayasa Sistem Informasi - Praktikum,True,2,Asprak_82,2
+EVT_0447,CSD60710,Sistem Informasi Geografis - Praktikum,True,2,Asprak_83,1
+EVT_0448,CSD60710,Sistem Informasi Geografis - Praktikum,True,2,Asprak_84,1
+EVT_0449,CSD60702,Sistem Pendukung Keputusan - Praktikum,True,2,Asprak_85,1
+EVT_0450,CSD60702,Sistem Pendukung Keputusan - Praktikum,True,2,Asprak_86,1
+EVT_0451,CIT61024,Teknologi Keamanan Siber - Praktikum,True,2,Asprak_87,1
+EVT_0452,CIT61024,Teknologi Keamanan Siber - Praktikum,True,2,Asprak_88,1
+EVT_0453,CIT61024,Teknologi Keamanan Siber - Praktikum,True,2,Asprak_89,2
+EVT_0454,CIE61208,Basis Data - Praktikum,True,2,Asprak_9,1
+EVT_0455,CIT61024,Teknologi Keamanan Siber - Praktikum,True,2,Asprak_90,1
+EVT_0456,COM60051,Metode Penelitian dan Penulisan Ilmiah,False,2,TBA_11,1
+EVT_0457,CIE61114,Pendidikan Orang Dewasa dan Berkelanjutan,False,2,TBA_19,1
+EVT_0458,CIE61113,Pengembangan Program Pelatihan Teknologi Informasi,False,2,TBA_23,1
+EVT_0459,CIE61111,Pengenalan Lapangan Persekolahan 1,False,2,TBA_24,1
+EVT_0460,CIE61112,Pengenalan Lapangan Persekolahan 2,False,2,TBA_25,1
+EVT_0461,CIE61110,Perancangan Pembelajaran,False,2,TBA_27,1
+EVT_0462,CIE61101,Perkembangan Peserta Didik,False,2,TBA_28,1
+EVT_0463,CIS60101,Perkembangan dan Tren Teknologi Digital,False,2,TBA_42,1
+EVT_0464,CIS60106,Sistem Informasi Berkelanjutan,False,2,TBA_43,1
+EVT_0465,CIS60105,Strategi Transformasi Digital,False,2,TBA_44,1
+EVT_0466,CIS60104,Transformasi Pemerintah,False,2,TBA_46,1
+EVT_0467,CSD60706,Administrasi Basis Data,False,2,TBA_47,1
+EVT_0468,CSD60707,Big Data dan Analitik,False,2,TBA_48,1
+EVT_0469,CIT61021,Data Warehouse,False,2,TBA_49,1
+EVT_0470,COM60061,Capstone Project,False,2,TBA_5,1
+EVT_0471,CIT60047,Tata Kelola dan Kebijakan Keamanan Siber,False,2,TBA_53,1
+EVT_0472,CIT60049,Teknologi Basis Data Non Relational,False,2,TBA_54,1
+EVT_0473,CIE61102,Filsafat Pendidikan dan Sains,False,2,TBA_7,1

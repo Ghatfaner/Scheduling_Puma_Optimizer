@@ -1,0 +1,474 @@
+event_id,course_name,teacher_id,room_id,day,time_start,time_end
+EVT_0376,Internet of Things - Praktikum,Asprak_19,G1.2,Monday,07:00,08:40
+EVT_0453,Teknologi Keamanan Siber - Praktikum,Asprak_89,G1.2,Monday,12:30,14:10
+EVT_0375,Internet of Things - Praktikum,Asprak_18,G1.2,Monday,08:40,10:20
+EVT_0397,Pemrograman Dasar - Praktikum,Asprak_38,G1.2,Monday,10:20,12:00
+EVT_0389,Jaringan Komputer - Praktikum,Asprak_30,G1.2,Tuesday,07:00,08:40
+EVT_0374,Internet of Things - Praktikum,Asprak_17,G1.2,Tuesday,08:40,10:20
+EVT_0438,Pengembangan Aplikasi Web - Praktikum,Asprak_75,G1.2,Tuesday,10:20,12:00
+EVT_0411,Pemrograman Dasar - Praktikum,Asprak_50,G1.2,Wednesday,07:00,08:40
+EVT_0440,Pengembangan Aplikasi Web - Praktikum,Asprak_77,G1.2,Monday,14:10,15:50
+EVT_0441,Pengembangan Aplikasi Web - Praktikum,Asprak_78,G1.2,Wednesday,08:40,10:20
+EVT_0408,Pemrograman Dasar - Praktikum,Asprak_48,G1.2,Wednesday,10:20,12:00
+EVT_0442,Rekayasa Sistem Informasi - Praktikum,Asprak_79,G1.2,Thursday,07:00,08:40
+EVT_0422,Pemrograman Dasar - Praktikum,Asprak_60,G1.2,Monday,15:50,17:30
+EVT_0421,Basis Data - Praktikum,Asprak_6,G1.2,Thursday,08:40,10:20
+EVT_0420,Pemrograman Dasar - Praktikum,Asprak_59,G1.2,Thursday,10:20,12:00
+EVT_0419,Pemrograman Dasar - Praktikum,Asprak_58,G1.2,Friday,07:00,08:40
+EVT_0409,Pemrograman Dasar - Praktikum,Asprak_49,G1.2,Friday,08:40,10:20
+EVT_0410,Basis Data - Praktikum,Asprak_5,G1.2,Friday,10:20,12:00
+EVT_0439,Pengembangan Aplikasi Web - Praktikum,Asprak_76,G1.3,Monday,07:00,08:40
+EVT_0416,Pemrograman Dasar - Praktikum,Asprak_55,G1.3,Monday,08:40,10:20
+EVT_0415,Pemrograman Dasar - Praktikum,Asprak_54,G1.3,Monday,10:20,12:00
+EVT_0414,Pemrograman Dasar - Praktikum,Asprak_53,G1.3,Tuesday,07:00,08:40
+EVT_0413,Pemrograman Dasar - Praktikum,Asprak_52,G1.3,Tuesday,08:40,10:20
+EVT_0412,Pemrograman Dasar - Praktikum,Asprak_51,G1.3,Tuesday,10:20,12:00
+EVT_0417,Pemrograman Dasar - Praktikum,Asprak_56,G1.3,Wednesday,07:00,08:40
+EVT_0437,Pengembangan Aplikasi Web - Praktikum,Asprak_74,G1.2,Tuesday,12:30,14:10
+EVT_0436,Pengembangan Aplikasi Web - Praktikum,Asprak_73,G1.3,Wednesday,08:40,10:20
+EVT_0423,Pemrograman SQL - Praktikum,Asprak_61,G1.3,Wednesday,10:20,12:00
+EVT_0424,Pemrograman SQL - Praktikum,Asprak_62,G1.3,Thursday,07:00,08:40
+EVT_0425,Pemrograman SQL - Praktikum,Asprak_63,G1.3,Thursday,08:40,10:20
+EVT_0426,Pemrograman Web - Praktikum,Asprak_64,G1.3,Thursday,10:20,12:00
+EVT_0427,Pemrograman Web - Praktikum,Asprak_65,G1.3,Friday,07:00,08:40
+EVT_0428,Pemrograman Web - Praktikum,Asprak_66,G1.3,Friday,08:40,10:20
+EVT_0381,Jaringan Komputer - Praktikum,Asprak_23,G1.3,Friday,10:20,12:00
+EVT_0380,Jaringan Komputer - Praktikum,Asprak_22,G1.2,Tuesday,14:10,15:50
+EVT_0443,Basis Data - Praktikum,Asprak_8,G1.2,Tuesday,15:50,17:30
+EVT_0379,Jaringan Komputer - Praktikum,Asprak_21,G1.4,Monday,07:00,08:40
+EVT_0377,Administrasi Basis Data - Praktikum,Asprak_2,G1.4,Monday,08:40,10:20
+EVT_0429,Pemrograman Web - Praktikum,Asprak_67,G1.4,Monday,10:20,12:00
+EVT_0430,Pemrograman Web - Praktikum,Asprak_68,G1.2,Wednesday,12:30,14:10
+EVT_0431,Pemrograman Web - Praktikum,Asprak_69,G1.2,Wednesday,14:10,15:50
+EVT_0432,Basis Data - Praktikum,Asprak_7,G1.2,Wednesday,15:50,17:30
+EVT_0433,Pengembangan Aplikasi Web - Praktikum,Asprak_70,G1.4,Tuesday,07:00,08:40
+EVT_0434,Pengembangan Aplikasi Web - Praktikum,Asprak_71,G1.4,Tuesday,08:40,10:20
+EVT_0435,Pengembangan Aplikasi Web - Praktikum,Asprak_72,G1.4,Tuesday,10:20,12:00
+EVT_0378,Internet of Things - Praktikum,Asprak_20,G1.2,Thursday,12:30,14:10
+EVT_0444,Rekayasa Sistem Informasi - Praktikum,Asprak_80,G1.2,Thursday,14:10,15:50
+EVT_0418,Pemrograman Dasar - Praktikum,Asprak_57,G1.2,Thursday,15:50,17:30
+EVT_0446,Rekayasa Sistem Informasi - Praktikum,Asprak_82,G1.2,Friday,12:30,14:10
+EVT_0401,Pemrograman Dasar - Praktikum,Asprak_41,G1.4,Wednesday,07:00,08:40
+EVT_0400,Pemrograman Dasar - Praktikum,Asprak_40,G1.4,Wednesday,08:40,10:20
+EVT_0399,Administrasi Basis Data - Praktikum,Asprak_4,G1.4,Wednesday,10:20,12:00
+EVT_0398,Pemrograman Dasar - Praktikum,Asprak_39,G1.2,Friday,14:10,15:50
+EVT_0396,Pemrograman Dasar - Praktikum,Asprak_37,G1.2,Friday,15:50,17:30
+EVT_0395,Pemrograman Dasar - Praktikum,Asprak_36,G1.4,Thursday,07:00,08:40
+EVT_0394,Pembelajaran Mikro - Praktikum,Asprak_35,G1.4,Thursday,08:40,10:20
+EVT_0445,Rekayasa Sistem Informasi - Praktikum,Asprak_81,G1.4,Thursday,10:20,12:00
+EVT_0383,Jaringan Komputer - Praktikum,Asprak_25,G1.3,Monday,12:30,14:10
+EVT_0384,Jaringan Komputer - Praktikum,Asprak_26,G1.3,Monday,14:10,15:50
+EVT_0402,Pemrograman Dasar - Praktikum,Asprak_42,G1.3,Monday,15:50,17:30
+EVT_0385,Jaringan Komputer - Praktikum,Asprak_27,G1.4,Friday,07:00,08:40
+EVT_0393,Pembelajaran Mikro - Praktikum,Asprak_34,G1.4,Friday,08:40,10:20
+EVT_0392,Jaringan Terapan - Praktikum,Asprak_33,G1.4,Friday,10:20,12:00
+EVT_0391,Jaringan Terapan - Praktikum,Asprak_32,G1.3,Tuesday,12:30,14:10
+EVT_0390,Jaringan Komputer - Praktikum,Asprak_31,G1.3,Tuesday,14:10,15:50
+EVT_0387,Jaringan Komputer - Praktikum,Asprak_29,G1.3,Tuesday,15:50,17:30
+EVT_0388,Administrasi Basis Data - Praktikum,Asprak_3,G1.5,Monday,07:00,08:40
+EVT_0370,Dasar Pengembangan Sistem informasi - Praktikum,Asprak_13,G1.5,Monday,08:40,10:20
+EVT_0371,Enterprise Architecture II - Praktikum,Asprak_14,G1.3,Wednesday,12:30,14:10
+EVT_0372,Enterprise Architecture II - Praktikum,Asprak_15,G1.5,Monday,10:20,12:00
+EVT_0373,Enterprise Architecture II - Praktikum,Asprak_16,G1.3,Wednesday,14:10,15:50
+EVT_0386,Jaringan Komputer - Praktikum,Asprak_28,G1.3,Wednesday,15:50,17:30
+EVT_0369,Dasar Pengembangan Sistem informasi - Praktikum,Asprak_12,G1.5,Tuesday,07:00,08:40
+EVT_0382,Jaringan Komputer - Praktikum,Asprak_24,G1.5,Tuesday,08:40,10:20
+EVT_0367,Dasar Pengembangan Sistem informasi - Praktikum,Asprak_10,G1.5,Tuesday,10:20,12:00
+EVT_0447,Sistem Informasi Geografis - Praktikum,Asprak_83,G1.3,Thursday,12:30,14:10
+EVT_0448,Sistem Informasi Geografis - Praktikum,Asprak_84,G1.3,Thursday,14:10,15:50
+EVT_0449,Sistem Pendukung Keputusan - Praktikum,Asprak_85,G1.3,Thursday,15:50,17:30
+EVT_0450,Sistem Pendukung Keputusan - Praktikum,Asprak_86,G1.5,Wednesday,07:00,08:40
+EVT_0451,Teknologi Keamanan Siber - Praktikum,Asprak_87,G1.5,Wednesday,08:40,10:20
+EVT_0452,Teknologi Keamanan Siber - Praktikum,Asprak_88,G1.5,Wednesday,10:20,12:00
+EVT_0454,Basis Data - Praktikum,Asprak_9,G1.3,Friday,12:30,14:10
+EVT_0455,Teknologi Keamanan Siber - Praktikum,Asprak_90,G1.3,Friday,14:10,15:50
+EVT_0368,Dasar Pengembangan Sistem informasi - Praktikum,Asprak_11,G1.3,Friday,15:50,17:30
+EVT_0406,Pemrograman Dasar - Praktikum,Asprak_46,G1.5,Thursday,07:00,08:40
+EVT_0405,Pemrograman Dasar - Praktikum,Asprak_45,G1.5,Thursday,08:40,10:20
+EVT_0407,Pemrograman Dasar - Praktikum,Asprak_47,G1.4,Monday,12:30,14:10
+EVT_0404,Pemrograman Dasar - Praktikum,Asprak_44,G1.5,Thursday,10:20,12:00
+EVT_0403,Pemrograman Dasar - Praktikum,Asprak_43,G1.4,Monday,14:10,15:50
+EVT_0366,Administrasi Basis Data - Praktikum,Asprak_1,G1.4,Monday,15:50,17:30
+EVT_0126,Kewirausahaan,47,F2.1,Monday,12:30,14:10
+EVT_0132,Pemrograman Dasar,47,F2.1,Monday,07:00,08:40
+EVT_0140,Pengembangan Aplikasi Mobile Terapan,47,F2.1,Monday,14:10,15:50
+EVT_0139,Pengembangan Aplikasi Mobile,47,F2.1,Monday,08:40,10:20
+EVT_0144,Pengembangan Aplikasi Web Lanjut,47,F2.1,Monday,10:20,12:00
+EVT_0128,Manajemen Risiko dan Kontrol Sistem Informasi,47,F2.1,Monday,15:50,17:30
+EVT_0151,Teknologi Smart City,47,F2.1,Tuesday,07:00,08:40
+EVT_0150,Teknologi Blockchain dan Platform Keuangan Digital,47,F2.1,Tuesday,08:40,10:20
+EVT_0149,Rekayasa Sistem Informasi,47,F2.1,Tuesday,10:20,12:00
+EVT_0148,Perkembangan dan Tren Teknologi Digital,47,F2.1,Wednesday,07:00,08:40
+EVT_0147,Perancangan Pengalaman Pengguna,47,F2.1,Wednesday,08:40,10:20
+EVT_0146,Pengembangan Program Pelatihan Teknologi Informasi,47,F2.1,Wednesday,10:20,12:00
+EVT_0125,Information Retrieval,47,F2.1,Tuesday,12:30,14:10
+EVT_0124,Dasar Manajemen Proyek,47,F2.1,Thursday,07:00,08:40
+EVT_0127,Manajemen Produk,47,F2.1,Thursday,08:40,10:20
+EVT_0129,Paradigma Berpikir Komputasi,47,F2.1,Thursday,10:20,12:00
+EVT_0134,Pemrograman Web,47,F2.1,Friday,07:00,08:40
+EVT_0131,Pemrograman Dasar,47,F2.1,Friday,08:40,10:20
+EVT_0135,Pengantar Keilmuan Komputer,47,F2.1,Friday,10:20,12:00
+EVT_0136,Pengantar Keilmuan Komputer,47,F2.1,Tuesday,14:10,15:50
+EVT_0145,Pengembangan Gim,47,F2.1,Tuesday,15:50,17:30
+EVT_0152,Transformasi Pemerintah,47,F2.1,Wednesday,12:30,14:10
+EVT_0320,Kalkulus,103,F2.1,Wednesday,14:10,15:50
+EVT_0137,Pengantar Keilmuan Komputer,47,F2.1,Wednesday,15:50,17:30
+EVT_0138,Pengantar Sistem informasi,47,F2.1,Thursday,12:30,14:10
+EVT_0123,Capstone Project,47,F2.1,Thursday,14:10,15:50
+EVT_0141,Pengembangan Aplikasi Multiplatform,47,F2.1,Thursday,15:50,17:30
+EVT_0142,Pengembangan Aplikasi Peranti Bergerak,47,F2.1,Friday,12:30,14:10
+EVT_0143,Pengembangan Aplikasi Web,47,F2.1,Friday,14:10,15:50
+EVT_0130,Paradigma Berpikir Sistem dan Desain,47,F2.1,Friday,15:50,17:30
+EVT_0122,Capstone Project,47,F2.2,Wednesday,14:10,15:50
+EVT_0328,Metodologi Penelitian dan Penulisan Ilmiah,103,F2.2,Monday,12:30,14:10
+EVT_0348,Desain Basis Data,108,F2.2,Monday,07:00,08:40
+EVT_0361,Sistem Informasi Berkelanjutan,108,F2.2,Monday,08:40,10:20
+EVT_0199,Administrasi Basis Data,75,F2.2,Monday,10:20,12:00
+EVT_0330,Pemrograman Web,103,F2.2,Tuesday,07:00,08:40
+EVT_0205,Kalkulus,75,F2.2,Monday,14:10,15:50
+EVT_0329,Pemrograman Dasar,103,F2.2,Monday,15:50,17:30
+EVT_0025,Rekayasa Sistem Informasi,4,F2.2,Tuesday,08:40,10:20
+EVT_0321,Kalkulus dan Aljabar Linear,103,F2.2,Tuesday,10:20,12:00
+EVT_0051,Pemrograman Web Lanjut,16,F2.2,Wednesday,07:00,08:40
+EVT_0217,Teknologi Berbasis Cloud,75,F2.2,Wednesday,08:40,10:20
+EVT_0323,Matematika Diskret,103,F2.2,Tuesday,12:30,14:10
+EVT_0322,Komunikasi dan Teknologi Pendidikan,103,F2.2,Thursday,07:00,08:40
+EVT_0325,Matematika Diskrit,103,F2.2,Thursday,08:40,10:20
+EVT_0318,Filsafat Pendidikan dan Sains,103,F2.2,Tuesday,14:10,15:50
+EVT_0317,Arsitektur dan Organisasi Komputer,103,F2.2,Tuesday,15:50,17:30
+EVT_0296,Matematika Diskret,100,F2.2,Wednesday,10:20,12:00
+EVT_0319,Infrastruktur Teknologi Informasi,103,F2.2,Thursday,12:30,14:10
+EVT_0324,Matematika Diskret,103,F2.2,Thursday,14:10,15:50
+EVT_0194,Teknologi Smart City,67,F2.2,Thursday,10:20,12:00
+EVT_0333,Pengantar Keilmuan Komputer,103,F2.2,Thursday,15:50,17:30
+EVT_0332,Pengantar Keilmuan Komputer,103,F2.2,Friday,12:30,14:10
+EVT_0331,Pengantar Keilmuan Komputer,103,F2.2,Friday,14:10,15:50
+EVT_0326,Metode Penelitian dan Penulisan Ilmiah,103,F2.2,Friday,15:50,17:30
+EVT_0334,Pengembangan Aplikasi Web,103,F2.2,Friday,07:00,08:40
+EVT_0337,Pengenalan Lapangan Persekolahan 2,103,F2.2,Friday,08:40,10:20
+EVT_0336,Pengenalan Lapangan Persekolahan 1,103,F2.2,Friday,10:20,12:00
+EVT_0327,Metodologi Penelitian dan Penulisan Ilmiah,103,F2.2,Wednesday,12:30,14:10
+EVT_0335,Pengembangan Gim,103,F2.2,Wednesday,15:50,17:30
+EVT_0212,Pemrograman Web,75,F2.4,Tuesday,07:00,08:40
+EVT_0213,Pengembangan Aplikasi Mobile,75,F2.4,Tuesday,08:40,10:20
+EVT_0211,Pemrograman Dasar,75,F2.4,Tuesday,10:20,12:00
+EVT_0210,Pemrograman Dasar,75,F2.4,Thursday,07:00,08:40
+EVT_0207,Keamanan dan Privasi Data,75,F2.4,Thursday,08:40,10:20
+EVT_0208,Keamanan Data dan Privasi,75,F2.4,Thursday,10:20,12:00
+EVT_0206,Kalkulus dan Aljabar Linear,75,F2.4,Tuesday,12:30,14:10
+EVT_0347,Dasar Pengembangan Sistem informasi,108,F2.4,Wednesday,07:00,08:40
+EVT_0203,Jaringan Komputer,75,F2.4,Friday,07:00,08:40
+EVT_0202,Desain Basis Data,75,F2.4,Friday,08:40,10:20
+EVT_0201,Basis Data,75,F2.4,Friday,10:20,12:00
+EVT_0200,Administrasi Basis Data,75,F2.4,Tuesday,14:10,15:50
+EVT_0365,Transformasi Pemerintah,108,F2.4,Wednesday,08:40,10:20
+EVT_0209,Kriptografi,75,F2.4,Tuesday,15:50,17:30
+EVT_0214,Pengembangan Aplikasi Web,75,F2.4,Thursday,12:30,14:10
+EVT_0349,Keamanan dan Privasi Data,108,F2.4,Wednesday,10:20,12:00
+EVT_0364,Tata Kelola Teknologi Informasi,108,F2.5,Tuesday,07:00,08:40
+EVT_0006,Capstone Project,4,F2.4,Monday,07:00,08:40
+EVT_0007,Capstone Project,4,F2.4,Monday,08:40,10:20
+EVT_0008,Dasar Pengembangan Sistem informasi,4,F2.4,Monday,10:20,12:00
+EVT_0009,Etika Profesi,4,F2.5,Wednesday,07:00,08:40
+EVT_0010,Etika Profesi,4,F2.5,Wednesday,08:40,10:20
+EVT_0011,Jaminan Kualitas Perangkat Lunak,4,F2.5,Wednesday,10:20,12:00
+EVT_0012,Pemrograman Dasar,4,F2.5,Thursday,07:00,08:40
+EVT_0013,Pemrograman Dasar,4,F2.5,Thursday,08:40,10:20
+EVT_0014,Pemrograman Dasar,4,F2.5,Thursday,10:20,12:00
+EVT_0215,Pengembangan Aplikasi Web Lanjut,75,F2.4,Thursday,14:10,15:50
+EVT_0015,Pemrograman Web,4,F2.5,Friday,07:00,08:40
+EVT_0017,Pengantar Keilmuan Komputer,4,F2.5,Friday,08:40,10:20
+EVT_0018,Pengantar Keilmuan Komputer,4,F2.5,Friday,10:20,12:00
+EVT_0019,Pengembangan Aplikasi Mobile,4,F2.4,Monday,12:30,14:10
+EVT_0020,Pengembangan Aplikasi Web,4,F2.4,Monday,14:10,15:50
+EVT_0021,Pengembangan Aplikasi Web Lanjut,4,F2.4,Monday,15:50,17:30
+EVT_0022,Pengujian dan Evaluasi Sistem Informasi,4,F2.5,Wednesday,12:30,14:10
+EVT_0023,Perancangan Pengalaman Pengguna,4,F2.5,Wednesday,14:10,15:50
+EVT_0024,Rekayasa Kebutuhan Sistem Informasi,4,F2.5,Wednesday,15:50,17:30
+EVT_0218,Teknologi Keamanan Siber,75,F2.4,Thursday,15:50,17:30
+EVT_0016,Pengantar Keilmuan Komputer,4,F2.5,Thursday,12:30,14:10
+EVT_0216,Sistem Forensik Digital,75,F2.4,Friday,12:30,14:10
+EVT_0204,Jaringan Komputer,75,F2.4,Friday,14:10,15:50
+EVT_0354,Pengantar Keilmuan Komputer,108,F2.5,Tuesday,08:40,10:20
+EVT_0360,Sistem Informasi berbasis Kecerdasan Buatan,108,F2.4,Wednesday,12:30,14:10
+EVT_0346,Basis Data,108,F2.5,Tuesday,10:20,12:00
+EVT_0351,Manajemen Bisnis,108,F2.6,Thursday,07:00,08:40
+EVT_0362,Sistem Pendukung Keputusan,108,F2.6,Thursday,08:40,10:20
+EVT_0352,Manajemen Layanan Teknologi Informasi,108,F2.6,Thursday,10:20,12:00
+EVT_0353,Pengantar Keilmuan Komputer,108,F2.4,Wednesday,14:10,15:50
+EVT_0355,Pengantar Keilmuan Komputer,108,F2.6,Friday,07:00,08:40
+EVT_0363,Strategi Transformasi Digital,108,F2.6,Friday,08:40,10:20
+EVT_0358,Perkembangan dan Tren Teknologi Digital,108,F2.6,Friday,10:20,12:00
+EVT_0357,Perbaikan Proses Bisnis,108,F2.4,Wednesday,15:50,17:30
+EVT_0356,Pengantar Sistem informasi,108,F2.5,Tuesday,12:30,14:10
+EVT_0359,Rekayasa Sistem Informasi,108,F2.5,Tuesday,14:10,15:50
+EVT_0350,Komunikasi Profesional,108,F2.5,Tuesday,15:50,17:30
+EVT_0170,Manajemen Produk,60,F2.5,Monday,07:00,08:40
+EVT_0176,Kewirausahaan,62,F2.4,Friday,15:50,17:30
+EVT_0094,Internet of Things,35,F2.5,Monday,08:40,10:20
+EVT_0177,Kewirausahaan,62,F2.5,Monday,12:30,14:10
+EVT_0238,Pengembangan Aplikasi Web,82,F2.5,Monday,10:20,12:00
+EVT_0081,Manajemen Proyek Teknologi Informasi,22,F2.6,Monday,07:00,08:40
+EVT_0002,Pemrograman Web Lanjut,1,F2.6,Monday,08:40,10:20
+EVT_0112,Perkembangan dan Tren Teknologi Digital,40,F2.6,Monday,10:20,12:00
+EVT_0343,Teknologi Smart City,105,F2.5,Monday,14:10,15:50
+EVT_0070,Tata Kelola dan Kebijakan Keamanan Siber,17,F2.6,Tuesday,07:00,08:40
+EVT_0305,Administrasi Basis Data,102,F2.6,Tuesday,08:40,10:20
+EVT_0304,Administrasi Basis Data,102,F2.6,Tuesday,10:20,12:00
+EVT_0308,Dasar Manajemen Proyek,102,F2.6,Wednesday,07:00,08:40
+EVT_0309,Data Warehouse,102,F2.6,Wednesday,08:40,10:20
+EVT_0245,Dasar Manajemen Proyek,87,F2.6,Wednesday,10:20,12:00
+EVT_0246,Enterprise Architecture II,87,F2.8,Monday,07:00,08:40
+EVT_0247,Etika Profesi,87,F2.8,Monday,08:40,10:20
+EVT_0232,Information Retrieval,80,F2.8,Monday,10:20,12:00
+EVT_0248,Komunikasi Profesional,87,F2.8,Tuesday,07:00,08:40
+EVT_0249,Manajemen Bisnis,87,F2.8,Tuesday,08:40,10:20
+EVT_0250,Metodologi Penelitian dan Penulisan Ilmiah,87,F2.8,Tuesday,10:20,12:00
+EVT_0307,Big Data dan Analitik,102,F2.5,Monday,15:50,17:30
+EVT_0251,Pemrograman Dasar,87,F2.5,Thursday,14:10,15:50
+EVT_0252,Pengantar GeoInformasi,87,F2.5,Thursday,15:50,17:30
+EVT_0253,Perkembangan dan Tren Teknologi Digital,87,F2.5,Friday,12:30,14:10
+EVT_0254,Probabilitas dan Statistika,87,F2.5,Friday,14:10,15:50
+EVT_0255,Sistem Informasi berbasis Kecerdasan Buatan,87,F2.5,Friday,15:50,17:30
+EVT_0256,Sistem Informasi Geografis,87,F2.6,Wednesday,12:30,14:10
+EVT_0257,Tata Kelola Teknologi Informasi,87,F2.6,Wednesday,14:10,15:50
+EVT_0310,Desain Basis Data,102,F2.8,Thursday,07:00,08:40
+EVT_0311,Pemrograman SQL,102,F2.8,Thursday,08:40,10:20
+EVT_0312,Penambangan Data,102,F2.8,Thursday,10:20,12:00
+EVT_0313,Penambangan Data,102,F2.8,Friday,07:00,08:40
+EVT_0314,Pengantar Keilmuan Komputer,102,F2.8,Friday,08:40,10:20
+EVT_0315,Pengantar Sistem informasi,102,F2.8,Friday,10:20,12:00
+EVT_0316,Teknologi Basis Data Non Relational,102,F2.6,Tuesday,12:30,14:10
+EVT_0306,Basis Data,102,F2.6,Tuesday,14:10,15:50
+EVT_0068,Keamanan Data dan Privasi,17,F2.8,Wednesday,07:00,08:40
+EVT_0050,Data Warehouse,16,F2.6,Monday,12:30,14:10
+EVT_0056,Pengembangan Gim,16,F2.6,Monday,14:10,15:50
+EVT_0061,Teknologi Berbasis Cloud,16,F2.6,Monday,15:50,17:30
+EVT_0060,Teknologi Basis Data Non Relational,16,F2.9,Tuesday,07:00,08:40
+EVT_0059,Sistem Informasi Berkelanjutan,16,F2.9,Tuesday,08:40,10:20
+EVT_0058,Perkembangan dan Tren Teknologi Digital,16,F2.9,Tuesday,10:20,12:00
+EVT_0057,Perancangan Pengalaman Pengguna,16,F2.6,Thursday,12:30,14:10
+EVT_0055,Pengembangan Aplikasi Web Lanjut,16,F2.6,Thursday,14:10,15:50
+EVT_0052,Penambangan Data,16,F2.6,Thursday,15:50,17:30
+EVT_0053,Pengembangan Aplikasi Mobile Terapan,16,F2.6,Friday,12:30,14:10
+EVT_0054,Pengembangan Aplikasi Multiplatform,16,F2.6,Friday,14:10,15:50
+EVT_0030,Manajemen Proyek Teknologi Informasi,6,F2.8,Wednesday,08:40,10:20
+EVT_0271,Basis Data,91,F2.8,Wednesday,10:20,12:00
+EVT_0277,Penambangan Data,92,F2.9,Monday,07:00,08:40
+EVT_0303,Probabilitas dan Statistika,100,F2.9,Monday,08:40,10:20
+EVT_0294,Kalkulus dan Aljabar Linear,100,F2.9,Monday,10:20,12:00
+EVT_0301,Penilaian Hasil Belajar,100,F2.6,Tuesday,15:50,17:30
+EVT_0300,Pembelajaran Mikro,100,F2.9,Thursday,07:00,08:40
+EVT_0293,Kalkulus,100,F2.9,Thursday,08:40,10:20
+EVT_0298,Metode Penelitian dan Penulisan Ilmiah,100,F2.9,Thursday,10:20,12:00
+EVT_0297,Matematika Diskrit,100,F2.6,Friday,15:50,17:30
+EVT_0295,Matematika Diskret,100,F2.9,Monday,12:30,14:10
+EVT_0302,Perancangan Pembelajaran,100,F2.9,Monday,14:10,15:50
+EVT_0299,Metodologi Penelitian dan Penulisan Ilmiah,100,F2.9,Monday,15:50,17:30
+EVT_0187,Manajemen Proyek Teknologi Informasi,67,F2.9,Wednesday,07:00,08:40
+EVT_0036,Teknologi Smart City,6,F2.8,Monday,12:30,14:10
+EVT_0191,Pengantar Sistem informasi,67,F2.9,Wednesday,08:40,10:20
+EVT_0190,Pemrograman Dasar,67,F2.8,Monday,14:10,15:50
+EVT_0189,Pemrograman Dasar,67,F2.9,Wednesday,10:20,12:00
+EVT_0188,Pemrograman Dasar,67,F2.9,Friday,07:00,08:40
+EVT_0186,Jaminan Kualitas Perangkat Lunak,67,F2.9,Friday,08:40,10:20
+EVT_0185,Dasar Pengembangan Sistem informasi,67,F2.9,Friday,10:20,12:00
+EVT_0184,Dasar Manajemen Proyek,67,F2.8,Monday,15:50,17:30
+EVT_0472,Teknologi Basis Data Non Relational,TBA_54,F2.6,Wednesday,15:50,17:30
+EVT_0193,Rekayasa Sistem Informasi,67,F2.8,Tuesday,12:30,14:10
+EVT_0035,Tata Kelola Teknologi Informasi,6,F2.8,Tuesday,14:10,15:50
+EVT_0034,Tata Kelola Teknologi Informasi,6,F2.8,Tuesday,15:50,17:30
+EVT_0033,Perbaikan Proses Bisnis,6,F2.8,Wednesday,12:30,14:10
+EVT_0192,Pengujian dan Evaluasi Sistem Informasi,67,F2.9,Wednesday,12:30,14:10
+EVT_0031,Manajemen Risiko dan Kontrol Sistem Informasi,6,F2.8,Wednesday,14:10,15:50
+EVT_0029,Manajemen Proyek Teknologi Informasi,6,F3.1,Thursday,07:00,08:40
+EVT_0028,Manajemen Layanan Teknologi Informasi,6,F3.1,Thursday,08:40,10:20
+EVT_0027,Enterprise Architecture II,6,F2.8,Wednesday,15:50,17:30
+EVT_0026,Dasar Manajemen Proyek,6,F3.1,Thursday,10:20,12:00
+EVT_0032,Paradigma Sistem,6,F3.1,Friday,07:00,08:40
+EVT_0283,Sistem Forensik Digital,94,F3.1,Monday,07:00,08:40
+EVT_0071,Teknologi Keamanan Siber,17,F3.1,Monday,08:40,10:20
+EVT_0067,Keamanan dan Privasi Data,17,F3.1,Monday,10:20,12:00
+EVT_0069,Keamanan Jaringan dan Siber,17,F2.8,Thursday,12:30,14:10
+EVT_0065,Jaringan Komputer,17,F2.8,Thursday,14:10,15:50
+EVT_0064,Jaringan Komputer,17,F2.8,Thursday,15:50,17:30
+EVT_0063,Internet of Things,17,F3.1,Friday,08:40,10:20
+EVT_0062,Infrastruktur Teknologi Informasi,17,F3.1,Friday,10:20,12:00
+EVT_0066,Jaringan Terapan,17,F3.1,Monday,12:30,14:10
+EVT_0339,Teknologi Berbasis Cloud,104,F3.1,Tuesday,07:00,08:40
+EVT_0220,Capstone Project,76,F3.1,Tuesday,08:40,10:20
+EVT_0100,Jaringan Komputer,39,F3.1,Tuesday,10:20,12:00
+EVT_0101,Komunikasi dan Teknologi Pendidikan,39,F3.1,Wednesday,07:00,08:40
+EVT_0108,Perkembangan Peserta Didik,39,F3.1,Wednesday,08:40,10:20
+EVT_0107,Perancangan Pembelajaran,39,F3.1,Wednesday,10:20,12:00
+EVT_0106,Pengenalan Lapangan Persekolahan 2,39,F2.8,Friday,12:30,14:10
+EVT_0105,Pengenalan Lapangan Persekolahan 1,39,F2.8,Friday,14:10,15:50
+EVT_0104,Pendidikan Orang Dewasa dan Berkelanjutan,39,F3.10,Monday,07:00,08:40
+EVT_0102,Manajemen Sistem Pendidikan,39,F3.10,Monday,08:40,10:20
+EVT_0103,Pembelajaran Mikro,39,F3.10,Monday,10:20,12:00
+EVT_0221,Dasar Manajemen Proyek,76,F2.8,Friday,15:50,17:30
+EVT_0222,Enterprise Architecture II,76,F2.9,Wednesday,14:10,15:50
+EVT_0223,Manajemen Proyek Teknologi Informasi,76,F2.9,Wednesday,15:50,17:30
+EVT_0224,Pemrograman Dasar,76,F2.9,Thursday,12:30,14:10
+EVT_0225,Pemrograman Dasar,76,F2.9,Thursday,14:10,15:50
+EVT_0226,Pemrograman Dasar,76,F2.9,Thursday,15:50,17:30
+EVT_0219,Capstone Project,76,F3.1,Monday,14:10,15:50
+EVT_0227,Sistem Enterprise,76,F3.1,Monday,15:50,17:30
+EVT_0269,Administrasi Basis Data,91,F3.10,Tuesday,07:00,08:40
+EVT_0270,Administrasi Basis Data,91,F3.10,Tuesday,08:40,10:20
+EVT_0272,Desain Basis Data,91,F3.10,Tuesday,10:20,12:00
+EVT_0273,Pemrograman Dasar,91,F2.9,Friday,12:30,14:10
+EVT_0274,Pemrograman Dasar,91,F2.9,Friday,14:10,15:50
+EVT_0275,Pemrograman Dasar,91,F3.10,Thursday,07:00,08:40
+EVT_0276,Pemrograman SQL,91,F3.10,Thursday,08:40,10:20
+EVT_0171,Manajemen Proyek Teknologi Informasi,60,F3.10,Wednesday,07:00,08:40
+EVT_0169,Jaminan Kualitas Perangkat Lunak,60,F3.10,Wednesday,08:40,10:20
+EVT_0172,Pemrograman SQL,60,F3.10,Wednesday,10:20,12:00
+EVT_0173,Pengembangan Aplikasi Mobile,60,F2.9,Tuesday,12:30,14:10
+EVT_0174,Pengembangan Aplikasi Web,60,F3.10,Thursday,10:20,12:00
+EVT_0175,Perancangan Pengalaman Pengguna,60,F2.9,Tuesday,14:10,15:50
+EVT_0168,Basis Data,60,F3.10,Friday,07:00,08:40
+EVT_0088,Pemrograman Dasar,31,F2.9,Tuesday,15:50,17:30
+EVT_0091,Pengembangan Aplikasi Mobile,31,F3.10,Friday,08:40,10:20
+EVT_0092,Pengembangan Aplikasi Web,31,F3.10,Friday,10:20,12:00
+EVT_0093,Pengembangan Aplikasi Web Lanjut,31,F3.1,Wednesday,12:30,14:10
+EVT_0089,Pemrograman Dasar,31,F3.11,Monday,07:00,08:40
+EVT_0087,Dasar Pengembangan Sistem informasi,31,F3.11,Monday,08:40,10:20
+EVT_0090,Pemrograman Web Lanjut,31,F3.11,Monday,10:20,12:00
+EVT_0268,Pengantar Keilmuan Komputer,90,F2.9,Friday,15:50,17:30
+EVT_0263,Jaringan Komputer,90,F3.1,Tuesday,12:30,14:10
+EVT_0286,Tata Kelola dan Kebijakan Keamanan Siber,94,F3.1,Tuesday,14:10,15:50
+EVT_0285,Strategi Transformasi Digital,94,F3.1,Tuesday,15:50,17:30
+EVT_0284,Sistem Informasi Berkelanjutan,94,F3.1,Wednesday,14:10,15:50
+EVT_0282,Perkembangan dan Tren Teknologi Digital,94,F3.1,Wednesday,15:50,17:30
+EVT_0266,Pengantar Keilmuan Komputer,90,F3.11,Wednesday,07:00,08:40
+EVT_0265,Jaringan Terapan,90,F3.11,Wednesday,08:40,10:20
+EVT_0264,Jaringan Terapan,90,F3.11,Wednesday,10:20,12:00
+EVT_0287,Transformasi Pemerintah,94,F3.11,Thursday,07:00,08:40
+EVT_0267,Pengantar Keilmuan Komputer,90,F3.1,Thursday,12:30,14:10
+EVT_0262,Internet of Things,90,F3.1,Thursday,14:10,15:50
+EVT_0281,Manajemen Proyek Teknologi Informasi,94,F3.11,Thursday,08:40,10:20
+EVT_0095,Jaringan Komputer,35,F3.11,Tuesday,07:00,08:40
+EVT_0117,Keamanan Data dan Privasi,46,F3.11,Tuesday,08:40,10:20
+EVT_0004,Pengembangan Aplikasi Multiplatform,1,F3.11,Tuesday,10:20,12:00
+EVT_0003,Penambangan Data,1,F3.1,Thursday,15:50,17:30
+EVT_0001,Jaminan Kualitas Perangkat Lunak,1,F3.1,Friday,12:30,14:10
+EVT_0005,Pengembangan Aplikasi Web Lanjut,1,F3.1,Friday,14:10,15:50
+EVT_0244,Sistem Pendukung Keputusan,83,F3.1,Friday,15:50,17:30
+EVT_0242,Probabilitas dan Statistika,83,F3.11,Thursday,10:20,12:00
+EVT_0116,Jaringan Komputer,46,F3.10,Monday,12:30,14:10
+EVT_0118,Tata Kelola dan Kebijakan Keamanan Siber,46,F3.10,Monday,14:10,15:50
+EVT_0099,Teknologi Keamanan Siber,35,F3.10,Wednesday,12:30,14:10
+EVT_0098,Teknologi Berbasis Cloud,35,F3.11,Friday,07:00,08:40
+EVT_0097,Sistem Forensik Digital,35,F3.11,Friday,08:40,10:20
+EVT_0096,Keamanan Data dan Privasi,35,F3.11,Friday,10:20,12:00
+EVT_0119,Teknologi Berbasis Cloud,46,F3.10,Monday,15:50,17:30
+EVT_0120,Teknologi Blockchain dan Platform Keuangan Digital,46,F3.10,Wednesday,14:10,15:50
+EVT_0121,Teknologi Keamanan Siber,46,F3.10,Wednesday,15:50,17:30
+EVT_0178,Manajemen Proyek Teknologi Informasi,62,F3.10,Tuesday,12:30,14:10
+EVT_0179,Pengantar Keilmuan Komputer,62,F3.10,Tuesday,14:10,15:50
+EVT_0180,Pengembangan Aplikasi Web,62,F3.10,Tuesday,15:50,17:30
+EVT_0181,Perancangan Pengalaman Pengguna,62,F3.12,Wednesday,07:00,08:40
+EVT_0239,Pengantar Keilmuan Komputer,83,F3.12,Monday,07:00,08:40
+EVT_0240,Pengantar Keilmuan Komputer,83,F3.12,Monday,08:40,10:20
+EVT_0241,Pengantar Keilmuan Komputer,83,F3.12,Monday,10:20,12:00
+EVT_0243,Sistem Forensik Digital,83,F3.12,Tuesday,07:00,08:40
+EVT_0000,Information Retrieval,1,F3.12,Wednesday,08:40,10:20
+EVT_0236,Pemrograman Dasar,82,F3.12,Tuesday,08:40,10:20
+EVT_0079,Capstone Project,22,F3.12,Tuesday,10:20,12:00
+EVT_0082,Pemrograman Web Lanjut,22,F3.10,Thursday,12:30,14:10
+EVT_0083,Perancangan Pengalaman Pengguna,22,F3.10,Thursday,14:10,15:50
+EVT_0076,Teknologi Smart City,20,F3.10,Thursday,15:50,17:30
+EVT_0075,Teknologi Berbasis Cloud,20,F3.12,Wednesday,10:20,12:00
+EVT_0080,Capstone Project,22,F3.10,Friday,12:30,14:10
+EVT_0234,Pemrograman Dasar,82,F3.10,Friday,14:10,15:50
+EVT_0235,Pemrograman Dasar,82,F3.12,Thursday,07:00,08:40
+EVT_0074,Pengembangan Aplikasi Mobile Terapan,20,F3.10,Friday,15:50,17:30
+EVT_0073,Penambangan Data,20,F3.11,Monday,12:30,14:10
+EVT_0072,Big Data dan Analitik,20,F3.11,Monday,14:10,15:50
+EVT_0237,Pemrograman Web,82,F3.12,Thursday,08:40,10:20
+EVT_0041,Transformasi Pemerintah,12,F3.11,Monday,15:50,17:30
+EVT_0043,Capstone Project,14,F3.12,Thursday,10:20,12:00
+EVT_0156,Manajemen Proyek Teknologi Informasi,48,F3.12,Friday,07:00,08:40
+EVT_0046,Teknologi Blockchain dan Platform Keuangan Digital,14,F3.12,Friday,08:40,10:20
+EVT_0164,Pendidikan Orang Dewasa dan Berkelanjutan,59,F3.11,Tuesday,12:30,14:10
+EVT_0153,Big Data dan Analitik,48,F3.12,Friday,10:20,12:00
+EVT_0111,Manajemen Proyek Teknologi Informasi,40,F3.11,Tuesday,14:10,15:50
+EVT_0110,Jaminan Kualitas Perangkat Lunak,40,F3.11,Tuesday,15:50,17:30
+EVT_0165,Pengenalan Lapangan Persekolahan 1,59,F3.11,Wednesday,12:30,14:10
+EVT_0166,Pengenalan Lapangan Persekolahan 2,59,F3.11,Wednesday,14:10,15:50
+EVT_0167,Perkembangan Peserta Didik,59,F3.11,Wednesday,15:50,17:30
+EVT_0045,Tata Kelola dan Kebijakan Keamanan Siber,14,F3.13,Monday,07:00,08:40
+EVT_0109,Capstone Project,40,F3.11,Thursday,12:30,14:10
+EVT_0154,Capstone Project,48,F3.11,Thursday,14:10,15:50
+EVT_0155,Capstone Project,48,F3.13,Monday,08:40,10:20
+EVT_0044,Kriptografi,14,F3.13,Monday,10:20,12:00
+EVT_0261,Sistem Informasi berbasis Kecerdasan Buatan,89,F3.11,Thursday,15:50,17:30
+EVT_0342,Pengembangan Aplikasi Web,105,F3.13,Tuesday,07:00,08:40
+EVT_0341,Pemrograman Web,105,F3.13,Tuesday,08:40,10:20
+EVT_0340,Manajemen Proyek Teknologi Informasi,105,F3.11,Friday,12:30,14:10
+EVT_0258,Big Data dan Analitik,89,F3.11,Friday,14:10,15:50
+EVT_0259,Data Sains,89,F3.11,Friday,15:50,17:30
+EVT_0260,Information Retrieval,89,F3.12,Monday,12:30,14:10
+EVT_0456,Metode Penelitian dan Penulisan Ilmiah,TBA_11,F3.13,Tuesday,10:20,12:00
+EVT_0290,Kewirausahaan,96,F3.12,Monday,14:10,15:50
+EVT_0289,Internet of Things,96,F3.12,Monday,15:50,17:30
+EVT_0288,Etika Profesi,96,F3.12,Tuesday,12:30,14:10
+EVT_0280,Penambangan Data,93,F3.13,Wednesday,07:00,08:40
+EVT_0279,Information Retrieval,93,F3.13,Wednesday,08:40,10:20
+EVT_0278,Big Data dan Analitik,93,F3.13,Wednesday,10:20,12:00
+EVT_0040,Perkembangan dan Tren Teknologi Digital,12,F3.12,Tuesday,14:10,15:50
+EVT_0039,Perancangan Pengalaman Pengguna,12,F3.12,Tuesday,15:50,17:30
+EVT_0158,Information Retrieval,52,F3.13,Thursday,07:00,08:40
+EVT_0159,Penambangan Data,52,F3.13,Thursday,08:40,10:20
+EVT_0049,Tata Kelola Teknologi Informasi,15,F3.13,Thursday,10:20,12:00
+EVT_0048,Kewirausahaan,15,F3.13,Friday,07:00,08:40
+EVT_0047,Data Sains,15,F3.13,Friday,08:40,10:20
+EVT_0233,Penambangan Data,80,F3.13,Friday,10:20,12:00
+EVT_0231,Big Data dan Analitik,80,F3.12,Wednesday,12:30,14:10
+EVT_0230,Jaringan Terapan,79,F3.14,Monday,07:00,08:40
+EVT_0229,Jaringan Komputer,79,F3.14,Monday,08:40,10:20
+EVT_0228,Jaringan Komputer,79,F3.14,Monday,10:20,12:00
+EVT_0157,Big Data dan Analitik,52,F3.12,Wednesday,14:10,15:50
+EVT_0038,Transformasi Pemerintah,11,F3.12,Wednesday,15:50,17:30
+EVT_0037,Sistem Informasi Geografis,11,F3.14,Tuesday,07:00,08:40
+EVT_0077,Perkembangan dan Tren Teknologi Digital,21,F3.14,Tuesday,08:40,10:20
+EVT_0344,Information Retrieval,107,F3.14,Tuesday,10:20,12:00
+EVT_0113,Keamanan Data dan Privasi,41,F3.12,Thursday,12:30,14:10
+EVT_0292,Penambangan Data,97,F3.12,Thursday,14:10,15:50
+EVT_0338,Jaringan Komputer,104,F3.12,Thursday,15:50,17:30
+EVT_0078,Transformasi Pemerintah,21,F3.14,Wednesday,07:00,08:40
+EVT_0345,Penambangan Data,107,F3.14,Wednesday,08:40,10:20
+EVT_0114,Sistem Forensik Digital,41,F3.14,Wednesday,10:20,12:00
+EVT_0291,Information Retrieval,97,F3.12,Friday,12:30,14:10
+EVT_0160,Sistem Informasi Berkelanjutan,53,F3.12,Friday,14:10,15:50
+EVT_0161,Strategi Transformasi Digital,53,F3.14,Thursday,07:00,08:40
+EVT_0197,Desain Basis Data,72,F3.12,Friday,15:50,17:30
+EVT_0196,Administrasi Basis Data,72,F3.14,Thursday,08:40,10:20
+EVT_0462,Perkembangan Peserta Didik,TBA_28,F3.14,Thursday,10:20,12:00
+EVT_0463,Perkembangan dan Tren Teknologi Digital,TBA_42,F3.13,Monday,12:30,14:10
+EVT_0466,Transformasi Pemerintah,TBA_46,F3.13,Monday,14:10,15:50
+EVT_0465,Strategi Transformasi Digital,TBA_44,F3.13,Monday,15:50,17:30
+EVT_0461,Perancangan Pembelajaran,TBA_27,F3.14,Friday,07:00,08:40
+EVT_0467,Administrasi Basis Data,TBA_47,F3.14,Friday,08:40,10:20
+EVT_0468,Big Data dan Analitik,TBA_48,F3.14,Friday,10:20,12:00
+EVT_0469,Data Warehouse,TBA_49,F3.13,Tuesday,12:30,14:10
+EVT_0470,Capstone Project,TBA_5,F3.13,Tuesday,14:10,15:50
+EVT_0471,Tata Kelola dan Kebijakan Keamanan Siber,TBA_53,F3.13,Tuesday,15:50,17:30
+EVT_0464,Sistem Informasi Berkelanjutan,TBA_43,F3.15,Monday,07:00,08:40
+EVT_0460,Pengenalan Lapangan Persekolahan 2,TBA_25,F3.15,Monday,08:40,10:20
+EVT_0084,Pemrograman Dasar,23,F3.13,Wednesday,12:30,14:10
+EVT_0458,Pengembangan Program Pelatihan Teknologi Informasi,TBA_23,F3.15,Monday,10:20,12:00
+EVT_0457,Pendidikan Orang Dewasa dan Berkelanjutan,TBA_19,F3.13,Wednesday,14:10,15:50
+EVT_0198,Data Warehouse,73,F3.13,Wednesday,15:50,17:30
+EVT_0042,Manajemen Proyek Teknologi Informasi,13,F3.15,Tuesday,07:00,08:40
+EVT_0195,Pengembangan Aplikasi Multiplatform,70,F3.13,Thursday,12:30,14:10
+EVT_0183,Keamanan Data dan Privasi,65,F3.15,Tuesday,08:40,10:20
+EVT_0182,Keamanan Data dan Privasi,63,F3.15,Tuesday,10:20,12:00
+EVT_0163,Teknologi Smart City,58,F3.13,Thursday,14:10,15:50
+EVT_0162,Perancangan Pengalaman Pengguna,55,F3.13,Thursday,15:50,17:30
+EVT_0115,Perancangan Pengalaman Pengguna,45,F3.15,Wednesday,07:00,08:40
+EVT_0086,Penambangan Data,30,F3.15,Wednesday,08:40,10:20
+EVT_0085,Penambangan Data,29,F3.15,Wednesday,10:20,12:00
+EVT_0459,Pengenalan Lapangan Persekolahan 1,TBA_24,F3.13,Friday,12:30,14:10
+EVT_0473,Filsafat Pendidikan dan Sains,TBA_7,F3.13,Friday,14:10,15:50

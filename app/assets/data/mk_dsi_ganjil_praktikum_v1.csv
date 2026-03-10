@@ -1,0 +1,475 @@
+course_id,course_name,prodi,sks,course_time_minute,course_type,teacher_priority,teacher_position,teacher_id
+CIT60048,Information Retrieval,Teknologi Informasi,2,100,Pilihan,1,Pengampu,1
+CSD60714,Jaminan Kualitas Perangkat Lunak,Teknologi Informasi,3,100,Pilihan,1,Pengampu,1
+CIS60103,Pemrograman Web Lanjut,Sistem Informasi,3,100,Pilihan,1,Pengampu,1
+CSD60708,Penambangan Data,Teknologi Informasi,3,100,Pilihan,1,Pengampu,1
+CIS60102,Pengembangan Aplikasi Multiplatform,Sistem Informasi,2,100,Pilihan,1,Pengampu,1
+CIT60039,Pengembangan Aplikasi Web Lanjut,Teknologi Informasi,3,100,Pilihan,1,Pengampu,1
+COM60061,Capstone Project,Pendidikan Teknologi Informasi,3,100,Wajib,1,"Pengelola, Pengampu",4
+COM60061,Capstone Project,Teknologi Informasi,3,100,Wajib,1,"Pengelola, Pengampu",4
+CIT62003,Dasar Pengembangan Sistem informasi,Teknologi Informasi,3,100,Wajib,1,"Pengelola, Pengampu",4
+COM60052,Etika Profesi,Sistem Informasi,2,100,Wajib,1,"Pengelola, Pengampu",4
+COM60052,Etika Profesi,Teknologi Informasi,2,100,Wajib,1,"Pengelola, Pengampu",4
+CSD60714,Jaminan Kualitas Perangkat Lunak,Teknologi Informasi,3,100,Pilihan,1,"Pengelola, Pengampu",4
+COM60014,Pemrograman Dasar,Pendidikan Teknologi Informasi,5,100,Wajib,1,"Pengelola, Pengampu",4
+COM60014,Pemrograman Dasar,Sistem Informasi,5,100,Wajib,1,"Pengelola, Pengampu",4
+COM60014,Pemrograman Dasar,Teknologi Informasi,5,100,Wajib,1,"Pengelola, Pengampu",4
+CIE61205,Pemrograman Web,Pendidikan Teknologi Informasi,3,100,Wajib,1,"Pengelola, Pengampu",4
+COM60016,Pengantar Keilmuan Komputer,Pendidikan Teknologi Informasi,2,100,Pilihan,1,"Pengelola, Pengampu",4
+COM60016,Pengantar Keilmuan Komputer,Sistem Informasi,2,100,Wajib,1,"Pengelola, Pengampu",4
+COM60016,Pengantar Keilmuan Komputer,Teknologi Informasi,2,100,Wajib,1,"Pengelola, Pengampu",4
+CIS61110,Pengembangan Aplikasi Mobile,Sistem Informasi,3,100,Wajib,1,"Pengelola, Pengampu",4
+CIT61006,Pengembangan Aplikasi Web,Teknologi Informasi,4,100,Wajib,1,"Pengelola, Pengampu",4
+CIT60039,Pengembangan Aplikasi Web Lanjut,Teknologi Informasi,3,100,Pilihan,1,"Pengelola, Pengampu",4
+CIS62109,Pengujian dan Evaluasi Sistem Informasi,Sistem Informasi,2,100,Pilihan,1,"Pengelola, Pengampu",4
+CSD60711,Perancangan Pengalaman Pengguna,Teknologi Informasi,3,100,Pilihan,1,"Pengelola, Pengampu",4
+CIS61118,Rekayasa Kebutuhan Sistem Informasi,Sistem Informasi,2,100,Pilihan,1,"Pengelola, Pengampu",4
+CIS61108,Rekayasa Sistem Informasi,Sistem Informasi,5,100,Wajib,1,"Pengelola, Pengampu",4
+CIS61112,Dasar Manajemen Proyek,Sistem Informasi,2,100,Wajib,1,Pengampu,6
+CIS61123,Enterprise Architecture II,Sistem Informasi,3,100,Pilihan,2,Pengampu,6
+CSD60701,Manajemen Layanan Teknologi Informasi,Pendidikan Teknologi Informasi,3,100,Pilihan,1,Pengampu,6
+CIE61404,Manajemen Proyek Teknologi Informasi,Pendidikan Teknologi Informasi,3,100,Pilihan,1,Pengampu,6
+CIT60031,Manajemen Proyek Teknologi Informasi,Teknologi Informasi,3,100,Pilihan,1,"Pengelola, Pengampu",6
+CIS61119,Manajemen Risiko dan Kontrol Sistem Informasi,Sistem Informasi,2,100,Pilihan,1,Pengampu,6
+CIE62204,Paradigma Sistem,Pendidikan Teknologi Informasi,2,100,Pilihan,1,Pengampu,6
+CIS61120,Perbaikan Proses Bisnis,Sistem Informasi,2,100,Pilihan,1,Pengampu,6
+CSD60703,Tata Kelola Teknologi Informasi,Sistem Informasi,3,100,Wajib,1,"Pengelola, Pengampu",6
+CSD60703,Tata Kelola Teknologi Informasi,Teknologi Informasi,3,100,Wajib,1,"Pengelola, Pengampu",6
+CIT60051,Teknologi Smart City,Teknologi Informasi,2,100,Pilihan,2,Pengampu,6
+CSD60710,Sistem Informasi Geografis,Teknologi Informasi,3,100,Pilihan,1,"Koordinator Pengelola, Pengelola, Pengampu",11
+CIS60104,Transformasi Pemerintah,Sistem Informasi,2,100,Pilihan,1,Pengampu,11
+CSD60711,Perancangan Pengalaman Pengguna,Teknologi Informasi,3,100,Pilihan,2,Pengampu,12
+CIS60101,Perkembangan dan Tren Teknologi Digital,Sistem Informasi,2,100,Pilihan,2,Pengampu,12
+CIS60104,Transformasi Pemerintah,Sistem Informasi,2,100,Pilihan,2,Pengampu,12
+CIT60031,Manajemen Proyek Teknologi Informasi,Teknologi Informasi,3,100,Pilihan,1,Pengampu,13
+COM60061,Capstone Project,Teknologi Informasi,3,100,Wajib,1,"Koordinator Pengelola, Pengelola, Pengampu",14
+CIT60045,Kriptografi,Teknologi Informasi,3,100,Pilihan,1,"Koordinator Pengelola, Pengelola, Pengampu",14
+CIT60047,Tata Kelola dan Kebijakan Keamanan Siber,Teknologi Informasi,2,100,Pilihan,1,"Koordinator Pengelola, Pengelola, Pengampu",14
+CIT60042,Teknologi Blockchain dan Platform Keuangan Digital,Teknologi Informasi,2,100,Pilihan,1,"Koordinator Pengelola, Pengelola, Pengampu",14
+CIT61016,Data Sains,Teknologi Informasi,3,100,Wajib,1,Pengampu,15
+UBU60003,Kewirausahaan,Teknologi Informasi,2,100,Wajib,1,Pengampu,15
+CSD60703,Tata Kelola Teknologi Informasi,Teknologi Informasi,3,100,Wajib,1,Pengampu,15
+CIT61021,Data Warehouse,Teknologi Informasi,3,100,Pilihan,1,Pengampu,16
+CIS60103,Pemrograman Web Lanjut,Sistem Informasi,3,100,Pilihan,1,Pengampu,16
+CSD60708,Penambangan Data,Teknologi Informasi,3,100,Pilihan,1,Pengampu,16
+CIT60052,Pengembangan Aplikasi Mobile Terapan,Teknologi Informasi,3,100,Pilihan,1,Pengampu,16
+CIS60102,Pengembangan Aplikasi Multiplatform,Sistem Informasi,2,100,Pilihan,1,"Koordinator Pengelola, Pengelola, Pengampu",16
+CIT60039,Pengembangan Aplikasi Web Lanjut,Teknologi Informasi,3,100,Pilihan,1,"Pengelola, Pengampu",16
+CIT60053,Pengembangan Gim,Teknologi Informasi,3,100,Pilihan,1,Pengampu,16
+CSD60711,Perancangan Pengalaman Pengguna,Teknologi Informasi,3,100,Pilihan,1,"Pengelola, Pengampu",16
+CIS60101,Perkembangan dan Tren Teknologi Digital,Sistem Informasi,2,100,Pilihan,1,Pengampu,16
+CIS60106,Sistem Informasi Berkelanjutan,Sistem Informasi,2,100,Pilihan,1,Pengampu,16
+CIT60049,Teknologi Basis Data Non Relational,Teknologi Informasi,3,100,Pilihan,1,Pengampu,16
+CIT60036,Teknologi Berbasis Cloud,Teknologi Informasi,3,100,Pilihan,1,Pengampu,16
+CIS61102,Infrastruktur Teknologi Informasi,Sistem Informasi,2,100,Wajib,1,Pengampu,17
+CIT61026,Internet of Things,Teknologi Informasi,4,100,Wajib,1,Pengampu,17
+CIE61206,Jaringan Komputer,Pendidikan Teknologi Informasi,3,100,Wajib,1,"Koordinator Pengelola, Pengelola, Pengampu",17
+CIT61015,Jaringan Komputer,Teknologi Informasi,4,100,Wajib,1,Pengampu,17
+CSD60713,Jaringan Terapan,Pendidikan Teknologi Informasi,3,100,Pilihan,1,"Koordinator Pengelola, Pengelola, Pengampu",17
+CIS61106,Keamanan dan Privasi Data,Sistem Informasi,2,100,Wajib,1,Pengampu,17
+CIT60044,Keamanan Data dan Privasi,Teknologi Informasi,3,100,Pilihan,1,Pengampu,17
+CIS61128,Keamanan Jaringan dan Siber,Sistem Informasi,3,100,Pilihan,1,Pengampu,17
+CIT60047,Tata Kelola dan Kebijakan Keamanan Siber,Teknologi Informasi,2,100,Pilihan,1,Pengampu,17
+CIT61024,Teknologi Keamanan Siber,Teknologi Informasi,3,100,Wajib,1,Pengampu,17
+CSD60707,Big Data dan Analitik,Teknologi Informasi,3,100,Pilihan,1,Pengampu,20
+CSD60708,Penambangan Data,Teknologi Informasi,3,100,Pilihan,1,Pengampu,20
+CIT60052,Pengembangan Aplikasi Mobile Terapan,Teknologi Informasi,3,100,Pilihan,1,Pengampu,20
+CIT60036,Teknologi Berbasis Cloud,Teknologi Informasi,3,100,Pilihan,1,Pengampu,20
+CIT60051,Teknologi Smart City,Teknologi Informasi,2,100,Pilihan,1,Pengampu,20
+CIS60101,Perkembangan dan Tren Teknologi Digital,Sistem Informasi,2,100,Pilihan,1,Pengampu,21
+CIS60104,Transformasi Pemerintah,Sistem Informasi,2,100,Pilihan,1,Pengampu,21
+COM60061,Capstone Project,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,22
+COM60061,Capstone Project,Teknologi Informasi,3,100,Wajib,1,Pengampu,22
+CIT60031,Manajemen Proyek Teknologi Informasi,Teknologi Informasi,3,100,Pilihan,1,Pengampu,22
+CIS60103,Pemrograman Web Lanjut,Sistem Informasi,3,100,Pilihan,1,Pengampu,22
+CSD60711,Perancangan Pengalaman Pengguna,Teknologi Informasi,3,100,Pilihan,1,"Koordinator Pengelola, Pengelola, Pengampu",22
+COM60014,Pemrograman Dasar,Sistem Informasi,5,100,Wajib,2,Pengampu,23
+CSD60708,Penambangan Data,Teknologi Informasi,3,100,Pilihan,1,Pengampu,29
+CSD60708,Penambangan Data,Teknologi Informasi,3,100,Pilihan,1,"Pengelola, Pengampu",30
+CIT62003,Dasar Pengembangan Sistem informasi,Teknologi Informasi,3,100,Wajib,1,Pengampu,31
+COM60014,Pemrograman Dasar,Sistem Informasi,5,100,Wajib,1,Pengampu,31
+COM60014,Pemrograman Dasar,Teknologi Informasi,5,100,Wajib,1,Pengampu,31
+CIS60103,Pemrograman Web Lanjut,Sistem Informasi,3,100,Pilihan,1,Pengampu,31
+CIS61110,Pengembangan Aplikasi Mobile,Sistem Informasi,3,100,Wajib,1,Pengampu,31
+CIT61006,Pengembangan Aplikasi Web,Teknologi Informasi,4,100,Wajib,1,Pengampu,31
+CIT60039,Pengembangan Aplikasi Web Lanjut,Teknologi Informasi,3,100,Pilihan,1,Pengampu,31
+CIT61026,Internet of Things,Teknologi Informasi,4,100,Wajib,1,Pengampu,35
+CIT61015,Jaringan Komputer,Teknologi Informasi,4,100,Wajib,1,Pengampu,35
+CIT60044,Keamanan Data dan Privasi,Teknologi Informasi,3,100,Pilihan,1,Pengampu,35
+CIT60033,Sistem Forensik Digital,Teknologi Informasi,3,100,Pilihan,1,Pengampu,35
+CIT60036,Teknologi Berbasis Cloud,Teknologi Informasi,3,100,Pilihan,1,Pengampu,35
+CIT61024,Teknologi Keamanan Siber,Teknologi Informasi,3,100,Wajib,1,Pengampu,35
+CIE61206,Jaringan Komputer,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,39
+CIE61103,Komunikasi dan Teknologi Pendidikan,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,39
+CIE61115,Manajemen Sistem Pendidikan,Pendidikan Teknologi Informasi,3,100,Pilihan,1,"Koordinator Pengelola, Pengelola, Pengampu",39
+CIE61109,Pembelajaran Mikro,Pendidikan Teknologi Informasi,3,100,Wajib,1,"Koordinator Pengelola, Pengelola, Pengampu",39
+CIE61114,Pendidikan Orang Dewasa dan Berkelanjutan,Pendidikan Teknologi Informasi,3,100,Pilihan,1,Pengampu,39
+CIE61111,Pengenalan Lapangan Persekolahan 1,Pendidikan Teknologi Informasi,1,100,Wajib,1,Pengampu,39
+CIE61112,Pengenalan Lapangan Persekolahan 2,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,39
+CIE61110,Perancangan Pembelajaran,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,39
+CIE61101,Perkembangan Peserta Didik,Pendidikan Teknologi Informasi,3,100,Wajib,1,"Koordinator Pengelola, Pengelola, Pengampu",39
+COM60061,Capstone Project,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,40
+CSD60714,Jaminan Kualitas Perangkat Lunak,Teknologi Informasi,3,100,Pilihan,1,Pengampu,40
+CIT60031,Manajemen Proyek Teknologi Informasi,Teknologi Informasi,3,100,Pilihan,1,Pengampu,40
+CIS60101,Perkembangan dan Tren Teknologi Digital,Sistem Informasi,2,100,Pilihan,1,Pengampu,40
+CIT60044,Keamanan Data dan Privasi,Teknologi Informasi,3,100,Pilihan,1,Pengampu,41
+CIT60033,Sistem Forensik Digital,Teknologi Informasi,3,100,Pilihan,1,Pengampu,41
+CSD60711,Perancangan Pengalaman Pengguna,Teknologi Informasi,3,100,Pilihan,1,"Koordinator Pengelola, Pengelola, Pengampu",45
+CIT61015,Jaringan Komputer,Teknologi Informasi,4,100,Wajib,2,"Pengelola, Pengampu",46
+CIT60044,Keamanan Data dan Privasi,Teknologi Informasi,3,100,Pilihan,1,"Pengelola, Pengampu",46
+CIT60047,Tata Kelola dan Kebijakan Keamanan Siber,Teknologi Informasi,2,100,Pilihan,2,Pengampu,46
+CIT60036,Teknologi Berbasis Cloud,Teknologi Informasi,3,100,Pilihan,1,Pengampu,46
+CIT60042,Teknologi Blockchain dan Platform Keuangan Digital,Teknologi Informasi,2,100,Pilihan,1,Pengampu,46
+CIT61024,Teknologi Keamanan Siber,Teknologi Informasi,3,100,Wajib,2,Pengampu,46
+COM60061,Capstone Project,Pendidikan Teknologi Informasi,3,100,Wajib,2,"Pengelola, Pengampu",47
+COM60061,Capstone Project,Teknologi Informasi,3,100,Wajib,1,"Pengelola, Pengampu",47
+CIS61112,Dasar Manajemen Proyek,Sistem Informasi,2,100,Wajib,1,"Pengelola, Pengampu",47
+CIT60048,Information Retrieval,Teknologi Informasi,2,100,Pilihan,2,"Pengelola, Pengampu",47
+UBU60003,Kewirausahaan,Teknologi Informasi,2,100,Wajib,2,"Pengelola, Pengampu",47
+CIS61107,Manajemen Produk,Sistem Informasi,3,100,Wajib,1,"Koordinator Pengelola, Pengelola, Pengampu",47
+CIS61119,Manajemen Risiko dan Kontrol Sistem Informasi,Sistem Informasi,2,100,Pilihan,2,"Pengelola, Pengampu",47
+CIE61402,Paradigma Berpikir Komputasi,Pendidikan Teknologi Informasi,3,100,Pilihan,1,"Koordinator Pengelola, Pengelola, Pengampu",47
+CIE61403,Paradigma Berpikir Sistem dan Desain,Pendidikan Teknologi Informasi,3,100,Pilihan,1,"Koordinator Pengelola, Pengelola, Pengampu",47
+COM60014,Pemrograman Dasar,Pendidikan Teknologi Informasi,5,100,Wajib,1,"Koordinator Pengelola, Pengelola, Pengampu",47
+COM60014,Pemrograman Dasar,Sistem Informasi,5,100,Wajib,1,"Koordinator Pengelola, Pengelola, Pengampu",47
+COM60014,Pemrograman Dasar,Teknologi Informasi,5,100,Wajib,1,"Koordinator Pengelola, Pengelola, Pengampu",47
+CIE61205,Pemrograman Web,Pendidikan Teknologi Informasi,3,100,Wajib,1,"Pengelola, Pengampu",47
+COM60016,Pengantar Keilmuan Komputer,Pendidikan Teknologi Informasi,2,100,Pilihan,1,"Koordinator Pengelola, Pengelola, Pengampu",47
+COM60016,Pengantar Keilmuan Komputer,Sistem Informasi,2,100,Wajib,1,"Koordinator Pengelola, Pengelola, Pengampu",47
+COM60016,Pengantar Keilmuan Komputer,Teknologi Informasi,2,100,Wajib,1,"Koordinator Pengelola, Pengelola, Pengampu",47
+CIS61104,Pengantar Sistem informasi,Sistem Informasi,2,100,Wajib,1,"Koordinator Pengelola, Pengelola, Pengampu",47
+CIS61110,Pengembangan Aplikasi Mobile,Sistem Informasi,3,100,Wajib,1,"Pengelola, Pengampu",47
+CIT60052,Pengembangan Aplikasi Mobile Terapan,Teknologi Informasi,3,100,Pilihan,2,"Pengelola, Pengampu",47
+CIS60102,Pengembangan Aplikasi Multiplatform,Sistem Informasi,2,100,Pilihan,1,"Pengelola, Pengampu",47
+CIE61215,Pengembangan Aplikasi Peranti Bergerak,Pendidikan Teknologi Informasi,3,100,Pilihan,1,"Pengelola, Pengampu",47
+CIT61006,Pengembangan Aplikasi Web,Teknologi Informasi,4,100,Wajib,1,"Pengelola, Pengampu",47
+CIT60039,Pengembangan Aplikasi Web Lanjut,Teknologi Informasi,3,100,Pilihan,1,"Pengelola, Pengampu",47
+CIS61124,Pengembangan Gim,Sistem Informasi,2,100,Pilihan,1,"Pengelola, Pengampu",47
+CIE61113,Pengembangan Program Pelatihan Teknologi Informasi,Pendidikan Teknologi Informasi,3,100,Pilihan,1,"Pengelola, Pengampu",47
+CSD60711,Perancangan Pengalaman Pengguna,Teknologi Informasi,3,100,Pilihan,1,"Koordinator Pengelola, Pengelola, Pengampu",47
+CIS60101,Perkembangan dan Tren Teknologi Digital,Sistem Informasi,2,100,Pilihan,1,"Pengelola, Pengampu",47
+CIS61108,Rekayasa Sistem Informasi,Sistem Informasi,5,100,Wajib,1,"Pengelola, Pengampu",47
+CIT60042,Teknologi Blockchain dan Platform Keuangan Digital,Teknologi Informasi,2,100,Pilihan,1,"Pengelola, Pengampu",47
+CIT60051,Teknologi Smart City,Teknologi Informasi,2,100,Pilihan,1,"Koordinator Pengelola, Pengelola, Pengampu",47
+CIS60104,Transformasi Pemerintah,Sistem Informasi,2,100,Pilihan,2,"Koordinator Pengelola, Pengelola, Pengampu",47
+CSD60707,Big Data dan Analitik,Teknologi Informasi,3,100,Pilihan,1,Pengampu,48
+COM60061,Capstone Project,Pendidikan Teknologi Informasi,3,100,Wajib,2,Pengampu,48
+COM60061,Capstone Project,Teknologi Informasi,3,100,Wajib,1,Pengampu,48
+CIT60031,Manajemen Proyek Teknologi Informasi,Teknologi Informasi,3,100,Pilihan,1,Pengampu,48
+CSD60707,Big Data dan Analitik,Teknologi Informasi,3,100,Pilihan,1,"Pengelola, Pengampu",52
+CIT60048,Information Retrieval,Teknologi Informasi,2,100,Pilihan,1,"Pengelola, Pengampu",52
+CSD60708,Penambangan Data,Teknologi Informasi,3,100,Pilihan,1,Pengampu,52
+CIS60106,Sistem Informasi Berkelanjutan,Sistem Informasi,2,100,Pilihan,1,"Koordinator Pengelola, Pengelola, Pengampu",53
+CIS60105,Strategi Transformasi Digital,Sistem Informasi,2,100,Pilihan,1,"Koordinator Pengelola, Pengelola, Pengampu",53
+CSD60711,Perancangan Pengalaman Pengguna,Teknologi Informasi,3,100,Pilihan,1,"Pengelola, Pengampu",55
+CIT60051,Teknologi Smart City,Teknologi Informasi,2,100,Pilihan,2,Pengampu,58
+CIE61114,Pendidikan Orang Dewasa dan Berkelanjutan,Pendidikan Teknologi Informasi,3,100,Pilihan,2,Pengampu,59
+CIE61111,Pengenalan Lapangan Persekolahan 1,Pendidikan Teknologi Informasi,1,100,Wajib,2,Pengampu,59
+CIE61112,Pengenalan Lapangan Persekolahan 2,Pendidikan Teknologi Informasi,3,100,Wajib,2,Pengampu,59
+CIE61101,Perkembangan Peserta Didik,Pendidikan Teknologi Informasi,3,100,Wajib,2,Pengampu,59
+CIE61208,Basis Data,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,60
+CSD60714,Jaminan Kualitas Perangkat Lunak,Teknologi Informasi,3,100,Pilihan,1,Pengampu,60
+CIS61107,Manajemen Produk,Sistem Informasi,3,100,Wajib,1,"Pengelola, Pengampu",60
+CIE61404,Manajemen Proyek Teknologi Informasi,Pendidikan Teknologi Informasi,3,100,Pilihan,1,Pengampu,60
+CSD60705,Pemrograman SQL,Teknologi Informasi,3,100,Wajib,1,Pengampu,60
+CIS61110,Pengembangan Aplikasi Mobile,Sistem Informasi,3,100,Wajib,1,Pengampu,60
+CIT61006,Pengembangan Aplikasi Web,Teknologi Informasi,4,100,Wajib,1,Pengampu,60
+CSD60711,Perancangan Pengalaman Pengguna,Teknologi Informasi,3,100,Pilihan,1,Pengampu,60
+UBU60003,Kewirausahaan,Pendidikan Teknologi Informasi,2,100,Wajib,2,Pengampu,62
+UBU60003,Kewirausahaan,Teknologi Informasi,2,100,Wajib,2,Pengampu,62
+CIE61404,Manajemen Proyek Teknologi Informasi,Pendidikan Teknologi Informasi,3,100,Pilihan,2,Pengampu,62
+COM60016,Pengantar Keilmuan Komputer,Teknologi Informasi,2,100,Wajib,2,Pengampu,62
+CIT61006,Pengembangan Aplikasi Web,Teknologi Informasi,4,100,Wajib,2,Pengampu,62
+CSD60711,Perancangan Pengalaman Pengguna,Teknologi Informasi,3,100,Pilihan,1,Pengampu,62
+CIT60044,Keamanan Data dan Privasi,Teknologi Informasi,3,100,Pilihan,1,Pengampu,63
+CIT60044,Keamanan Data dan Privasi,Teknologi Informasi,3,100,Pilihan,1,Pengampu,65
+CIS61112,Dasar Manajemen Proyek,Sistem Informasi,2,100,Wajib,1,Pengampu,67
+CIT62003,Dasar Pengembangan Sistem informasi,Teknologi Informasi,3,100,Wajib,1,Pengampu,67
+CSD60714,Jaminan Kualitas Perangkat Lunak,Teknologi Informasi,3,100,Pilihan,1,Pengampu,67
+CIE61404,Manajemen Proyek Teknologi Informasi,Pendidikan Teknologi Informasi,3,100,Pilihan,1,Pengampu,67
+COM60014,Pemrograman Dasar,Pendidikan Teknologi Informasi,5,100,Wajib,1,Pengampu,67
+COM60014,Pemrograman Dasar,Sistem Informasi,5,100,Wajib,1,Pengampu,67
+COM60014,Pemrograman Dasar,Teknologi Informasi,5,100,Wajib,2,Pengampu,67
+CIS61104,Pengantar Sistem informasi,Sistem Informasi,2,100,Wajib,1,Pengampu,67
+CIS62109,Pengujian dan Evaluasi Sistem Informasi,Sistem Informasi,2,100,Pilihan,1,Pengampu,67
+CIS61108,Rekayasa Sistem Informasi,Sistem Informasi,5,100,Wajib,1,Pengampu,67
+CIT60051,Teknologi Smart City,Teknologi Informasi,2,100,Pilihan,1,Pengampu,67
+CIS60102,Pengembangan Aplikasi Multiplatform,Sistem Informasi,2,100,Pilihan,2,Pengampu,70
+CSD60706,Administrasi Basis Data,Sistem Informasi,3,100,Wajib,1,"Koordinator Pengelola, Pengelola, Pengampu",72
+CSD60704,Desain Basis Data,Sistem Informasi,2,100,Wajib,1,"Pengelola, Pengampu",72
+CIT61021,Data Warehouse,Teknologi Informasi,3,100,Pilihan,1,"Pengelola, Pengampu",73
+CSD60706,Administrasi Basis Data,Sistem Informasi,3,100,Wajib,1,Pengampu,75
+CSD60706,Administrasi Basis Data,Teknologi Informasi,3,100,Pilihan,1,Pengampu,75
+CIE61208,Basis Data,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,75
+CSD60704,Desain Basis Data,Sistem Informasi,2,100,Wajib,1,Pengampu,75
+CIE61206,Jaringan Komputer,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,75
+CIT61015,Jaringan Komputer,Teknologi Informasi,4,100,Wajib,1,Pengampu,75
+COM60025,Kalkulus,Teknologi Informasi,2,100,Wajib,2,Pengampu,75
+CIE61301,Kalkulus dan Aljabar Linear,Pendidikan Teknologi Informasi,3,100,Wajib,2,Pengampu,75
+CIS61106,Keamanan dan Privasi Data,Sistem Informasi,2,100,Wajib,1,Pengampu,75
+CIT60044,Keamanan Data dan Privasi,Teknologi Informasi,3,100,Pilihan,1,Pengampu,75
+CIT60045,Kriptografi,Teknologi Informasi,3,100,Pilihan,1,Pengampu,75
+COM60014,Pemrograman Dasar,Pendidikan Teknologi Informasi,5,100,Wajib,1,Pengampu,75
+COM60014,Pemrograman Dasar,Teknologi Informasi,5,100,Wajib,1,Pengampu,75
+CIE61205,Pemrograman Web,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,75
+CIS61110,Pengembangan Aplikasi Mobile,Sistem Informasi,3,100,Wajib,1,Pengampu,75
+CIT61006,Pengembangan Aplikasi Web,Teknologi Informasi,4,100,Wajib,1,Pengampu,75
+CIT60039,Pengembangan Aplikasi Web Lanjut,Teknologi Informasi,3,100,Pilihan,1,Pengampu,75
+CIT60033,Sistem Forensik Digital,Teknologi Informasi,3,100,Pilihan,1,Pengampu,75
+CIT60036,Teknologi Berbasis Cloud,Teknologi Informasi,3,100,Pilihan,1,Pengampu,75
+CIT61024,Teknologi Keamanan Siber,Teknologi Informasi,3,100,Wajib,1,Pengampu,75
+COM60061,Capstone Project,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,76
+COM60061,Capstone Project,Teknologi Informasi,3,100,Wajib,1,Pengampu,76
+CIS61112,Dasar Manajemen Proyek,Sistem Informasi,2,100,Wajib,1,Pengampu,76
+CIS61123,Enterprise Architecture II,Sistem Informasi,3,100,Pilihan,1,Pengampu,76
+CIE61404,Manajemen Proyek Teknologi Informasi,Pendidikan Teknologi Informasi,3,100,Pilihan,1,Pengampu,76
+COM60014,Pemrograman Dasar,Pendidikan Teknologi Informasi,5,100,Wajib,1,Pengampu,76
+COM60014,Pemrograman Dasar,Sistem Informasi,5,100,Wajib,1,Pengampu,76
+COM60014,Pemrograman Dasar,Teknologi Informasi,5,100,Wajib,1,Pengampu,76
+CIS61113,Sistem Enterprise,Sistem Informasi,3,100,Wajib,1,Pengampu,76
+CIE61206,Jaringan Komputer,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,79
+CIT61015,Jaringan Komputer,Teknologi Informasi,4,100,Wajib,1,"Pengelola, Pengampu",79
+CSD60713,Jaringan Terapan,Teknologi Informasi,3,100,Pilihan,1,Pengampu,79
+CSD60707,Big Data dan Analitik,Teknologi Informasi,3,100,Pilihan,1,Pengampu,80
+CIT60048,Information Retrieval,Teknologi Informasi,2,100,Pilihan,1,Pengampu,80
+CSD60708,Penambangan Data,Teknologi Informasi,3,100,Pilihan,1,Pengampu,80
+COM60014,Pemrograman Dasar,Pendidikan Teknologi Informasi,5,100,Wajib,1,Pengampu,82
+COM60014,Pemrograman Dasar,Sistem Informasi,5,100,Wajib,1,Pengampu,82
+COM60014,Pemrograman Dasar,Teknologi Informasi,5,100,Wajib,1,Pengampu,82
+CIE61205,Pemrograman Web,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,82
+CIT61006,Pengembangan Aplikasi Web,Teknologi Informasi,4,100,Wajib,1,Pengampu,82
+COM60016,Pengantar Keilmuan Komputer,Pendidikan Teknologi Informasi,2,100,Pilihan,1,Pengampu,83
+COM60016,Pengantar Keilmuan Komputer,Sistem Informasi,2,100,Wajib,1,Pengampu,83
+COM60016,Pengantar Keilmuan Komputer,Teknologi Informasi,2,100,Wajib,1,Pengampu,83
+CSD60712,Probabilitas dan Statistika,Sistem Informasi,3,100,Wajib,1,Pengampu,83
+CIT60033,Sistem Forensik Digital,Teknologi Informasi,3,100,Pilihan,1,Pengampu,83
+CSD60702,Sistem Pendukung Keputusan,Pendidikan Teknologi Informasi,3,100,Pilihan,1,Pengampu,83
+CIS61112,Dasar Manajemen Proyek,Sistem Informasi,2,100,Wajib,1,Pengampu,87
+CIS61123,Enterprise Architecture II,Sistem Informasi,3,100,Pilihan,1,Pengampu,87
+COM60052,Etika Profesi,Sistem Informasi,2,100,Wajib,1,"Koordinator Pengelola, Pengelola, Pengampu",87
+CIS61115,Komunikasi Profesional,Sistem Informasi,2,100,Wajib,1,Pengampu,87
+CIS61103,Manajemen Bisnis,Sistem Informasi,2,100,Wajib,1,Pengampu,87
+COM60051,Metodologi Penelitian dan Penulisan Ilmiah,Sistem Informasi,3,100,Wajib,1,"Koordinator Pengelola, Pengelola, Pengampu",87
+COM60014,Pemrograman Dasar,Sistem Informasi,5,100,Wajib,1,Pengampu,87
+CIS61125,Pengantar GeoInformasi,Sistem Informasi,3,100,Pilihan,1,"Koordinator Pengelola, Pengelola, Pengampu",87
+CIS60101,Perkembangan dan Tren Teknologi Digital,Sistem Informasi,2,100,Pilihan,1,Pengampu,87
+CSD60712,Probabilitas dan Statistika,Sistem Informasi,3,100,Wajib,1,Pengampu,87
+CIS61111,Sistem Informasi berbasis Kecerdasan Buatan,Sistem Informasi,2,100,Wajib,1,Pengampu,87
+CSD60710,Sistem Informasi Geografis,Sistem Informasi,3,100,Pilihan,1,"Koordinator Pengelola, Pengelola, Pengampu",87
+CSD60703,Tata Kelola Teknologi Informasi,Sistem Informasi,3,100,Wajib,1,Pengampu,87
+CSD60707,Big Data dan Analitik,Teknologi Informasi,3,100,Pilihan,2,Pengampu,89
+CIT61016,Data Sains,Teknologi Informasi,3,100,Wajib,2,Pengampu,89
+CIT60048,Information Retrieval,Teknologi Informasi,2,100,Pilihan,2,Pengampu,89
+CIS61111,Sistem Informasi berbasis Kecerdasan Buatan,Sistem Informasi,2,100,Wajib,2,Pengampu,89
+CIT61026,Internet of Things,Teknologi Informasi,4,100,Wajib,1,"Pengelola, Pengampu",90
+CIT61015,Jaringan Komputer,Teknologi Informasi,4,100,Wajib,1,Pengampu,90
+CSD60713,Jaringan Terapan,Teknologi Informasi,3,100,Pilihan,1,Pengampu,90
+CSD60713,Jaringan Terapan,Pendidikan Teknologi Informasi,3,100,Pilihan,1,Pengampu,90
+COM60016,Pengantar Keilmuan Komputer,Pendidikan Teknologi Informasi,2,100,Pilihan,1,Pengampu,90
+COM60016,Pengantar Keilmuan Komputer,Sistem Informasi,2,100,Wajib,1,Pengampu,90
+COM60016,Pengantar Keilmuan Komputer,Teknologi Informasi,2,100,Wajib,1,Pengampu,90
+CSD60706,Administrasi Basis Data,Sistem Informasi,3,100,Wajib,1,Pengampu,91
+CSD60706,Administrasi Basis Data,Teknologi Informasi,3,100,Pilihan,1,Pengampu,91
+CIE61208,Basis Data,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,91
+CSD60704,Desain Basis Data,Sistem Informasi,2,100,Wajib,1,Pengampu,91
+COM60014,Pemrograman Dasar,Pendidikan Teknologi Informasi,5,100,Wajib,1,Pengampu,91
+COM60014,Pemrograman Dasar,Sistem Informasi,5,100,Wajib,1,Pengampu,91
+COM60014,Pemrograman Dasar,Teknologi Informasi,5,100,Wajib,1,Pengampu,91
+CSD60705,Pemrograman SQL,Teknologi Informasi,3,100,Wajib,1,Pengampu,91
+CSD60708,Penambangan Data,Teknologi Informasi,3,100,Pilihan,1,"Koordinator Pengelola, Pengelola, Pengampu",92
+CSD60707,Big Data dan Analitik,Teknologi Informasi,3,100,Pilihan,1,Pengampu,93
+CIT60048,Information Retrieval,Teknologi Informasi,2,100,Pilihan,1,Pengampu,93
+CSD60708,Penambangan Data,Teknologi Informasi,3,100,Pilihan,1,Pengampu,93
+CIT60031,Manajemen Proyek Teknologi Informasi,Teknologi Informasi,3,100,Pilihan,1,"Koordinator Pengelola, Pengelola, Pengampu",94
+CIS60101,Perkembangan dan Tren Teknologi Digital,Sistem Informasi,2,100,Pilihan,1,"Koordinator Pengelola, Pengelola, Pengampu",94
+CIT60033,Sistem Forensik Digital,Teknologi Informasi,3,100,Pilihan,1,"Pengelola, Pengampu",94
+CIS60106,Sistem Informasi Berkelanjutan,Sistem Informasi,2,100,Pilihan,1,"Pengelola, Pengampu",94
+CIS60105,Strategi Transformasi Digital,Sistem Informasi,2,100,Pilihan,1,"Pengelola, Pengampu",94
+CIT60047,Tata Kelola dan Kebijakan Keamanan Siber,Teknologi Informasi,2,100,Pilihan,1,"Koordinator Pengelola, Pengelola, Pengampu",94
+CIS60104,Transformasi Pemerintah,Sistem Informasi,2,100,Pilihan,1,"Pengelola, Pengampu",94
+COM60052,Etika Profesi,Teknologi Informasi,2,100,Wajib,2,Pengampu,96
+CIT61026,Internet of Things,Teknologi Informasi,4,100,Wajib,2,Pengampu,96
+UBU60003,Kewirausahaan,Teknologi Informasi,2,100,Wajib,2,Pengampu,96
+CIT60048,Information Retrieval,Teknologi Informasi,2,100,Pilihan,2,Pengampu,97
+CSD60708,Penambangan Data,Teknologi Informasi,3,100,Pilihan,2,Pengampu,97
+COM60025,Kalkulus,Teknologi Informasi,2,100,Wajib,1,Pengampu,100
+CIE61301,Kalkulus dan Aljabar Linear,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,100
+COM60015,Matematika Diskret,Sistem Informasi,2,100,Wajib,1,Pengampu,100
+COM60015,Matematika Diskret,Teknologi Informasi,3,100,Wajib,1,Pengampu,100
+COM60015,Matematika Diskrit,Pendidikan Teknologi Informasi,2,100,Wajib,1,Pengampu,100
+COM60051,Metode Penelitian dan Penulisan Ilmiah,Pendidikan Teknologi Informasi,3,100,Wajib,1,"Pengelola, Pengampu",100
+COM60051,Metodologi Penelitian dan Penulisan Ilmiah,Sistem Informasi,3,100,Wajib,1,Pengampu,100
+CIE61109,Pembelajaran Mikro,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,100
+CIE61108,Penilaian Hasil Belajar,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,100
+CIE61110,Perancangan Pembelajaran,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,100
+CSD60712,Probabilitas dan Statistika,Sistem Informasi,3,100,Wajib,1,Pengampu,100
+CSD60706,Administrasi Basis Data,Sistem Informasi,3,100,Wajib,1,"Pengelola, Pengampu",102
+CSD60706,Administrasi Basis Data,Teknologi Informasi,3,100,Pilihan,1,"Pengelola, Pengampu",102
+CIE61208,Basis Data,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,102
+CSD60707,Big Data dan Analitik,Teknologi Informasi,3,100,Pilihan,1,Pengampu,102
+CIS61112,Dasar Manajemen Proyek,Sistem Informasi,2,100,Wajib,1,Pengampu,102
+CIT61021,Data Warehouse,Teknologi Informasi,3,100,Pilihan,1,"Pengelola, Pengampu",102
+CSD60704,Desain Basis Data,Sistem Informasi,2,100,Wajib,1,"Pengelola, Pengampu",102
+CSD60705,Pemrograman SQL,Teknologi Informasi,3,100,Wajib,1,"Pengelola, Pengampu",102
+CSD60708,Penambangan Data,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,102
+CSD60708,Penambangan Data,Teknologi Informasi,3,100,Pilihan,1,Pengampu,102
+COM60016,Pengantar Keilmuan Komputer,Teknologi Informasi,2,100,Wajib,1,Pengampu,102
+CIS61104,Pengantar Sistem informasi,Sistem Informasi,2,100,Wajib,1,Pengampu,102
+CIT60049,Teknologi Basis Data Non Relational,Teknologi Informasi,3,100,Pilihan,1,"Pengelola, Pengampu",102
+COM60011,Arsitektur dan Organisasi Komputer,Teknologi Informasi,2,100,Wajib,2,Pengampu,103
+CIE61102,Filsafat Pendidikan dan Sains,Pendidikan Teknologi Informasi,4,100,Wajib,2,Pengampu,103
+CIS61102,Infrastruktur Teknologi Informasi,Sistem Informasi,2,100,Wajib,2,Pengampu,103
+COM60025,Kalkulus,Teknologi Informasi,2,100,Wajib,2,Pengampu,103
+CIE61301,Kalkulus dan Aljabar Linear,Pendidikan Teknologi Informasi,3,100,Wajib,1,"Koordinator Pengelola, Pengelola, Pengampu",103
+CIE61103,Komunikasi dan Teknologi Pendidikan,Pendidikan Teknologi Informasi,3,100,Wajib,1,"Koordinator Pengelola, Pengelola, Pengampu",103
+COM60015,Matematika Diskret,Sistem Informasi,2,100,Wajib,2,Pengampu,103
+COM60015,Matematika Diskret,Teknologi Informasi,3,100,Wajib,2,"Pengelola, Pengampu",103
+COM60015,Matematika Diskrit,Pendidikan Teknologi Informasi,2,100,Wajib,1,"Koordinator Pengelola, Pengelola, Pengampu",103
+COM60051,Metode Penelitian dan Penulisan Ilmiah,Pendidikan Teknologi Informasi,3,100,Wajib,2,Pengampu,103
+COM60051,Metodologi Penelitian dan Penulisan Ilmiah,Sistem Informasi,3,100,Wajib,2,Pengampu,103
+COM60051,Metodologi Penelitian dan Penulisan Ilmiah,Teknologi Informasi,3,100,Wajib,2,Pengampu,103
+COM60014,Pemrograman Dasar,Pendidikan Teknologi Informasi,5,100,Wajib,2,Pengampu,103
+CIE61205,Pemrograman Web,Pendidikan Teknologi Informasi,3,100,Wajib,1,"Koordinator Pengelola, Pengelola, Pengampu",103
+COM60016,Pengantar Keilmuan Komputer,Pendidikan Teknologi Informasi,2,100,Pilihan,2,Pengampu,103
+COM60016,Pengantar Keilmuan Komputer,Sistem Informasi,2,100,Wajib,2,Pengampu,103
+COM60016,Pengantar Keilmuan Komputer,Teknologi Informasi,2,100,Wajib,2,Pengampu,103
+CIT61006,Pengembangan Aplikasi Web,Teknologi Informasi,4,100,Wajib,2,"Pengelola, Pengampu",103
+CIS61124,Pengembangan Gim,Sistem Informasi,2,100,Pilihan,2,Pengampu,103
+CIE61111,Pengenalan Lapangan Persekolahan 1,Pendidikan Teknologi Informasi,1,100,Wajib,1,"Pengelola, Pengampu",103
+CIE61112,Pengenalan Lapangan Persekolahan 2,Pendidikan Teknologi Informasi,3,100,Wajib,1,"Pengelola, Pengampu",103
+CIT61015,Jaringan Komputer,Teknologi Informasi,4,100,Wajib,1,Pengampu,104
+CIT60036,Teknologi Berbasis Cloud,Teknologi Informasi,3,100,Pilihan,1,Pengampu,104
+CIE61404,Manajemen Proyek Teknologi Informasi,Pendidikan Teknologi Informasi,3,100,Pilihan,2,Pengampu,105
+CIE61205,Pemrograman Web,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,105
+CIT61006,Pengembangan Aplikasi Web,Teknologi Informasi,4,100,Wajib,1,"Pengelola, Pengampu",105
+CIT60051,Teknologi Smart City,Teknologi Informasi,2,100,Pilihan,2,"Koordinator Pengelola, Pengelola, Pengampu",105
+CIT60048,Information Retrieval,Teknologi Informasi,2,100,Pilihan,1,"Pengelola, Pengampu",107
+CSD60708,Penambangan Data,Teknologi Informasi,3,100,Pilihan,1,"Pengelola, Pengampu",107
+CIE61208,Basis Data,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,108
+CIT62003,Dasar Pengembangan Sistem informasi,Teknologi Informasi,3,100,Wajib,1,Pengampu,108
+CSD60704,Desain Basis Data,Sistem Informasi,2,100,Wajib,1,"Pengelola, Pengampu",108
+CIS61106,Keamanan dan Privasi Data,Sistem Informasi,2,100,Wajib,1,Pengampu,108
+CIS61115,Komunikasi Profesional,Sistem Informasi,2,100,Wajib,1,Pengampu,108
+CIS61103,Manajemen Bisnis,Sistem Informasi,2,100,Wajib,1,Pengampu,108
+CSD60701,Manajemen Layanan Teknologi Informasi,Pendidikan Teknologi Informasi,3,100,Pilihan,1,"Pengelola, Pengampu",108
+COM60016,Pengantar Keilmuan Komputer,Pendidikan Teknologi Informasi,2,100,Pilihan,1,Pengampu,108
+COM60016,Pengantar Keilmuan Komputer,Sistem Informasi,2,100,Wajib,1,"Pengelola, Pengampu",108
+COM60016,Pengantar Keilmuan Komputer,Teknologi Informasi,2,100,Wajib,1,Pengampu,108
+CIS61104,Pengantar Sistem informasi,Sistem Informasi,2,100,Wajib,1,"Pengelola, Pengampu",108
+CIS61120,Perbaikan Proses Bisnis,Sistem Informasi,2,100,Pilihan,1,Pengampu,108
+CIS60101,Perkembangan dan Tren Teknologi Digital,Sistem Informasi,2,100,Pilihan,1,"Pengelola, Pengampu",108
+CIS61108,Rekayasa Sistem Informasi,Sistem Informasi,5,100,Wajib,2,Pengampu,108
+CIS61111,Sistem Informasi berbasis Kecerdasan Buatan,Sistem Informasi,2,100,Wajib,2,Pengampu,108
+CIS60106,Sistem Informasi Berkelanjutan,Sistem Informasi,2,100,Pilihan,1,Pengampu,108
+CSD60702,Sistem Pendukung Keputusan,Pendidikan Teknologi Informasi,3,100,Pilihan,1,Pengampu,108
+CIS60105,Strategi Transformasi Digital,Sistem Informasi,2,100,Pilihan,1,Pengampu,108
+CSD60703,Tata Kelola Teknologi Informasi,Sistem Informasi,3,100,Wajib,1,Pengampu,108
+CIS60104,Transformasi Pemerintah,Sistem Informasi,2,100,Pilihan,1,Pengampu,108
+CSD60706,Administrasi Basis Data - Praktikum,Sistem Informasi,3,100,Wajib,1,"Koordinator Pengelola, Pengelola, Pengampu",Asprak_1
+CIT62003,Dasar Pengembangan Sistem informasi - Praktikum,Teknologi Informasi,3,100,Wajib,1,"Pengelola, Pengampu",Asprak_10
+CIT62003,Dasar Pengembangan Sistem informasi - Praktikum,Teknologi Informasi,3,100,Wajib,1,Pengampu,Asprak_11
+CIT62003,Dasar Pengembangan Sistem informasi - Praktikum,Teknologi Informasi,3,100,Wajib,1,Pengampu,Asprak_12
+CIT62003,Dasar Pengembangan Sistem informasi - Praktikum,Teknologi Informasi,3,100,Wajib,1,Pengampu,Asprak_13
+CIS61123,Enterprise Architecture II - Praktikum,Sistem Informasi,3,100,Pilihan,2,Pengampu,Asprak_14
+CIS61123,Enterprise Architecture II - Praktikum,Sistem Informasi,3,100,Pilihan,1,Pengampu,Asprak_15
+CIS61123,Enterprise Architecture II - Praktikum,Sistem Informasi,3,100,Pilihan,1,Pengampu,Asprak_16
+CIT61026,Internet of Things - Praktikum,Teknologi Informasi,4,100,Wajib,1,Pengampu,Asprak_17
+CIT61026,Internet of Things - Praktikum,Teknologi Informasi,4,100,Wajib,1,Pengampu,Asprak_18
+CIT61026,Internet of Things - Praktikum,Teknologi Informasi,4,100,Wajib,1,"Pengelola, Pengampu",Asprak_19
+CSD60706,Administrasi Basis Data - Praktikum,Sistem Informasi,3,100,Wajib,1,Pengampu,Asprak_2
+CIT61026,Internet of Things - Praktikum,Teknologi Informasi,4,100,Wajib,2,Pengampu,Asprak_20
+CIE61206,Jaringan Komputer - Praktikum,Pendidikan Teknologi Informasi,3,100,Wajib,1,"Koordinator Pengelola, Pengelola, Pengampu",Asprak_21
+CIT61015,Jaringan Komputer - Praktikum,Teknologi Informasi,4,100,Wajib,1,Pengampu,Asprak_22
+CIT61015,Jaringan Komputer - Praktikum,Teknologi Informasi,4,100,Wajib,1,Pengampu,Asprak_23
+CIE61206,Jaringan Komputer - Praktikum,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,Asprak_24
+CIT61015,Jaringan Komputer - Praktikum,Teknologi Informasi,4,100,Wajib,2,"Pengelola, Pengampu",Asprak_25
+CIE61206,Jaringan Komputer - Praktikum,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,Asprak_26
+CIT61015,Jaringan Komputer - Praktikum,Teknologi Informasi,4,100,Wajib,1,Pengampu,Asprak_27
+CIE61206,Jaringan Komputer - Praktikum,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,Asprak_28
+CIT61015,Jaringan Komputer - Praktikum,Teknologi Informasi,4,100,Wajib,1,"Pengelola, Pengampu",Asprak_29
+CSD60706,Administrasi Basis Data - Praktikum,Sistem Informasi,3,100,Wajib,1,Pengampu,Asprak_3
+CIT61015,Jaringan Komputer - Praktikum,Teknologi Informasi,4,100,Wajib,1,Pengampu,Asprak_30
+CIT61015,Jaringan Komputer - Praktikum,Teknologi Informasi,4,100,Wajib,1,Pengampu,Asprak_31
+CSD60713,Jaringan Terapan - Praktikum,Teknologi Informasi,3,100,Pilihan,1,Pengampu,Asprak_32
+CSD60713,Jaringan Terapan - Praktikum,Teknologi Informasi,3,100,Pilihan,1,Pengampu,Asprak_33
+CIE61109,Pembelajaran Mikro - Praktikum,Pendidikan Teknologi Informasi,3,100,Wajib,1,"Koordinator Pengelola, Pengelola, Pengampu",Asprak_34
+CIE61109,Pembelajaran Mikro - Praktikum,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,Asprak_35
+COM60014,Pemrograman Dasar - Praktikum,Pendidikan Teknologi Informasi,5,100,Wajib,1,"Pengelola, Pengampu",Asprak_36
+COM60014,Pemrograman Dasar - Praktikum,Sistem Informasi,5,100,Wajib,1,"Pengelola, Pengampu",Asprak_37
+COM60014,Pemrograman Dasar - Praktikum,Teknologi Informasi,5,100,Wajib,1,"Pengelola, Pengampu",Asprak_38
+COM60014,Pemrograman Dasar - Praktikum,Sistem Informasi,5,100,Wajib,2,Pengampu,Asprak_39
+CSD60706,Administrasi Basis Data - Praktikum,Sistem Informasi,3,100,Wajib,1,"Pengelola, Pengampu",Asprak_4
+COM60014,Pemrograman Dasar - Praktikum,Sistem Informasi,5,100,Wajib,1,Pengampu,Asprak_40
+COM60014,Pemrograman Dasar - Praktikum,Teknologi Informasi,5,100,Wajib,1,Pengampu,Asprak_41
+COM60014,Pemrograman Dasar - Praktikum,Pendidikan Teknologi Informasi,5,100,Wajib,1,"Koordinator Pengelola, Pengelola, Pengampu",Asprak_42
+COM60014,Pemrograman Dasar - Praktikum,Sistem Informasi,5,100,Wajib,1,"Koordinator Pengelola, Pengelola, Pengampu",Asprak_43
+COM60014,Pemrograman Dasar - Praktikum,Teknologi Informasi,5,100,Wajib,1,"Koordinator Pengelola, Pengelola, Pengampu",Asprak_44
+COM60014,Pemrograman Dasar - Praktikum,Pendidikan Teknologi Informasi,5,100,Wajib,1,Pengampu,Asprak_45
+COM60014,Pemrograman Dasar - Praktikum,Sistem Informasi,5,100,Wajib,1,Pengampu,Asprak_46
+COM60014,Pemrograman Dasar - Praktikum,Teknologi Informasi,5,100,Wajib,2,Pengampu,Asprak_47
+COM60014,Pemrograman Dasar - Praktikum,Pendidikan Teknologi Informasi,5,100,Wajib,1,Pengampu,Asprak_48
+COM60014,Pemrograman Dasar - Praktikum,Teknologi Informasi,5,100,Wajib,1,Pengampu,Asprak_49
+CIE61208,Basis Data - Praktikum,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,Asprak_5
+COM60014,Pemrograman Dasar - Praktikum,Pendidikan Teknologi Informasi,5,100,Wajib,1,Pengampu,Asprak_50
+COM60014,Pemrograman Dasar - Praktikum,Sistem Informasi,5,100,Wajib,1,Pengampu,Asprak_51
+COM60014,Pemrograman Dasar - Praktikum,Teknologi Informasi,5,100,Wajib,1,Pengampu,Asprak_52
+COM60014,Pemrograman Dasar - Praktikum,Pendidikan Teknologi Informasi,5,100,Wajib,1,Pengampu,Asprak_53
+COM60014,Pemrograman Dasar - Praktikum,Sistem Informasi,5,100,Wajib,1,Pengampu,Asprak_54
+COM60014,Pemrograman Dasar - Praktikum,Teknologi Informasi,5,100,Wajib,1,Pengampu,Asprak_55
+COM60014,Pemrograman Dasar - Praktikum,Sistem Informasi,5,100,Wajib,1,Pengampu,Asprak_56
+COM60014,Pemrograman Dasar - Praktikum,Pendidikan Teknologi Informasi,5,100,Wajib,1,Pengampu,Asprak_57
+COM60014,Pemrograman Dasar - Praktikum,Sistem Informasi,5,100,Wajib,1,Pengampu,Asprak_58
+COM60014,Pemrograman Dasar - Praktikum,Teknologi Informasi,5,100,Wajib,1,Pengampu,Asprak_59
+CIE61208,Basis Data - Praktikum,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,Asprak_6
+COM60014,Pemrograman Dasar - Praktikum,Pendidikan Teknologi Informasi,5,100,Wajib,2,Pengampu,Asprak_60
+CSD60705,Pemrograman SQL - Praktikum,Teknologi Informasi,3,100,Wajib,1,Pengampu,Asprak_61
+CSD60705,Pemrograman SQL - Praktikum,Teknologi Informasi,3,100,Wajib,1,Pengampu,Asprak_62
+CSD60705,Pemrograman SQL - Praktikum,Teknologi Informasi,3,100,Wajib,1,"Pengelola, Pengampu",Asprak_63
+CIE61205,Pemrograman Web - Praktikum,Pendidikan Teknologi Informasi,3,100,Wajib,1,"Pengelola, Pengampu",Asprak_64
+CIE61205,Pemrograman Web - Praktikum,Pendidikan Teknologi Informasi,3,100,Wajib,1,"Pengelola, Pengampu",Asprak_65
+CIE61205,Pemrograman Web - Praktikum,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,Asprak_66
+CIE61205,Pemrograman Web - Praktikum,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,Asprak_67
+CIE61205,Pemrograman Web - Praktikum,Pendidikan Teknologi Informasi,3,100,Wajib,1,"Koordinator Pengelola, Pengelola, Pengampu",Asprak_68
+CIE61205,Pemrograman Web - Praktikum,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,Asprak_69
+CIE61208,Basis Data - Praktikum,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,Asprak_7
+CIT61006,Pengembangan Aplikasi Web - Praktikum,Teknologi Informasi,4,100,Wajib,1,"Pengelola, Pengampu",Asprak_70
+CIT61006,Pengembangan Aplikasi Web - Praktikum,Teknologi Informasi,4,100,Wajib,1,Pengampu,Asprak_71
+CIT61006,Pengembangan Aplikasi Web - Praktikum,Teknologi Informasi,4,100,Wajib,1,"Pengelola, Pengampu",Asprak_72
+CIT61006,Pengembangan Aplikasi Web - Praktikum,Teknologi Informasi,4,100,Wajib,1,Pengampu,Asprak_73
+CIT61006,Pengembangan Aplikasi Web - Praktikum,Teknologi Informasi,4,100,Wajib,2,Pengampu,Asprak_74
+CIT61006,Pengembangan Aplikasi Web - Praktikum,Teknologi Informasi,4,100,Wajib,1,Pengampu,Asprak_75
+CIT61006,Pengembangan Aplikasi Web - Praktikum,Teknologi Informasi,4,100,Wajib,1,Pengampu,Asprak_76
+CIT61006,Pengembangan Aplikasi Web - Praktikum,Teknologi Informasi,4,100,Wajib,2,"Pengelola, Pengampu",Asprak_77
+CIT61006,Pengembangan Aplikasi Web - Praktikum,Teknologi Informasi,4,100,Wajib,1,"Pengelola, Pengampu",Asprak_78
+CIS61108,Rekayasa Sistem Informasi - Praktikum,Sistem Informasi,5,100,Wajib,1,"Pengelola, Pengampu",Asprak_79
+CIE61208,Basis Data - Praktikum,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,Asprak_8
+CIS61108,Rekayasa Sistem Informasi - Praktikum,Sistem Informasi,5,100,Wajib,1,"Pengelola, Pengampu",Asprak_80
+CIS61108,Rekayasa Sistem Informasi - Praktikum,Sistem Informasi,5,100,Wajib,1,Pengampu,Asprak_81
+CIS61108,Rekayasa Sistem Informasi - Praktikum,Sistem Informasi,5,100,Wajib,2,Pengampu,Asprak_82
+CSD60710,Sistem Informasi Geografis - Praktikum,Teknologi Informasi,3,100,Pilihan,1,"Koordinator Pengelola, Pengelola, Pengampu",Asprak_83
+CSD60710,Sistem Informasi Geografis - Praktikum,Sistem Informasi,3,100,Pilihan,1,"Koordinator Pengelola, Pengelola, Pengampu",Asprak_84
+CSD60702,Sistem Pendukung Keputusan - Praktikum,Pendidikan Teknologi Informasi,3,100,Pilihan,1,Pengampu,Asprak_85
+CSD60702,Sistem Pendukung Keputusan - Praktikum,Pendidikan Teknologi Informasi,3,100,Pilihan,1,Pengampu,Asprak_86
+CIT61024,Teknologi Keamanan Siber - Praktikum,Teknologi Informasi,3,100,Wajib,1,Pengampu,Asprak_87
+CIT61024,Teknologi Keamanan Siber - Praktikum,Teknologi Informasi,3,100,Wajib,1,Pengampu,Asprak_88
+CIT61024,Teknologi Keamanan Siber - Praktikum,Teknologi Informasi,3,100,Wajib,2,Pengampu,Asprak_89
+CIE61208,Basis Data - Praktikum,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,Asprak_9
+CIT61024,Teknologi Keamanan Siber - Praktikum,Teknologi Informasi,3,100,Wajib,1,Pengampu,Asprak_90
+COM60051,Metode Penelitian dan Penulisan Ilmiah,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,TBA_11
+CIE61114,Pendidikan Orang Dewasa dan Berkelanjutan,Pendidikan Teknologi Informasi,3,100,Pilihan,1,Pengampu,TBA_19
+CIE61113,Pengembangan Program Pelatihan Teknologi Informasi,Pendidikan Teknologi Informasi,3,100,Pilihan,1,"Koordinator Pengelola, Pengelola, Pengampu",TBA_23
+CIE61111,Pengenalan Lapangan Persekolahan 1,Pendidikan Teknologi Informasi,1,100,Wajib,1,Pengampu,TBA_24
+CIE61112,Pengenalan Lapangan Persekolahan 2,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,TBA_25
+CIE61110,Perancangan Pembelajaran,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,TBA_27
+CIE61101,Perkembangan Peserta Didik,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,TBA_28
+CIS60101,Perkembangan dan Tren Teknologi Digital,Sistem Informasi,2,100,Pilihan,1,Pengampu,TBA_42
+CIS60106,Sistem Informasi Berkelanjutan,Sistem Informasi,2,100,Pilihan,1,Pengampu,TBA_43
+CIS60105,Strategi Transformasi Digital,Sistem Informasi,2,100,Pilihan,1,Pengampu,TBA_44
+CIS60104,Transformasi Pemerintah,Sistem Informasi,2,100,Pilihan,1,Pengampu,TBA_46
+CSD60706,Administrasi Basis Data,Teknologi Informasi,3,100,Pilihan,1,Pengampu,TBA_47
+CSD60707,Big Data dan Analitik,Teknologi Informasi,3,100,Pilihan,1,Pengampu,TBA_48
+CIT61021,Data Warehouse,Teknologi Informasi,3,100,Pilihan,1,Pengampu,TBA_49
+COM60061,Capstone Project,Pendidikan Teknologi Informasi,3,100,Wajib,1,Pengampu,TBA_5
+CIT60047,Tata Kelola dan Kebijakan Keamanan Siber,Teknologi Informasi,2,100,Pilihan,1,Pengampu,TBA_53
+CIT60049,Teknologi Basis Data Non Relational,Teknologi Informasi,3,100,Pilihan,1,Pengampu,TBA_54
+CIE61102,Filsafat Pendidikan dan Sains,Pendidikan Teknologi Informasi,4,100,Wajib,1,Pengampu,TBA_7
